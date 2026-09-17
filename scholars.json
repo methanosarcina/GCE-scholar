@@ -1,0 +1,776 @@
+[
+  {
+    "verified": false,
+    "name": "Abhishek Chatterjee",
+    "id": "abhishek-chatterjee",
+    "query": "AUTHORID:\"0000-0002-6231-5302\"",
+    "orcid": "0000-0002-6231-5302",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42735030",
+        "name": "Abhishek Chatterjee",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Chemistry, Boston College, Chestnut Hill, Massachusetts02467, United States."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/42715419",
+        "name": "Abhishek Chatterjee",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Chemistry, Boston College, Chestnut Hill, Massachusetts02467, United States."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Ahmed Badran",
+    "id": "ahmed-badran",
+    "query": "AUTHORID:\"0000-0002-8105-1883\"",
+    "orcid": "0000-0002-8105-1883",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42483832",
+        "name": "Ahmed H Badran",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Chemistry, The Scripps Research Institute, La Jolla, CA 92037, United States."
+            },
+            {
+              "affiliation": "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA 92037, United States."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/39375453",
+        "name": "Ahmed H Badran",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Chemistry, The Scripps Research Institute, La Jolla, CA, USA. ahbadran@scripps.edu."
+            },
+            {
+              "affiliation": "Department of Integrative Structural and Computational Biology, The Scripps Research Institute, La Jolla, CA, USA. ahbadran@scripps.edu."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Bryan Dickinson",
+    "id": "bryan-dickinson",
+    "query": "AUTHORID:\"0000-0002-9616-1911\"",
+    "orcid": "0000-0002-9616-1911",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42706325",
+        "name": "Bryan C Dickinson",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Chemistry, University of Chicago, Chicago, IL, USA. dickinson@uchicago.edu."
+            },
+            {
+              "affiliation": "Biohub, Chicago, IL, USA. dickinson@uchicago.edu."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/42578282",
+        "name": "Bryan C Dickinson",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Chemistry (T.W., B.A.M., L.Z., B.C.D.), University of Chicago, IL."
+            },
+            {
+              "affiliation": "Biohub, Chicago, IL (B.C.D.)."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Chang Liu",
+    "id": "chang-liu",
+    "query": "AUTHORID:\"0000-0002-3290-2880\"",
+    "orcid": "0000-0002-3290-2880",
+    "institution": "University of California, Irvine",
+    "identityEvidence": [
+      "https://pubmed.ncbi.nlm.nih.gov/32198494/"
+    ],
+    "identityStatus": "用户确认机构；ORCID 与公开作者资料对应"
+  },
+  {
+    "verified": false,
+    "name": "Gerard Roelfes",
+    "id": "gerard-roelfes",
+    "query": "AUTHORID:\"0000-0002-0364-9564\"",
+    "orcid": "0000-0002-0364-9564",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42047317",
+        "name": "Gerard Roelfes",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Stratingh Institute for Chemistry, University of Groningen, Groningen, Netherlands."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/40511895",
+        "name": "Gerard Roelfes",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Biomolecular Chemistry & Catalysis, Stratingh Institute for Chemistry, University of Groningen, Nijenborgh 3, 9747 AG, Groningen, The Netherlands."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Haifeng Ye",
+    "id": "haifeng-ye",
+    "query": "AUTHORID:\"0000-0002-5482-8116\"",
+    "orcid": "0000-0002-5482-8116",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42587154",
+        "name": "Haifeng Ye",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Shanghai Key Laboratory of Regulatory Biology, Biomedical Synthetic Biology Research Center, Institute of Biomedical Sciences and School of Life Sciences, Shanghai Academy of Natural Sciences (SANS), East China Normal University, Shanghai, China. hfye@bio.ecnu.edu.cn."
+            },
+            {
+              "affiliation": "Shanghai SynBioEra Biotechnology, Shanghai, China. hfye@bio.ecnu.edu.cn."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/42230999",
+        "name": "Haifeng Ye",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Shanghai Frontiers Science Center of Genome Editing and Cell Therapy, Synthetic Biology and Biomedical Engineering Laboratory, Biomedical Synthetic Biology Research Center, Shanghai Key Laboratory of Regulatory Biology, Institute of Biomedical Sciences and School of Life Sciences, East China Normal University, Dongchuan Road 500, Shanghai, China. hfye@bio.ecnu.edu.cn."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Haiyan Liu",
+    "id": "haiyan-liu",
+    "query": "AUTHORID:\"0000-0002-5926-820X\"",
+    "orcid": "0000-0002-5926-820X",
+    "institution": "University of Science and Technology of China",
+    "identityEvidence": [
+      "https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1646"
+    ],
+    "identityStatus": "用户确认机构；ORCID 与公开作者资料对应"
+  },
+  {
+    "verified": false,
+    "name": "Jason Chin",
+    "id": "jason-chin",
+    "query": "AUTHORID:\"0000-0003-1219-4757\"",
+    "orcid": "0000-0003-1219-4757",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/39572732",
+        "name": "Jason W Chin",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Medical Research Council Laboratory of Molecular Biology, Cambridge, England, UK. chin@mrc-lmb.cam.ac.uk."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/41735550",
+        "name": "Jason W Chin",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Medical Research Council Laboratory of Molecular Biology, Cambridge, UK. chin@mrc-lmb.cam.ac.uk."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Jay Keasling",
+    "id": "jay-keasling",
+    "query": "AUTHORID:\"0000-0003-4170-6088\"",
+    "orcid": "0000-0003-4170-6088",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42613447",
+        "name": "Jay D Keasling",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Joint BioEnergy Institute, Lawrence Berkeley National Laboratory, Emeryville, CA, USA. keasling@berkeley.edu."
+            },
+            {
+              "affiliation": "Department of Chemical and Biomolecular Engineering, University of California, Berkeley, Berkeley, CA, USA. keasling@berkeley.edu."
+            },
+            {
+              "affiliation": "Biological Systems and Engineering Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA. keasling@berkeley.edu."
+            },
+            {
+              "affiliation": "Department of Bioengineering, University of California, Berkeley, Berkeley, CA, USA. keasling@berkeley.edu."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/42547814",
+        "name": "Jay D Keasling",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "QB3 Institute, University of California, Berkeley, Berkeley, CA, USA. keasling@berkeley.edu."
+            },
+            {
+              "affiliation": "Department of Chemical and Biomolecular Engineering, University of California, Berkeley, Berkeley, CA, USA. keasling@berkeley.edu."
+            },
+            {
+              "affiliation": "Joint BioEnergy Institute, Emeryville, CA, USA. keasling@berkeley.edu."
+            },
+            {
+              "affiliation": "Biological Systems and Engineering Division, Lawrence Berkeley National Laboratory, Berkeley, CA, USA. keasling@berkeley.edu."
+            },
+            {
+              "affiliation": "Novo Nordisk Foundation Center for Biosustainability, Technical University of Denmark, Lyngby, Denmark. keasling@berkeley.edu."
+            },
+            {
+              "affiliation": "Department of Bioengineering, University of California, Berkeley, Berkeley, CA, USA. keasling@berkeley.edu."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Jiangyun Wang",
+    "id": "jiangyun-wang",
+    "query": "AUTHORID:\"0000-0002-5974-1562\"",
+    "orcid": "0000-0002-5974-1562",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/40360473",
+        "name": "Jiangyun Wang",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Key Laboratory of Biomacromolecules (CAS), CAS Center for Excellence in Biomacromolecules, Institute of Biophysics, Chinese Academy of Sciences, Beijing, China. jwang@ibp.ac.cn."
+            },
+            {
+              "affiliation": "School of Life Sciences, University of Chinese Academy of Sciences, Beijing, China. jwang@ibp.ac.cn."
+            },
+            {
+              "affiliation": "iHuman Institute, ShanghaiTech University, Shanghai, China. jwang@ibp.ac.cn."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/38744983",
+        "name": "Jiangyun Wang",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "iHuman Institute, ShanghaiTech University, Shanghai, China. jwang@ibp.ac.cn."
+            },
+            {
+              "affiliation": "Institute of Biophysics, Chinese Academy of Sciences, Beijing, China. jwang@ibp.ac.cn."
+            },
+            {
+              "affiliation": "School of Life Sciences, University of Chinese Academy of Sciences, Beijing, China. jwang@ibp.ac.cn."
+            },
+            {
+              "affiliation": "Key Laboratory of Biomacromolecules, Chinese Academy of Sciences, Beijing, China. jwang@ibp.ac.cn."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Junbiao Dai",
+    "id": "junbiao-dai",
+    "query": "AUTHORID:\"0000-0002-5299-4700\"",
+    "orcid": "0000-0002-5299-4700",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42618804",
+        "name": "Junbiao Dai",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Shenzhen Key Laboratory of Synthetic Genomics, Guangdong Provincial Key Laboratory of Synthetic Genomics, State Key Laboratory of Quantitative Synthetic Biology, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China. daijunbiao@caas.cn."
+            },
+            {
+              "affiliation": "Shenzhen Branch, Guangdong Laboratory for Lingnan Modern Agriculture, Key Laboratory of Synthetic Biology, Ministry of Agriculture and Rural Affairs, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China. daijunbiao@caas.cn."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/40335686",
+        "name": "Junbiao Dai",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Shenzhen Key Laboratory of Synthetic Genomics, Guangdong Provincial Key Laboratory of Synthetic Genomics, Shenzhen Institute of Synthetic Biology, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, Shenzhen, China. daijunbiao@caas.cn."
+            },
+            {
+              "affiliation": "Shenzhen Branch, Guangdong Laboratory for Lingnan Modern Agriculture, Shenzhen Key Laboratory of Agricultural Synthetic Biology, Genome Analysis Laboratory of the Ministry of Agriculture and Rural Affairs, Agricultural Genomics Institute at Shenzhen, Chinese Academy of Agricultural Sciences, Shenzhen, China. daijunbiao@caas.cn."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Kathrin Lang",
+    "id": "kathrin-lang",
+    "query": "AUTHORID:\"0000-0002-1318-6567\"",
+    "orcid": "0000-0002-1318-6567",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42682006",
+        "name": "Kathrin Lang",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Laboratory for Organic Chemistry (LOC), Department of Chemistry and Applied Biosciences (D-CHAB), ETH Zurich, 8093Zurich, Switzerland."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/41196952",
+        "name": "Kathrin Lang",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Laboratory for Organic Chemistry (LOC), Department of Chemistry and Applied Biosciences (D-CHAB), ETH Zurich, Zurich, Switzerland."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Nanxi Wang",
+    "id": "nanxi-wang",
+    "query": "AUTHORID:\"0000-0003-2807-1487\"",
+    "orcid": "0000-0003-2807-1487",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/41588581",
+        "name": "Nanxi Wang",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Synthetic Biology Center for Chinese Medicine, School of Pharmacy, Nanjing University of Chinese Medicine, Nanjing 210023, China."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/39779673",
+        "name": "Nanxi Wang",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Pharmacy, Nanjing University of Chinese Medicine, Xianlindadao No. 138, Nanjing, Jiangsu, China. nanxi.wang@njucm.edu.cn."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Nediljko Budisa",
+    "id": "nediljko-budisa",
+    "query": "AUTHORID:\"0000-0001-8437-7304\"",
+    "orcid": "0000-0001-8437-7304",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42630956",
+        "name": "Nediljko Budisa",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Chemical Synthetic Biology Group, Department of Chemistry, University of Manitoba Winnipeg MB R3T 2N2 Canada nediljko.budisa@umanitoba.ca."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/41984518",
+        "name": "Nediljko Budisa",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Biocatalysis Group, Institute of Chemistry, Technische Universität Berlin, Berlin, Germany."
+            },
+            {
+              "affiliation": "Chemical Synthetic Biology Group, Department of Chemistry, University of Manitoba, Winnipeg, Manitoba, Canada."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Peilong Lu",
+    "id": "peilong-lu",
+    "query": "AUTHORID:\"0000-0001-5894-9268\"",
+    "orcid": "0000-0001-5894-9268",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/41915862",
+        "name": "Peilong Lu",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, Zhejiang, China."
+            },
+            {
+              "affiliation": "Key Laboratory of Structural Biology of Zhejiang Province, School of Life Sciences, Westlake University, Hangzhou, Zhejiang, China."
+            },
+            {
+              "affiliation": "Institute of Biology, Westlake Institute for Advanced Study, Hangzhou, Zhejiang, China."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/41810986",
+        "name": "Peilong Lu",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "School of Life Sciences, Westlake University, Hangzhou 310030, P. R. China."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Peng Chen",
+    "id": "peng-chen",
+    "query": "AUTHORID:\"0000-0002-0402-7417\"",
+    "orcid": "0000-0002-0402-7417",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42686833",
+        "name": "Peng R Chen",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Synthetic and Functional Biomolecules Center, Key Laboratory of Bioorganic Chemistry and Molecular Engineering of Ministry of Education, Beijing National Laboratory for Molecular Sciences, College of Chemistry and Molecular Engineering, Peking University, Beijing, China. pengchen@pku.edu.cn."
+            },
+            {
+              "affiliation": "New Cornerstone Science Laboratory, Peking University, Beijing, China. pengchen@pku.edu.cn."
+            },
+            {
+              "affiliation": "Peking-Tsinghua Center for Life Sciences, Peking University, Beijing, China. pengchen@pku.edu.cn."
+            },
+            {
+              "affiliation": "Institute of Chemical Biology, Shenzhen Bay Laboratory, Shenzhen, China. pengchen@pku.edu.cn."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Ryan Mehl",
+    "id": "ryan-mehl",
+    "query": "AUTHORID:\"0000-0003-2932-4941\"",
+    "orcid": "0000-0003-2932-4941",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/41684198",
+        "name": "Ryan A Mehl",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Biochemistry and Biophysics, 2011 Agricultural and Life Sciences, Oregon State University, Corvallis, Oregon 97331, United States."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/40610371",
+        "name": "Ryan A Mehl",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Biochemistry and Biophysics and GCE4All Research Center, Oregon State University, Corvallis, Oregon, 97331, USA."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Shixian Lin",
+    "id": "shixian-lin",
+    "query": "AUTHORID:\"0000-0001-9718-9986\"",
+    "orcid": "0000-0001-9718-9986",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42332202",
+        "name": "Shixian Lin",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Radiation Oncology and the State Key Laboratory of Transvascular Implantation Devices, The Second Affiliated Hospital of Zhejiang University School of Medicine, Life Sciences Institute, Zhejiang University, Hangzhou, China."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/42270867",
+        "name": "Shixian Lin",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "MOE Laboratory of Biosystems Homeostasis & Protection and Innovation Center for Cell Signaling Network, Life Sciences Institute, Zhejiang University, Hangzhou, China."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Tao Liu",
+    "id": "tao-liu",
+    "query": "AUTHORID:\"0000-0001-5347-5892\"",
+    "orcid": "0000-0001-5347-5892",
+    "institution": "Peking University",
+    "identityEvidence": [
+      "https://orcid.org/0000-0001-5347-5892"
+    ],
+    "identityStatus": "用户确认机构；ORCID 与公开作者资料对应"
+  },
+  {
+    "verified": false,
+    "name": "Thomas Huber",
+    "id": "thomas-huber",
+    "query": "AUTHORID:\"0000-0002-3680-8699\"",
+    "orcid": "0000-0002-3680-8699",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42503665",
+        "name": "Thomas Huber",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Research School of Chemistry, The Australian National University, Canberra, Australian Capital Territory2601, Australia."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/42438946",
+        "name": "Thomas Huber",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Research School of Chemistry, Australian National University, Canberra, ACT, Australia."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "William DeGrado",
+    "id": "william-degrado",
+    "query": "AUTHORID:\"0000-0003-4745-263X\"",
+    "orcid": "0000-0003-4745-263X",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42714552",
+        "name": "William F DeGrado",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Pharmaceutical Chemistry and the Cardiovascular Research Institute, University of California, San Francisco, California94158-9001, United States."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/42372157",
+        "name": "William F DeGrado",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Department of Pharmaceutical Chemistry, Cardiovascular Research Institute, University of California San Francisco, San Francisco, CA 94158."
+            },
+            {
+              "affiliation": "Institute of Multidisciplinary Research for Advanced Materials, Tohoku University, Sendai, Miyagi 980-8577, Japan."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Xiao Xie",
+    "id": "xiao-xie",
+    "query": "AUTHORID:\"0009-0006-6342-2771\"",
+    "orcid": "0009-0006-6342-2771",
+    "institution": "Tsinghua University",
+    "identityEvidence": [
+      "https://www.chem.tsinghua.edu.cn/info/1097/3748.htm"
+    ],
+    "identityStatus": "用户确认机构；ORCID 与公开作者资料对应"
+  },
+  {
+    "verified": false,
+    "name": "Xiaozhou Luo",
+    "id": "xiaozhou-luo",
+    "query": "AUTH:\"Xiaozhou Luo\"",
+    "orcid": ""
+  },
+  {
+    "verified": false,
+    "name": "Yun Ge",
+    "id": "yun-ge",
+    "query": "AUTHORID:\"0000-0001-6769-5458\"",
+    "orcid": "0000-0001-6769-5458",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/42530374",
+        "name": "Yun Ge",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "State Key Laboratory of Chemical Oncogenomics, School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen 518055, China."
+            },
+            {
+              "affiliation": "Institute of Chemical Biology, Shenzhen Bay Laboratory, Shenzhen 518132, China."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/42133749",
+        "name": "Yun Ge",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Institute of Chemical Biology, Shenzhen Bay Laboratory, Shenzhen 518132, China."
+            },
+            {
+              "affiliation": "Shenzhen Medical Academy of Research and Translation, Shenzhen 518107, China."
+            },
+            {
+              "affiliation": "State Key Laboratory of Chemical Oncogenomics, School of Chemical Biology and Biotechnology, Peking University Shenzhen Graduate School, Shenzhen 518055, China."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  },
+  {
+    "verified": false,
+    "name": "Yuzhou Wu",
+    "id": "yuzhou-wu",
+    "query": "AUTHORID:\"0000-0003-3229-4982\"",
+    "orcid": "0000-0003-3229-4982",
+    "identityEvidence": [
+      {
+        "paper": "https://europepmc.org/article/MED/41906771",
+        "name": "Yuzhou Wu",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Hubei Key Laboratory of Bioinorganic Chemistry and Materia Medica, Hubei Engineering Research Center for Biomaterials and Medical Protective Materials, School of Chemistry and Chemical Engineering, Huazhong University of Science and Technology, Wuhan 430074, China."
+            }
+          ]
+        }
+      },
+      {
+        "paper": "https://europepmc.org/article/MED/41605922",
+        "name": "Yuzhou Wu",
+        "affiliations": {
+          "authorAffiliation": [
+            {
+              "affiliation": "Hubei Key Laboratory of Bioinorganic Chemistry & Materia Medica, Hubei Engineering Research Center for Biomaterials and Medical Protective Materials, State Key Laboratory of Materials Processing and Die & Mould Technology, School of Chemistry and Chemical Engineering, Huazhong University of Science and Technology (HUST), 1037 Luoyu Road, Wuhan, China. wuyuzhou@hust.edu.cn."
+            }
+          ]
+        }
+      }
+    ],
+    "identityStatus": "根据论文作者机构匹配，待用户确认"
+  }
+]
