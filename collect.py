@@ -26,7 +26,19 @@ def fetch(url):
             time.sleep(2 ** attempt)
 
 def plain(value):
-    return html.unescape(re.sub('<[^>]+>', ' ', value or '')).strip()
+    value = html.unescape(value or '')
+    value = re.sub(r'</?(?:sub|sup|i|b|em|strong)\b[^>]*>', '', value, flags=re.I)
+    return re.sub('<[^>]+>', ' ', value).strip()
+
+def orcid_query(orcid):
+    if not re.fullmatch(r'\d{4}-\d{4}-\d{4}-\d{3}[\dX]', orcid or ''):
+        raise ValueError('A fixed ORCID is required')
+    return 'AUTHORID:"' + orcid + '"'
+
+def matches_orcid(paper, orcid):
+    return any(a.get('authorId', {}).get('type') == 'ORCID'
+               and a['authorId'].get('value') == orcid
+               for a in paper.get('authorDetails', []))
 
 def normalize(p):
     return dict(id=p['source'] + ':' + p['id'], title=plain(p.get('title')), year=p.get('pubYear', ''),
@@ -81,6 +93,8 @@ def main():
     parser.add_argument('--figures', type=int, default=4, help='Maximum OA articles to inspect per scholar')
     args = parser.parse_args()
     scholars = json.loads((ROOT / 'scholars.json').read_text(encoding='utf-8'))
+    for scholar in scholars:
+        scholar['query'] = orcid_query(scholar.get('orcid'))
     path = ROOT / 'data' / 'catalog.json'
     old = json.loads(path.read_text(encoding='utf-8')) if path.exists() else {'scholars': {}}
     result = dict(updated=datetime.datetime.now(datetime.timezone.utc).isoformat(), scholars={})
@@ -88,21 +102,31 @@ def main():
         try:
             entry = search(s['query'])
             seen = {p['id'] for p in entry['papers']}
-            while (args.all or (args.resolved_all and s.get('orcid'))) and entry['cursor']:
+            while entry['cursor']:
                 page = search(s['query'], entry['cursor'])
                 entry['papers'].extend(p for p in page['papers'] if p['id'] not in seen)
                 seen.update(p['id'] for p in page['papers'])
                 entry['cursor'] = page['cursor']
                 time.sleep(.2)
+            entry['papers'] = [p for p in entry['papers'] if matches_orcid(p, s['orcid'])]
+            previous = old['scholars'].get(s['id'], {})
+            preserved = {p['id']:p for p in previous.get('papers', [])}
+            if previous.get('labSource'):
+                entry['labSource'] = previous['labSource']
             budget = args.figures
             for p in entry['papers']:
-                if p['pmcid'] and p['oa'] and budget > 0:
+                prior = preserved.get(p['id'], {})
+                for key in ('figure', 'fallbackFigure', 'labSources'):
+                    if prior.get(key):
+                        p[key] = prior[key]
+                if not p.get('figure') and p['pmcid'] and p['oa'] and budget > 0:
                     budget -= 1
                     try:
                         p['figure'] = figure(p['pmcid'])
                     except Exception:
                         p['figure'] = None
             entry['query'] = s['query']
+            entry['orcid'] = s['orcid']
             entry['complete'] = not bool(entry['cursor'])
             entry['updated'] = result['updated']
             print(s['name'], len(entry['papers']), '/', entry['total'], flush=True)
@@ -110,6 +134,7 @@ def main():
             previous = old['scholars'].get(s['id'], {})
             entry = dict(previous) if previous.get('query') == s['query'] else {'papers': [], 'query': s['query'], 'cursor': '*'}
             entry['error'] = str(exc)
+            entry['papers'] = [p for p in entry['papers'] if matches_orcid(p, s['orcid'])]
             print(s['name'], 'FAILED', str(exc), flush=True)
         return s['id'], entry
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:

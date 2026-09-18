@@ -23,6 +23,7 @@ jobs:
           mkdir -p _site/data
           cp index.html app.js style.css scholars.json _site/
           cp data/catalog.json _site/data/
+          cp data/source-report.json _site/data/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

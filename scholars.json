@@ -697,8 +697,11 @@
     "verified": false,
     "name": "Xiaozhou Luo",
     "id": "xiaozhou-luo",
-    "query": "AUTH:\"Xiaozhou Luo\"",
-    "orcid": ""
+    "query": "AUTHORID:\"0000-0001-9808-6890\"",
+    "orcid": "0000-0001-9808-6890",
+    "identityEvidence": [
+      "https://academic.oup.com/bib/article/24/1/bbac476/6834141"
+    ]
   },
   {
     "verified": false,
