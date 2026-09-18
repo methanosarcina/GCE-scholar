@@ -1,5 +1,9 @@
 name: Refresh catalog
 on:
+  schedule:
+    # Run once per day; the catalog keeps the exact ORCID matches and the
+    # publisher-image cache is refreshed incrementally.
+    - cron: '17 2 * * *'
   workflow_dispatch:
 permissions:
   contents: write
