@@ -32,7 +32,7 @@ python publisher.py
 python -m unittest discover -s tests
 ```
 
-更新默认遍历全部 ORCID 查询分页。保留 --all 和 --resolved-all 作为旧命令兼容参数。无自动定时更新；GitHub 的 Refresh catalog 工作流可手动运行，随后运行 Deploy Pages 发布新快照。
+更新默认遍历全部 ORCID 查询分页。保留 --all 和 --resolved-all 作为旧命令兼容参数。GitHub Actions 的 Refresh catalog 工作流每天自动运行一次，也可以在 Actions 页面手动运行；数据有变化时会提交到 main，并由 Deploy Pages 自动发布新快照。
 
 采集失败保留原有符合固定 ORCID 的记录。更新会保留已核对的配图。图片及论文的许可不属于本仓库代码的 MIT 许可范围。
 
