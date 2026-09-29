@@ -1,8 +1,87 @@
 {
-  "updated": "2026-09-28T08:40:40.116829+00:00",
+  "updated": "2026-09-29T08:27:57.251247+00:00",
   "scholars": {
     "abhishek-chatterjee": {
       "papers": [
+        {
+          "id": "MED:42786784",
+          "title": "Site-Specific Protein Bioconjugation Through Cellular Incorporation of Noncanonical Amino Acids.",
+          "year": "2026",
+          "journal": "Angewandte Chemie (International ed. in English)",
+          "abstract": "Traditional methods for protein bioconjugation, such as those targeting canonical amino acid residues, often suffer from a lack of site-specificity, yielding heterogeneous conjugates. Genetic code expansion (GCE) technology offers an exciting alternative, enabling site-specific incorporation of noncanonical amino acids (ncAAs) bearing uniquely reactive chemical groups into recombinant proteins expressed in diverse host cells. The resulting proteins can be chemoselectively labeled at the installed ncAA residues under mild conditions to generate homogeneous, site-specific conjugates. In addition to offering site-specificity, the small size of the ncAA residues minimizes the risk of structural perturbation, allowing access to many more internal sites in proteins relative to alternative site-specific protein labeling approaches that require genetically encoded peptide and protein tags. Remarkable progress has been made in recent years, from improving the efficiency of ncAA incorporation at single or multiple sites, to expanding the palette of available chemistries, and applying this technology for both scientific discovery and the development of potential therapeutics and diagnostics. This review examines these advances and provides our perspectives on current challenges and future opportunities.",
+          "authors": "Sarkar R, Joshi M, Chatterjee A.",
+          "doi": "10.1002/anie.1922738",
+          "pmcid": "",
+          "oa": false,
+          "citations": 0,
+          "license": "",
+          "url": "https://europepmc.org/article/MED/42786784",
+          "authorDetails": [
+            {
+              "fullName": "Sarkar R",
+              "lastName": "Sarkar",
+              "firstName": "Rahul",
+              "initials": "R",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3700-6580"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Chemistry, Boston College, Chestnut Hill, Massachusetts, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Joshi M",
+              "lastName": "Joshi",
+              "firstName": "Manas",
+              "initials": "M",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-5989-776X"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Chemistry, Boston College, Chestnut Hill, Massachusetts, USA."
+                  }
+                ]
+              }
+            },
+            {
+              "fullName": "Chatterjee A",
+              "lastName": "Chatterjee",
+              "firstName": "Abhishek",
+              "initials": "A",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-6231-5302"
+              },
+              "authorAffiliationDetailsList": {
+                "authorAffiliation": [
+                  {
+                    "affiliation": "Department of Chemistry, Boston College, Chestnut Hill, Massachusetts, USA."
+                  }
+                ]
+              }
+            }
+          ],
+          "labSources": [
+            "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
+          ],
+          "figure": {
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sY9YhF-8L3PDJQx0ZPWNDAhVyEScETLtJvTzg5QU5v3pn686LCwGQ5P_Zp0oXrqnT8mgWJaGlolm0WbcaWggI60ISv3I6K78gCCw1WBqKdrw7HtnKmd8cvjNim_ripbuhK7yMYWzx777n8K2GH5KAzSsI9yewZ2HKG8Sm0ZP9GWTbRPZ3Y7feHu_3rSUHyAzEcB6j3GIQGa9uiVbPpUxyCrpUWuKAtkzCE0F3NVx0=w1280",
+            "kind": "课题组配图",
+            "caption": "课题组发表清单中与该 DOI 对应的配图。",
+            "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
+            "provider": "lab",
+            "match": "exact-doi",
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
+          }
+        },
         {
           "id": "MED:42735030",
           "title": "Repurposing Engineered Aminoacyl-tRNA Synthetases for Proximity-Dependent Protein Labeling through the Release of Aminoacyl-AMP Intermediate.",
@@ -109,13 +188,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tS9P_ekqdDokpX3hFxItwDrt4zYext3fPpC_eyElNcVmSjxFBCIXUl3SXHaENvWPtTs99E0VxOC-s8VeyJ9caH5aoGXGl_ooIJ6bUtFOrqDuvAaJ4U-N94boqux3v3vuE2odC9mvqtipG8LdjOvvzGKiVwBCvSFx9Y7PMJHTpG1m4EaOTDoZDLvIsMMhT9JqSdl90-hDR4XAAy1eWMTd5ICQYdVKA5VbwzHT70nig=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uZ6UCbznxkaiTGljaRPoy_jo5gJs2soAEMkGutiiKYQ9c8EOSx894UPxF31V3j1ZJGeaIqiO6AtNZcMmZpqvnAk2TDLIWjxrTGBtfZyGFiJFpk9tRrGK0rVRnej5PTV0v9DuK7TEyBkxB9GCtt04FrIrr99zwQJxrSDSdYMl0PCGOE9mhc4gQqf8_6fYd3jt6Ea78bzEghfQvEP20vkfecv-cVhw58omjFyE0o5YE=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -379,13 +458,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72s3QImT4fHtq-bHwjmAqMyEpkuxS4VW34fHX4YI99s8kMJMmrBi1wu4YUYujvLv4w48ryT-P1ls2KJplqjz1O7fy9eJWSvNRfLY3rPxTSG3LCCMl4QkByZpyd_PalA6em6V6ymYuCv5CsjRH82IdV455cCoBCqcsg0guSoW1wuSDj6Kq7Jd8U4pAnkxsiZehxEIj1jgeeEQE5Yi-zO4cJ7okMaaOKc1BUZOqD2TGGg=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sjZRDyg2wM-BXeFwfaGcJPiVQfNkwm8L6xFe61EM0Npau8xp59ou7oaoBxtgOjHKjOU7URoMo1-AQP1Dzls7d-qZDp6sYLUt9HKzhP_9AWVCd1qzSl1XQRJgvnCUGdgs6by_YdLaiS1u1E0B4XW63VYCuLxbJD_zNAiV88O_t-LkPzaqmY-uFzh_P4G9f3qLUQ7Tyc_oGsEWxfH7WpTGFPIppy85DF-y4WeYQyQfQ=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -573,13 +652,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vfDm1tTZ-ex20GgEuq6-unlRHB5ePyC0epX8nF7C-axdsi00xA0xWvEpRVABrJNfmVwNmp__Rb6HFyleuVVaEO1oLyHc9kEgjDq1CS8MGe53_XNN0U4VCa9BaQaRAiExDYNt-8o8wzbbRJUC9xuebQmOF50McT_xwf1oT22fQB744FKZCpLnAYPXSx2Ajr2fOYegO3Yf-5uB7e1P1TJB2XqG_bbdpF9IfpUbvmUwo=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uHAGQEG8trImsQ8IuvgDhgC6lRLj1OchN8xmiVPfzk7tLhCDFaj0rGcSxpqools-fEiH3plsPjOzkichzKht-Sh9n34aXf2xX28A9IF_PoxIM8IBJlIc3EngwbnITyvwL_SBgNXGY3uOSyMWpS0RaAkmTUg03fA9I8I3oU0TI5ax2yiDnSP5dZ_GC8DtCVCylFMEGkTPgEM-L0gq004CGtus1saA1a2rWukkH2Vhk=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -704,13 +783,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sU_-Ggz1ImCoX_BfseWw8xxcZKkikEDtOrnD79-ZFaHP6WbH_uHoI2crdZWWFzjDndcMwFyRfeHBNUH5QOdq-Dp3LlH6TM7ymZNnuxrJ9jqrbqXq4dcQFaLF_AO8gavQoMtbwun9HmLbSoFSyxG5p22TXlZZfSc_nskCIFfwtdKbuap_pPqkToMJaQKkBUfDhc5VZBKPXaqI7_qjWtxazoeQgwdU1NN8cq0EuXps8=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72t_setnyYxoZeaNGj3iYH5vivDjBX9crVqEMggY_Ci9CcpBGFvmsT16cZG-uAag4HiPlHd2DAmIl7Y8KbmwYDvivMw1NKS2_2XuXQ4S4pScXl2SbtrF7Id7a6HpzcgIFwfQkr017YrXP_U7SgKQ0kfYK_QLPqTgR7rpTYYO_PniLvTQAdpoC-o6kBodpgxDy7rKhvAyEkyaensIgLs6gQGIg_mppGVojr1lszU2p7w=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -886,13 +965,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sq0aruf8WKetA4iKDrO_gNVPOLMJ0v4VtIm6Ztw5fVPA4YuUIo52I69rH-7maBwnGmYB5AVzbBbiAgCL1W2pgZ0Iwc03bZV_4SonP_chLNequazcOxhRqlnfOw5UODBUFfNgoYhafAt_q-jCIbdAiqUON6EvJNfG64C86Y7ZZIYuzT610SW3VIbuzaYj0jPvK0qQoj0Pa07PrNuud3uMBy7F8fGNqOPWSzhdr_=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u5NMKw8Khg9JSdh7T0VJ3VMJ1MDfdDEi3uWct40sNrw-hqiadQZY1TpD6Y9_DW8v3K9RldQ9DApqvkv849gVpZBEXoGazGdnsX_2XhvsSIpjoA4pkjIM87nB--brzkQLv4hNuOKPscuKqZKU_xJq--m1QIAxnQqWNvbNyaDrerRvFjLQBwuSSezWe3Vq0URk-19nNYecYfXwVeZvKUNDKI100BkQbiF6B_S1Y_=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -908,7 +987,7 @@
           "doi": "10.1038/s41589-025-02039-3",
           "pmcid": "PMC13162203",
           "oa": false,
-          "citations": 0,
+          "citations": 1,
           "license": "",
           "url": "https://europepmc.org/article/MED/41039161",
           "authorDetails": [
@@ -1659,13 +1738,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72s1vm_yLSivp-R0FGZNGpROhx7O9njMLWSmtg7dFzHV6O19Fg9cKlQl-o66LrUFLlZD90wk7mtXs7yNag_SptD-9eCJuSdiFBZYkkCL8ZZiU6oThoF8aVX35Fv6K8ikqy4Acd039vUm0fZN_JyNFhpNULWlXmeYOmY1r345Q5plGXq04jvvxQgswmorz079mrFSaXz06LYi_zUBK65VEZmL8D9tJdt9z8BmoZMazNc=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uzP5aCv19wASU-8eh1Ekt5vhd_XPeiQXEU2ZD9HkHsmaDATJRdJ6SmtvjChdm8_ms6SDIZ6b2jL2jw23cf3sfSu0vJeCGwT3ti2DRsFidvXSKW-WZkDGZ31kvu8ntJcclXoyEc8Tgu0rm9pPLu63WSoYXFBdqmqfn4PIvLAwyZegPQ_PqBZCO8hhl6LMxacUJpb8v77W2xrCRmdk7oiTglYCu4lxPfm-6lqjDsREw=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -2001,13 +2080,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vqkKyBTYR3RlDCRjLta5JGP-qcjfEuJOQR_hAf5gwxMlmQZ5cA3CPW4B23SWXvCiVgcUAqaMw-edFxbOjULiksrdJI5YFNwQi5Y1nHnCVcxFjio0JV-ZC2KCrwHjgR1Kit8LRVaajVi3iQW-JKfGArnuTDJhJObIpnM4QOG2igCOpm3qA7G4zSzsjMOwUxKDHT78SEqDIVU1uh5hGfm1hkgmupnjRM6FpqVPzafzM=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vHrw-VayOCzZSxILkovKtP8KLQ6Q7V-MvETE-k3wn5oM0fDVQx9-ig9-QNzA1oiB0TI6yJYtNQGeDczPLZWzon-_jO-9BbCKv0vfR2CX9NQDq9YjQEa7SJns4Hcz7E7k9RX8MWetgGbhiE9OcFhpBe8Gs06z91J5C-VOei9c_zKEm8dwKvD1f4-UmTfNVeo5Or0cqveZRGvLORyx3UBobhx3x7WSEal8iBmtoWhFU=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -2474,13 +2553,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vwXawfBPH24JMy9wnJJBLg3Lzr3YXguPk3yvLo_AtyfzvgHyqA5RcH8N1MFJBfXK8VoUz-6UVMEBAjYJzqzM2T9F7_grm4dwvPQDLZW6jMfedJFRJbHngQdWnvPV8EoifBBiUuBkG8atuWVKXWDx_BeoP7z5WD8TcnxAhvfjD5npaQPqx4wqEYz8WC40Fm0DtNCgg13ZF35taYwodaoFelForBww4IluuWMVA4-cs=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72veYmGkgUonkbkk7JaolbsdiFzTAyM6hXYPi3FObsc5O-797vTmaF7pwC5YAivGZ2EuVe5Kg4FVl0ZkMCu7hcIVuOielJB2R8QzOIykF1NKhb1EPSV2BBaUKVxjYNhp2HhK4u1LbVnqPDi0i6Pmpq19toA1naQn6heZO3yFa8ZlCds1bQGT7qPPxHQYKKhbRb_D3__mr1yW0XamFaHQrWS8K032hTZNMuZXCW3vwuI=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -2672,13 +2751,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sDtBMQCkPVG2UahtHfMSyylY82zKnGtr4BepVDjpvpDq8HZp5bZu5wR9BsE03eYtqHzDPRAczQvkGSOF-VO0r5HSy460jHLQG3KiM3XJrFhjKL1CjGmXaH7_xtSjIH8lhw6h-I-kUbqCFYvmh2zdXCn5LH2p79GsQQ7Wzm2OM-U8pup13bHsFyB4lRnimJGDf4ixJ73uFJDNVC_UDpN0NKqb9TyA1KOSJRu1jW=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v0zaMIq5VCrNwiT1xLZernkLfBZlBXRkaMKGTrghEOkGwiXD3x_WAvMYSR2xtHfgDNSCq8Inn3AhbhfyLEixPV5FsrZeibJfl1ThhYMS_nrarBcRudCe-WrN9V0vD70MXkbqmjfrKuHaZ0N4M0EwuCh1PMa60qRhyivnRzhXXVg_XpQ5PsIUWjRFl18uO3wiCu5CkwYKdQr1lzC_Pl2jQAJW-D9tyQKP0WK3KF=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -2833,13 +2912,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72spsLnO0WVvwudL0HxJ7npoQn3oLSCCGHmXCg5L4Aaq8ex8-9s_0HHjluhE20KUGO730NWlFJzusvTOoY8z5U8fsn9HsGOi0a2XrDpehdFY61aBppB4vMsCf4Xbpkr8uNsX93D2T1mhpHwTcQBnJXJ60wR8XjGtjx1XaR5LSCEMG3pn9vKkaqzK7tRoIsKIazo8HmGl-vCLAEwj0QTDdb4VKmeaFwsAKTz59ByEo3E=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uYlMbvsMX2siR6nv3IEz39H5mkn-ROnzPozC5-Z56-rOEBv9breUrhORsGz_16tbx063O-hNden-ckVNX7MRO5qC0IJD-7IOZDnzPgPbC2DnaQSOTLovJtiN5CHzSimXaZAizgTZCTm5qo8iRh-I0Cso-aQP_MnBe6vPzIASDWreTluqqhHODGRL8tjC6d7hVayI2c-mlFC6iq907sotcViNWxttPwhaYpFA_cEZo=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -3493,13 +3572,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72skYDqQ2OKGIflY4lKiQzJ6N-7PGp4Q6_pWKdcpDREq8FGL0GFpL2xd-9YhdPks9c83n-Wn1US_5RkXfjPx0pvjwNvJstkvv3Im3H_l7PyQNfEFlOvUHVmYa7V8ysHknobtI7MG6K5dwynjR0asQVxqnZjjcJCqbE7tBY4XuHnCJ1vplUFKBlWjIK9PbuN0ArsT-9m-qyq0icMFa7aGyqZC6bIYpX8OFXC37H_mAhY=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vsk9tRhd6yOrYGBGHqhSnVAOWtDOexe_dH1I3kTnF5-yjbBrJQzdO1Zi7SKwH53MmHoNfPWGL80A-HKvPxOgo8tDQ3uyH3Ra2H-bx2CnTM25JdxaOYvlsl3XnAv8ksnbS6B0JMDALeGj3Fj6NuPZ7LDd4Bg8F-r4oQemn4awSDtpJTf1oIz3ihmLG9kM_nCR4q1hArM1WMDr90TPqutJfITgxL5wjomuZ8Nj67T70=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -3578,7 +3657,7 @@
           "doi": "10.1021/jacs.3c00169",
           "pmcid": "PMC10396081",
           "oa": false,
-          "citations": 5,
+          "citations": 6,
           "license": "",
           "url": "https://europepmc.org/article/MED/37341172",
           "authorDetails": [
@@ -3695,13 +3774,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vgXS5qGB5ffX8HQ7pU-Lp2NO267eyDNOSs5Rds2zow5ecLf4GTno-C3k14PtuyzCDmGF6NjAfq9N5mZgeTB3w6Jmun8DKg43_wI9fBGV1u8yInT9b40YyF_eXl_QX1d3bKNYT1wOcmTI3uuZ0D8LfT1CJKo6FDvWA9mNPMcDa6aPAd5FpZbdp8JF7OKNr8bWGvMdAj51kmMMFWlwdifFPWQJVQ7S3yKzI1tnkptOg=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72s9qrPwZ3obeuxliqqfn9_lc79wUEQ6MzdCuT7WjPLp04JlQv8wsBjgz7_vszQ5jVPBkvLK9IncboGm2l7xmGAbVkTbXj4v9b-OlJpYhnffGHQAHj9djj7gt4kBxMDe4J5IM461lpQ14fCv2HWAr6zSd5sjYIldhuHzqkwtHJ91GnL74Ff-vINp4kv2Ko8vxhSIqhDvlYDiMtHyBHHV98QRcTDyWpJu1inhUXpHIv8=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -4107,13 +4186,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72svWVkJhdl1v9ZMfE8HjV9ZWTYjU88Nvm2Z8ueEBhuhGGvERSw4mODFdto2X3W-RIIsPv30VtJBswY880Hhcf_Pis632EXMCZUjrkaoIShDLphFiSOzSp1kbOsMFK02Qx8ZPVefTlHQvkt34MbcnV3QLgjLxlgN2xVeP72O0z14T6NYgBySsI74O0kikestCmeAH1lHBXrqHVJmToM7y1r50Ib2uIGE3oFwl1xjJLo=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72s5MwZUMXNXvdjJwkHuKYkIlx5BSeLDfoJoBOiMuAg43Z-9mpLWK8oIrwDwJ2JU-LdS5O75y1RkffBIEZ2i5oFdpddQEx7ot27uWTU4qNk4H09rYmwap5mUeuxuAF7FbTGcdT0UV9VNZHsI1R5V-HoiUzPJxEfVddv8-w_B-Z4HAEk-Qa-GH9PliCJHbs9iwKnabUuygZAVtWrUDXXT6xn6vfygocFHKANBv1xl6FQ=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -4268,13 +4347,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vdPEbWQbhhljEqhvVH5uaS2xeAV7jPOwTIdIp4BMDez_4iEjWe3bVzRQ4aHA0VEJzcR8ScYPzE8IiwgMjwdmsjcOPstkwp4qL5aNxvDUN2wa__qdXT0abZ5xNORBbDXAPLsiZ3sedNHvf-8Z4sxLaHelM9q9MiWMkLnRpkY2bU6yr2sO79g792ld_JYb5EenwmukNmanUq2n7_CoQaya7D8Dcx0BfU3Wbm_Gs938w=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tkrm2U562Yd7QxuQjaEtSBUmIK9qgjNuzedodogNe0ng1A_FmmKKbTnUqjrfS29aeT8BvPvaEyoxD9u-SCTto4dhYC4F9EbK9aF1Ny9c0h0kLwb1kgPnBDv1I8LUpymxQyl9rhij7mApwSfeBtLsqxVKvoKK1sr78LgZkyBrPykqWENu_WDNAFiJjpQIeEEOqzpxm3ETbONTIqa-V6QiXiNUHI17mtdmldC8bxltU=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -4830,13 +4909,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sgPAA3ycYn7TxpQULw0un1rZyClWbFl3JSGWSV8Fk9dXf2er4GYnStiVmzNBk1kwh3ivpmWbPNA0WDa4oBzY8hZC0VCjtmwPxaUZ3AlC9vd42SpoJ-6fO05kOvV5UC96oz6CYziv47nRN1N2ECsW-OinO452IK9Mi0HTqNs9Q1VjDpFDbNmUpe107j279cMguu9HfKiwQKv4Yvlha2kHQroqbNq1rlwG0nCWjKBrE=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72veJW0Pn3x30pkIaVwqRWfjvc0WodUgNvpm21lpQMdxc-FNlNybfT2YLFWsvtmqGOcIMjgw6OWLS77egoRrNwG4w7-8tT9o7fHLYK8F5nmbgM_ORYNpZwc5XjQ7KSUniqEYy1BvyCuTV4byKLEzllxkarfbY8etc1DlVCd1LQHEkgWK4i80gQOuTK4Wss9cVypgbY31bx1qAyEImWIIpwxrqgeAyNBcn-LE6MYA-ro=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -5417,13 +5496,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vDHeUVrPlV-u2GsMwgNJkqytN1KPFvp5fc1D_iq8gmojrNHk81PGZRnz8tkj2eAO5gcWh71ISlzQwt7f21i12jF-rLksJt7C1GiQtiGffkiu9aRJa8eWhMaEVNbBU_9USF_C9zAb_QFQ-MKpw6QKE3mWT4miFRGyHLT1UaHeSne5rgN7219FoS2Qg_QmRjo5ZYECHsJ7MASzpNEP9I1bIh9DzuEG_sEBmN3jRt34U=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v56nQhWqvWRb8NRzDJ_mTuRbZ5Y8zMMMg8W1JPLv8bsh_EYgk5ErL3vq0GXwV7_4I35Q-JlyINHUjyeQd2O7bSAXlFM0di6hG3IXA8g3o-UbjirUThBxa_o0FNWd5zIw8KWmEc40RsqL4_UfMrsCU3IV0fnyVBi1JZj9zM0WtHvLmCscmWpbqonGDBTQvZkZVlhfCrwxt-4PHD0bGC_wqSLbuHy8itOvwius-4T5c=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -5521,13 +5600,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72taC30ua7y56e5ezeK7qY2_TkFPSKjIhbmjcbFAPdxM6BXDLvMi7ulH3oCFtHs68hoKghEV7ZfPIWW2nsYQq8fH_E2Vs7mFo-q1c-N47mppQ16ImAqr6GVPcv-z1yAQCK9wCkdZ_JR53xuCV8OhQYoG65k_gxSxAtPH83vzyszZvXQQfHgD13f9v-h_Dv9-32pUzl9gjmXfts3pH_ERQ1ut3Dyq6FdkAO-H67pcji4=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vFtjCjr4uk8F41gzb1-H87jKJ9QFCr-1u0sTVbK8qbpy3Pb-alS1dqjxC1mUya2Jm4eRFW57VtzORmleZxVKRgqjELFJ4xpwtc-NOC7aY-nv4GTqumFWiSL-zAWIKX1aDjOxFWfYcKTPNuwNS-zLPIT1SGakIBZDT1eSUSLYAPGSET-l3YgZ8yOC-ll6yRvNpG842gfCfD6u6kvNQQQ8B1rB2SKSEwIDyOv-V9cNU=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -5656,13 +5735,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uLZ0S_IeIfq55WNliOONVFs8--krWnO4mfc8qdhClD3L2Er4P373Wvtmwi744sgP6gpvECtnZI95kPcG3gZuVP1Ny-rVCVxOoiNhLagLIpoaC9rA4Z1NjzGHg8jKiC3ay8-43DaLaS5_mxujuNK1pL0skTbzr4vECcLM98bw5mPcJ6J4sVvjFtYgMoS3qCAhNlRcIku9M5OyujhJZx1N_k9JIceyz5lxcZTF9QDu8=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tVMUY1l-7hyjeAuioKFL3-hrF9pwc1BvUK1NtofwW9YGTijl25eDZfy-utNo3dvoHvmx4LYp0o_jXXRlNofUWCtCAN7thE_ez4Tsohy87LY7uGDAI3rLXw7nhe9ZlVwQLZGkpuS6vCiEHztQH6IdJD4uW5U0fx5zcS24R1QnYvixNYPdoErAUqad0cgfTnyRl6WReKJL08dwBxX734RyJErVbXRCBh2eM67v9ESQo=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -6402,13 +6481,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vzdw1SIsI90Lfc_262pdJkEGWSjaf82FIB5y9Dg5pLdqRKyWSDTodflD7tvZ73jkQJl8QUv_yYjiWre6-Mw2kZURBX-rneWLyWk5WC1QdY8ZpkzE6skn-pJunJD-smWxW8iIbQxEI7OHEgGAuoJsWyDP7y5yXG_KrjB3wpdHDaoJgXfvlLqBL5dNSbWS8fMWn9C2z8QyDT6F4PPyDralEVqOeThVLVYVQ72IMAsqE=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vnlyuXeBt06CO6LdIve5Dj64L1DtDzvIA3a2rsf-QIjP8PM0LYDJkT2SXCIvNwR7byN_sJmVNHXv_U2kQ58AxhQeOdt_Yie4fO24k0U4GmyQIajrfVrhOHAuWHEV6iVX1vxfd4e7-eYssDw3R25Wf2VLm1x43qio3Ok3ae73unxglIyM75HadQg2S_py-8L94X724dKY5yZobXgxumsxcH5qaNuEflhvUpIVtPtiU=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -6615,13 +6694,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vKULHKLKvn2cOsoxpFfRSPxuoA6KJK7JB_2ODirlurcJSXqe6fe2oePmOC9VaCc467yl5HyNn1waHfLY6i7jeigph84kDgx4NavAhyfsssxP0o1v80I3Zqo9g3HkjCGmlvU1-5JItDlyDtq1OXpJYFhOe_5fgvBtLVnCBMPPDPaErtzi7fXKwfTXav7tIeqMo5v-21azNDbvYqsIrKwYXYi5TxXCaWUnFWGPd9TJ0=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vBt_SBik4XO1LM3YDfKCmeVmrusyryANyWVcQjXisc12RtEIzFN8w_fhvKFQCGx88EsbeEzwE9HCbEaXv50LDy46BKG4C2ij051XI6a05ONRGKzOjMHOpk-Ob5Q7qTwToW25N71UE_0JX_7jJpx98tzFbi5CZHLBB7jKaZgC4jjWJPoqGwLm_enKfnXALzeXBTDFgLqAlnVOkks4lYBAsK8DUtplojtMBmxml4v6I=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -6896,13 +6975,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uvm_JdzvQ4rcrrVnqSwm4UVjf7bfAdzPysKB0celxkNZPxXJOcKRHbhqIbqfApmPPsVB2sQMzqtGyXMbmMJVe3XkSr37f46a2TyXvXjSPApQXMY_YYPjJ6RRL47Ql_X6DZmZ9KMYheZqJstfA19Aem226UzzBPOpwMv4aQqIzw_tPlcuaJ_BxNuDg_J0eyBOqkNfGLDA=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vaM3Dy6LZ-f0CZHHVGhKFFWvJxzKz9zJZ0RHXHh_epKksvk6Pjo4l6MvRI3yvnKH0-ZgLAJC2S0SaNFO6vRj5rY0dxxMSPWpWfcpODvAU46HSb1W82w8Djn0Tz9ywnpmCOloFtoBUwedZAcqBdEXyZNFfIW6FWcG5J8UZuWiCviBS33G1l-K8ewdLPrgHlHyvE18Ifzg=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -6984,13 +7063,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72s47G0qyBDsWp4QAh8Cs4KXoLcF9zRmvXlSwSnPg_Uro-ogrNW2jJcwibE9bfBqKx5Q0n-phFHoYDtsAYcf9BpzMiaGx9TuN2Rid6E85WLdXPzbQMvI-a04TrH4Jqs4XSNr5eUEE8j6MPHbx7vRnRYzCm8wh76eA4zHmiz0FrPpj3wu7Ypp7nvQlbbpTZsZXCjpl0TjuA1B=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72udn5a8SwVHJBiOsDwk_Bn1JZ-Hrj6yjqjccXsQ-BCyhmT5mKEOdo2sU3sS8asJ0bFPyYUobiz1o4otHAMyjS_4riF50K56AKysw5Wnbrkfw2Rho4Wt4ew3Nh1vUmMZohD1Wd84DQr7kl9O3yZ85UORM4oZXMlIXrx-B4LZbVn6O4o7zk9ZW6Im78nZMWxl-VPf9dtFc9Q7=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -7055,13 +7134,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72svmO-HOycZyV0MdmizIPzc0Weu2ziHpQ16WJ22TbAeaNC_RCRDPgIWBLL-Z87gKmTP8hPVExCRX1nHyqs3ES-bw3Vrsi63qFacc4FAwkmQy4sDnQJmDIk22gVrpvVehVg_1o8JWm6idwUpm9t0AX4S4f95q-IxykJDnw5HJWEoa0A8CdptZuCBhl4ut7erOYGNCItye7SK=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sBkYhHbUf0F9cfo-NijR78nU45kTu4-qanOd3kk4xVRs3HKpCpgvKMNWg3Iun7CYuJ6Kfojs9sjMhXd30-W-1ITGKsqIjpmrcMk_cEqu75h36NZYMd-WxZzGsNMari_0hNbic4fVbAEoXERE9K-4eTRBm3fjLRnegUHABlguXj8ENHxDnGl-3YfOFuBARN6yHMgJhWQpQf=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -7169,13 +7248,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tITqdHard4XN2gwgJ9brfy6j3XvoPjdKUDK3tdM_4rc4YRe9bXdVfQuKzpBlaU40a0Qi-vsS3wYn5DvOxYMqDM7cyRdmJeiia2D2iEkApI8aNxieuYKcypsJrVVu1qgcgdVejpskU77v_LVHQlvwBAKIwbTiZR9Orj6XrZWUWtEnRQdYdCNUfqE2OMO2AhW5pvcWD3Z8GW=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sMOgxLsd1pODneahXLdZdVa9gukBfUR9iZM055H8H7TM_fQUABFG1OD3iYaB0dd8Pnkf9eNbSSNsoDjZRC_mKic3dH4H9A5S8lKZqrvP53SfPYkXtotFPFgvQ3AllcRFAaVktMXgUlel8G1hBM5iTnupJL8h1q_CTNtuRxWISnZ8lGWg1-ejqR8N3e55L2AOQf4krAIJw5=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -7838,13 +7917,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uh1SJXV7fv3YTlhuxsFjdEl7RAiHtW9o2BAAByL2zthkLPBMjoYJBn7bOUjFiY9gJ8Yj9SQ_3lbJBHV5C5sXk0gNPbCZaFoSk5Zd6pMNqPBHS2vXeS1lI213cx4OEtrXUx8FYsr9fbXIAKPltq8ZwHIziKJR0sl8aYgf99PdeSckbJKzScv7L-3FWFwjTWuP0MQCMU66A4=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vkyJtp-azM0NUZaCiZZOswaF6F8kFlae8EyX4ytpizxE8_pd8_UY6S56UeFt6QGCuhErZCByiRd7XSiBbY_uuzR9mZM3B6eR_sdqYkLDPv56hJ6Uq6wit1FCrlAcdrRORPHJoafLGCt0gIYRMoB5gZMA2ZbuDkk_K-yRPU0ps4oAUywaZScH8m0RhZPpoAUew1p-prJUh0=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -9494,7 +9573,7 @@
           ]
         }
       ],
-      "total": 92,
+      "total": 93,
       "cursor": null,
       "labSource": {
         "scholar": "abhishek-chatterjee",
@@ -9502,15 +9581,14 @@
         "label": "Chatterjee Lab · Papers",
         "status": "ok",
         "doiCount": 51,
-        "matched": 35,
-        "images": 26
+        "matched": 36,
+        "images": 27
       },
       "query": "AUTHORID:\"0000-0002-6231-5302\"",
       "orcid": "0000-0002-6231-5302",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 38,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 39
     },
     "ahmed-badran": {
       "papers": [
@@ -10893,7 +10971,7 @@
       "query": "AUTHORID:\"0000-0002-8105-1883\"",
       "orcid": "0000-0002-8105-1883",
       "complete": true,
-      "updated": "2026-09-28T08:40:40.116829+00:00",
+      "updated": "2026-09-29T08:27:57.251247+00:00",
       "imageCount": 5
     },
     "bryan-dickinson": {
@@ -19570,9 +19648,8 @@
       "query": "AUTHORID:\"0000-0002-9616-1911\"",
       "orcid": "0000-0002-9616-1911",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 22,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 22
     },
     "chang-liu": {
       "papers": [
@@ -25750,9 +25827,8 @@
       "query": "AUTHORID:\"0000-0002-3290-2880\"",
       "orcid": "0000-0002-3290-2880",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 13,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 13
     },
     "gerard-roelfes": {
       "papers": [
@@ -25840,13 +25916,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vCEEKo1K9ButDVOtumpmGVAhoBtUqa2fCSYF73R5YzXsrknYjHTkby0C5AOKogde2IVrl_dei52QqjW0OAgnWZ7sd85_hSigk80QqFGUI1hdAx3fpp19jB9LD_YNYC1qTyCk5pn2c3yEwEXr4jqnAnj2ww21An7BxliRYorK5XpKcBBE-o3qfgMVRVGspCQEk3ASvO46gMQQ2WQtT66Ik2htY0FeWCIqdloG58jAI=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vOspZMQ9ZfVaBe8Hq548uFcI3fUE4s0TvBphcD2V0JKrenqX9a3pBetWEH48TaMSmZpEw6bY4O6WkrLA5Yj-XXuP5lVbZj-RUj-8et3tqQL_0N-1Ze2YvXqhRbhHEpiNIzzWnKBm93r65pi9MfGqXOqdgJUI6eKoVkwiUVj3RIuG25Ua8isNN06vX9t59wSPNl4BV7UFrXz3oAzbaEDCoxnvXSwnP0YmQSinaqWc4=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -25966,13 +26042,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72ukUYOffEtk2gcyHmF01G7JyWTdxRUt7OZ3IMFw6sa7E-Qoj85vPXoZI9lIZGtOUab8B7-p7mqe529xBK3M5hfeAAB7TLnE3vaZLat254c8gG-bLXy0MXGDaSc0z88kZWe2If6uhafalqDqOcwQ4kjCMi5jEgmy-Fm-JMIbFmEX_J2VmgO0JxVNjT08Nawgp4XNdH6I4L1Se3Tq2Z1YLP6bBVyO3NuAZOFfhCi1HVI=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v-mAb2DbntSQ4e6ajxYYG9-gd4frUY3CU2FtZ8Ersjw3Ia6hwTB7MQez4t5PmK_DcExwdwham88qbQIFGDPXfsyzYdBi1sTdrF8s1WTWnj8_RiOVAMvmp6E0lKLAeJyzY0u5jUmPM98T9dVysIlZYwK00TUGhrig_B9jYzqYrMt5wHbUDVV9Eu8Dd9grXducOK7UY0SqDxmFZaGQmS7ZflzuWSJw6VjX8CVJtIG3c=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -26062,13 +26138,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vKKfGXBmeqWZcbNMYm0GxY9TIhgxARKhHl2E9sBsm1KeYxef8mjknJgpPI-1XX0vWmr5LCJqvegrbMaCzhboQrzE7FNyhtFztW0kddXT5Zx4zkVhSNDoQlPbHNFxS3SIWWf8lxY4wt6LDbAIOtnvdena4TQQ3DeNuKGdHZnQqTWOBFOgV_regHF8Zf183cW8I671IVYm5dMUlg5cQPM-LCjiT7L6nXJR9ixc5EtkM=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vV6_tSA1QkSAAIeXDpr13nsL9xS2HpyN-kA93a8ot7IUxLd1Pjp4FKVb_E5SADQgCNAM5UWlXBPbGa31aY1iWmiItBfyZ-YPMMVU-t-czZ473INMsU6LQrCUFtKpc0PC5_Nx0AZa0GCZWx0m5a0WLP4zfuWCKUevNCLXgqG9snYUmNlL_tpzZmB-ml5-JEIyD2pFrHr5GEHC7J9HA61LSG9Hp7DJ7cPsH_pXZaxok=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -26158,13 +26234,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uWnztEKp_XsEIYrJstuz9vLwamdkm3Mh5YwfRFXcyYdG4eqGR2ltqGQZ3lxL--hZio-1A40OSkrRhMi7C6L8DOEgh4GGc3fgOgYZzhZSERN0FHX7fgucusdcMy-ZWK4Ps2JhAHEGFe6q1SG1x2hWdLJODQK-uu8kHyan8k-IdMyzVX6MS-8xZn42zs11D44XC_jepxva0wtZJTsVV3KpMpGJNQQ3dpdLtjv0Xv1_c=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u6iw5MEfhutzrd0OST2p2AIePcxwIOe3asQxdB8gH6DnJszQzkzoDWY-flNRmi987rBV7yt8gZsonHLZPCYGB7TewEiLYj_HnbrDfizDep-PGaVS44MSFUW4Y87vWFm_OiWqdfXdq4hsU_HAqBJ6F3WK8fHgLjLt6H12D20wprSXWIdXh0Uf7FY_eZefPBTPCGGVSGnYbpjtfclFM2v7murkIwhla9JfzN_snmrPs=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -26280,13 +26356,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tqkisVtGLvn3IXsB0H0yQPOmrdUy2FqZLUfcdSXRhJiS5MLKaifqEiUAmMcjdfeUdEu_meOkvOSXqFV6vFzeCBVxNO7GQHK-ub0Tczli3CIZl3NY9NDkzQ8SusmTTE7Dj6rP8jiavO9eotH4ucPKr8eVGNmNpUGsNWuCKPzMF7zL8BbPkxuwO819SiaaT5jcUoD7FjldMQps6Ffb2XnU2sbE_p8LPz0ydMYwZ4=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uOG3OUpzzffdUJ2OeV3Zvkkg4-k_PdnPoHxO-nbwkU11t-Tn6Qo4h_c80Y3mR1DXoM1YUUOXSMMvfRlnu6tz7Rp602h73gjyJrsiZ4cgL7R9qUWLZDuwiIm0lfyzTgoHPC85vIo8bFrN3R59O_lirGxh-yqGDVYv4p25YFhVzGmACNCQzGMs5dxNaxAs507BIydMTqjVtWUhZQykMXci4eTYlnZ_xP6MunlF7N=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -26410,13 +26486,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72t13mnnCzGLQ2qMsTurrYgk0-zc4Cc90rEHEZ_Z-oaNWPg-L2KCnxPjvvO0ek_J8aKJGjZk6Ab2sqi0tm9GY614VrGDol7OHH8t0L01DJ0mTrXNg6vn7IbWjTxroVGHWhnQfMq76f9EI7UbI6WUUT6tT20Gd8ByH1_rEL4XQ4YjHyg5G9rINpwV34JaFwJQJyAbgQMXYLimIAju2CXPOQ1f2c65XAOQPyn07hViWlw=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tVir4xoxikLMO0-06A8AIHvb-C-LN2xSggkXapjkAO-L6mn0oWdMXaYoehyK2wjSY11ieOciHuPpeZF19IupT2q3rO46Il_TPzbVZXHWiQa3UEyXTfAnGlUED2d_s_R7NGLeK2hniLTVf7FPo4lp7Omuz5TCb3kGY_Fuk6EZUKzIoz4P_K1gbAyu0F0IoOHTWRvXDLzdMZxPjPaPem1bcXyamgSoZr-EQGJJ10WmY=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -26519,13 +26595,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72um5-02w9uWyTQSOkBf_NAN6k2XakCwiI5q6x_Dal6KwXzoYyJHEDwwyWeESmlccvZ3gxYgqU9Xxb_NB7sOCUdAQkODN7eHweFLXarl1GtynLupkeYMK6xRMti3ZdwlbCULWhZDS5QnsH9-dV5cONXSkkjd3EaWeXI6qyQZa3KTla9zJgRXzXa7QyzAImXC5ncLKzVJdpOrXVYdLBVyokKQzX0PrlHZJo_tEbrEz08=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vVPfAxVIfkifCpelSPX06QQNRB5gUhLSGaDSSqYi5p85dpQxkvpskjRH4aNMXLLMdO4V9UBim8nHwWVZHHrrTQliFtvlcUBaL6Uib9EY9zw66UtmXcoj9B2d7jbxH82bT8ksJtl3QPIVTwjk6Rj_sqnqbH-7_5uI36UKp6KB8IgRleq3OItOeXsUIXMnby19TQokoaWq2E9svh62AxZ3Byuy3I4JKOPu3Tif0wMdU=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -26541,7 +26617,7 @@
           "doi": "10.1021/acs.chemrev.4c00136",
           "pmcid": "PMC11467907",
           "oa": true,
-          "citations": 45,
+          "citations": 47,
           "license": "cc by",
           "url": "https://europepmc.org/article/MED/39329413",
           "authorDetails": [
@@ -26649,13 +26725,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72toNY-b5o0QmBt1dYJDIbeVrFLuKXW_N5aT0oNdryYtzZHsb2XcR98i1po9ToJwKHpl7N32gsyyKvMD3YVLxUji0ah6HdLmQVs3t0_KvOVxk0YbfGlnf_9fHmh72zmL3FvawUd6FRBP9jIB0M1Wp1AGeTd4zvOgLuLf7UlspbH9myl4IqAlQ2ZnzsBYpHf_yZz6KkNLxY5KRGGY0Dy15d3C5mY43KfHJDUCv1iO9WA=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tU9_Tv8_uQCFrGbL07tXkfU6dd4oA2ijfW_JoZpfpJpDCQg7-v4ymcVPrSfMykzdcG2S8W_6d8nnWQeK3A4BCN4q8ZFv3XYiv-PjS5-T4lJynKcGrykl2tBpvvn7haeWTfOUZkXzCudToqtOMkURAjOwSkNJuhBfzeyCdREzjqiaFuI8nPM5YUbUhxPtY41VijT9oNbz83BYUlrfe2GgiLMyMRPqcEEC00nzU2EnY=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -27321,13 +27397,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sP-WLOzpvDnfpzASdAbGAhQyfggmizXCepaMKDJIt9jNbkhBwqCgE3voOM0gnhgOwJuSa5bJn09ZRjKonxtwjDtjnb6eo8davXl2iWek7tx-zKaX9gBNqUsnTyUh3EPmBurH0WcvGi1j5BixB90hoRrNxabj2fD8cWAIkoNLORhmgOBF9qXYGvw1G1DHFxVcLxz-POM6mTHB7PBsAeaDhSMJvYHsC6PqvEJGeWFVE=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72t8_TF5o2JD3Bxd3q5-_biqzz2jv3dipsaiXblW5HfH0fKAbgTWjcbXBp4As6EsS2T3HozauBCS2J-U3YzIyb0ns72A3pc8cP0HZ9DdSaw0ziDfW7OcdjMPMOSyeXyeQELF-v1Yvg--nWtTOnUlqwWGgID9bu_Rn4_NLosyfquoNIkHoYhWdtBal-7yuyfegEYoVabBnVPPA2UyGvod4cDkJLIYizFzPyIv6kds20A=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -27434,13 +27510,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uNuv1FFqlInQKG6zy19AE96ERf7raTMNC3HrVg-t00bkUbDPGrI_bEayurlmeAAZVBDt7EaD_otNcyz_fPg59F3M7QAfH2Eh67zjVp3Uh9BQbW68WupXtidfZJeR8tMjwzgng08o6z_fySl4LU0ws0s3MasYi7q7KkrnXQQj0gG3gubYwq9FP28gGGjR9B5wydT5m8dK25P2veNGuVMGElcBfMuv9_Ry2MXnuWesQ=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v2n7T-NYz-c7KmPhG7nSrLsYotLwM0b2uB26KB2GaExOKKqTjFHj7MBbg9Xuwiltr8mQ7QQwxGrHhH3TYXQkbEE9uDBhQFg0N-7xtMOtdarTpL-rbUvC-KiGotklTI3BgzrBtlNBMSrn3lVGdf-7Yu6iRM0x2F1q4th6z25KaqQpdYmv1uWGAyY88iB1_pfejQJ-3fqX2PC-_nxLmGfl4w75bHfNJDTuNmbsGEsv8=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -27526,13 +27602,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uyofM_Ahr1T6SLdEnlAeMNewZgCkUBFVujL4AkoK8oWFsVp-po2teXYJrBJ433Nh19V0ot039YySbG5jcKWYlH7UTe5pwgoIfsyGtjDli6HHwgq1lwYtp-cuCTesJSQjEPQ_4zCD4lb2qa4QrF5sm8hB7My0fiCbO5y2eZKoeIlysMWOM6CpM9yQOAr8d2yaT5Vlz0Av-dBtZKojsFHOwLJqHXcgHamQKfCYXCS-E=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tKcT4x3ZBWH4VsL4SizBljDGzn8o5Jw6_c9cxk_NliakKlMPKS0ZuUMHD-QAYkF0kT58KC8e62K6BwkxNIOWE3kmTB7ZoLVL_BFLF345w3061kXZKtIpXWlYh6XO1uvA1LBSCRlvxfuRTK-DuhcjtDglg-8TPIBtjbLSigYk_X9ivwdbQV3_G9DOqQvxv-sStoBRIFtLfs7f8PrDE4aCQ4eDdQu2MgPyIW6npUqco=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -27604,13 +27680,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vUCzrMpIYY4vWcfxD8hc1yVOtVqWzxJTIayoiW2xjdTdtO7Mrgxtzv65V_tB6qs165J8nV4hT5Xg3yk78uO-1AS7nWvCFTQW3rpW8Qa2P7ncHZ5DjAb6bnfRYQprp9UD3E_8N6fqPfNFQWaugehFPXfUkFmNMcj5kMfo0k7miOLlgQQuVtfKYevL7sh9A8XQD2l0Wxx0vEXAP_HIssznFGAaboS9oAXJrkeOf7=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72ur4FoJ1fGXIHJTMQxdPiZspRGjHMCKGezQvYyBrqhSnYzWgRXOcErJya5DlCBRAuuAqsgTGrVsymr78Ie1KvkI6S1zzGxISKK57bFzPELKCjgVH4r5HwHW4NN2VL5A7ziG1xvXyqrKEqHqsG_xRoyE1hbIxOqKZUsQclGIOpxYQTfKqLHqWVHlnQr9H1N7YD_In72bym4uc0GHCTdE739j4p6K9YyNP0MiREsp=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -27666,13 +27742,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v5UANnFSYn30DLaAI09-tQTBOFt-NGRQwDf7J_EVZ5t4u6V8GnDxzkdLCv4WXtDpQATQGghFrLXZjdsimYrZluonnRTquHDZsC0HniTl3cI_wAW2cV76PV2AAkhMvKRM3jGjFK1O6SHXrUTQH_-9bWVF_GFq2DqidIpe9tu17MH2zTLi8xGo5sy8ng_aepE9Rh5IjWqBsjpceOkZw2DBDhP4nw5z72UG-QfzYz=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tCwXmqGU2v5D0T5O1KQ-pZDsqjKurPs_byacVnRwSQDTYGulZWo4KZNJa3vYklP7euhAZBXXeKlJtRsdRpwQFWiFkCDdcVBvJp0yHeNhWG1egFAeYFNHDC93BD-71FdbMIqvZqw3Kq9Nrm8EZjIcEQ-dBquG-QnvNuE8GXMbBOaA-O9sfkK7SuGp225oGxBMWBRdVgbUcIQHYItq_1EZySUDTc3OA6TsXn400T=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -27745,13 +27821,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vXt0ReqDGXsQ6ALeDmiwnPIxgA6rI8bNV0NAdmoJHmnItQV5uf2bnHIBQ5rQ6xidWKPRNoZPI3U6v4SUbmbBciZDzWMifzo6Pn9P4j0i9Sr5qKZXogrJl66FX1mXzwQQ23w0rtahyUG8M0_zcJvw_rLMCBucdlntoE6eGsyx5A8Ufhb8TIo9pOn4Y1fOyRCMdGuwiOJnZQ-vuF3lCKWjbHcX5HSebn8O5u-91O-fY=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72siIIpf1_ZoSkfGLfCKDQ4Kiri2-1tuhNaNhDTGxXujNTlTemaYGmIUXQLNxpbdeR5runNh--s3FHcS9Y1HeK2EtRtJD5pJiEuiNWq2o-CvYy5eASpUy2YRXcukJvJRBCHxxo1ghJO9g1R9jt-uLSg40ndHEemnzhC1CcrNif81-oNBrya9P1hTCUFUDmCuwbxO1-JpvpKv-c0b6ovYFzMorRoEu8ODZ8XdrpCPg-4=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -27807,13 +27883,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sLMKKAVcJJGjFnvSnM_G87bwqlg_WBc2MPQkgiHNQA7x9lnj_rLbZ8u6HBdLB_fBT7YiHtNH9Z_e7ozj1BReZEpLwWmYLkIBmkFimtcrIErttROK8vijIIC6VTY5oAm40Dev0VumpSeIkOUNv38UbXA6M8CyiExuUs_qnFziXZN_AcNzzsg15cbQHtUwL-ziFrH-0AGXGKufZM3xejn_KcnijYPS0dYbpKxAK5GwM=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sOXFk1DA8rCGIepZh5cuobpTKwXql1lbYf0p_k5qrLkMk5NkpEY-rWBkxGyO5-oP458WpJhAJTOM94pxwhht9QVd1m5WQNTbN6meU80BwqqTxhZoCMkyYdid_xdYdINpx3dr9D_JGSam7JnQEVzlrrr3PhRPGR6tvQSx1KJyyDishkby2vhBdrE6zAiuS7AlO1VRIMx7vB53qT2Jl2gqhaC6eo85oVuijh8EFdALE=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -27852,13 +27928,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tOk7H77Du0YgqlY11VjekEZrzxqqkd5b6kqYAW3zLlsoU73YGPmQ_bmMwKzmZO8hGODdhP4Lhtm6a1_delyxa42G53utTHu7ZGhJftigeCatG1Te-CqFML9k2B_aG46sKT_skiC2fB6toJ4hMEcAql1ert2jajO0hGPoukSjwWqhXBbROxMG1Tjm4-5Ik-Ys7rI_7wH0I2SOzUN4r5JboBDaBA9idbJmSnwcGE=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tV-SKN5Ee85yZzoFuy3MrDWq-ZahipeXSU7SyPY4g0h6ONwlOj-2LqHGu_9tq-Si71TDSqif-XKROzsjwYSqB-pYLHzrQvNeO22J5fqZueQntFfyTWTVXCiFg-bddY7eF0WCAwfEJXD6f0CZo9Yas1JOpCibeSX6gSIfuh2Z4uJXwSUm76JJZZHMggPcTqove8-zCwEzP5YsaVP-q4mB89YQla7S81ImRuE57h=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -27940,13 +28016,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72srPF3tYunA2vvYZ4I_xyctlloF7jWa3GHrsjVXhZyDOr-t2LYC0Yh9-Oilz4uxqXnmeFfhX6OoIFn12MUa1O0KC7PQy0pBJ8rZSapsjJgCBh-ABIJJZ_O1Xp4eP7GGXtLb2oQFwEcsyvB6hG0guhWXV5WKxKfg_BT2UyesxYZgIztRw0AxCW4OE1auiBKkulNlV2N8_pDcLrbke5S909wPoazMCAsAHW7tJCHpIxQ=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uLZ_2a68gdcPDbUfjmZeB1HDMhTicOKW9mbbr551bTIR8wyqTS6R3htlqa0ZO9rxg90WD-wGlcGwOs9iIXRRYk1tc2qwlDIHQAFIaxzNaYCltCHHnnGW-rOK1MIdSHZZDfAJj2zx7F4SDio7wdaDcqnReW2T_giuniAU2LdsOFUQNHzyVefLoRFGz8-Zu8WNz6Ivn51nRYqEMnu80ji7LaHiERax3Q6NLAnfABi6s=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -28100,13 +28176,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uvb7LVu9LT4N85tobz-yLxL7I0zWZuJ7jyte2030CE-9rWMHPYTJI9ZvU70_2n3fAZxiw1-XhiwuNF_yIJyvmc_lxe2QhJQSeNJAIF4XVMI5HDBFROsKI2n1lAv6cJwtk8LoL9a1sP9NiUzDT6Y0EWSf7-0UhCo2Zulaq-lX6S9bQoOgXKPy0PQJ7PaR5MCrZRik4DK_yyMwPMBCm-UcVUJsLj1A1phEsK0r0s=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tv94MX9eK-mpggMVH9uoA7uo2W04V_ZjEkFk8d_M5uaf5E01SLNt_IbDDwFmz16xfovQKiVslu4xzgzMRE9zOxJV0P_QnLL9rEwZtNouWLuKI1b-vD6rWgA69Rsf8abFIHzf-xLqjlK4YdWu592Gr6HoeYc3Mf0Z6KBUP7Gn4znoC8AArI44bAWsW1mfs_GnEJaMBrZmecQNhC5iycPGLx0LO298bzx7RMPZJq=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -28216,13 +28292,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vww-1ik3OdPnllUiAgHYgo3DCnGoGF5iLYyVQ1p0SVQCNcFKSNVaUsKdIv_BvSDclD0gNduw5xXilVBDnU8UWweHzDV8-myplIEFLl3oupLJaJrcGp4Mj0dtxzPugfLAc1hpoc-YPE3Qm_4GVTXFHh1iEq8e5JRFc9Uy7A75qZaV7yW6Ny3D2ea11HhFENmI4xzN4FpbUbR6mLsg-4xYSnvvVBx6X9YmMv1Zb1XRI=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tcyMsIvMP-pLIwr5ZZi4-vKua5q_7susoXz2jVTo-IVn3mNflM2B4qgq_pzX1uFfGeY8yTQvcVkYi_1M-EwMNoYTPiWmeZpYOCxQS-6FrGBHYKtMn3jSUGxqfoEcnunKbObU3nJgjYpJyrN5ZpKUE5xdLbN3CJu7NbSvs4d3ZDBe10iKJjzAZb4eH0NyiRA43_DIqY8-_awDwLgUyYxFntCHVeEQUmDXVOvL9omg8=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -28535,13 +28611,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v05tBwbGtrp4jRpO9SUC1luDzm09WOdsq0obrS6sjw9xUjlFkhqQEC52RGRq83hO_YAv7m4wB7YTUnUoMf_4On28vqKH7NNhbL4wpthdMriOZzB2NVCnNEorgUQpkAE4WufvJ3fwjYP7mDbEUSRianWJwkaGqQYfNHjq-iTJMhbdoVb06xQyAFLYQK-IcK7M9SdQqzYuC44GeyoSSD_u_XeIpnE_D2gt5Jifqo=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sfegDb2UIkZxYzdYDKva_NX4fw1U_4htkKhmSVEqoQNsLDgzWkbxlVBRzWlVjVdCF5B7J0qfg69OC83xv0F-oPuKuqCF11ujGxC8TGv4O_1ljiGR5qqXxtnHQWMsM96dIFrvMEcKo1ZEfmjKPEYMUy1gckDIhD8tq7jFSKpi7tfjtSKQeetZrlMM8IRW9sP1MxJZ3Z4cFCRyHY6KWz780XUFHuJ0HoIdUvg7Lb=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -28691,13 +28767,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72t7IEkB0R08SzwZfIfUxv1VsLcZ-RVQt8UEADQCNmg-yJQNZcMxLlNklG5IpmiBPwaOGq64o_ggJ23LszrFEGXYZXiluQREoQ4jIMKawvrQjmtWnP1ij8AjzdwfkXNWZ7xymEfXk3cIm--YripWBYSl7mGQDsp8F0rmxqEzTh6AjzTx6tjmzXJHlZxyrfkNs98dC4tV5RrQJmh80qZhmpT7Zcy0zMykogRRBapIi0I=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72t0063xuxSkk_uwyqxyQn3XWpXyQkXPypJfEjE7wMfymWC5-RGEjWTnP3VCWLWQhl8Yx9U9SSj0xRwLgpgOWdtBoADcu2t5g645yYx3m16ho_AyUcg_mX0SIgYgJ8lJ25YCiB0H52vRedvoiTIZKXUAhLtadk1bSA9vE9dN5OGyawtHOBrtrjwVBTZ1zI22l8_oy6qE0O_gMIMjGVxU--DEyJhcFbErPWLhWvFD3EQ=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -28749,13 +28825,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uV5e4liofDaigXLf80_RtiKDLnVF6YmNxbPoALdkgmLAU0vQhLqYSyBfa6KEPTUOZcCaIppmoNvwY11vIHVru3Y3QSpgB0eYMomA8uBFMI6pIKXZgGwI4lXhdU7Hj8rbLG-hUwlJrhRwvwyZMP5uV6OmeYHKB-PdgR-D41OEx7_yD6FlpBmijIdF9Dl2VDrCQJkj5UHkVTAUc7SKFakaKOg7hthhNw01c07GY-sgI=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v89obfixX3tHJlS8u9iaJB6Iqp6QoT900x0GMllItZPxmD4uGdEyku-dArENbCMko_Y3J52fcHNn66g8Z6D4CbRy4_WTg4hSc2Nnwyl05b2tfHnmjYLBUwjoOdeX-HRr0vy9GgfzRY1TWI6Mt2eeLgexxHaxAAi5c3qA0a3777paGYcX0X_vqwu3Zoe-VGwdOTpG5g6iVbUNMQlgm8vDF46UqgWupdNOh1rD3zr94=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -28901,13 +28977,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v-bdHHoQxyYG4uJiyRbAnUnj28xtZRFMFbiZhUqOjDE8P9ndGt2H568ZgIjF42pYZNIY6S-mH6JKU3Lz9abXjOdCFDtuiGAcMk9elSsp1Qg2GMdZ-8eko82_V0zRX9uy0JRl9aclKkViCJ3kf2dwj0cVTMykc0K6GBQnzMLx_xN04-G7boF0qQMwCKqovTq5ICJ9CH8jRLViWTicZ7z0MWKZga3zq8F8mfstx4C_0=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uRWJMFJDEYASD097PQhi275ov9kMEI9Vj_vvq1PMjOyazUOZRlo0d-khgUfw_aIFt2JK9-amhl-6pp5evhQHiNZF1QPdvvW93wm9Df7Cpn9RhvOTiymJk9Nlz48xxE-3qyVpoikFVLt4zw1SMd40_FHU8ng3C0VkqUyBv9tkVtnRbWtJ82XgqmI8ysyUS89KHb22POax1q2QxNjTRI-s1zqi_M5VmWCnQ7PGPUm4E=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -28989,13 +29065,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sCVv3v3dtquA3MiIpW7EWVKFq-Is4Nb-IQ3ZYNKyuTsTIGn19eie4-y-duzu0PckzmAWADyvHKn2DIn6H0LZxSFBBZq-0N2iZn1d_9BYssZhbKtpfITId7GVtsoptBdthzYXa77rpDGu5UGpUU3l9Qc8rre8CcwSsafA6F2zPHFPNXExfqokODf__PL2oSYhbENQMkB3_NxSkefoP566jPgrufmozKaYx7Hu-y72g=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uSnBLLGrWpi2OXw7yTLiNMomGJAvfGL-Hapf_tH2MSq-YZuZB7SioQEAgA5E_PDBHZVl5Ti8eu8tWpSIf3VwpTSonjHoViJ5NFi5QgRRyOLV0ME46ZG-sc8yPEAFrjVWV5uLWy-fY-teXfEokwZy_PfQGsjojyY2-aiEPOL6bPYRRwlcFmpHYq-a236wdMzyd4uD4EuwPE113zwz__pzHkpjBibifn9KSsTc2nCwU=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -29068,13 +29144,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u5gsOhAOJrsw51XcEMxoDID1D_VGbSvp2IkAAInXyCFqA5uKZAPKK7o0W1FINrblDbSYD7NLakCewknWAyzL4wpTt8U3tlg_Cn4ez4lk9ApVoiTGKKCp55SDeC3npq-wUCutASLUb_sJikHLY5irlTf8A-ikwWK7LZZiVB_adeQ5iAJH9N7yFcTz6DZgZYV4Scmqgh67IeOhSlrz5Nr6YqeBt_ofbQUaxIBk8o=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sQ_r5EhcnEO0wenhGFqZXVJ4FAKbajG7kJu4qVRYyhZZYvHCE3ntnFyo2xDzTmi3993KW2z-EjXlIdf94dFBN5yCCTrxVuWTlrUCvjiKyuXMyTR-HFpCJgslVJxX6CepoCWxnb0Ec5RlGl0xCW9IQYLhOamnSJiHc59wEZ35S82Ct21cpxLCKHUat1RiwCOf8JBytiFLBtpSAbf0JclsMrJPje0UV9IbaNm5-O=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -29270,13 +29346,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tu7hOgdPecKgK6XL3mQUFN04h9ogUMN6YmZfJwHvkjQo0Bp2HQJacxdsFANOhrMNm3BJr2FkkQEOojKa661yt2ohwkZVz4CdOl5JWa8o0yEKoYpeesOhfDaomU2moyllJfCx_BG08einMk7E7FCUghsZrc1y7JJt_Rf52elDfEqnyRJuhsBpsoU_je8SeWvexkep98cDfvtGVVwV_sageVOofHKxaUwEyo8bjxxNk=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vxIxgHb0wItUf1ImMxk6H1novOG6Dlbo-T3SM6GRZG0GXIxusy6IYaJj85Y5LEl8X3XJN5PzHaeg1cwjFPyTTlrc5JxrRH0KKOA4NWh2HZcIQF8C0-9hoWPFKWNabZXi89OwC9UOJHvqMBCpfQ7bShwowWl0XOQbZWRrESoq6PK_PueI1XlMWVXBx5cqpsCdJW62p86f01tblgh79wBkDwKH2AJ2pSmh6bahYi3UI=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -29362,13 +29438,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sXaTpICMDKi8Y2QqJUjDQBtRt-uCGTotyWjurPpX7tA34PZqfsmfTxA_le46qLDZvBVRkaeX3vHe3kD0leqDwFL1qWTK9rsYeVn70u2N2Y33ctwGvnZMcaQSYu8kVfb5bYR6-QZicfw-WYG5Mte5vHUEUGU_X2HFmWBNgunOZYVfwL5bStQ2wFaNUOyYsiHgh8f4uG9nhV0uUT-v12jcbjfX1LIuRmSknJ5A-b=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uG4CLxFCylGUNHNFoZjvL1-V4JLNI87HB74x5ociT8FzrX8IKQ7OIzfT4S8MnBfQX_vnrTeebnRQ_aOPcuszhG1E99yPszghwAnBFKzsnn7DDZdwt4OvDoT-02Ak8QKHbsCI2flyC3vjWHyCCLOP0moiYaRC-e1a243V-B15yriPI91lyxOpPl3wIPzImTDO85KXHJVoIOs3LzNY1QhJIzfiO75NujL-7eVtDz=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -29467,13 +29543,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72syOEqKSGr7wTTQ5tM0lIVmYnecU9IDvpqZfWi0ViEnzy_cIxYPcaCzrr43voRo4vHHZ8I2fZNabj2JX4Xf_Vry3rD2ZFI8Q5q0Ma6xYxZYhAEaNdZxCJCkLqEoGmqPnBPr56X_X0A6oKRh4MUFiitrWQvD7zh-T3A1sUlosJwR5UjeMrxIzrdFFrp-8uk5W4oHp_uF9xBKlebPW4lpqu-j9x6k_KwvjJttlN-_=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sUijTxCNs2BVCTPuOAIjQBAsuGDiTPOCg2V-wqMNLQvGpxUpVhXolmvHohoxkOPn8Rj8lKUAovfjfpN1QsSokLgk9nlFrLhQyNASkI_EzMnV79cczeFnyyPx-1ySYp_YEjV1N3Za1HYHWtFE4PA1IJGM3yDXybjWhZ9elId1bQ8BSUGqb1P_YUrtwR3HCMHG_3kDOpSyr8Amr_zOzah8qvURoT6QRBpnhIfmfm=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -29663,13 +29739,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uB_e60VzZWsJIhwl9Scpl7hlUTmxlTI_M3IF6LEWhunA2GXcirmsuGfdz3onBQ6IsxzV9ouREGsH74cPJGa2sBMwWH-jNNFTZ7lcK4D9zg3N7FXnMFhXvzj0KnVCQyUCYcpDFb_4TMNe79YHLJDKFq1avPOP4LXrvtROsIU_ZZ2vgW_7aKs3ByNShr5m_e0d9V5iGSnpPYpL8gkZ6jE1jYlb-ONCWqhKnqJKRrVfo=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tEjlt2MPXXxSrKw2RSzWWCauPdrd4U-xgPb_CACuzk3wl79iD67YE1l6aSr2O9uN39xAffoB2znpiiRLnc6BmLRNESBizvfd5bvWg5fSVCvBF-8DoVyWc8TlC9EOgpu68ifRsG_aTgzF9LyKvQ5W86LhWhFGov3gQ448h_SLzcvWPoSYXJTXrRWRgBmCCK6atuRj6XGX0fKiMNA4GYl_7O9F0jVesAP4UjS9JLbVM=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -29776,13 +29852,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tHBZCVDVU7AdlWHmv92Bpt4eSUXnofZzQQtYAswsGonriTVUDvhMAi14psyN0CTjBbqbNUfFSFVpA9HlLYDJbk-tjNFNhgV2b-KvIT90AvJnFeXfRcsym8T3iLGWdPMoaG-1vUzNYKbeKqjfj1O9ut7oNjVEHnHVyRE5POtQTaelUlxFAZPxqvdJSoInCsPj66foeILIIJHLGyat-FlqHEigTMR4VdFhewaek3Sww=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tZak-dvKD1RFYYiiRjpQc40IAeF32jAxAhu9jcvHfmuARWFqIu06fcuWyQfrfpN1Zd1jVFGYZgJdxbafTH4TRTl7663tmKhA7fDA1OHiMVHiZ3DX9pAUXPbKunzTj5ZAlVRJ9rRkP2CSkgwPK7v9Gmzv8OZ51Xg6FCi44M4jPsBevulpqlTUalR9RXNLRcsMJvINoHvUyGQBDsZ2WpUVi_I2haF2uMKgGMfGtsefk=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -29838,13 +29914,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uc-xZkSANwABlvzn55Jgo3LddEyXwkqsxWwH32vcG3Om9hih0huRS-An5C-sozJTbA5EOItAWxl-M1Ko1goql2gUGdT-ZbQ5mB38QYjtfZVALkt26YjZ_wl5ZOe1gIFvhKzseZH7T4qlRITWLsoZavIrpZYLh_gWOLAHah5IyVHOujY1nlUS256qtzUtX5HU_TFprozIkxUFqLX264OuP4BMa3DG6NXQhydjKu=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sBEzBfhlIIAEyzSuJXWcESUo14F65WkDFkOxpy1jMKypcPXzrjwRcW-h2y1wIanymo1dj-dI5GZJSi53bXX1rXEsPNfw9_7FBmOo_K04kwUuatvIyQKLFeKDFLQJGzfTOSLjD9gTJrugxdiShp9FKDSfmJzHQsByD5aevk0wdC3yrXHxUBMFPM60_twCQl0dM5_vXltvzrYmiZL43YXzZmjUXk2QA9t98xb3AG=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -29997,13 +30073,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vBYJKPgzZecGOo2tnLoLOSvTkTGe1ZOifrXC0qcVkajZQmy4h3kfeIT_4kBEeEEn7_6rp4KAXFnArg1ps95nYrq07HRmuTvwDFCs6vZanghI0-L_AYDpSm7lL7CroGPQd8Et8yKnDYmsy7kWuIwpSK_d-ucGruPy6sLTQzZrOYkc6ee3TYNfug-YWMkmJ4b5UjeXkc0b0J7tPTj9lyxP-crzZQcy5F7HTOyvux=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vSrQ4G40Lcdytg3Vsa-l3w4UZWBlm-Agyf6OxHqc3vZhL5SFWbR6ueaW8XoLAST-pRIWEbflNT-UcAqCRgxmoUC3A0igXkE_Ast3ZWojDig34QBVU76ZqMXeEywmkjWwfzG5XiizFAWmO2SabKyKvtpctEC4ASNMZzWZr69UZxpmtxCNS5DmF77GOUIGE5wNtmhaGV-5eMZkvoX-8nP-wYte0XMe617JwdaNxz=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -30055,13 +30131,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sttB_mTy8vDmChDB7D5GhH5BTWASu3xwljiikv1o3Dkr_oQloMzKxzfwHnRWm_XGtXtMmChKdr_6kE_52FvSp_j9qlbleelolxejhtX7AK5ZCpu17pRAh1JhF-EvdCjzRUJFCWMv3SzH_yt1YDxQZPYTH_-BtsxsgjpglgChGHrAQX4W5EB3deIrvv2BqKvlAV7xVdAjHiH_doPfhbluugjBpob9jTroiDbiYgERE=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sBODUkwZ-WqyCfic5jVIQoAPCSNmTReP6TYMhijyV4v87dFZt9y0hyUJCioQUJ4GL2pF-pCTKt5bXe8SlC7i_SCD_BPS9MKy1HzaYSFGzzraGsVfMovkN8EqPNAFMuVADaUV5J9sbVd8wLO5ZHT6rS1xCKhkKVhJamOGDxIwia1qKtOisK6YjEsZr85FclNVx4NsUmq2AnKCAaCom9b4u1WF36USa9RNyIPNN4HUM=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -30248,13 +30324,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u2UN4bgnpLk7WH6h6LBM1qrvvOokVQXBCSuGir8DZwD-76Rm3nCAH4vj0jEqkbkMsirTIj5WmZrRdO4PYVm2MZdecrzNIbu7dDor9rZbC-OrOVSOqfpF4QePLTJ9fvahnlafQOhQwLjI84r-UzRtZqfDQok1RhVtuL8v5drFf7hAajUNeWHHJRQ0wPQ_tPRn0AL4r3x2nb5X2HiGsreVWht2-i96TE4rmyyyofpz0=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sQBOzfRS0t-lmY0uBWlhZqAMBkIFeeY67WGj7sMSpaw1JqJMPW9dy9GNtbARcFp-2ThI0yE3TQDTGdrZCzpafXyLXLt3abEa3uBbwd9rDoVKXrcncwmuyWAEFAasGAMeIAUeoEVRiz8r0NcZ84RaIlqpGORlIZg6fbVqB0pduj62eyMCgOfAoi7M6vL49XEbTQs5GEcPv4wXZq9wVA6lSaARihLbToPqgBfa7WUlI=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-27T08:08:26.409709+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -30417,13 +30493,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vDBGCPC5yUz3CP8OpWyPzqpBOeVqat5Jb2x9TM_uh-30o7M1uLaAPRHKmT36QwMIK3-EN1Ie0KemHWHal4pI_heYcCgr_0N51LYe2NBwQCQpVy-XXlWgXxd1ua4YHDL3K_6d5-txYV_giUeXPxx1q30QsfgWJbDoXmVwShELC5ZLf75I01GBjCLpQPdbcQd6L05R4KYSoi0MM8sUNPCQ2NDMXrGHXEVBJ9qq3B=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72ut3ZQF2sTzEHE3LPNkoA73kPXVEnuZMD55tFZGrQpQ7d8m93Tg0VdX1uTBbGveM3YIlz8ycOKh-Jve8JRBy5Vo-rlchu51_y4wudsoH__A7Hkj24gGdHKBNF-91mbJetSL2e_KN-pYBWvetC_G5RYSrzM1rrNylr8r7usu4lKydLAy9I2KdKE18M-JJPPUQracLIduFETSQpAspS7YGUl5Q3vQpfkksbvJhaFx=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -30688,13 +30764,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vNGDU3AWdUeFlll1nMI20NC8DE2wBXfxE5CGRrvni9VM4vaRfCHxpffFuERUAgE3AuMuT3TRSTWFyzfxw6pAeAssPPoP0xUCY5vOKJJ-6NY1Qo6vcNR2s6rSv51fWNNnqJgU7021CN2yzv3LeBN1axN3xgz50PhsFKh0gFwVWWEpmFhDsWD5tOahFZrvDXVkyf-L3ElVD2EVQ0A24erVYl8TK0YnEgCR8494FF=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sr_OXQMwzfFZbcOvjsxyZAawMtaIlNfSOQuqjqTStbUTORr94FU0jVDnx6obEJxL84TT7XWZJsB6iFqgoYqPRuec27vaxW3w_crjgujiFLDkKV3zrvYy8lpLlADAdoJX2e2rTbDhQDyWfhoHu1y77sXeak0Hq0oC2D68d8-44kshi922hfvQ8j8H93QV23-6D4-QQuqz8_mbR4PPra3gYZgrftI1yALoTk6Fru=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -31004,13 +31080,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uybfXH7_GR1WB3U3XdTPx7AtU7QgF2AigFjinGmESoedM57AjiI4_J3Pw3SL-8U9mUmcVpXQq-stFfHgYIePx1elpKnpvtNYCZTdq98U2wTEw5XNwe_QiHu1OkC0dvrJMl0uRCG3ZcHfLnryvnxrl5wxgf6vuXAzdGybVPnZ99p0UReB9fnkSwKqK_n_zL-kz-RZMu5FtCcikJw1G6qas6FiY5tsaGk32aTe6e=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sdC6Q6Nq0stOsHhWpWZWcdNBOZrJNLhxBL_uIzhLnioy99ubBY0ssuQ6IaFmAanBk8xz3FDnmLpKabIxe7iJZ-9FMIOnvrCVJEgNaY7bOHZDk0BfgTWFHlJLP0yTvDjGLz7qRVhMuupFY6MyOTg2xJzu0-cvyCkIPUfWI5l49oClH9ZW-zjYbGx1tin2CALQq2TRAnRxeyAE34_r2rH-uzI7Keb6-DCbNP-IlF=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -31096,13 +31172,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72t0PjrY7gElFLQYhcVmFWgjyZE3HaUJGJxTd8C_KErjqU9na5zLM_x_jJSLPofUChpr5Tqwfq8dm8FKQz2BpAl8n8bB6KToAPwd2hqd2uKTPccsNTA4MkFtqzzjeJRdRaMemQYRJ6W003XlQeabTmku9BdeY8ic5DpUdh3raSc7rOugZQvE_6TPX1re5juUeC8lJejMCv-1Qt2RgXcb3qcAjhS0A28xM6CKEDcG7_Y=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sEp2xy4uTz10E81XNM2UF8vBRfBDLvrjAuIxIPYFC1nBEmQn3BZ5gvQQ7xfxD09W9xaSY7IHALJY7A0tDJS47m4-bqlNf2cTe5j3DA7a3Jq4LvKsK1-RWxM8gJ8IRDQlXAD6V7ppTSntD0gB2gYcBND_tFC-jKtwqcikhciFCA0WdqBhmhbbWL89Q4okvFst7_xtwB5cAsMAySSc8vP2WCohqZqR1_Tws088P0aKI=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -31456,13 +31532,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uv_CW7mu3L8OBeQ4OnSx-OG1uAS_Cewt2PXZW4R6C8bseq5bKaR96-JLoGvSr2a1DGNi5SAh7AlGFBtOXI3mF8DBqPjAm3qz8CvL9zXqQ9XA2YiSUYyIvf1gD6UJQvCL6-KpEeoL7vmCo5nZZyIgiHhFzMuSVLcsFSs1LcwUSWkfpbk7orZCRneT5uAihpM1Z9NAnSCZ4AsvgQ-z65grxLHntbpRoOKyfOIlATYOc=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tZrznelAuC-2TyE_Xua6Nf6ZPmoIc7Es3s2z0NW1LOlT17er_mi_caKuo-23Xll47NrI_uYPqKdIE7-33R-b1Bs0tYeNecaawG5-ZTgtIe68LDCKLylXQ18hHvzwQKFjedSG2PH5NcWfwQ50sK-ZUOhrkvSucuj5CS2N4GHR8nG88qToG2GZE5LyFA7-iiv53hSRTU0yuGiAVteNX53EUbe02I6LTQ_IQOAX5veXc=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-27T08:08:26.409709+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -31654,13 +31730,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v6Ap36BegUnjTs2rLqzyocJ7-7OeX4ZpfhcI3t7sAp0Sz4chGpyy2UcIwF648B2cT-RoL_tzyEwFBobJKBx70bJDJj6vop6X-bOrzAhl7jPlS68hp3bhvwWATsBb0FMLIZhhsR0o5jhEm33tPMx_vDQekGjeU8z1xE_JV6NZCJ2S0UyVIIOlFQJu1ERli0ALihpYpQOiAEmzjntnZcQMvhPeDTTKZCYDTWS10qzi0=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72usBWUpdlxkjlPSni6yNGXqIPg-kENsfyIvJwmntIaCPD-a6FoYbYIjaD_HaOnpu4GmINBR-kD5oWJJgLq7sSUIsrCMBfoP97k0Of5QzKyBbElZTF_w3XenBZ8oXeKeR5XgQ0rBsYVluI-2nwK76xxWtkgBLJJrDLeynAFLTTnJQC9tx1i_qhou_wz36__NDtxHhEn30a0E25oUTKQelPTnNXWEJh19KUMU8JUQv7U=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -31705,13 +31781,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72veLw9tQL2jSVmy6sjAc3uRZNGqmt_trN86MtjnISaFp5tP1Kz7Kc9K2DDEE16F1cWG0VBZqpplbmwTeFxvhfbtuRbNGtzSbsnS-L_nYJE2CDEzS8WLAiv0Zhb80MNQepKTYDACt-DzfhBnUo_ajm6sp9TBUgWZt8Zt3gyo01VvRRDiqQ7Pd1H9xGQpkdlIqacQqJMRAPV4DAkghLvhvLUQMUXIwKSnm3gpQW0n=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tzNsdH6CWGs5Pvi2eD3RwXc4oBjUsx-RIgGjaraJam2o34fq0RC7YOOaMZXP4_P9WyGRrhuzq6b84fB1gTYgcQFKhFclmppg5NtpahmRnvOp3f0X2zpYDjfrqRQ17I6BGF8VZewwFyvvtWUD2_DJz4uYHLQ_vJ-D6PpCv9wNPERO-9pZ6ch8l9T1p_aZl2dPewW8WP_Asj_DBUDnJGob-qlHp9UYPV-hT6lDeo=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -31901,13 +31977,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72ur6rvFFHd9khdIEg_m4AAIdP_pRU2G3oq5R5-vNJzGETcxC6Lwz3TztERqNJlrTKoncWZKRVshE8TmHQtMAtj0lsC14iS7OLjRqxJsesR_jG7Ybwr0cBB78MW0_mD05qSEm453Os2_YnvnyBZ6zI5fYsD4Q0LBnBhwWhC8oIepUvw4yT2iFyRieFMWfn71qOtgvUYn9828e9uHlSp4VjmQUTu9QN6YlNE0Xg=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72s5Ci4fxoe38y0WunyGmUC8L8WmAOA70Fyf2Y5Gtq2fRsNBJ9UdJZu5_8l-v2SA6qMtZC-Crrt44mHtAU7d9FZzQQSvO_li6kbS8R8fjFwOirW_x1GCGt6bYPMLRU7lMd8qKaTDX4mM4_wNdRCRvd8BWqzSW72en4W5KKoHSHRcXkFyDR_g1xyiiyV0m0EjjvH7oK_NKzDkEOjriAKE9lGQz60Hn_yk4lYLdQ=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -31999,13 +32075,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72v0yoMpk3a6PI9U9qMmoQuPUINs_CFlz8e99cHvjPAX0qBlCgdaW1iIKRYHVsDuGmTs-xMaea0iWG6mv5IUnbaMhq2wQajLF6lbdtR-AxVNjQ_2xvMx1o1xoIl3E1DaFxZVZ-VPvMFcR2x4MgNVutHJrTPUd0arsRXYLnTsZUoDTV5-CTvPU0n1bD7vzEStbCleM_wK-VZoeCzlF7UYdu8vpcyjRTWxOlfRa56L-Zo=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vrV79lakaTSjOgc7jG2DOlHgVO6-WhYO85xWVjcQIrJTDqvISWMO1RNNE46uKor8yWHrUEeOfd_6oH6OsF4urDfUV3K-zteU0OSBJBwp_uVhy5C1hcxczMeKzGhERqiXs1UOVYQaHnO7kQHzSM6UGhGtA-2Ux6vQ38ZyL16CgR0aCJ7fA1ipTrUPAkE2G7SNrL7Lmk5rYGiLihHVICDvjsPLGW27rUBT7nU8GCOGA=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -32211,13 +32287,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72ttysmNkKjHjIdREJ_tSpfgG1rYwjW3xl8dKnHb8Xp6ZEG0CdcSolWTRMv9ebIhNHrvhL7BwkFlHyxqcO4q1w2_jNuCKy65O6J1_Ls6FlVyCvDkOhslNcEFekm285hTKXk6ucQE-0QNMDrfJqGZvoDRfz--SK9cwVVnTKavN-Y5sPaWxHdkvRADWLCE2pZ2IQVdudCba7tw-FFmCTPGL72Zgcx-XGlaxv5CvwzzWQI=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vGUsImRzw5kz0ePl_a5tDjT9i2MbXNLLUMZawHaMgjPYAiHyAu2VjGlwJgG0dIrwOrj1Nj_5ZFeUSIoK6zwk315be2Q6uCH0K2pYD3g_aimiwXEneI65Sb9_xeknT06dMV1iho2V4QyWRmKPqQU26dDMAa4VdiOJzR2huerB3P08rJKdvlcZP3La0QA0vfiCPQhrh88LlM6LkK_dEXWYUN5k6bpcY67nT0QDsRuOU=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -32664,13 +32740,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sJXF_2IkXhelaHQMLf_tsuB94ed5NYYx5eOAtCzm6uP2CmycHfMK0uEezAZMj2ifSRnSwZlG7C668KzS4MLRba5W59XeUUL6CfbnP0VVVa112Pglrmwn2qbRD4gCDVnoVCpRoTV8CGM7AOHz72OmYC1OKnmUGKMEqEDChbkaBbZvMjUm2u6_F4DMwrgZk=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72u-EOsoWU27fCDO6Zoommy9m2p6xtZWwQ9c_nkXMPDV_i3etCUpQxYh26-mb92dt8ZQs5dwxRCxhCcrHkCsqM2ZBsHHhto-ck8IfM8N-NRZZ4ZI1--jmcnFRVZyHXVfXjH9un27gcplYicdkLmeBA9FRn-qF_C_FLStFsdH_1IbSXTmSLFa03GC5OjhLPU=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -32729,13 +32805,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72svMTEatMshynNQxwEvGbmbdl2PLK1JFBIrE25-cTNgjmAcblNC70eNGI_k0rc_hhLO-xAHHSPxTqWJXfkSirN4CwGXQjDnn9lT2O0o5tOU0PngPzcqdwvm9n2_MItWF0ZIJ2hTEmbVFeS9oP2WR88-VB6Qyp2LKy_HGowkD7BpitFVL3TZouFNMrsuW2d5YAHloG7jheXvatYfYzjREbtpxqJ1CCVV24s0KDlqd-U=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72ueCrr6WorWwjHtWeW588McJxC_3sVK0WUsKgyCMYacTQhOVgLCCcGu15P7TM2MhFWVNWu-Vgd3vwGGVUNxUEO6C9qFcDhOmtJnqwkBpo_FMXptY9317zsHoAIUf2Li9XoTGQPRZutPcjmf-m0-pI7AijOOImZ_jBc64q4RCFy1l-dAdoBMrsEnUbwe51yxPkBNb5oYtBUOpCK2gsVC0Rt8hjS8Q7WKZ7YUnymrynA=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -32790,13 +32866,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sf7DGrfCMT1tcIMWnE7nFWFAd4ej4Tg8GSD8sHaIGepTCpx9Im-0Jzp_3rD7JgMia6dlyZPrbvP03OKJM0Bz5AhuVB3S9sBdTG3gxemnf-VhhlgpT0VgWrArdHMClFNRILjj15iM9jBcoMXUGxihdIotfnxuhjZvl-SqXQYqGmozMve9ywg-UEgmSI8lF_w_pPvudiq86yciqQFdORPyRdRrKAL4GbjmE_uCA4XCI=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uqV4mSgKfXjY8jnc57aV5ApSu1Q2XNJYUD9l_Wz1yqijOSRIPnqDJKzqWdV8flsqrsqdQU3gGGNiEkbuiNGjQw8L9EOqS4FQvqRGMMiTzpisykR_yUczd4PuiLty68eVMRIigmPHMPC3nm6kM_ChMpfwgnnpfCKtvSpwfyrlGmf0Ta85l-xjcnoRAlCV6nbETpNk1YT83Ebs0Au6I24Vu7cMkeKPiIGAxHOzBcnGg=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -32894,13 +32970,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vpP73ma3T0QDgqIxFsFqtqGPQqQA_Q9vxpWWwz2k8QjV98lhZIXRiCstrc0LBGbBdbvvKceEjxKo5Sd6vNr_YY2NPPyS5rihSlxo2FBOkyMF4KlOj2A-1VThmMe46o_AumAdukPztKYBddJJlFqcq0JROZclczPDGZf-DIuteAM1uxlfiEgghWR0Xigf0a2KZDFTrcvzoX6PIl1fR84GY7W8c0BALft92580I=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72vZwtiuBNUZkwY8JDRvA6IPj7l0VzNBEUOCC3J-17JdvhdVfw_nazM2xwb6trudqo2uxwXDNCQuZDT5Ln8dv75Dgs9Zp8OTDUv3rjvv2Yy_DbQVCy2EDBSz9j_xSX6hEP8PvVqFjeK9IO1ei_sXRyTLlKTcugNJKsOO8TD4pY5-juvxJ5atf3QbrHQelpJdn3SRSUnnpx5fudD1hZa1MtGfGMYyj-w0FFXKvh8=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-27T08:08:26.409709+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -33471,13 +33547,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72snBD_Jfr_c3Rn3AyHial17QXIF0l_3RK-N7qS1BSQu_hSVkOXv0VctiU01wkIOPXVRqDUkVW1WdupVouN9kmpdSoVzZenhLR3aAuq9SvnJwzoHPa9ddcuz2Dp33ZfWo2Wc_No3Mrl8XV-W_d751OBCK8cEBATL6Yhsq0nkPpp_m8mBxceIUGUNPxO4-pPvDGOm1CR5nolmeumG_tVVwzxjIEseP6Qt6-g0j2sy=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72szrh8TfCg5_7m3NQSTXFrZUJ2MAqGDH-GiTtzI6ZEinhh3q6k7iV5TGPtt3SQ6hOtfohLfMOSqKERyehrwByu_V8KTbrsIdJgRfKgrn8J3Pe845GNIgVpx7TzFo8fGKwaBSq6lb2BsD20Nsml6DGFMO2m0qxfz7h11jyaXgtYQjHxfQuOuDQY1btNq9VbZlGCHXaitGZxNz7DAkPm9Eb0msjxk4rydqnCINaZK=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -33634,13 +33710,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sBt9Vgeo2DbeL5Fa-wiNLdpyHPuRfPwpSfXV1XD2o9YOIYlrrQOYyc5bevfgKcWXvw_vhIn9pjpxvWnyjVwtL2ryao5w0e-dnfTjx6vXTcZKSJqWugHbV-ywDyjYEIqN2SdxrF6MERoiMLv80b4v0B4vWa5FfnkPpLHNm2bk2K8FoHj8xGUqS2Ahn9R95Dv9t66vvk4iIaX3YKhz2PipT_Rp28J4iqem-A0LvlZVE=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72tOp6897Vtu-gHWm14EjaAx4kQl4ICgR9LFN5nzVrOLzvoq0adsfUHxCQ20fJ0FYW52vwGyjCcHSsTNTjc-fO7MD5HaLWyetmBnaRLY5KrjgnqYWri_MBDL0o3CZnzZ1ed6kvSvYlpP2XurS5IQkHZcZVk59O4IttVI4gCxHyUC-J8HDySW4_-OQ8BM6tsklXDsLisuU25m8nxEeqoxCkslNughim3jznNVrkTEzNY=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -33740,13 +33816,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sy_LKVis6KR3UWsto-CvKbcTp3wf1T_dX9zKX5O--_0C1HNqRSeAfWifuKE1p8Y4rcZelRu2RbenaHAjzfMjbmGqtdqJ8bLEh6f9xSCLhYa0jaf0IKPnjN78jqmBaPIe3dAX7SpJiNw5J8_FNGKh_oGitlClzJ298qH36P3UvXOBo7bTpHyo5tdXS934TnFh4gAUcNHUNDlRKHVoYDMzZJ70E9ITS1fW_3pEaKDO4=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uqPazm0uo8EvfO5lCpkw6sH_lZR5ELc9kw5tu3Zb4wM52BIksehOZVHHtj7BWrVQ0_evTRqbb748ZsQfrUXE63g9bkLVpit_k-zwZybx8CTRAFMyP8dWmxpBaNesFfueIBg9njWJsjrWAVuJnwkCepYmd-waELXRzC9ufrFTU6ZdZxYyWs2rHeScI9GYP50kU90OGQEcCB6Vh2_o9Mc7k9CAZrOiuvzrvCzsut1Vk=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -34268,13 +34344,13 @@
             }
           ],
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/AMxu72sXvnNwKwSao7mAgsRAqfDobepRQWgH8W45oO1XLrjBP_TcY1I_KVSZEaNL3OacI_xi9xFMAZVKMxAcWSH0Xql9F0cigvRaMZ6zaxj7ha4M5-20qI-7eCTkNYkUA_3z2tKWfsSPNLhOutOk38I3TmrnokmIdj8i1hW1dDRdYNdSQmnbKeh37BgdjGrSSW6414soUs1PkYI83m1AINtdo-V7OTXS20v4jrsOehhST08=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/AMxu72uxr0FUoxTqY_Zc0w9ybUaDPhyPRcwbFf1EEir6-rqSH0w_Jr2N6tDOQUCYsZpqkcAM8I4_g39Wi3JUc38vh2Xjahes2cak49rVGwuy59RwpYW0yrNypA5KRP6PpsfA_dnEw5qbTBmvOytEUA6aIVk852_jQtILCHLV4vuNQ3K2uko8L8dC-TruUoSI71G4vi9ZXfMtIQAgTl-EmCTkouU-xj78rGoaaNkGkMwWNgU=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-09-28T08:41:52.134034+00:00"
+            "checkedAt": "2026-09-29T08:30:37.728232+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -34290,14 +34366,13 @@
         "status": "ok",
         "doiCount": 97,
         "matched": 57,
-        "images": 52
+        "images": 55
       },
       "query": "AUTHORID:\"0000-0002-0364-9564\"",
       "orcid": "0000-0002-0364-9564",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 60,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 60
     },
     "haifeng-ye": {
       "papers": [
@@ -35158,7 +35233,7 @@
           "doi": "10.1016/j.cels.2025.101425",
           "pmcid": "",
           "oa": false,
-          "citations": 3,
+          "citations": 8,
           "license": "",
           "url": "https://europepmc.org/article/MED/41151575",
           "authorDetails": [
@@ -43065,15 +43140,15 @@
               }
             }
           ],
-          "labSources": [
-            "https://faculty.ecnu.edu.cn/_s14/yhf/main.psp"
-          ],
           "figure": {
             "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/80d9/6055150/4204f53c94a4/pnas.1802448115fig01.jpg",
             "kind": "正文插图",
             "caption": "Fig. 1. Design and optimization of the FACE system. ( A ) Schematic representation of the FACE system. The engineered bacterial photoreceptor BphS is activated by FRL (∼730 nm) to convert GTP into c-di-GMP. Increased cytosolic c-di-GMP production dimerizes the FRL-dependent transactivator p65–VP64–NLS–BldD, enabling it to bind to its chimeric promoter P FRLx  to initiate expression of the FRL-inducible genome transactivator (FGTA4) by assembling MS2, p65, and HSF1 into different protein configurations which are further recruited by the MS2 box of the sgRNA–dCas9 complex to induce transgene expression. ( B ) Different configurations of the FRL-inducible genome transactivators (FGTAx). ( C ) Different configurations of the FRL-inducible genome promoters P FRLx . ( D – H ) Optimization of the P FRLx -driven FGTAx expression vector variants for the FACE system. HEK293 cells (6 × 10 4 ) were cotransfected with pWS46 (P hCMV –BphS–2A–YhjH–pA), pGY32 (P hCMV –FRTA3–pA), pSZ69 (P hCMV –dCas9–pA), pWS137 [P U6 –sgRNA1 (P FACE )–pA], and pWS107 (P FACE –SEAP–pA) and with P FRL1a  [pA–(whiG) 3 –P hCMVmin ] ( D ), P FRL2a  [(whiG) 3 –P hCMVmin ] ( E ), P FRL3a  [(whiG)–P hCMVmin ] ( F ), P FRL",
             "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6055150/"
-          }
+          },
+          "labSources": [
+            "https://faculty.ecnu.edu.cn/_s14/yhf/main.psp"
+          ]
         },
         {
           "id": "MED:29937224",
@@ -44187,7 +44262,13 @@
                 ]
               }
             }
-          ]
+          ],
+          "figure": {
+            "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/66a5/4914822/d53ca74e2da1/fx1.jpg",
+            "kind": "摘要图",
+            "caption": "Graphical abstract",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4914822/"
+          }
         },
         {
           "id": "MED:23248313",
@@ -44332,9 +44413,8 @@
       "query": "AUTHORID:\"0000-0002-5482-8116\"",
       "orcid": "0000-0002-5482-8116",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 29,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 30
     },
     "haiyan-liu": {
       "papers": [
@@ -49764,9 +49844,8 @@
       "query": "AUTHORID:\"0000-0002-5926-820X\"",
       "orcid": "0000-0002-5926-820X",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 6,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 6
     },
     "jason-chin": {
       "papers": [
@@ -53954,9 +54033,8 @@
       "query": "AUTHORID:\"0000-0003-1219-4757\"",
       "orcid": "0000-0003-1219-4757",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 17,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 17
     },
     "jay-keasling": {
       "papers": [
@@ -59237,7 +59315,7 @@
           "doi": "10.1016/j.copbio.2025.103374",
           "pmcid": "PMC12680092",
           "oa": false,
-          "citations": 6,
+          "citations": 13,
           "license": "",
           "url": "https://europepmc.org/article/MED/41161185",
           "authorDetails": [
@@ -61886,7 +61964,7 @@
           "doi": "10.1038/s41467-025-57935-y",
           "pmcid": "PMC11950168",
           "oa": true,
-          "citations": 5,
+          "citations": 7,
           "license": "cc by-nc-nd",
           "url": "https://europepmc.org/article/MED/40148325",
           "authorDetails": [
@@ -63724,7 +63802,7 @@
           "doi": "10.1021/acssynbio.3c00737",
           "pmcid": "PMC11197093",
           "oa": true,
-          "citations": 16,
+          "citations": 17,
           "license": "cc by",
           "url": "https://europepmc.org/article/MED/38820348",
           "authorDetails": [
@@ -68056,7 +68134,8 @@
                 ]
               }
             }
-          ]
+          ],
+          "figure": null
         },
         {
           "id": "MED:37057992",
@@ -107201,9 +107280,8 @@
       "query": "AUTHORID:\"0000-0003-4170-6088\"",
       "orcid": "0000-0003-4170-6088",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 58,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 58
     },
     "jiangyun-wang": {
       "papers": [
@@ -110030,9 +110108,8 @@
       "query": "AUTHORID:\"0000-0002-5974-1562\"",
       "orcid": "0000-0002-5974-1562",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 7,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 7
     },
     "junbiao-dai": {
       "papers": [
@@ -124927,9 +125004,8 @@
       "query": "AUTHORID:\"0000-0002-5299-4700\"",
       "orcid": "0000-0002-5299-4700",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 29,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 29
     },
     "kathrin-lang": {
       "papers": [
@@ -125090,7 +125166,10 @@
             "kind": "摘要图",
             "caption": "",
             "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13564413/"
-          }
+          },
+          "labSources": [
+            "https://lang.ethz.ch/publications.html"
+          ]
         },
         {
           "id": "MED:41196952",
@@ -132901,16 +132980,15 @@
         "url": "https://lang.ethz.ch/publications.html",
         "label": "KLang Lab · Publications",
         "status": "ok",
-        "doiCount": 42,
-        "matched": 33,
+        "doiCount": 43,
+        "matched": 34,
         "images": 0
       },
       "query": "AUTHORID:\"0000-0002-1318-6567\"",
       "orcid": "0000-0002-1318-6567",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 25,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 25
     },
     "nanxi-wang": {
       "papers": [
@@ -135183,9 +135261,8 @@
       "query": "AUTHORID:\"0000-0003-2807-1487\"",
       "orcid": "0000-0003-2807-1487",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 5,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 5
     },
     "nediljko-budisa": {
       "papers": [
@@ -146692,7 +146769,13 @@
               "firstName": "R",
               "initials": "R"
             }
-          ]
+          ],
+          "figure": {
+            "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6c8a/7172399/c3eff96b338c/gr1.jpg",
+            "kind": "正文插图",
+            "caption": "Figure 1 Diagram of  Salmonella  phage P22. The icosahedral head is formed by approximately 420 molecules gp5. The portal protein (gp1) 12-mer is inserted into one icosahedral facet. Up to six tailspike molecules (gp9) are attached to a slender neck structure formed by gp4, gp10 and gp26. This contact is mediated by the N-terminal, head-binding domain. Minor components (gp7, gp16 and gp20) are associated with the portal protein or the DNA.",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7172399/"
+          }
         }
       ],
       "total": 138,
@@ -146709,9 +146792,8 @@
       "query": "AUTHORID:\"0000-0001-8437-7304\"",
       "orcid": "0000-0001-8437-7304",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 32,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 33
     },
     "peilong-lu": {
       "papers": [
@@ -152778,9 +152860,8 @@
       "query": "AUTHORID:\"0000-0001-5894-9268\"",
       "orcid": "0000-0001-5894-9268",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 13,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 13
     },
     "peng-chen": {
       "papers": [
@@ -161676,9 +161757,8 @@
       "query": "AUTHORID:\"0000-0002-0402-7417\"",
       "orcid": "0000-0002-0402-7417",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 18,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 18
     },
     "ryan-mehl": {
       "papers": [
@@ -162189,7 +162269,7 @@
           "doi": "10.1021/jacs.5c02741",
           "pmcid": "PMC12684378",
           "oa": false,
-          "citations": 7,
+          "citations": 11,
           "license": "",
           "url": "https://europepmc.org/article/MED/40493706",
           "authorDetails": [
@@ -165671,9 +165751,8 @@
       "query": "AUTHORID:\"0000-0003-2932-4941\"",
       "orcid": "0000-0003-2932-4941",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 10,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 10
     },
     "shixian-lin": {
       "papers": [
@@ -172750,9 +172829,8 @@
       "query": "AUTHORID:\"0000-0001-9718-9986\"",
       "orcid": "0000-0001-9718-9986",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 13,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 13
     },
     "tao-liu": {
       "papers": [
@@ -179390,9 +179468,8 @@
       "query": "AUTHORID:\"0000-0001-5347-5892\"",
       "orcid": "0000-0001-5347-5892",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 17,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 17
     },
     "thomas-huber": {
       "papers": [
@@ -188642,9 +188719,8 @@
       "query": "AUTHORID:\"0000-0002-3680-8699\"",
       "orcid": "0000-0002-3680-8699",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 10,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 10
     },
     "william-degrado": {
       "papers": [
@@ -199149,9 +199225,8 @@
       "query": "AUTHORID:\"0000-0003-4745-263X\"",
       "orcid": "0000-0003-4745-263X",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 20,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 20
     },
     "xiao-xie": {
       "papers": [
@@ -199340,9 +199415,8 @@
       "query": "AUTHORID:\"0009-0006-6342-2771\"",
       "orcid": "0009-0006-6342-2771",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 0,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 0
     },
     "xiaozhou-luo": {
       "papers": [
@@ -208208,9 +208282,8 @@
       "query": "AUTHORID:\"0000-0001-9808-6890\"",
       "orcid": "0000-0001-9808-6890",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 17,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 17
     },
     "yun-ge": {
       "papers": [
@@ -211364,9 +211437,8 @@
       "query": "AUTHORID:\"0000-0001-6769-5458\"",
       "orcid": "0000-0001-6769-5458",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 6,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 6
     },
     "yuzhou-wu": {
       "papers": [
@@ -222212,11 +222284,10 @@
       "query": "AUTHORID:\"0000-0003-3229-4982\"",
       "orcid": "0000-0003-3229-4982",
       "complete": true,
-      "updated": "2026-09-27T08:07:23.708778+00:00",
-      "imageCount": 18,
-      "error": "HTTP Error 503: Service Temporarily Unavailable"
+      "updated": "2026-09-29T08:27:57.251247+00:00",
+      "imageCount": 18
     }
   },
-  "enrichedAt": "2026-09-28T08:41:52.134034+00:00",
-  "publisherEnrichedAt": "2026-09-28T08:42:41.489611+00:00"
+  "enrichedAt": "2026-09-29T08:30:37.728232+00:00",
+  "publisherEnrichedAt": "2026-09-29T08:31:23.735346+00:00"
 }
