@@ -6963,12 +6963,29 @@
           "onlinePublicationDate": "2019-04-15",
           "printPublicationDate": "2019-05",
           "figure": {
+            "url": "assets/publisher/c1ec875b52f755317206113a427a6e8e.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6524624/",
+            "doi": "10.1039/c8sc05167d",
+            "pmcid": "PMC6524624",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6524624.1/c8sc05167d-ga.jpg",
+            "sha256": "c1ec875b52f755317206113a427a6e8e7b4112e1af34d9bb64082d203078789b",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "publisherImageStatus": "access_restricted",
+          "fallbackFigure": {
             "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/c18f/6524624/3f3d01328231/c8sc05167d-ga.jpg",
             "kind": "正文插图",
             "caption": "A boron and nitrogen containing unnatural analogue of tryptophan is synthesized and incorporated into proteins.",
             "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6524624/"
-          },
-          "publisherImageStatus": "access_restricted"
+          }
         },
         {
           "id": "MED:30909694",
@@ -29158,6 +29175,27 @@
           "onlinePublicationDate": "2022-11-30",
           "printPublicationDate": "2023-01",
           "figure": {
+            "url": "assets/publisher/a7e84f2a5b3a7e1a245558c9b63a4b1d.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10100225/",
+            "doi": "10.1002/anie.202214191",
+            "pmcid": "PMC10100225",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10100225.1/ANIE-62-0-g004.jpg",
+            "sha256": "a7e84f2a5b3a7e1a245558c9b63a4b1d7a07e2f3b6d96e99e23a2eb1db5fe9ad",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/rug.nl/roelfesgroup/publications"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72uDWKU5ZSJrbZHumaUdSWNHKBD74m-XqQ_oH_Whl1fuUWAt9zI6XejVwpsAVOknibikH2fv2x7S3nhM5X7yg-R3t_bYBi1uSsGUzveVtWy3Vmj_Uynqacc02NjXbycgMn4uiq1egHjJykhKrHlk3PUK_gbIHXRSMKL8xgLobK02JVXF-pRrmXVGO5ATu641hGBXhCnHzZ2oe0asBenoibVNNF52GiOv2VgstCNp=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -29165,11 +29203,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/rug.nl/roelfesgroup/publications"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:36606067",
@@ -29226,6 +29260,27 @@
           "onlinePublicationDate": "2022-08-24",
           "printPublicationDate": "2022-09",
           "figure": {
+            "url": "assets/publisher/ab730bf183735638cda17ca58ca2d6e3.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9804301/",
+            "doi": "10.1002/cctc.202200636",
+            "pmcid": "PMC9804301",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9804301.1/CCTC-14-0-g012.jpg",
+            "sha256": "ab730bf183735638cda17ca58ca2d6e351fc85b99d0224884ba33d920a9cb6e3",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/rug.nl/roelfesgroup/publications"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72vUB0fIA4tej6PeEv4OVfvW4rMbc63DqkY_opR7CUat6OJIdx71nC101aD7byv8G10ZJ7HWtisb2d91b7d1rCUzFSG-5HRdctCaj6aMkjyMfAPFyDyOVc2DCdkyuNqJz2qy5Ct-1fsCVz_jrhi4O5MCeMLwQmF4ReZ-sn_W1-_7QRqaX8sMcl-sO8oFF-8-zPSC1tntzIJRxRUbmlja967rh1K5GuG_DVe0sp2P=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -29233,11 +29288,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/rug.nl/roelfesgroup/publications"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:35915643",
@@ -29311,6 +29362,27 @@
           "onlinePublicationDate": "2022-03-04",
           "printPublicationDate": "2022-04",
           "figure": {
+            "url": "assets/publisher/68189b82692cbd7dfd075d57f855c9c0.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9313897/",
+            "doi": "10.1002/cctc.202101875",
+            "pmcid": "PMC9313897",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9313897.1/CCTC-14-0-g002.jpg",
+            "sha256": "68189b82692cbd7dfd075d57f855c9c022cf0dd68a971269fbeae1d693231d63",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/rug.nl/roelfesgroup/publications"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72vQMy5gAcwpiZvB7OdDix3zaqm3gljzffF6l69ej9DE8pbnJey2HBED7b3CTM3uiNAgyIEUCnnVdjVrqXyh0w1Q7_E4XtYAAnkUYyQo2oldIviSheYb3uuZ7xDVt3O-5CbHLrAOl-NYKq5ookhNmhS2N2_m4btI7AdiqplN9rOAouYzIvVltzmHV-68nUDDU6uitvBnGrnTemIhDM6-BJJZiSIgT2CWhgS8KYIqOmw=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -29318,11 +29390,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/rug.nl/roelfesgroup/publications"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:34386272",
@@ -29812,6 +29880,27 @@
           "onlinePublicationDate": "2021-02-01",
           "printPublicationDate": "2021-03",
           "figure": {
+            "url": "assets/publisher/03694d3d65c75c5421e41d261afe0a74.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7986609/",
+            "doi": "10.1002/anie.202014771",
+            "pmcid": "PMC7986609",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7986609.1/ANIE-60-5913-g003.jpg",
+            "sha256": "03694d3d65c75c5421e41d261afe0a747dc0aa7495936458c8d7136c96b308c0",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/rug.nl/roelfesgroup/publications"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72uTnvks2xVSei7YZlHMXAgJ9pGqsc5TWxjNwaHMTh7FgWteDABF5fcQue1y1CTYeSo8DGb9SnGpOXCHc6q0O74M0_8-LG_wcw6xsffDMIBpOxYcUIpmfKQGk7Xv5K5L4bI9S5ar16WtcP771ZNWIcZ0DxVGrLyLndE3-1HDqV6aLsj_H5s9DO3dqcV51YeR_hPwr7lUd5REX25_GMbHPoA6zjeVg7aYuD31XtfzJz4=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -29819,11 +29908,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/rug.nl/roelfesgroup/publications"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:33185967",
@@ -30627,6 +30712,27 @@
           "onlinePublicationDate": "2020-07-17",
           "printPublicationDate": "2020-11",
           "figure": {
+            "url": "assets/publisher/4d91da1ac22c3ee7f10aee2858af8d4d.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7689906/",
+            "doi": "10.1002/cbic.202000306",
+            "pmcid": "PMC7689906",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7689906.1/CBIC-21-3077-g005.jpg",
+            "sha256": "4d91da1ac22c3ee7f10aee2858af8d4d0b078d12c1a74a87d25c4e249e5d71a5",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/rug.nl/roelfesgroup/publications"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72tqwqK5roXGs170o4qt9nYWLodP2r4BA0ihCttahcewHgs9lEe3acbJBiDFmNBxDR45HdukNajPdaWD024Z9oPaznWBmg9YmrSrXkFpdogkqMcP5y4fNJEOW6HXWmcpDYj-jq7vBEfwmXBvqc9F0de5si8niPkoXdhim-HiE4FGVYAb-SMOhitYAy8WFWXccCWe7expUyiaa-pOoJs92iT-PX6Y3TznkQtWRa_DYQ0=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -30634,11 +30740,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/rug.nl/roelfesgroup/publications"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:32432253",
@@ -30926,6 +31028,27 @@
           "onlinePublicationDate": "2020-01-10",
           "printPublicationDate": "2020-05",
           "figure": {
+            "url": "assets/publisher/12e2aa5274b4f51076af4736861411eb.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7317724/",
+            "doi": "10.1002/cbic.201900655",
+            "pmcid": "PMC7317724",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7317724.1/CBIC-21-1320-g007.jpg",
+            "sha256": "12e2aa5274b4f51076af4736861411eb2a7ddc43c2aa0e08c0c0ee4f413d55ce",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/rug.nl/roelfesgroup/publications"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72tMI1efVgSi1LlV8TXo7BgFj6DcGEAvjYiLgsLqapKX0k-gTmOQ0_wo2I3ieFLYEBH17BzDF_cmStiUKErWIM-nFZKEuhPvAiqHYPtPLjBsGy-y7_w6_64fjRcej5T6uAbDihJvy45HP2oxU9wHXuHV_6JxPzJvMngFGQZwZR6RMN49ZFyWR7C09cp4cotwSHxnj_mmy67pfFp92F5IDZECmCmiSJVDU0YPrJt_wJY=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -30933,11 +31056,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/rug.nl/roelfesgroup/publications"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:31915767",
@@ -31135,6 +31254,27 @@
           "onlinePublicationDate": "2019-09-09",
           "printPublicationDate": "2019-10",
           "figure": {
+            "url": "assets/publisher/062e152004fd26e29e967d7d0d46edd7.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6790694/",
+            "doi": "10.1002/chem.201902907",
+            "pmcid": "PMC6790694",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6790694.1/CHEM-25-12698-g007.jpg",
+            "sha256": "062e152004fd26e29e967d7d0d46edd7414f1f25803a82ea7092e978224c3888",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/rug.nl/roelfesgroup/publications"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72trKXac_DJp0GQryQGuYBAcP3QwJd7jwEm3JGVKN8Nk4tKPn8WHljaBzgOdUY_2KqJ6SjhVe7C2-s6a6ayBzrV6uCgeLQao2_nkXhbo5BcL8ZkyFWiTDS9tvduebvv6w3i_m8qM5WvenUYfrhGY5e1L6qbwyXItfSebL3bMWijoLrkr7MP6hNH8T0y4dDhJNUBRLdE56yZ-Cpojz5jpP-Kkx12q-d49QY_mITLc=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -31142,11 +31282,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/rug.nl/roelfesgroup/publications"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:31155430",
@@ -114145,6 +114281,24 @@
           "onlinePublicationDate": "2023-05-18",
           "printPublicationDate": "2023-06",
           "figure": {
+            "url": "assets/publisher/24fd2595959eba7d3a3665c593affb5f.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10246556/",
+            "doi": "10.1039/d2cb00250g",
+            "pmcid": "PMC10246556",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10246556.1/d2cb00250g-ga.jpg",
+            "sha256": "24fd2595959eba7d3a3665c593affb5fb9b439c2537c2a81b1a34195429d096b",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/7de1/10246556/c0b4fbbd28fd/d2cb00250g-ga.jpg",
             "kind": "正文插图",
             "caption": "Enzymes with tyrosine or tryptophan-based radicals catalyze important reactions. Unnatural amino acids are powerful tools in the study and design of these radical enzymes.",
@@ -114152,8 +114306,7 @@
             "provider": "pmc",
             "match": "pmcid",
             "checkedAt": "2026-09-17T07:37:31.010568+00:00"
-          },
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:36417425",
@@ -115203,6 +115356,24 @@
           "onlinePublicationDate": "2021-05-31",
           "printPublicationDate": "2021-07",
           "figure": {
+            "url": "assets/publisher/0ac6bd3bc8e093f423cad2137290afe0.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8261736/",
+            "doi": "10.1039/d1sc02653d",
+            "pmcid": "PMC8261736",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8261736.1/d1sc02653d-ga.jpg",
+            "sha256": "0ac6bd3bc8e093f423cad2137290afe0638c46ced279b763de7b5018ef2c7265",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/4436/8261736/d6b92dad5a65/d1sc02653d-ga.jpg",
             "kind": "正文插图",
             "caption": "A facile bioconjugation reaction for site-specific protein modification was developed for smFRET measurement, which detected the subtle but important conformational change of the β-arrestin/GPCR complex for the first time.",
@@ -115210,8 +115381,7 @@
             "provider": "pmc",
             "match": "pmcid",
             "checkedAt": "2026-09-17T07:37:31.010568+00:00"
-          },
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:33888704",
@@ -168746,6 +168916,24 @@
           "onlinePublicationDate": "2020-01-13",
           "printPublicationDate": "2020-01",
           "figure": {
+            "url": "assets/publisher/5aaecb034c19feb88e722e316643cf11.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8150104/",
+            "doi": "10.1039/c9sc05036a",
+            "pmcid": "PMC8150104",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8150104.1/c9sc05036a-ga.jpg",
+            "sha256": "5aaecb034c19feb88e722e316643cf1109e9d60c5b71de3db685f2cb33d44527",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b745/8150104/c1035705580e/c9sc05036a-ga.jpg",
             "kind": "正文插图",
             "caption": "Spatiotemporally controlled activation: Dox-TCO loaded low pH-sensitive nanovehicles and Tz-containing MMP-2-sensitive nanocarriers simultaneously dissociated in tumor microenvironment, with Dox locally liberated through IEDDA biorthogonal reaction.",
@@ -168753,8 +168941,7 @@
             "provider": "pmc",
             "match": "pmcid",
             "checkedAt": "2026-09-17T07:37:31.010568+00:00"
-          },
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:31615203",
@@ -172602,6 +172789,24 @@
           "onlinePublicationDate": "2021-08-03",
           "printPublicationDate": "2021-09",
           "figure": {
+            "url": "assets/publisher/e68e3624be5aac02463de4462b510e89.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8634729/",
+            "doi": "10.1039/d1sc01914g",
+            "pmcid": "PMC8634729",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC8634729.1/d1sc01914g-ga.jpg",
+            "sha256": "e68e3624be5aac02463de4462b510e898a0c75531b60be5e9222c94255997442",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/d667/8634729/c712154a2ed2/d1sc01914g-ga.jpg",
             "kind": "正文插图",
             "caption": "Acridonylalanine (Acd) is photostable, with a high quantum yield and long fluorescence lifetime in water. An evolved tRNA synthetase (RS) enables genetic incorporation of Acd in mammalian cells and its use in fluorescence lifetime imaging microscopy.",
@@ -172609,8 +172814,7 @@
             "provider": "pmc",
             "match": "pmcid",
             "checkedAt": "2026-09-17T07:37:31.010568+00:00"
-          },
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:33914511",
@@ -173902,12 +174106,29 @@
           "onlinePublicationDate": "2018-07-17",
           "printPublicationDate": "2018-07",
           "figure": {
+            "url": "assets/publisher/22ea50f2e1228f289f9e27f72fd0841b.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6333248/",
+            "doi": "10.1039/c8ra04359k",
+            "pmcid": "PMC6333248",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC",
+            "datasetVersion": 2,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC6333248.2/c8ra04359k-ga.jpg",
+            "sha256": "22ea50f2e1228f289f9e27f72fd0841b8fe6b1c2146214d791912bde7edd7e98",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/ced8/9082658/76e11dc8a6a3/c8ra04359k-ga.jpg",
             "kind": "正文插图",
             "caption": "Optimized chemically-defined lactose-based autoinduction media for superior expression levels of proteins with non-canonical amino acids.",
             "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6333248/"
-          },
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:29921126",
@@ -226981,6 +227202,24 @@
           "onlinePublicationDate": "2020-04-02",
           "printPublicationDate": "2020-04",
           "figure": {
+            "url": "assets/publisher/15ee3c88e4fe924590ffd14d214714be.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9051412/",
+            "doi": "10.1039/d0ra00990c",
+            "pmcid": "PMC9051412",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC9051412.1/d0ra00990c-ga.jpg",
+            "sha256": "15ee3c88e4fe924590ffd14d214714be610fef22f60c052081e493a323638b63",
+            "checkedAt": "2026-10-27T14:53:18.101768+00:00"
+          },
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/6b16/9051412/93a031930b7a/d0ra00990c-ga.jpg",
             "kind": "正文插图",
             "caption": "4lNew α-indolylacrylate derivatives were synthesized by reaction of 2-substituted indoles with various pyruvates using a Brønsted acid ionic liquid catalyst in butyl acetate solvent. This is the first application of pyruvate compounds for the synthesis of indolylacrylates.",
@@ -226988,8 +227227,7 @@
             "provider": "pmc",
             "match": "pmcid",
             "checkedAt": "2026-09-17T07:37:31.010568+00:00"
-          },
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:32146596",
@@ -233694,5 +233932,5 @@
     }
   },
   "publisherEnrichedAt": "2026-10-27T13:28:12.829968+00:00",
-  "automaticGraphicsAt": "2026-10-27T14:42:13.415490+00:00"
+  "automaticGraphicsAt": "2026-10-27T14:53:18.101768+00:00"
 }

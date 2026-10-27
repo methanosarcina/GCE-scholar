@@ -3206,7 +3206,7 @@
     "withImages": 492,
     "labSources": 25,
     "successfulSources": 22,
-    "abstractGraphics": 115,
+    "abstractGraphics": 129,
     "catalogGraphics": 1
   },
   "publisher": {
@@ -14829,22 +14829,22 @@
     }
   ],
   "automaticGraphics": {
-    "updated": "2026-10-27T14:42:13.415490+00:00",
-    "cachedFigures": 16,
+    "updated": "2026-10-27T14:53:18.101768+00:00",
+    "cachedFigures": 30,
     "run": {
-      "rssMatches": 0,
-      "no_repository_media": 12,
-      "no_graphic_detected": 122,
-      "request_failed": 1,
+      "feedsRead": 62,
+      "rssMatches": 2,
+      "cachedImages": 2,
+      "no_graphic_detected": 135,
       "found": 14,
       "repositoryImages": 14,
-      "abstract_media_unavailable": 1
+      "no_repository_media": 1
     },
-    "addedImages": 2,
+    "addedImages": 0,
     "upgradedToAbstract": 14,
     "providers": {
       "publisher-rss": 2,
-      "pmc-cloud": 14
+      "pmc-cloud": 28
     },
     "policy": "Only exact DOI matches in the fixed-ORCID catalog; no UI or browser sessions"
   }
