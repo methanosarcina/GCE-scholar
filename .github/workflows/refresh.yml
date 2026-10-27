@@ -1,5 +1,8 @@
 name: Refresh catalog
 on:
+  push:
+    branches: [main]
+    paths: [collect.py]
   schedule:
     # Run once per day; the catalog keeps the exact ORCID matches and the
     # publisher-image cache is refreshed incrementally.
@@ -17,9 +20,12 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install -r requirements.txt
-      - run: python collect.py --resolved-all --figures 4
-      - run: python enrich.py --all-oa
-      - run: python publisher.py --retry
+      - run: python -m unittest discover -s tests
+      - run: python collect.py --resolved-all --figures ${{ github.event_name == 'push' && '0' || '4' }}
+      - if: github.event_name != 'push'
+        run: python enrich.py --all-oa
+      - if: github.event_name != 'push'
+        run: python publisher.py --retry
       - run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

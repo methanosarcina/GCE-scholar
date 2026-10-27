@@ -3,6 +3,10 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  workflow_run:
+    workflows: [Refresh catalog]
+    types: [completed]
+    branches: [main]
 permissions:
   contents: read
   pages: write
@@ -12,12 +16,14 @@ concurrency:
   cancel-in-progress: true
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
+      - run: node --test tests/test_dates.cjs
       - uses: actions/configure-pages@v5
       - run: |
           mkdir -p _site/data

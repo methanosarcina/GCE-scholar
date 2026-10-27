@@ -36,6 +36,14 @@ python -m unittest discover -s tests
 
 采集失败保留原有符合固定 ORCID 的记录。更新会保留已核对的配图。图片及论文的许可不属于本仓库代码的 MIT 许可范围。
 
+## 发表日期
+
+- 卡片和论文详情显示来源实际提供的日期；“最新发表”和“最早发表”按年、月、日排序，同年论文也按日期排列。
+- 优先显示 Europe PMC 的 electronicPublicationDate（在线发表）；详情同时保留期刊原始出版日期 dateOfPublication。
+- 缺少具体日时显示 YYYY-MM 并注明“未提供具体日”；仅有年份时显示 YYYY 并注明“仅提供年份”。
+- 不将可能补齐了月、日的 firstPublicationDate 或 printPublicationDate 当作精确日期，也不使用收录、创建或修订日期代替发表日期。排序时缺失月、日采用对应区间起点；页面仍保留真实精度。
+- Refresh catalog 成功完成后通过 workflow_run 触发 Pages 发布，保证定时更新会出现在网站上。修改 collect.py 时先进行一次不抓取新图片的元数据刷新。
+
 ## 官网核对与配图
 
 - lab_sources.json 保存 25 位学者的课题组网页或官方机构资料页。部分网页仅列代表性论文；无法访问、动态内容和没有 DOI 的条目会限制覆盖。

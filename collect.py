@@ -40,6 +40,41 @@ def matches_orcid(paper, orcid):
                and a['authorId'].get('value') == orcid
                for a in paper.get('authorDetails', []))
 
+def publication_date(value):
+    """Keep supplied precision; never turn a missing day into day 01."""
+    value = str(value or '').strip()
+    iso = re.fullmatch(r'(\d{4})(?:-(\d{2})(?:-(\d{2}))?)?', value)
+    if iso:
+        year, month, day = iso.groups()
+        try:
+            datetime.date(int(year), int(month or 1), int(day or 1))
+        except ValueError:
+            return ''
+        return value
+    # Original issue date preserves precision; normalized dates may be padded.
+    parts = re.fullmatch(r'(\d{4})(?:\s+([A-Za-z]{3})(?:\s+(\d{1,2}))?)?', value)
+    if not parts:
+        return ''
+    year, month, day = parts.groups()
+    if not month:
+        return publication_date(year)
+    months = {name: i for i, name in enumerate(
+        ('jan', 'feb', 'mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec'), 1)}
+    number = months.get(month.lower())
+    if not number:
+        return ''
+    return publication_date(f'{year}-{number:02d}' + (f'-{int(day):02d}' if day else ''))
+
+def publication_dates(p):
+    online = publication_date(p.get('electronicPublicationDate'))
+    issue = publication_date(p.get('journalInfo', {}).get('dateOfPublication'))
+    # Indexing, creation, and revision dates are not publication dates.
+    date = online or issue or publication_date(p.get('pubYear'))
+    return dict(publicationDate=date,
+                datePrecision={4: 'year', 7: 'month', 10: 'day'}.get(len(date), ''),
+                dateSource='online' if online else ('print' if issue else ''),
+                onlinePublicationDate=online, printPublicationDate=issue)
+
 def normalize(p):
     return dict(id=p['source'] + ':' + p['id'], title=plain(p.get('title')), year=p.get('pubYear', ''),
                 journal=p.get('journalInfo', {}).get('journal', {}).get('title', ''),
@@ -47,7 +82,7 @@ def normalize(p):
                 doi=p.get('doi', ''), pmcid=p.get('pmcid', ''), oa=p.get('isOpenAccess') == 'Y',
                 citations=p.get('citedByCount', 0), license=p.get('license', ''),
                 url='https://europepmc.org/article/' + p['source'] + '/' + p['id'],
-                authorDetails=p.get('authorList', {}).get('author', []))
+                authorDetails=p.get('authorList', {}).get('author', []), **publication_dates(p))
 
 def search(query, cursor='*', size=36):
     data = json.loads(fetch(API + 'search?' + urllib.parse.urlencode(dict(
@@ -139,9 +174,11 @@ def main():
         return s['id'], entry
     with concurrent.futures.ThreadPoolExecutor(max_workers=3) as pool:
         result['scholars'] = dict(pool.map(one, scholars))
+    if result['scholars'] and all(e.get('error') for e in result['scholars'].values()):
+        raise RuntimeError('All scholar requests failed; the existing catalog was kept unchanged')
     path.parent.mkdir(exist_ok=True)
     temp = path.with_suffix('.tmp')
-    temp.write_text(json.dumps(result, ensure_ascii=False), encoding='utf-8')
+    temp.write_text(json.dumps(result, ensure_ascii=False, indent=2), encoding='utf-8')
     temp.replace(path)
 
 if __name__ == '__main__':
