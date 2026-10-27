@@ -635,6 +635,21 @@
       "evidence": "Image inside publisher abstract section",
       "publisherLabel": "Image inside publisher abstract section",
       "checkedAt": "2026-10-25T07:35:17.233982+00:00"
+    },
+    "10.1021/acschembio.6c00476": {
+      "url": "assets/publisher/840daf663c17ab2f22d433711b7e5a46.png",
+      "kind": "摘要图",
+      "caption": "出版社原文摘要配图。",
+      "source": "https://pubs.acs.org/acbcct/article-abstract/21/10/2611/5427262/Development-of-m6A-Readers-for-Enhanced",
+      "provider": "publisher",
+      "match": "exact-doi",
+      "doi": "10.1021/acschembio.6c00476",
+      "evidence": "graphical-abstract",
+      "publisherLabel": "graphical-abstract",
+      "storage": "local",
+      "publisherAsset": "https://acs.silverchair-cdn.com/acs/content_public/journal/acbcct/21/10/10.1021_acschembio.6c00476/1/cb-2026-00476x_0006.png",
+      "sha256": "840daf663c17ab2f22d433711b7e5a46a99748958d4d56db57f9b41024e3243a",
+      "checkedAt": "2026-10-27T13:28:12.829968+00:00"
     }
   },
   "attempts": {
@@ -946,10 +961,10 @@
       "checkedAt": "2026-10-27T07:51:01.995573+00:00"
     },
     "10.1021/acschembio.6c00476": {
-      "status": "access_restricted",
-      "source": "https://pubs.acs.org/doi/10.1021/acschembio.6c00476",
-      "httpStatus": 403,
-      "checkedAt": "2026-10-27T07:51:01.995573+00:00"
+      "status": "found",
+      "source": "https://pubs.acs.org/acbcct/article-abstract/21/10/2611/5427262/Development-of-m6A-Readers-for-Enhanced",
+      "method": "verified-page-snapshot",
+      "checkedAt": "2026-10-27T13:28:12.829968+00:00"
     },
     "10.1002/anie.202423172": {
       "status": "host_deferred",
@@ -10521,13 +10536,13 @@
     }
   },
   "summary": {
-    "updated": "2026-10-27T07:51:01.995573+00:00",
+    "updated": "2026-10-27T13:28:12.829968+00:00",
     "doiPapers": 1722,
-    "publisherGraphics": 53,
+    "publisherGraphics": 54,
     "statuses": {
-      "access_restricted": 51,
+      "access_restricted": 50,
       "host_deferred": 1202,
-      "found": 53,
+      "found": 54,
       "no_graphic_detected": 382,
       "doi_not_verified": 16,
       "request_failed": 1,

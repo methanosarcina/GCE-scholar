@@ -61,6 +61,8 @@ python -m unittest discover -s tests
 
 GitHub 的手动 Refresh catalog 工作流会重新核对尚未配图的出版社条目，使当前环境的访问失败不会永久阻止后续补图。已找到的摘要图继续使用缓存。
 
+对于已能在普通浏览器打开、但自动请求被 403 拒绝的公开摘要页，维护者可导出只含页面 DOI、Visual Abstract 区块的 JSON 快照（字段 `doi`、`source`、`html`），运行 `python publisher.py --page-snapshot snapshot.json`。仅接受已在固定 ORCID 目录中的 DOI，并重新验证图片的实际 GET 响应；不会新增论文或导入浏览器登录信息。带签名有效期的公开图片保存在 `assets/publisher/`，详情保留出版社出处；这些图片不适用代码的 MIT 许可。自动更新与 Pages 发布均会保留这些文件。
+
 ## GitHub Pages
 
 将源码上传到公开仓库。在 Settings → Pages 中选择 GitHub Actions，然后运行 Deploy Pages。工作流发布网页、学者配置、论文快照和来源核对报告。

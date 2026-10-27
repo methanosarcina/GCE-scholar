@@ -3,7 +3,9 @@ const esc = text => String(text ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<
 const safeURL = value => { try { const u = new URL(value); return u.protocol === 'https:' ? u.href : '#'; } catch { return '#'; } };
 let scholars = [], catalog, current, entry;
 let sourceReport = null;
-const figureLabel = p => p.figure?.provider === 'publisher' ? '摘要图 · 出版社' : (p.figure?.kind || '文献封面');
+const safeImageURL = value => /^assets\/publisher\/[a-f0-9]{32}\.(png|jpg|gif|webp)$/.test(value || '') ? new URL(value,document.baseURI).href : safeURL(value);
+const imageAccessRestricted = p => ['access_restricted','host_deferred'].includes(p.publisherImageStatus);
+const figureLabel = p => p.figure?.provider === 'publisher' ? '摘要图 · 出版社' : (p.figure?.kind || (imageAccessRestricted(p) ? '原图获取受限 · 文献封面' : '文献封面'));
 const publisherStatus = s => ({found:'已配上出版社摘要图',host_deferred:'站点访问受限，未逐篇读取',access_restricted:'访问受限',no_graphic_detected:'本次未检测到摘要图',doi_not_verified:'页面 DOI 未能核对',doi_mismatch:'页面 DOI 不符',image_unavailable:'图片地址暂不可用',request_failed:'网络请求失败',http_error:'页面请求失败'}[s] || s);
 function publisherCoverage(r) {
   if (!r.publisher) return '';
@@ -23,7 +25,7 @@ function cover(p) {
   return `<div class="paper-cover"><div class="cover-journal">${esc(p.journal || 'RESEARCH PAPER')}</div><div class="cover-year">${esc(p.year)}</div><div class="cover-title">${esc(p.title)}</div><div class="cover-note">文献封面 · 非原文图片</div></div>`;
 }
 function visual(p) {
-  return `<div class="visual ${p.figure ? '' : 'no-image'}">${p.figure ? `<img loading="lazy" src="${esc(safeURL(p.figure.url))}" alt="${esc(figureLabel(p))}"><div class="image-fallback" hidden>${cover(p)}</div>` : cover(p)}<span class="tag">${esc(figureLabel(p))}</span></div>`;
+  return `<div class="visual ${p.figure ? '' : 'no-image'}">${p.figure ? `<img loading="lazy" src="${esc(safeImageURL(p.figure.url))}" alt="${esc(figureLabel(p))}"><div class="image-fallback" hidden>${cover(p)}</div>` : cover(p)}<span class="tag">${esc(figureLabel(p))}</span></div>`;
 }
 function nav() {
   const term = $('scholar-search').value.toLowerCase();
@@ -70,7 +72,7 @@ function render() {
   $('papers').querySelectorAll('img').forEach(img => img.onerror = () => { img.hidden = true; img.parentElement.querySelector('.image-fallback').hidden = false; img.parentElement.classList.add('no-image'); img.parentElement.querySelector('.tag').textContent = '原图暂不可用 · 文献封面'; });
 }
 function detail(p) {
-  $('detail-content').innerHTML = `<p class="eyebrow">${esc(p.journal)}</p><h2>${esc(p.title)}</h2><div class="paper-date">${dateMarkup(p)}</div>${p.onlinePublicationDate && p.printPublicationDate ? `<p class="caption">期刊出版日期：<time datetime="${esc(p.printPublicationDate)}">${esc(p.printPublicationDate)}</time>${p.printPublicationDate.length < 10 ? '（来源未提供具体日）' : ''}</p>` : ''}<p class="caption authors">${esc(p.authors)}</p>${p.figure ? `<img src="${esc(safeURL(p.figure.url))}" alt="${esc(p.figure.kind)}"><p class="caption">${esc(p.figure.kind)} · ${esc(p.figure.caption)}<br><a target="_blank" rel="noopener" href="${esc(safeURL(p.figure.source))}">图片来源 ↗</a>${esc(p.license)}</p>` : ''}<h3>摘要</h3><p>${esc(p.abstract || '数据源未提供摘要，请访问原文。')}</p><a target="_blank" rel="noopener" href="${esc(safeURL(p.url))}">Europe PMC ↗</a>${p.doi ? `<a target="_blank" rel="noopener" href="https://doi.org/${encodeURIComponent(p.doi)}">出版社原文 ↗</a>` : ''}<details><summary>作者机构与 ORCID（用于身份核对）</summary><ul>${(p.authorDetails||[]).map(a=>`<li><b>${esc(a.firstName || '')} ${esc(a.lastName || a.fullName)}</b> ${esc(a.authorId?.value || '')}<br>${esc((a.authorAffiliationDetailsList?.authorAffiliation || []).map(x=>x.affiliation).join(' / '))}</li>`).join('')}</ul></details>`;
+  $('detail-content').innerHTML = `<p class="eyebrow">${esc(p.journal)}</p><h2>${esc(p.title)}</h2><div class="paper-date">${dateMarkup(p)}</div>${p.onlinePublicationDate && p.printPublicationDate ? `<p class="caption">期刊出版日期：<time datetime="${esc(p.printPublicationDate)}">${esc(p.printPublicationDate)}</time>${p.printPublicationDate.length < 10 ? '（来源未提供具体日）' : ''}</p>` : ''}<p class="caption authors">${esc(p.authors)}</p>${p.figure ? `<img src="${esc(safeImageURL(p.figure.url))}" alt="${esc(p.figure.kind)}"><p class="caption">${esc(p.figure.kind)} · ${esc(p.figure.caption)}<br><a target="_blank" rel="noopener" href="${esc(safeURL(p.figure.source))}">图片来源 ↗</a>${esc(p.license)}</p>` : ''}<h3>摘要</h3><p>${esc(p.abstract || '数据源未提供摘要，请访问原文。')}</p><a target="_blank" rel="noopener" href="${esc(safeURL(p.url))}">Europe PMC ↗</a>${p.doi ? `<a target="_blank" rel="noopener" href="https://doi.org/${encodeURIComponent(p.doi)}">出版社原文 ↗</a>` : ''}<details><summary>作者机构与 ORCID（用于身份核对）</summary><ul>${(p.authorDetails||[]).map(a=>`<li><b>${esc(a.firstName || '')} ${esc(a.lastName || a.fullName)}</b> ${esc(a.authorId?.value || '')}<br>${esc((a.authorAffiliationDetailsList?.authorAffiliation || []).map(x=>x.affiliation).join(' / '))}</li>`).join('')}</ul></details>`;
   $('detail').showModal();
   const detailImage = $('detail-content').querySelector('img');
   if (detailImage) detailImage.onerror = () => { detailImage.hidden = true; detailImage.insertAdjacentHTML('afterend', cover(p)); };

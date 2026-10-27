@@ -7,6 +7,8 @@ import argparse
 import collections
 import concurrent.futures
 import datetime
+import hashlib
+from pathlib import Path
 import json
 import re
 import threading
@@ -138,6 +140,52 @@ def clean_source(url):
     p=urllib.parse.urlsplit(url)
     return urllib.parse.urlunsplit((p.scheme,p.netloc,p.path,'',''))
 
+def verify_image(fig):
+    """Validate the actual GET response; keep expiring public images in assets."""
+    request=urllib.request.Request(fig['url'],headers={'User-Agent':AGENT})
+    signed=any(key.lower() in ('signature','policy','x-amz-signature','x-goog-signature')
+               for key in urllib.parse.parse_qs(urllib.parse.urlsplit(fig['url']).query))
+    with urllib.request.urlopen(request,timeout=15) as response:
+        mime=response.headers.get('Content-Type','').split(';',1)[0].lower()
+        if not mime.startswith('image/'):
+            raise ValueError('Image endpoint did not return an image')
+        payload=response.read(8_388_609 if signed else 32)
+    if not signed:
+        return fig
+    if len(payload)>8_388_608:
+        raise ValueError('Publisher image exceeds cache size limit')
+    extension=('png' if payload.startswith(b'\x89PNG\r\n\x1a\n') else
+               'jpg' if payload.startswith(b'\xff\xd8\xff') else
+               'gif' if payload.startswith((b'GIF87a',b'GIF89a')) else
+               'webp' if payload.startswith(b'RIFF') and payload[8:12]==b'WEBP' else None)
+    if not extension:
+        raise ValueError('Unsupported or invalid publisher image data')
+    name=hashlib.sha256(payload).hexdigest()[:32]+'.'+extension
+    path=ROOT/'assets'/'publisher'/name
+    path.parent.mkdir(parents=True,exist_ok=True)
+    temp=path.with_suffix(path.suffix+'.tmp')
+    temp.write_bytes(payload)
+    temp.replace(path)
+    return {**fig,'url':'assets/publisher/'+name,'storage':'local',
+            'publisherAsset':clean_source(fig['url']),
+            'sha256':hashlib.sha256(payload).hexdigest()}
+
+def inspect_snapshot(snapshot, bydoi):
+    doi=canonical(snapshot.get('doi'))
+    if doi not in bydoi:
+        raise ValueError('Snapshot DOI is not in the existing ORCID-qualified catalog')
+    source=https_url(snapshot.get('source'),'')
+    if not source:
+        raise ValueError('Publisher snapshot source must be HTTPS')
+    candidates,status=parse_publisher(snapshot.get('html',''),source,doi)
+    for fig in candidates:
+        try:
+            return doi,verify_image(fig),{'status':'found','source':source,'method':'verified-page-snapshot'}
+        except Exception:
+            continue
+    return doi,None,{'status':'image_unavailable' if candidates else status,'source':source,
+                     'method':'verified-page-snapshot'}
+
 def inspect(doi):
     source=landing_url(doi)
     try:
@@ -148,10 +196,7 @@ def inspect(doi):
         candidates,status=parse_publisher(html,source,doi)
         for fig in candidates:
             try:
-                req=urllib.request.Request(fig['url'],method='HEAD',headers={'User-Agent':AGENT})
-                with urllib.request.urlopen(req,timeout=10) as r:
-                    if r.headers.get('Content-Type','').lower().startswith('image/'):
-                        return fig,{'status':'found','source':source}
+                return verify_image(fig),{'status':'found','source':source}
             except Exception:pass
         return None,{'status':'image_unavailable' if candidates else status,'source':source}
     except AccessDeferred as e:return None,{'status':'host_deferred','source':source,'detail':str(e)}
@@ -165,7 +210,10 @@ def main():
     parser.add_argument('--retry',action='store_true',help='Revisit previously unsuccessful attempts')
     parser.add_argument('--apply-only',action='store_true',help='Apply cached verified images without network requests')
     parser.add_argument('--retry-network',action='store_true',help='Retry only network/image failures, not access restrictions or parsed pages')
+    parser.add_argument('--page-snapshot',type=Path,help='Import a DOI-verified public publisher HTML snapshot; checks only that existing paper')
     args=parser.parse_args()
+    if args.page_snapshot and args.apply_only:
+        parser.error('--page-snapshot validates the image over the network; omit --apply-only')
     catalog=json.loads((ROOT/'data/catalog.json').read_text(encoding='utf8'))
     scholars=json.loads((ROOT/'scholars.json').read_text(encoding='utf8'))
     path=ROOT/'data/publisher-graphics.json'
@@ -185,8 +233,17 @@ def main():
         for group in groups.values():
             if group:todo.append(group.pop(0))
     if args.limit:todo=todo[:args.limit]
-    if args.apply_only:todo=[]
+    if args.apply_only or args.page_snapshot:todo=[]
     now=datetime.datetime.now(datetime.timezone.utc).isoformat()
+    if args.page_snapshot:
+        snapshot=json.loads(args.page_snapshot.read_text(encoding='utf8'))
+        doi,fig,status=inspect_snapshot(snapshot,bydoi)
+        cache['attempts'][doi]={**status,'checkedAt':now}
+        if fig:
+            fig['checkedAt']=now
+            cache['figures'][doi]=fig
+        if not fig:
+            raise ValueError('No verified abstract image in the publisher snapshot: '+status['status'])
     print('Publisher DOIs to inspect:',len(todo),flush=True)
     with concurrent.futures.ThreadPoolExecutor(max_workers=6) as pool:
         for i,(doi,result) in enumerate(zip(todo,pool.map(inspect,todo)),1):
@@ -205,6 +262,10 @@ def main():
         for p in bydoi.get(doi,[]):
             if p.get('figure') and p['figure'].get('provider')!='publisher':p['fallbackFigure']=p['figure']
             p['figure']=fig
+    for doi,papers in bydoi.items():
+        status=cache['attempts'].get(doi,{}).get('status')
+        if status:
+            for paper in papers:paper['publisherImageStatus']=status
     for entry in catalog['scholars'].values():
         entry['imageCount']=sum(bool(p.get('figure')) for p in entry['papers'])
     unique={p['id']:p for e in catalog['scholars'].values() for p in e['papers']}

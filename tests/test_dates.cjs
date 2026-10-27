@@ -37,3 +37,14 @@ test('year filter and citation sort still work, including records without dates'
   elements.get('year').value='2026';
   assert.equal(run("filtered().map(p=>p.id).join(',')"),'b');
 });
+
+test('cached publisher images stay inside the gallery asset directory',()=>{
+  const {run}=app();
+  run("document.baseURI='https://gallery.example/GCE-scholar/'");
+  const asset='assets/publisher/'+'a'.repeat(32)+'.png';
+  assert.equal(run('safeImageURL('+JSON.stringify(asset)+')'),'https://gallery.example/GCE-scholar/'+asset);
+  assert.equal(run("safeImageURL('../private.png')"),'#');
+  assert.equal(run("safeImageURL('assets/publisher/../../private.png')"),'#');
+  assert.equal(run("safeImageURL('javascript:alert(1)')"),'#');
+  assert.equal(run("figureLabel({publisherImageStatus:'access_restricted'})"),'原图获取受限 · 文献封面');
+});

@@ -1,4 +1,6 @@
 import unittest
+import io
+import base64
 import json
 import tempfile
 from pathlib import Path
@@ -56,6 +58,56 @@ class PublisherTests(unittest.TestCase):
         req=urllib.request.Request('https://doi.org/10.1007/test')
         redirected=publisher.PoliteRedirect().redirect_request(req,None,302,'',{},'http://link.springer.com/article/10.1007/test')
         self.assertEqual(redirected.full_url,'https://link.springer.com/article/10.1007/test')
+
+    def test_acs_visual_abstract_in_nested_silverchair_section(self):
+        doi='10.1021/acschembio.6c00476'
+        source='https://pubs.acs.org/acbcct/article-abstract/21/10/2611/5427262/article'
+        image='https://acs.silverchair-cdn.com/acs/abstract.png?Expires=123&amp;Signature=public'
+        html='<meta name="citation_doi" content="'+doi+'"><div class="figure-table-wrapper graphical-abstract"><h2>Visual Abstract</h2><div class="fig"><a><img src="'+image+'" alt="Figure. Refer to the image caption for details."></a></div></div><div class="fig-modal"><img src="'+image+'"></div><figure><img src="body.png"></figure>'
+        figures,status=parse_publisher(html,source,doi)
+        self.assertEqual(status,'found_candidates')
+        self.assertEqual(len(figures),1)
+        self.assertEqual(figures[0]['doi'],doi)
+        self.assertIn('Signature=public',figures[0]['url'])
+
+    def image_response(self, payload, mime='image/png'):
+        response=io.BytesIO(payload)
+        response.headers={'Content-Type':mime}
+        return response
+
+    def test_signed_image_is_cached_without_publishing_expiring_query(self):
+        payload=base64.b64decode('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jA1cAAAAASUVORK5CYII=')
+        fig={'url':'https://acs.silverchair-cdn.com/abstract.png?Expires=123&Signature=public','provider':'publisher','source':self.source,'kind':'摘要图'}
+        with tempfile.TemporaryDirectory() as folder, patch.object(publisher,'ROOT',Path(folder)), patch.object(publisher.urllib.request,'urlopen',return_value=self.image_response(payload)) as request:
+            cached=publisher.verify_image(fig)
+            self.assertEqual(request.call_args.args[0].get_method(),'GET')
+            self.assertEqual(request.call_args.args[0].full_url,fig['url'])
+            self.assertRegex(cached['url'],r'^assets/publisher/[a-f0-9]{32}\.png$')
+            self.assertEqual((Path(folder)/cached['url']).read_bytes(),payload)
+            self.assertEqual(cached['publisherAsset'],'https://acs.silverchair-cdn.com/abstract.png')
+            self.assertNotIn('Signature',__import__('json').dumps(cached))
+            self.assertEqual(cached['source'],self.source)
+
+    def test_public_static_image_uses_get_and_keeps_original_url(self):
+        fig={'url':'https://images.edu/abstract.png','source':self.source}
+        with patch.object(publisher.urllib.request,'urlopen',return_value=self.image_response(b'PNG data')) as request:
+            self.assertEqual(publisher.verify_image(fig),fig)
+            self.assertEqual(request.call_args.args[0].get_method(),'GET')
+
+    def test_access_challenge_html_is_not_an_image(self):
+        fig={'url':'https://images.edu/abstract.png?Signature=public'}
+        with patch.object(publisher.urllib.request,'urlopen',return_value=self.image_response(b'<html>Access denied</html>','text/html')):
+            with self.assertRaisesRegex(ValueError,'did not return an image'):
+                publisher.verify_image(fig)
+
+    def test_snapshot_cannot_add_an_unknown_doi_or_use_mismatched_metadata(self):
+        snapshot={'doi':self.doi,'source':self.source,'html':'<meta name="citation_doi" content="10.1038/wrong"><img alt="Visual Abstract" src="ga.png">'}
+        with patch.object(publisher,'verify_image',side_effect=AssertionError('Unexpected request')):
+            with self.assertRaisesRegex(ValueError,'existing ORCID-qualified catalog'):
+                publisher.inspect_snapshot(snapshot,{})
+            doi,fig,status=publisher.inspect_snapshot(snapshot,{self.doi:[]})
+            self.assertEqual(status['status'],'doi_mismatch')
+            self.assertIsNone(fig)
 
     def test_cached_application_handles_null_images_and_preserves_orcid(self):
         with tempfile.TemporaryDirectory() as folder:

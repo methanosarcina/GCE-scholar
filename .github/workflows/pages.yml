@@ -30,6 +30,7 @@ jobs:
           cp index.html app.js style.css scholars.json _site/
           cp data/catalog.json _site/data/
           cp data/source-report.json _site/data/
+          if [ -d assets ]; then cp -R assets _site/assets; fi
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

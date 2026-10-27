@@ -3203,19 +3203,19 @@
   "policy": "Only existing ORCID-qualified papers may be enriched.",
   "summary": {
     "uniquePapers": 1725,
-    "withImages": 489,
+    "withImages": 490,
     "labSources": 25,
     "successfulSources": 22,
-    "abstractGraphics": 100
+    "abstractGraphics": 101
   },
   "publisher": {
-    "updated": "2026-10-27T07:51:01.995573+00:00",
+    "updated": "2026-10-27T13:28:12.829968+00:00",
     "doiPapers": 1722,
-    "publisherGraphics": 53,
+    "publisherGraphics": 54,
     "statuses": {
-      "access_restricted": 51,
+      "access_restricted": 50,
       "host_deferred": 1202,
-      "found": 53,
+      "found": 54,
       "no_graphic_detected": 382,
       "doi_not_verified": 16,
       "request_failed": 1,
@@ -3586,10 +3586,10 @@
     },
     {
       "doi": "10.1021/acschembio.6c00476",
-      "status": "access_restricted",
-      "source": "https://pubs.acs.org/doi/10.1021/acschembio.6c00476",
-      "httpStatus": 403,
-      "checkedAt": "2026-10-27T07:51:01.995573+00:00"
+      "status": "found",
+      "source": "https://pubs.acs.org/acbcct/article-abstract/21/10/2611/5427262/Development-of-m6A-Readers-for-Enhanced",
+      "method": "verified-page-snapshot",
+      "checkedAt": "2026-10-27T13:28:12.829968+00:00"
     },
     {
       "doi": "10.1002/anie.202423172",
