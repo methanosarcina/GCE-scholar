@@ -4,7 +4,7 @@ on:
     branches: [main]
   workflow_dispatch:
   workflow_run:
-    workflows: [Refresh catalog]
+    workflows: [Refresh catalog, Refresh illustrations]
     types: [completed]
     branches: [main]
 permissions:

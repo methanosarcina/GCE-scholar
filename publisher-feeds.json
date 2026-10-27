@@ -1,0 +1,130 @@
+{
+  "source": "https://pubs.acs.org/pages/rss",
+  "verified": "2026-10-27",
+  "journals": [
+    {
+      "journal": "Accounts of chemical research",
+      "code": "achre4"
+    },
+    {
+      "journal": "ACS applied materials & interfaces",
+      "code": "aamick"
+    },
+    {
+      "journal": "ACS catalysis",
+      "code": "accacs"
+    },
+    {
+      "journal": "ACS central science",
+      "code": "acscii"
+    },
+    {
+      "journal": "ACS chemical biology",
+      "code": "acbcct"
+    },
+    {
+      "journal": "ACS infectious diseases",
+      "code": "aidcbc"
+    },
+    {
+      "journal": "ACS medicinal chemistry letters",
+      "code": "amclct"
+    },
+    {
+      "journal": "ACS nano",
+      "code": "ancac3"
+    },
+    {
+      "journal": "ACS omega",
+      "code": "acsodf"
+    },
+    {
+      "journal": "ACS sensors",
+      "code": "ascefj"
+    },
+    {
+      "journal": "ACS synthetic biology",
+      "code": "asbcd6"
+    },
+    {
+      "journal": "Analytical chemistry",
+      "code": "ancham"
+    },
+    {
+      "journal": "Biochemistry",
+      "code": "bichaw"
+    },
+    {
+      "journal": "Bioconjugate chemistry",
+      "code": "bcches"
+    },
+    {
+      "journal": "Biomacromolecules",
+      "code": "bomaf6"
+    },
+    {
+      "journal": "Chemical reviews",
+      "code": "chreay"
+    },
+    {
+      "journal": "Environmental science & technology",
+      "code": "esthag"
+    },
+    {
+      "journal": "Inorganic chemistry",
+      "code": "inocaj"
+    },
+    {
+      "journal": "JACS Au",
+      "code": "jaaucr"
+    },
+    {
+      "journal": "Journal of agricultural and food chemistry",
+      "code": "jafcau"
+    },
+    {
+      "journal": "Journal of chemical information and modeling",
+      "code": "jcisd8"
+    },
+    {
+      "journal": "Journal of chemical theory and computation",
+      "code": "jctcce"
+    },
+    {
+      "journal": "Journal of medicinal chemistry",
+      "code": "jmcmar"
+    },
+    {
+      "journal": "Journal of natural products",
+      "code": "jnprdf"
+    },
+    {
+      "journal": "Journal of proteome research",
+      "code": "jprobs"
+    },
+    {
+      "journal": "Journal of the American Chemical Society",
+      "code": "jacsat"
+    },
+    {
+      "journal": "The journal of physical chemistry. A",
+      "code": "jpcafh"
+    },
+    {
+      "journal": "The journal of physical chemistry. B",
+      "code": "jpcbfk"
+    },
+    {
+      "journal": "The journal of physical chemistry letters",
+      "code": "jpclcd"
+    },
+    {
+      "journal": "Nano letters",
+      "code": "nalefd"
+    },
+    {
+      "journal": "Organic letters",
+      "code": "orlef7"
+    }
+  ]
+}

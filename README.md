@@ -50,7 +50,7 @@ python -m unittest discover -s tests
 - enrich.py 只用精确 DOI 对照已有目录，绝不凭官网姓名新增文章。未匹配 DOI 写入 data/source-report.json，网页“官方来源”按钮可查看核对结果。
 - 配图只取与单篇 DOI 对应的网页区块，并检查图片地址；开放获取全文则通过 PMCID 匹配图片。详情页提供来源链接。官网配图、正文插图和摘要图分别标注，不能混称为摘要图。
 - 每篇文章都有视觉封面。无可用原图时显示期刊、年份和标题组成的“文献封面 · 非原文图片”；外部图片加载失败也自动回退，不伪造科学示意图。
-- 图片由原网站提供，可能受网络、来源变更或防外链限制。“只看真实配图”按已核对的图片记录筛选，不保证外部图片一直可访问。
+- 图片源自出版社、课题组及开放仓储；通过自动校验的图片会缓存到本站，其他外链仍可能受来源变更或防外链限制。“只看真实配图”按已核对的图片记录筛选，不保证外部图片一直可访问。
 - data/enrichment.json 缓存配图及全文检查结果。常规更新跳过已检查的无图文章；需要重新检查时运行 `python enrich.py --all-oa --retry`。仅更新官网可用 `python enrich.py --labs-only`。
 
 ## 出版社 Visual / Graphical Abstract
@@ -62,6 +62,26 @@ python -m unittest discover -s tests
 GitHub 的手动 Refresh catalog 工作流会重新核对尚未配图的出版社条目，使当前环境的访问失败不会永久阻止后续补图。已找到的摘要图继续使用缓存。
 
 对于已能在普通浏览器打开、但自动请求被 403 拒绝的公开摘要页，维护者可导出只含页面 DOI、Visual Abstract 区块的 JSON 快照（字段 `doi`、`source`、`html`），运行 `python publisher.py --page-snapshot snapshot.json`。仅接受已在固定 ORCID 目录中的 DOI，并重新验证图片的实际 GET 响应；不会新增论文或导入浏览器登录信息。带签名有效期的公开图片保存在 `assets/publisher/`，详情保留出版社出处；这些图片不适用代码的 MIT 许可。自动更新与 Pages 发布均会保留这些文件。
+
+## 无需人工操作的批量配图
+
+运行 python graphics.py 即可按目录中固定 ORCID 已确认的 DOI 批量补图，不需要浏览器、鼠标、登录状态或逐篇页面快照。
+
+- 出版社 RSS：publisher-feeds.json 保存 ACS 官方期刊 RSS 目录，也支持为其他出版社配置期刊级 feeds 链接；不需要为每篇文章编写规则。程序读取所需期刊的 ASAP 和当前期 RSS，仅匹配已有 DOI，验证图片实际内容后缓存到本站。普通 RSS 配图标为“期刊目录图”；只有来源明确标为 Graphical/Visual Abstract 时才标为“摘要图”。
+- 开放仓储：通过 NCBI 于 2026 年更新的 PMC Cloud API 发现文章版本，核对元数据和 JATS 中的 DOI；只采用明确标注为图形摘要、且官方元数据提供了媒体下载地址的图片。未提供媒体文件时不拼接或猜测地址。
+- 更新与重试：data/automatic-graphics.json 缓存成功结果、各来源状态和重试时间；每轮默认检查 150 篇尚未核实的仓储记录。失败不清除已有图片；期刊目录图不会覆盖已核实的摘要图。带签名或普通图片均校验后保存为本地资产。
+- GitHub 的每日 Refresh catalog 会运行批量配图。也可单独运行 Actions → Refresh illustrations；修改采集模块或 RSS 配置后会自动运行。刷新成功后自动发布 Pages，两个写数据的工作流会排队执行，避免提交冲突。
+
+常用命令：
+
+    python graphics.py --rss-only
+    python graphics.py --repository-only --repository-limit 150
+    python graphics.py --retry --max-seconds 600
+    python graphics.py --apply-only
+
+RSS 通常只含近期文章；历史论文需由开放仓储或可访问的出版社页面补充。受限页面、仓储没有发布的媒体文件、没有图形摘要的文章，无法保证全部自动取得。它们会保留真实状态，后续按重试计划继续检查，不用正文第一图假冒摘要图。
+
+官方数据接口：[ACS RSS](https://pubs.acs.org/pages/rss)、[PMC Cloud](https://pmc.ncbi.nlm.nih.gov/tools/pmcaws/)。之前的 page-snapshot 导入仅作为可选维护工具，自动工作流不调用它。
 
 ## GitHub Pages
 

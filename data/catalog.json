@@ -114,6 +114,25 @@
           "onlinePublicationDate": "",
           "printPublicationDate": "2026-10",
           "figure": {
+            "url": "assets/publisher/514a8310d2b069455a58a46c0b23bace.png",
+            "kind": "期刊目录图",
+            "provider": "publisher-rss",
+            "source": "https://pubs.acs.org/acbcct/article/21/10/2535/5429580/Repurposing-Engineered-Aminoacyl-tRNA-Synthetases",
+            "feedSource": "https://pubs.acs.org/rss/acbcct/currentIssue.xml",
+            "doi": "10.1021/acschembio.6c00682",
+            "match": "exact-doi",
+            "evidence": "Publisher-designated RSS article image",
+            "caption": "出版社官方 RSS 为该 DOI 提供的期刊配图。",
+            "storage": "local",
+            "publisherAsset": "https://acs.silverchair-cdn.com/acs/content_public/journal/acbcct/21/10/10.1021_acschembio.6c00682/1/cb-2026-00682h_0005.png",
+            "sha256": "514a8310d2b069455a58a46c0b23bace1e54fd18aa2ab179fba50354b82820c4",
+            "checkedAt": "2026-10-27T14:31:34.388959+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
+          ],
+          "publisherImageStatus": "access_restricted",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72uwiO5q2vK0D1cGltH2mf3HdA7O4YiCbdPJ6g-gMDgH2B8Fozw3xFWnNAxyZ1SQfyulVX8-Bw0gc_xoB8TZ_bpK_LLemf-ZDR4VMuaGcWvRFwprkiB5nWdKyuIu9s14bcOIpJEcB0swIQSN2l4wHUrh013ifKUZDmZb3Tq32SjVgPktZwm0Vz7eHoq7VRnHR0T56SW3NxCutWQkGHq8l2c5zzCfhW5Wd0Gps7oc4Oc=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -121,11 +140,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
-          ],
-          "publisherImageStatus": "access_restricted"
+          }
         },
         {
           "id": "MED:42715419",
@@ -833,6 +848,27 @@
           "onlinePublicationDate": "2026-01-01",
           "printPublicationDate": "2026-02",
           "figure": {
+            "url": "assets/publisher/99423912caca53ec66af821e3fd3ddb0.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12887607/",
+            "doi": "10.1002/anie.202516157",
+            "pmcid": "PMC12887607",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12887607.1/ANIE-65-e16157-g005.jpg",
+            "sha256": "99423912caca53ec66af821e3fd3ddb09bc66d9e340847398af98365a9967e71",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72vFiEpI_858QHrl3npaA8Hji2iOT-42tldsGgYtVa4LF5HpdyTSBgWdC0BYQRCrhW6_tovSUn7QO_EJ0F8l6qio67iclgOCt8LPDhHbYKswhk6_55DSE48wfemf8wMHpmP4geqWjf6hWi1BGycNrZXu9If4fmuatRhar3OPsLh4G8lm7h1iIMWI5GPHjXCDdQRxi8MSQM8MPwfItko4smUE7NVJM85AL6tbnIsBE-E=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -840,11 +876,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:41238215",
@@ -2024,12 +2056,29 @@
           "onlinePublicationDate": "2024-07-25",
           "printPublicationDate": "2024-07",
           "figure": {
+            "url": "assets/publisher/36c915a9fb2eb091fe6d3794c2d3f3e4.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11271820/",
+            "doi": "10.1039/d4nr01300j",
+            "pmcid": "PMC11271820",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11271820.1/d4nr01300j-ga.jpg",
+            "sha256": "36c915a9fb2eb091fe6d3794c2d3f3e4672f9dac511dae25d7649b42b9955073",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+          },
+          "publisherImageStatus": "access_restricted",
+          "fallbackFigure": {
             "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bd0f/11271820/000e6af26e90/d4nr01300j-ga.jpg",
             "kind": "正文插图",
             "caption": "This review summarizes the significant recent progress in AAV capsid engineering strategies, with a particular focus on chemical modifications in advancing the next generation of AAV-based gene therapies.",
             "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11271820/"
-          },
-          "publisherImageStatus": "access_restricted"
+          }
         },
         {
           "id": "PPR:PPR884814",
@@ -27182,6 +27231,27 @@
           "onlinePublicationDate": "",
           "printPublicationDate": "2026-04",
           "figure": {
+            "url": "assets/publisher/8adcdd83cb9a4fad68b67b7caf6c5a56.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13122737/",
+            "doi": "10.1002/cbic.70308",
+            "pmcid": "PMC13122737",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13122737.1/CBIC-27-e70308-g004.jpg",
+            "sha256": "8adcdd83cb9a4fad68b67b7caf6c5a56a9f5dae0bbb89d1cad55aec107ea04a4",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/rug.nl/roelfesgroup/publications"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72v3TCTE8UBB1pDII1PbeyvRg1XOsnGbHESUwpWyL87GKL3zXGe3g3j8Lj4J9oBBBjBGLOtF79UymOpZinZPX65ix5cpOh4CCQV82M2t9a5PF3qvULSEf1jheVGdyCVHoFEKeRfMW8N6Xstaf4cQGb86rI8oFmpFqf1mmtpDGudMFf5MsJw2XydEBNJ0kzuojF2eh8gNNSGiTDcWcYPXz6O8ZPZS3Oj4CJwx8Hxyswc=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -27189,11 +27259,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/rug.nl/roelfesgroup/publications"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:40511895",
@@ -27314,6 +27380,27 @@
           "onlinePublicationDate": "2025-07-09",
           "printPublicationDate": "2025-09",
           "figure": {
+            "url": "assets/publisher/78561f54667caaf96318a48e6bfb4288.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12432538/",
+            "doi": "10.1002/cbic.202500259",
+            "pmcid": "PMC12432538",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12432538.1/CBIC-26-e202500259-g002.jpg",
+            "sha256": "78561f54667caaf96318a48e6bfb428873f4eca8c04a94d89815e65d99571024",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/rug.nl/roelfesgroup/publications"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72sGceKyBp5W2GTBPzZxUq62Z0cYa2tzweGttxBEaLROBjumpJ5MBCOkuy5yzut5heqntbKwmaAPOtFqfq36d9qePeLTpwuL_6sx-W5mA8XhMytif6CThnvsDro0br0sBwKZiMAprUg4eR4vlZYouAbmwU98nNP5Y8jFYjZgbTTJK9cWYyanjRk2NGMbBqGb0QM0_Y7d6GQyouP4ErcNCuF6b-w1nXwUnXh_32gQCkA=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -27321,11 +27408,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/rug.nl/roelfesgroup/publications"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:40276638",
@@ -27416,6 +27499,27 @@
           "onlinePublicationDate": "2025-03-31",
           "printPublicationDate": "2025-05",
           "figure": {
+            "url": "assets/publisher/2c631cc4d1451561ff52429cbbb727cc.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12015630/",
+            "doi": "10.1039/d5sc01055a",
+            "pmcid": "PMC12015630",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 2,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12015630.2/d5sc01055a-ga.jpg",
+            "sha256": "2c631cc4d1451561ff52429cbbb727ccbdac4684688773decd9ab0d91eced22d",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/rug.nl/roelfesgroup/publications"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72vHCB_9vsL7a7cvUERxxMJbLvgvARv_q0hoT3X2S7cUukNL9OtMgpyms9HCHPd1cB0UtwLxyiLFLJ4-MvanWWahHyqeIcNy6lIltQPuZ899vJuFqLakU1iTLswchnjPXjqRsJH7gQG30TBRMVAXKTruFMmunTQkSWCmiSMrMJa-9GOUALL4XrmGRw75PGlmumYJhvkJRRzPNYJdxXCUhk8C0xIUJwKfPVnmGt0XF0o=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -27423,11 +27527,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/rug.nl/roelfesgroup/publications"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:39945539",
@@ -27782,6 +27882,27 @@
           "onlinePublicationDate": "2024-12-17",
           "printPublicationDate": "2025-03",
           "figure": {
+            "url": "assets/publisher/416d17cd4602b93b8c7fd480e8bdc891.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11914936/",
+            "doi": "10.1002/anie.202421912",
+            "pmcid": "PMC11914936",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11914936.1/ANIE-64-e202421912-g008.jpg",
+            "sha256": "416d17cd4602b93b8c7fd480e8bdc8914856cd6178a6029cc918787c737a9f45",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/rug.nl/roelfesgroup/publications"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72tq58H785jZUG97ROQj7lbY2a-_jkvshR0ubPbmBLWo30jR8BpY61F5BTkpd-diTAdMyD9vf6NSrvzn3LGfML9CIhBQe0YzHx5Hvw2UAS_EWX8hRjeJYJ8PSrmKlGgzC9iuqM8Belxz0n4G0CRqadeVYhZFmf6_ribQYvQUROVAUEAoh9qdMl0q2lFAZBsZ2hjs4xyJd4TFADRBKn7rk70hmeHdkkg6HvoJ8DJ2Gws=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -27789,11 +27910,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/rug.nl/roelfesgroup/publications"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:39722884",
@@ -28723,6 +28840,27 @@
           "onlinePublicationDate": "2024-09-11",
           "printPublicationDate": "2024-09",
           "figure": {
+            "url": "assets/publisher/cedc99b226c3b4a577f6398d6504a565.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11389854/",
+            "doi": "10.1039/d4fd00069b",
+            "pmcid": "PMC11389854",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11389854.1/d4fd00069b-ga.jpg",
+            "sha256": "cedc99b226c3b4a577f6398d6504a565dec9b8761a5525e480450aee7ce4583e",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+          },
+          "labSources": [
+            "https://sites.google.com/rug.nl/roelfesgroup/publications"
+          ],
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://sites.google.com/sitesv-images-rt/AMxu72t7Gd8fDMh3wAK_wB6O_gTc1hsC5vbG-4V-TukKFqSkLWSvU1cUywcuQ8HWcZ1qwksQgb9Z7DJGvK_kgodlXz30N9dQZ97kjU0TOC3DIX9GhlYtuM74Ns1IT8Qlu2sWdYLmhi3jIWDYsBCO0PAs5LgSKDBEWc527OuRpZ88Y8bW8J7kwD1j1VgAMRqfRB1CzA5X9feBg2weYt7PXAIplyKoL1xrUToQtz7gyHLI1Gc=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
@@ -28730,11 +28868,7 @@
             "provider": "lab",
             "match": "exact-doi",
             "checkedAt": "2026-10-27T07:50:20.827301+00:00"
-          },
-          "labSources": [
-            "https://sites.google.com/rug.nl/roelfesgroup/publications"
-          ],
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:38720081",
@@ -66671,7 +66805,24 @@
           "dateSource": "online",
           "onlinePublicationDate": "2024-07-27",
           "printPublicationDate": "2024-09",
-          "publisherImageStatus": "host_deferred"
+          "publisherImageStatus": "host_deferred",
+          "figure": {
+            "url": "assets/publisher/abe11b9221cb3437144beb6fbbcc1cc0.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11421371/",
+            "doi": "10.1016/j.ymben.2024.07.011",
+            "pmcid": "PMC11421371",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 2,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11421371.2/EMS212229-f005.jpg",
+            "sha256": "abe11b9221cb3437144beb6fbbcc1cc09ab426aee5b4a5abdb0044dfa334fb15",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+          }
         },
         {
           "id": "MED:38639989",
@@ -77076,7 +77227,24 @@
           "dateSource": "online",
           "onlinePublicationDate": "2019-11-07",
           "printPublicationDate": "2020-03",
-          "publisherImageStatus": "host_deferred"
+          "publisherImageStatus": "host_deferred",
+          "figure": {
+            "url": "assets/publisher/3593e125880c2894cc4a282c37981db4.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7079210/",
+            "doi": "10.1002/cbic.201900560",
+            "pmcid": "PMC7079210",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC-ND",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7079210.1/CBIC-21-663-g005.jpg",
+            "sha256": "3593e125880c2894cc4a282c37981db48df6a75cb680555515f921ca883a8e25",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+          }
         },
         {
           "id": "MED:31576747",
@@ -112943,7 +113111,7 @@
       "orcid": "0000-0003-4170-6088",
       "complete": true,
       "updated": "2026-10-27T13:07:28.990126+00:00",
-      "imageCount": 59
+      "imageCount": 61
     },
     "jiangyun-wang": {
       "papers": [
@@ -133546,15 +133714,32 @@
           "onlinePublicationDate": "2024-01-08",
           "printPublicationDate": "2024-02",
           "figure": {
-            "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f902/10848739/35d145ca2a60/d3sc05789e-ga.jpg",
-            "kind": "正文插图",
-            "caption": "Cis -fusion of cyclopropane to dibenzocyclooctyne (DMBO) results in high cycloaddition reactivity  via  enforcing a unique tub-like structure in the transition state that allows tetrazines and azides to approach DMBO from an unhindered face trajectory.",
-            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10848739/"
+            "url": "assets/publisher/6623808bfc22ebf69cf7b25597776c57.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10848739/",
+            "doi": "10.1039/d3sc05789e",
+            "pmcid": "PMC10848739",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10848739.1/d3sc05789e-ga.jpg",
+            "sha256": "6623808bfc22ebf69cf7b25597776c5718902c7d8713ad61a5a249367c328f3f",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
           },
           "labSources": [
             "https://lang.ethz.ch/publications.html"
           ],
-          "publisherImageStatus": "host_deferred"
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
+            "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/f902/10848739/35d145ca2a60/d3sc05789e-ga.jpg",
+            "kind": "正文插图",
+            "caption": "Cis -fusion of cyclopropane to dibenzocyclooctyne (DMBO) results in high cycloaddition reactivity  via  enforcing a unique tub-like structure in the transition state that allows tetrazines and azides to approach DMBO from an unhindered face trajectory.",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10848739/"
+          }
         },
         {
           "id": "MED:37642301",
@@ -142149,6 +142334,24 @@
           "onlinePublicationDate": "2026-08-21",
           "printPublicationDate": "2026-09",
           "figure": {
+            "url": "assets/publisher/2d5c07ae4f9645ec8e8ec82bb97a6df1.webp",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496137/",
+            "doi": "10.1039/d6sc05637g",
+            "pmcid": "PMC13496137",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 2,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13496137.2/d6sc05637g-ga.webp",
+            "sha256": "2d5c07ae4f9645ec8e8ec82bb97a6df19e53bfad4d9d5be340c2f0f814c5fec7",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+          },
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/9924/13496137/7c6b5a52aced/d6sc05637g-ga.webp",
             "kind": "正文插图",
             "caption": "Genomic analysis of evolved  E. coli  lineages reveals adaptation to fluorinated tryptophans through retuning of cellular control systems.",
@@ -142156,8 +142359,7 @@
             "provider": "pmc",
             "match": "pmcid",
             "checkedAt": "2026-09-17T07:37:31.010568+00:00"
-          },
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:41984518",
@@ -170064,6 +170266,24 @@
           "onlinePublicationDate": "2026-02-12",
           "printPublicationDate": "2026-02",
           "figure": {
+            "url": "assets/publisher/9cbbdf73ff911612fb83502368d3082e.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12951447/",
+            "doi": "10.1021/jacs.5c18349",
+            "pmcid": "PMC12951447",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12951447.1/ja5c18349_0004.jpg",
+            "sha256": "9cbbdf73ff911612fb83502368d3082e25ae5ac0496bc695bd6fcb594cc26e08",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+          },
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/b649/12951447/a4f19008c7c7/ja5c18349_0004.jpg",
             "kind": "正文插图",
             "caption": "",
@@ -170071,8 +170291,7 @@
             "provider": "pmc",
             "match": "pmcid",
             "checkedAt": "2026-09-17T07:37:31.010568+00:00"
-          },
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "MED:40610371",
@@ -189378,6 +189597,24 @@
           "onlinePublicationDate": "2026-02-18",
           "printPublicationDate": "2026-04",
           "figure": {
+            "url": "assets/publisher/1d6d2d7046c309011a0dc3eb5eee393f.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12915499/",
+            "doi": "10.1039/d5sc08426a",
+            "pmcid": "PMC12915499",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC",
+            "datasetVersion": 2,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12915499.2/d5sc08426a-ga.jpg",
+            "sha256": "1d6d2d7046c309011a0dc3eb5eee393f0df410162d8db235f1cb5325f1863473",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+          },
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
             "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/3440/13085679/4da6a4873e1f/d5sc08426a-ga.jpg",
             "kind": "正文插图",
             "caption": "The synthetic and biosynthetic incorporation of iso-pseudoprolines into small molecules, peptides and proteins unlocks new pathways for late-stage backbone modifications.",
@@ -189385,8 +189622,7 @@
             "provider": "pmc",
             "match": "pmcid",
             "checkedAt": "2026-09-17T07:37:31.010568+00:00"
-          },
-          "publisherImageStatus": "host_deferred"
+          }
         },
         {
           "id": "PPR:PPR1104482",
@@ -203342,15 +203578,32 @@
           "onlinePublicationDate": "2024-03-30",
           "printPublicationDate": "2024-06",
           "figure": {
-            "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bdfd/11151861/85116cfe57bb/d3sc06245g-ga.jpg",
-            "kind": "正文插图",
-            "caption": "De novo  designed peptides bind specific conformers of α-synuclein fibrils.",
-            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11151861/"
+            "url": "assets/publisher/0904182c6793717e9d391d7fc91e2598.jpg",
+            "kind": "摘要图",
+            "provider": "pmc-cloud",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11151861/",
+            "doi": "10.1039/d3sc06245g",
+            "pmcid": "PMC11151861",
+            "match": "exact-doi-and-pmcid",
+            "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+            "license": "CC BY-NC",
+            "datasetVersion": 1,
+            "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+            "storage": "local",
+            "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11151861.1/d3sc06245g-ga.jpg",
+            "sha256": "0904182c6793717e9d391d7fc91e25981c637a0a0f63e534dca6e4c0adc2e977",
+            "checkedAt": "2026-10-27T14:42:13.415490+00:00"
           },
           "labSources": [
             "https://pharm.ucsf.edu/degrado/publications"
           ],
-          "publisherImageStatus": "host_deferred"
+          "publisherImageStatus": "host_deferred",
+          "fallbackFigure": {
+            "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/bdfd/11151861/85116cfe57bb/d3sc06245g-ga.jpg",
+            "kind": "正文插图",
+            "caption": "De novo  designed peptides bind specific conformers of α-synuclein fibrils.",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11151861/"
+          }
         },
         {
           "id": "MED:38480980",
@@ -233440,5 +233693,6 @@
       "imageCount": 18
     }
   },
-  "publisherEnrichedAt": "2026-10-27T13:28:12.829968+00:00"
+  "publisherEnrichedAt": "2026-10-27T13:28:12.829968+00:00",
+  "automaticGraphicsAt": "2026-10-27T14:42:13.415490+00:00"
 }

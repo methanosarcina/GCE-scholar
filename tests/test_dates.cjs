@@ -48,3 +48,11 @@ test('cached publisher images stay inside the gallery asset directory',()=>{
   assert.equal(run("safeImageURL('javascript:alert(1)')"),'#');
   assert.equal(run("figureLabel({publisherImageStatus:'access_restricted'})"),'原图获取受限 · 文献封面');
 });
+
+test('abstract/catalog filter includes publisher RSS images and excludes body figures',()=>{
+  const {run,elements}=app();
+  run("entry={papers:[{id:'a',year:'2026',figure:{kind:'摘要图'}},{id:'b',year:'2026',figure:{kind:'期刊目录图',provider:'publisher-rss'}},{id:'c',year:'2026',figure:{kind:'正文插图'}}]}");
+  elements.get('only-abstracts').checked=true;
+  assert.equal(run("filtered().map(p=>p.id).join(',')"),'a,b');
+  assert.equal(run("figureLabel(entry.papers[1])"),'期刊目录图 · 出版社');
+});

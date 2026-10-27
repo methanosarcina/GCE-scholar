@@ -88,6 +88,15 @@ class PublisherTests(unittest.TestCase):
             self.assertNotIn('Signature',__import__('json').dumps(cached))
             self.assertEqual(cached['source'],self.source)
 
+    def test_repository_binary_mime_is_accepted_only_for_verified_image_bytes(self):
+        payload=base64.b64decode('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8/x8AAwMCAO+jA1cAAAAASUVORK5CYII=')
+        fig={'url':'https://pmc-oa-opendata.s3.amazonaws.com/PMC123.1/ga.png','kind':'摘要图'}
+        with tempfile.TemporaryDirectory() as folder, patch.object(publisher,'ROOT',Path(folder)), patch.object(publisher.urllib.request,'urlopen',return_value=self.image_response(payload,'application/octet-stream')):
+            self.assertEqual(publisher.verify_image(fig,force_cache=True)['storage'],'local')
+        with patch.object(publisher.urllib.request,'urlopen',return_value=self.image_response(b'not an image','application/octet-stream')):
+            with self.assertRaisesRegex(ValueError,'invalid publisher image'):
+                publisher.verify_image(fig,force_cache=True)
+
     def test_public_static_image_uses_get_and_keeps_original_url(self):
         fig={'url':'https://images.edu/abstract.png','source':self.source}
         with patch.object(publisher.urllib.request,'urlopen',return_value=self.image_response(b'PNG data')) as request:

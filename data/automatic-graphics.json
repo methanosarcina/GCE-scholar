@@ -1,0 +1,2342 @@
+{
+  "figures": {
+    "10.1021/acschembio.6c00682": {
+      "url": "assets/publisher/514a8310d2b069455a58a46c0b23bace.png",
+      "kind": "期刊目录图",
+      "provider": "publisher-rss",
+      "source": "https://pubs.acs.org/acbcct/article/21/10/2535/5429580/Repurposing-Engineered-Aminoacyl-tRNA-Synthetases",
+      "feedSource": "https://pubs.acs.org/rss/acbcct/currentIssue.xml",
+      "doi": "10.1021/acschembio.6c00682",
+      "match": "exact-doi",
+      "evidence": "Publisher-designated RSS article image",
+      "caption": "出版社官方 RSS 为该 DOI 提供的期刊配图。",
+      "storage": "local",
+      "publisherAsset": "https://acs.silverchair-cdn.com/acs/content_public/journal/acbcct/21/10/10.1021_acschembio.6c00682/1/cb-2026-00682h_0005.png",
+      "sha256": "514a8310d2b069455a58a46c0b23bace1e54fd18aa2ab179fba50354b82820c4",
+      "checkedAt": "2026-10-27T14:31:34.388959+00:00"
+    },
+    "10.1021/acschembio.6c00476": {
+      "url": "assets/publisher/840daf663c17ab2f22d433711b7e5a46.png",
+      "kind": "期刊目录图",
+      "provider": "publisher-rss",
+      "source": "https://pubs.acs.org/acbcct/article/21/10/2611/5427262/Development-of-m6A-Readers-for-Enhanced",
+      "feedSource": "https://pubs.acs.org/rss/acbcct/currentIssue.xml",
+      "doi": "10.1021/acschembio.6c00476",
+      "match": "exact-doi",
+      "evidence": "Publisher-designated RSS article image",
+      "caption": "出版社官方 RSS 为该 DOI 提供的期刊配图。",
+      "storage": "local",
+      "publisherAsset": "https://acs.silverchair-cdn.com/acs/content_public/journal/acbcct/21/10/10.1021_acschembio.6c00476/1/cb-2026-00476x_0006.png",
+      "sha256": "840daf663c17ab2f22d433711b7e5a46a99748958d4d56db57f9b41024e3243a",
+      "checkedAt": "2026-10-27T14:31:34.388959+00:00"
+    },
+    "10.1016/j.ymben.2024.07.011": {
+      "url": "assets/publisher/abe11b9221cb3437144beb6fbbcc1cc0.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11421371/",
+      "doi": "10.1016/j.ymben.2024.07.011",
+      "pmcid": "PMC11421371",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY",
+      "datasetVersion": 2,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11421371.2/EMS212229-f005.jpg",
+      "sha256": "abe11b9221cb3437144beb6fbbcc1cc09ab426aee5b4a5abdb0044dfa334fb15",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1002/cbic.201900560": {
+      "url": "assets/publisher/3593e125880c2894cc4a282c37981db4.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7079210/",
+      "doi": "10.1002/cbic.201900560",
+      "pmcid": "PMC7079210",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY-NC-ND",
+      "datasetVersion": 1,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC7079210.1/CBIC-21-663-g005.jpg",
+      "sha256": "3593e125880c2894cc4a282c37981db48df6a75cb680555515f921ca883a8e25",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1039/d6sc05637g": {
+      "url": "assets/publisher/2d5c07ae4f9645ec8e8ec82bb97a6df1.webp",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13496137/",
+      "doi": "10.1039/d6sc05637g",
+      "pmcid": "PMC13496137",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY",
+      "datasetVersion": 2,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13496137.2/d6sc05637g-ga.webp",
+      "sha256": "2d5c07ae4f9645ec8e8ec82bb97a6df19e53bfad4d9d5be340c2f0f814c5fec7",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1002/cbic.70308": {
+      "url": "assets/publisher/8adcdd83cb9a4fad68b67b7caf6c5a56.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13122737/",
+      "doi": "10.1002/cbic.70308",
+      "pmcid": "PMC13122737",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY",
+      "datasetVersion": 1,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC13122737.1/CBIC-27-e70308-g004.jpg",
+      "sha256": "8adcdd83cb9a4fad68b67b7caf6c5a56a9f5dae0bbb89d1cad55aec107ea04a4",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1039/d5sc08426a": {
+      "url": "assets/publisher/1d6d2d7046c309011a0dc3eb5eee393f.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12915499/",
+      "doi": "10.1039/d5sc08426a",
+      "pmcid": "PMC12915499",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY-NC",
+      "datasetVersion": 2,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12915499.2/d5sc08426a-ga.jpg",
+      "sha256": "1d6d2d7046c309011a0dc3eb5eee393f0df410162d8db235f1cb5325f1863473",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1021/jacs.5c18349": {
+      "url": "assets/publisher/9cbbdf73ff911612fb83502368d3082e.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12951447/",
+      "doi": "10.1021/jacs.5c18349",
+      "pmcid": "PMC12951447",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY",
+      "datasetVersion": 1,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12951447.1/ja5c18349_0004.jpg",
+      "sha256": "9cbbdf73ff911612fb83502368d3082e25ae5ac0496bc695bd6fcb594cc26e08",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1002/anie.202516157": {
+      "url": "assets/publisher/99423912caca53ec66af821e3fd3ddb0.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12887607/",
+      "doi": "10.1002/anie.202516157",
+      "pmcid": "PMC12887607",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY",
+      "datasetVersion": 1,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12887607.1/ANIE-65-e16157-g005.jpg",
+      "sha256": "99423912caca53ec66af821e3fd3ddb09bc66d9e340847398af98365a9967e71",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1002/cbic.202500259": {
+      "url": "assets/publisher/78561f54667caaf96318a48e6bfb4288.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12432538/",
+      "doi": "10.1002/cbic.202500259",
+      "pmcid": "PMC12432538",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY",
+      "datasetVersion": 1,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12432538.1/CBIC-26-e202500259-g002.jpg",
+      "sha256": "78561f54667caaf96318a48e6bfb428873f4eca8c04a94d89815e65d99571024",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1039/d5sc01055a": {
+      "url": "assets/publisher/2c631cc4d1451561ff52429cbbb727cc.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12015630/",
+      "doi": "10.1039/d5sc01055a",
+      "pmcid": "PMC12015630",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY",
+      "datasetVersion": 2,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC12015630.2/d5sc01055a-ga.jpg",
+      "sha256": "2c631cc4d1451561ff52429cbbb727ccbdac4684688773decd9ab0d91eced22d",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1002/anie.202421912": {
+      "url": "assets/publisher/416d17cd4602b93b8c7fd480e8bdc891.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11914936/",
+      "doi": "10.1002/anie.202421912",
+      "pmcid": "PMC11914936",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY",
+      "datasetVersion": 1,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11914936.1/ANIE-64-e202421912-g008.jpg",
+      "sha256": "416d17cd4602b93b8c7fd480e8bdc8914856cd6178a6029cc918787c737a9f45",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1039/d4fd00069b": {
+      "url": "assets/publisher/cedc99b226c3b4a577f6398d6504a565.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11389854/",
+      "doi": "10.1039/d4fd00069b",
+      "pmcid": "PMC11389854",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY-NC",
+      "datasetVersion": 1,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11389854.1/d4fd00069b-ga.jpg",
+      "sha256": "cedc99b226c3b4a577f6398d6504a565dec9b8761a5525e480450aee7ce4583e",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1039/d4nr01300j": {
+      "url": "assets/publisher/36c915a9fb2eb091fe6d3794c2d3f3e4.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11271820/",
+      "doi": "10.1039/d4nr01300j",
+      "pmcid": "PMC11271820",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY-NC",
+      "datasetVersion": 1,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11271820.1/d4nr01300j-ga.jpg",
+      "sha256": "36c915a9fb2eb091fe6d3794c2d3f3e4672f9dac511dae25d7649b42b9955073",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1039/d3sc06245g": {
+      "url": "assets/publisher/0904182c6793717e9d391d7fc91e2598.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11151861/",
+      "doi": "10.1039/d3sc06245g",
+      "pmcid": "PMC11151861",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY-NC",
+      "datasetVersion": 1,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC11151861.1/d3sc06245g-ga.jpg",
+      "sha256": "0904182c6793717e9d391d7fc91e25981c637a0a0f63e534dca6e4c0adc2e977",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    },
+    "10.1039/d3sc05789e": {
+      "url": "assets/publisher/6623808bfc22ebf69cf7b25597776c57.jpg",
+      "kind": "摘要图",
+      "provider": "pmc-cloud",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10848739/",
+      "doi": "10.1039/d3sc05789e",
+      "pmcid": "PMC10848739",
+      "match": "exact-doi-and-pmcid",
+      "evidence": "JATS explicitly labeled graphical abstract with disclosed media URL",
+      "license": "CC BY",
+      "datasetVersion": 1,
+      "caption": "PMC / 美国国家医学图书馆（NLM）开放数据中的图形摘要。",
+      "storage": "local",
+      "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC10848739.1/d3sc05789e-ga.jpg",
+      "sha256": "6623808bfc22ebf69cf7b25597776c5718902c7d8713ad61a5a249367c328f3f",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00"
+    }
+  },
+  "attempts": {
+    "10.1002/anie.8361803": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:35:12.198979+00:00"
+    },
+    "10.1021/acschembio.5c00621": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:13.425001+00:00"
+    },
+    "10.1038/s41587-025-02959-4": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:17.613353+00:00"
+    },
+    "10.1126/science.adv4257": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:15.480442+00:00"
+    },
+    "10.1016/j.copbio.2025.103374": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:16.826484+00:00"
+    },
+    "10.1021/acssynbio.5c00554": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:16.826510+00:00"
+    },
+    "10.1021/jacs.5c09297": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:19.325445+00:00"
+    },
+    "10.1126/scitranslmed.ads9470": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:21.304907+00:00"
+    },
+    "10.1021/acs.biochem.5c00068": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:21.304934+00:00"
+    },
+    "10.1038/s41559-025-02792-7": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:22.786124+00:00"
+    },
+    "10.1002/anie.202508922": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:23.635778+00:00"
+    },
+    "10.1021/jacs.5c04605": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:25.330396+00:00"
+    },
+    "10.1021/jacs.5c02741": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:25.453445+00:00"
+    },
+    "10.1021/jacs.5c02273": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:27.548932+00:00"
+    },
+    "10.1161/circresaha.124.325918": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:29.929729+00:00"
+    },
+    "10.1038/s42003-025-08141-5": {
+      "status": "request_failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:42:29.929763+00:00"
+    },
+    "10.1021/jacs.5c03379": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:34.927754+00:00"
+    },
+    "10.1126/science.adt7268": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:34.927761+00:00"
+    },
+    "10.1021/acssynbio.4c00786": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:34.927767+00:00"
+    },
+    "10.1021/jacs.4c18151": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:36.801288+00:00"
+    },
+    "10.1002/anie.202423172": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:38.727288+00:00"
+    },
+    "10.1038/s41422-024-01029-9": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:35:38.727309+00:00"
+    },
+    "10.1126/science.adm9073": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:41.809570+00:00"
+    },
+    "10.1021/acssynbio.4c00414": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:43.931529+00:00"
+    },
+    "10.1038/s41422-024-00991-8": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:35:43.931561+00:00"
+    },
+    "10.1021/jacs.4c07920": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:43.933839+00:00"
+    },
+    "10.1021/jacs.4c07851": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:44.431369+00:00"
+    },
+    "10.1016/j.ymben.2024.07.011": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:42:29.929780+00:00"
+    },
+    "10.1021/acssynbio.4c00370": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:55.203660+00:00"
+    },
+    "10.1021/acssynbio.4c00196": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:55.203676+00:00"
+    },
+    "10.1021/acschembio.4c00265": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:55.203685+00:00"
+    },
+    "10.1038/s41422-024-00968-7": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:35:55.203693+00:00"
+    },
+    "10.1038/s41467-024-48084-9": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:29.929794+00:00"
+    },
+    "10.1021/acs.chemrev.4c00110": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:35:55.753910+00:00"
+    },
+    "10.1126/science.adl5364": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:00.196658+00:00"
+    },
+    "10.1038/s41422-023-00914-z": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:36:00.196688+00:00"
+    },
+    "10.1021/acs.bioconjchem.3c00380": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:00.196701+00:00"
+    },
+    "10.1016/j.coisb.2023.100482": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:02.722782+00:00"
+    },
+    "10.1016/j.cbpa.2023.102375": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:04.894738+00:00"
+    },
+    "10.1038/s41467-023-39774-x": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:30.645782+00:00"
+    },
+    "10.1021/jacs.3c00967": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:06.763271+00:00"
+    },
+    "10.1038/s41422-023-00836-w": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:36:06.763300+00:00"
+    },
+    "10.1002/anie.202304646": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:08.943433+00:00"
+    },
+    "10.1038/s41586-023-06027-2": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:33.918937+00:00"
+    },
+    "10.1021/jacs.2c11027": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:36.593620+00:00"
+    },
+    "10.1016/j.xpro.2023.102190": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:36:13.783749+00:00"
+    },
+    "10.1002/pro.4537": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:36:13.783758+00:00"
+    },
+    "10.1038/s41592-022-01706-w": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:14.145162+00:00"
+    },
+    "10.12703/r-01-0000020": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:36:14.145194+00:00"
+    },
+    "10.1038/s42003-022-04336-2": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:37.696611+00:00"
+    },
+    "10.1021/acschembio.2c00640": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:17.766748+00:00"
+    },
+    "10.1021/acschembio.2c00639": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:17.766767+00:00"
+    },
+    "10.1126/science.add8943": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:19.429888+00:00"
+    },
+    "10.1021/acsmedchemlett.2c00336": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:36:21.952404+00:00"
+    },
+    "10.1038/s41586-022-05157-3": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:41.902069+00:00"
+    },
+    "10.1126/sciadv.abp8823": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:42.080120+00:00"
+    },
+    "10.1021/acschembio.2c00178": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:28.121466+00:00"
+    },
+    "10.1038/s43586-022-00130-w": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:28.747603+00:00"
+    },
+    "10.1021/acschembio.1c00987": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:28.747633+00:00"
+    },
+    "10.1016/j.sbi.2022.102352": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:30.468374+00:00"
+    },
+    "10.1128/aem.02430-21": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:36:30.468404+00:00"
+    },
+    "10.1021/jacs.1c09281": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:32.630943+00:00"
+    },
+    "10.1039/d1fd00061f": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:32.630971+00:00"
+    },
+    "10.1042/bst20210865": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:34.463349+00:00"
+    },
+    "10.1016/j.jmb.2021.167304": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:36.140899+00:00"
+    },
+    "10.1021/acssynbio.1c00316": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:36.255562+00:00"
+    },
+    "10.1016/j.ymthe.2021.09.004": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:36:36.445391+00:00"
+    },
+    "10.1021/acssynbio.1c00276": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:38.787141+00:00"
+    },
+    "10.1021/acschembio.1c00405": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:39.085906+00:00"
+    },
+    "10.1126/science.abg5827": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:44.927650+00:00"
+    },
+    "10.1126/science.abi9892": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:44.927673+00:00"
+    },
+    "10.1126/science.abg3029": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:44.927681+00:00"
+    },
+    "10.1073/pnas.2026318118": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:36:44.927689+00:00"
+    },
+    "10.1002/cpz1.117": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:45.897297+00:00"
+    },
+    "10.1021/jacs.1c02375": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:46.449438+00:00"
+    },
+    "10.1038/s41596-020-00464-3": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:47.400344+00:00"
+    },
+    "10.1038/s43586-021-00028-z": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:51.488768+00:00"
+    },
+    "10.1126/sciadv.abf0187": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:43.909917+00:00"
+    },
+    "10.1016/j.cbpa.2021.02.008": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:57.823481+00:00"
+    },
+    "10.1021/jacs.0c10053": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:57.823496+00:00"
+    },
+    "10.1126/science.aba0862": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:57.823504+00:00"
+    },
+    "10.1021/jacs.0c10136": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:36:59.009880+00:00"
+    },
+    "10.1073/pnas.2003991117": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:37:00.579279+00:00"
+    },
+    "10.1021/jacs.0c06987": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:02.022107+00:00"
+    },
+    "10.1126/science.aaz4910": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:02.887485+00:00"
+    },
+    "10.1038/s41422-020-00419-z": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:37:02.887518+00:00"
+    },
+    "10.1002/smll.202004237": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:37:03.244427+00:00"
+    },
+    "10.1128/aem.01665-20": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:37:03.785393+00:00"
+    },
+    "10.1021/jacs.0c06419": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:10.671020+00:00"
+    },
+    "10.1038/s41467-020-17910-1": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:48.381178+00:00"
+    },
+    "10.1038/s41587-020-0655-4": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:10.671069+00:00"
+    },
+    "10.1126/science.abb8330": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:10.671083+00:00"
+    },
+    "10.1016/j.chempr.2020.07.013": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:12.243736+00:00"
+    },
+    "10.1016/j.bmc.2020.115662": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:13.527552+00:00"
+    },
+    "10.1038/s41467-020-17621-7": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:48.381206+00:00"
+    },
+    "10.1021/acssynbio.0c00135": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:16.385492+00:00"
+    },
+    "10.1021/acschembio.0c00147": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:17.087583+00:00"
+    },
+    "10.1038/s41587-020-0479-2": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:17.857270+00:00"
+    },
+    "10.1021/jacs.9b11520": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:19.682800+00:00"
+    },
+    "10.1021/acschembio.9b01026": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:19.976267+00:00"
+    },
+    "10.1073/pnas.1912531117": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:37:20.582478+00:00"
+    },
+    "10.1002/cbic.201900560": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:42:52.217560+00:00"
+    },
+    "10.1021/acs.accounts.9b00354": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:29.448858+00:00"
+    },
+    "10.1101/cshperspect.a034371": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:37:29.448867+00:00"
+    },
+    "10.1126/science.aay0737": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:29.448874+00:00"
+    },
+    "10.1021/jacs.9b05136": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:30.990289+00:00"
+    },
+    "10.1038/s41467-019-10862-1": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:52.217595+00:00"
+    },
+    "10.1021/jacs.9b02196": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:32.950681+00:00"
+    },
+    "10.1021/acschembio.9b00307": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:32.950705+00:00"
+    },
+    "10.1002/anie.201901782": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:35.123277+00:00"
+    },
+    "10.1021/acschembio.9b00371": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:35.885789+00:00"
+    },
+    "10.1002/pro.3643": {
+      "status": "no_repository_version",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:37:35.885823+00:00"
+    },
+    "10.1021/acssynbio.9b00122": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:37.864690+00:00"
+    },
+    "10.1038/s41467-019-10079-2": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:53.851562+00:00"
+    },
+    "10.1126/scitranslmed.aat8462": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:39.105322+00:00"
+    },
+    "10.1021/jacs.9b00577": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:42.118287+00:00"
+    },
+    "10.1002/cbic.201800707": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:42.332868+00:00"
+    },
+    "10.1021/acs.accounts.8b00674": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:42.570518+00:00"
+    },
+    "10.1038/s41592-019-0357-3": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:58.040380+00:00"
+    },
+    "10.1126/science.aav7541": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:48.044692+00:00"
+    },
+    "10.1021/acs.jpcb.8b12220": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:48.044703+00:00"
+    },
+    "10.1016/j.coisb.2019.02.002": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:52.670015+00:00"
+    },
+    "10.1038/s41586-018-0802-y": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:53.377134+00:00"
+    },
+    "10.1021/acssynbio.8b00400": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:53.377164+00:00"
+    },
+    "10.1021/jacs.8b07157": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:56.999069+00:00"
+    },
+    "10.1016/j.cell.2018.10.021": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:37:57.046104+00:00"
+    },
+    "10.1038/s41467-018-07040-0": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:42:58.040406+00:00"
+    },
+    "10.1021/jacs.8b10479": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:01.183402+00:00"
+    },
+    "10.1021/jacs.8b05012": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:06.131443+00:00"
+    },
+    "10.1021/acsomega.8b01620": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:08.138401+00:00"
+    },
+    "10.1021/jacs.8b06741": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:16.636044+00:00"
+    },
+    "10.1002/bip.23229": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:16.636052+00:00"
+    },
+    "10.1021/acs.biochem.8b00577": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:16.636060+00:00"
+    },
+    "10.1126/scisignal.aao2464": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:16.636067+00:00"
+    },
+    "10.1016/j.cbpa.2018.07.015": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:20.916935+00:00"
+    },
+    "10.1016/j.chembiol.2018.07.002": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:20.916962+00:00"
+    },
+    "10.1038/s41589-018-0105-5": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:20.916976+00:00"
+    },
+    "10.1038/ncomms16232": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:08.138422+00:00"
+    },
+    "10.1021/acssynbio.8b00195": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:26.618527+00:00"
+    },
+    "10.1021/jacs.7b09670": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:40.711510+00:00"
+    },
+    "10.1021/acssynbio.8b00096": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:40.711532+00:00"
+    },
+    "10.1021/acsnano.8b01146": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:40.711540+00:00"
+    },
+    "10.1038/s41557-018-0052-5": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:40.711549+00:00"
+    },
+    "10.1038/s41586-018-0120-4": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:08.138431+00:00"
+    },
+    "10.1039/c8cc01639a": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:44.416566+00:00"
+    },
+    "10.1002/cbic.201800026": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:45.248238+00:00"
+    },
+    "10.1038/s41467-018-03293-x": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:10.302226+00:00"
+    },
+    "10.1126/science.aaq1739": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:51.308566+00:00"
+    },
+    "10.1021/jacs.7b08261": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:51.308594+00:00"
+    },
+    "10.1002/bip.23096": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-11-26T14:38:55.278512+00:00"
+    },
+    "10.1038/ncomms16173": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:12.239441+00:00"
+    },
+    "10.1038/ncomms16144": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:12.242543+00:00"
+    },
+    "10.1186/s13068-016-0630-y": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:16.523586+00:00"
+    },
+    "10.1038/srep31362": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:18.820358+00:00"
+    },
+    "10.3791/54273": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:19.069400+00:00"
+    },
+    "10.1016/j.meteno.2016.07.001": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:23.145691+00:00"
+    },
+    "10.1002/biot.201600147": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:25.021219+00:00"
+    },
+    "10.1093/nar/gkw553": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:25.874963+00:00"
+    },
+    "10.1371/journal.pone.0151087": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:30.274210+00:00"
+    },
+    "10.1186/s12934-016-0447-1": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:32.955906+00:00"
+    },
+    "10.1371/journal.pone.0149483": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:32.955939+00:00"
+    },
+    "10.1093/pcp/pcw016": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:37.815072+00:00"
+    },
+    "10.1038/srep19512": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:43.243137+00:00"
+    },
+    "10.1002/bit.25920": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:43.243168+00:00"
+    },
+    "10.1038/srep17211": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:45.471063+00:00"
+    },
+    "10.1371/journal.pcbi.1004363": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:48.801458+00:00"
+    },
+    "10.1038/nmeth.3515": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:49.459145+00:00"
+    },
+    "10.1186/s12934-015-0288-3": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:51.826978+00:00"
+    },
+    "10.1128/mbio.01932-14": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:54.990455+00:00"
+    },
+    "10.1371/journal.pone.0109421": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:43:57.019976+00:00"
+    },
+    "10.1371/journal.pcbi.1003827": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:00.267327+00:00"
+    },
+    "10.1371/journal.pbio.1001920": {
+      "status": "abstract_media_unavailable",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:44:03.827623+00:00"
+    },
+    "10.3389/fmicb.2014.00382": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:05.107660+00:00"
+    },
+    "10.1371/journal.pone.0101115": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:08.069852+00:00"
+    },
+    "10.1186/1475-2859-13-8": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:08.069879+00:00"
+    },
+    "10.1371/journal.pone.0084664": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:13.633668+00:00"
+    },
+    "10.1093/nar/gkt1101": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:14.297401+00:00"
+    },
+    "10.1186/1471-2180-13-183": {
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:14.297422+00:00"
+    },
+    "10.1371/journal.pone.0043775": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:19.417396+00:00"
+    },
+    "10.1371/journal.pone.0037010": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:20.747729+00:00"
+    },
+    "10.1186/1754-1611-5-12": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:22.085756+00:00"
+    },
+    "10.1371/journal.pone.0021470": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:29.511402+00:00"
+    },
+    "10.1038/msb.2011.21": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:29.511433+00:00"
+    },
+    "10.1007/s11693-010-9052-5": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:36.503140+00:00"
+    },
+    "10.1186/1472-6750-9-97": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:36.881815+00:00"
+    },
+    "10.1002/anie.1922738": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:39.222287+00:00"
+    },
+    "10.1039/d6sc05637g": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:44:46.463784+00:00"
+    },
+    "10.1038/s42003-026-10417-3": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:46.463809+00:00"
+    },
+    "10.1038/s41467-026-73172-3": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:46.463817+00:00"
+    },
+    "10.1002/cbic.70308": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:44:54.712514+00:00"
+    },
+    "10.1093/procel/pwaf085": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:54.712541+00:00"
+    },
+    "10.1042/bst20253138": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:44:54.712550+00:00"
+    },
+    "10.1111/pbi.70626": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:01.881288+00:00"
+    },
+    "10.1039/d5sc08426a": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:45:04.821811+00:00"
+    },
+    "10.1021/jacs.5c18349": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:45:07.357315+00:00"
+    },
+    "10.1038/s41467-026-68363-x": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:07.953207+00:00"
+    },
+    "10.1038/s41467-025-68183-5": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:11.092945+00:00"
+    },
+    "10.1038/s41467-025-66689-6": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:15.583995+00:00"
+    },
+    "10.1002/anie.202516157": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:45:17.564153+00:00"
+    },
+    "10.1038/s41467-025-65946-y": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:20.090653+00:00"
+    },
+    "10.1038/s41467-025-65175-3": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:24.329983+00:00"
+    },
+    "10.1038/s41586-025-09721-5": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:25.384758+00:00"
+    },
+    "10.1128/jb.00287-25": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:29.565087+00:00"
+    },
+    "10.1038/s41586-025-09576-w": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:35.852517+00:00"
+    },
+    "10.1038/s41467-025-63733-3": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:35.852538+00:00"
+    },
+    "10.1128/aem.00924-25": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:40.022723+00:00"
+    },
+    "10.1038/s41467-025-63212-9": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:42.173895+00:00"
+    },
+    "10.1038/s41592-025-02740-0": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:43.258072+00:00"
+    },
+    "10.1073/pnas.2503115122": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:46.139181+00:00"
+    },
+    "10.1002/cbic.202500259": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:45:51.630800+00:00"
+    },
+    "10.1038/s41467-025-61160-y": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:51.733096+00:00"
+    },
+    "10.1038/s41467-025-61001-y": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:52.858765+00:00"
+    },
+    "10.1038/s41467-025-60120-w": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:58.666524+00:00"
+    },
+    "10.1038/s41421-025-00799-9": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:58.666558+00:00"
+    },
+    "10.1038/s41467-025-59418-6": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:45:58.938224+00:00"
+    },
+    "10.1038/s42003-025-08039-2": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:05.705755+00:00"
+    },
+    "10.1002/pro.70098": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:05.705783+00:00"
+    },
+    "10.1039/d5sc01055a": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:46:06.636983+00:00"
+    },
+    "10.1038/s41467-025-57935-y": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:10.986934+00:00"
+    },
+    "10.1038/s41467-025-58038-4": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:12.451296+00:00"
+    },
+    "10.1038/s41467-025-57969-2": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:13.391208+00:00"
+    },
+    "10.1126/sciadv.ads6804": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:19.942831+00:00"
+    },
+    "10.1021/jacsau.4c01189": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:22.079006+00:00"
+    },
+    "10.1073/pnas.2411316122": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:22.079034+00:00"
+    },
+    "10.1021/acscatal.4c06409": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:28.504154+00:00"
+    },
+    "10.1038/s41467-024-55165-2": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:28.607448+00:00"
+    },
+    "10.1021/acs.chemrev.4c00216": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:31.315767+00:00"
+    },
+    "10.1093/nsr/nwae469": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:37.164726+00:00"
+    },
+    "10.1002/anie.202421912": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:46:40.992727+00:00"
+    },
+    "10.1021/acscentsci.4c01544": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:40.992758+00:00"
+    },
+    "10.1111/pbi.14522": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:52.217317+00:00"
+    },
+    "10.1021/acscatal.4c06052": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:52.217346+00:00"
+    },
+    "10.1038/s44318-024-00323-x": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:52.217358+00:00"
+    },
+    "10.1038/s41467-024-54781-2": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:46:57.822564+00:00"
+    },
+    "10.1038/s41587-024-02462-2": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:01.076435+00:00"
+    },
+    "10.1038/s41467-024-52582-1": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:01.076464+00:00"
+    },
+    "10.1021/acs.chemrev.4c00136": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:08.120569+00:00"
+    },
+    "10.1021/acs.chemrev.4c00375": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:08.120600+00:00"
+    },
+    "10.1039/d4fd00069b": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:47:10.392411+00:00"
+    },
+    "10.1021/acs.chemrev.4c00243": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:15.339895+00:00"
+    },
+    "10.1093/plphys/kiae332": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:15.339918+00:00"
+    },
+    "10.1038/s41564-024-01799-3": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:18.727415+00:00"
+    },
+    "10.1038/s41467-024-51773-0": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:22.289908+00:00"
+    },
+    "10.1073/pnas.2321204121": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:24.397423+00:00"
+    },
+    "10.1085/jgp.202313523": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:27.620237+00:00"
+    },
+    "10.7554/elife.91012": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:31.841740+00:00"
+    },
+    "10.1038/s41422-024-01014-2": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:31.841762+00:00"
+    },
+    "10.1073/pnas.2401251121": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:33.904296+00:00"
+    },
+    "10.1039/d4nr01300j": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:47:39.790416+00:00"
+    },
+    "10.1073/pnas.2220020121": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:39.790450+00:00"
+    },
+    "10.1073/pnas.2400883121": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:39.790463+00:00"
+    },
+    "10.1038/s41467-024-49678-z": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:45.171923+00:00"
+    },
+    "10.1093/nsr/nwae215": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:46.693846+00:00"
+    },
+    "10.1038/s41467-024-49517-1": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:46.956365+00:00"
+    },
+    "10.1038/s41467-024-49254-5": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:52.071283+00:00"
+    },
+    "10.1021/acssynbio.3c00737": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:53.935954+00:00"
+    },
+    "10.1093/nsr/nwae183": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:55.067997+00:00"
+    },
+    "10.1021/acscentsci.3c01557": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:47:59.401555+00:00"
+    },
+    "10.1038/s41586-024-07345-9": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:02.882991+00:00"
+    },
+    "10.3390/v16050659": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:02.883014+00:00"
+    },
+    "10.1038/s41467-024-47163-1": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:07.198613+00:00"
+    },
+    "10.1021/jacsau.4c00033": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:10.575710+00:00"
+    },
+    "10.1039/d3sc06245g": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:48:14.731241+00:00"
+    },
+    "10.1038/s41467-024-46985-3": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:14.731265+00:00"
+    },
+    "10.1038/s41467-024-46314-8": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:17.729877+00:00"
+    },
+    "10.1038/s41467-024-45383-z": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:21.777024+00:00"
+    },
+    "10.1038/s41467-023-44511-5": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:22.809873+00:00"
+    },
+    "10.1038/s41586-023-06897-6": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:26.067009+00:00"
+    },
+    "10.1039/d3sc05789e": {
+      "status": "found",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-10-30T14:48:32.536850+00:00"
+    },
+    "10.1038/s41467-023-44113-1": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:32.536880+00:00"
+    },
+    "10.1038/s41467-023-43531-5": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:32.997026+00:00"
+    },
+    "10.1038/s41467-023-43535-1": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:35.620027+00:00"
+    },
+    "10.1021/acssynbio.3c00292": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:38.141530+00:00"
+    },
+    "10.1038/s41556-023-01258-x": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:38.357213+00:00"
+    },
+    "10.1038/s41467-023-42877-0": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:40.711953+00:00"
+    },
+    "10.1038/s41467-023-42252-z": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
+      "retryAfter": "2026-11-26T14:48:43.715051+00:00"
+    }
+  },
+  "rssAttempts": {},
+  "journals": {
+    "acschemicalbiology": {
+      "status": "ok",
+      "code": "acbcct",
+      "journal": "ACS chemical biology",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/acbcct/asap.xml",
+        "https://pubs.acs.org/rss/acbcct/currentIssue.xml"
+      ]
+    },
+    "organicletters": {
+      "status": "ok",
+      "code": "orlef7",
+      "journal": "Organic letters",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/orlef7/asap.xml",
+        "https://pubs.acs.org/rss/orlef7/currentIssue.xml"
+      ]
+    },
+    "journaloftheamericanchemicalsociety": {
+      "status": "ok",
+      "code": "jacsat",
+      "journal": "Journal of the American Chemical Society",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/jacsat/asap.xml",
+        "https://pubs.acs.org/rss/jacsat/currentIssue.xml"
+      ]
+    },
+    "chemicalreviews": {
+      "status": "ok",
+      "code": "chreay",
+      "journal": "Chemical reviews",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/chreay/asap.xml",
+        "https://pubs.acs.org/rss/chreay/currentIssue.xml"
+      ]
+    },
+    "acssyntheticbiology": {
+      "status": "ok",
+      "code": "asbcd6",
+      "journal": "ACS synthetic biology",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/asbcd6/asap.xml",
+        "https://pubs.acs.org/rss/asbcd6/currentIssue.xml"
+      ]
+    },
+    "acscentralscience": {
+      "status": "ok",
+      "code": "acscii",
+      "journal": "ACS central science",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/acscii/asap.xml",
+        "https://pubs.acs.org/rss/acscii/currentIssue.xml"
+      ]
+    },
+    "bioconjugatechemistry": {
+      "status": "ok",
+      "code": "bcches",
+      "journal": "Bioconjugate chemistry",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/bcches/asap.xml",
+        "https://pubs.acs.org/rss/bcches/currentIssue.xml"
+      ]
+    },
+    "biochemistry": {
+      "status": "ok",
+      "code": "bichaw",
+      "journal": "Biochemistry",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/bichaw/asap.xml",
+        "https://pubs.acs.org/rss/bichaw/currentIssue.xml"
+      ]
+    },
+    "accountsofchemicalresearch": {
+      "status": "ok",
+      "code": "achre4",
+      "journal": "Accounts of chemical research",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/achre4/asap.xml",
+        "https://pubs.acs.org/rss/achre4/currentIssue.xml"
+      ]
+    },
+    "acsmedicinalchemistryletters": {
+      "status": "ok",
+      "code": "amclct",
+      "journal": "ACS medicinal chemistry letters",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/amclct/asap.xml",
+        "https://pubs.acs.org/rss/amclct/currentIssue.xml"
+      ]
+    },
+    "jacsau": {
+      "status": "ok",
+      "code": "jaaucr",
+      "journal": "JACS Au",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/jaaucr/asap.xml",
+        "https://pubs.acs.org/rss/jaaucr/currentIssue.xml"
+      ]
+    },
+    "acscatalysis": {
+      "status": "ok",
+      "code": "accacs",
+      "journal": "ACS catalysis",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/accacs/asap.xml",
+        "https://pubs.acs.org/rss/accacs/currentIssue.xml"
+      ]
+    },
+    "inorganicchemistry": {
+      "status": "ok",
+      "code": "inocaj",
+      "journal": "Inorganic chemistry",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/inocaj/asap.xml",
+        "https://pubs.acs.org/rss/inocaj/currentIssue.xml"
+      ]
+    },
+    "journalofphysicalchemistryletters": {
+      "status": "ok",
+      "code": "jpclcd",
+      "journal": "The journal of physical chemistry letters",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/jpclcd/asap.xml",
+        "https://pubs.acs.org/rss/jpclcd/currentIssue.xml"
+      ]
+    },
+    "journalofchemicaltheoryandcomputation": {
+      "status": "ok",
+      "code": "jctcce",
+      "journal": "Journal of chemical theory and computation",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/jctcce/asap.xml",
+        "https://pubs.acs.org/rss/jctcce/currentIssue.xml"
+      ]
+    },
+    "journalofchemicalinformationandmodeling": {
+      "status": "ok",
+      "code": "jcisd8",
+      "journal": "Journal of chemical information and modeling",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/jcisd8/asap.xml",
+        "https://pubs.acs.org/rss/jcisd8/currentIssue.xml"
+      ]
+    },
+    "journalofphysicalchemistryb": {
+      "status": "ok",
+      "code": "jpcbfk",
+      "journal": "The journal of physical chemistry. B",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/jpcbfk/asap.xml",
+        "https://pubs.acs.org/rss/jpcbfk/currentIssue.xml"
+      ]
+    },
+    "journalofphysicalchemistrya": {
+      "status": "ok",
+      "code": "jpcafh",
+      "journal": "The journal of physical chemistry. A",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/jpcafh/asap.xml",
+        "https://pubs.acs.org/rss/jpcafh/currentIssue.xml"
+      ]
+    },
+    "journalofproteomeresearch": {
+      "status": "ok",
+      "code": "jprobs",
+      "journal": "Journal of proteome research",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/jprobs/asap.xml",
+        "https://pubs.acs.org/rss/jprobs/currentIssue.xml"
+      ]
+    },
+    "acsomega": {
+      "status": "ok",
+      "code": "acsodf",
+      "journal": "ACS omega",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/acsodf/asap.xml",
+        "https://pubs.acs.org/rss/acsodf/currentIssue.xml"
+      ]
+    },
+    "journalofagriculturalandfoodchemistry": {
+      "status": "ok",
+      "code": "jafcau",
+      "journal": "Journal of agricultural and food chemistry",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/jafcau/asap.xml",
+        "https://pubs.acs.org/rss/jafcau/currentIssue.xml"
+      ]
+    },
+    "analyticalchemistry": {
+      "status": "ok",
+      "code": "ancham",
+      "journal": "Analytical chemistry",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/ancham/asap.xml",
+        "https://pubs.acs.org/rss/ancham/currentIssue.xml"
+      ]
+    },
+    "biomacromolecules": {
+      "status": "ok",
+      "code": "bomaf6",
+      "journal": "Biomacromolecules",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/bomaf6/asap.xml",
+        "https://pubs.acs.org/rss/bomaf6/currentIssue.xml"
+      ]
+    },
+    "environmentalsciencetechnology": {
+      "status": "ok",
+      "code": "esthag",
+      "journal": "Environmental science & technology",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/esthag/asap.xml",
+        "https://pubs.acs.org/rss/esthag/currentIssue.xml"
+      ]
+    },
+    "biotechnologyprogress": {
+      "status": "no_current_journal_path",
+      "metadataSource": "https://api.crossref.org/works/10.1021%2Fbp070012p",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:34:15.810815+00:00"
+    },
+    "nanoletters": {
+      "status": "ok",
+      "code": "nalefd",
+      "journal": "Nano letters",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/nalefd/asap.xml",
+        "https://pubs.acs.org/rss/nalefd/currentIssue.xml"
+      ]
+    },
+    "acssensors": {
+      "status": "ok",
+      "code": "ascefj",
+      "journal": "ACS sensors",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/ascefj/asap.xml",
+        "https://pubs.acs.org/rss/ascefj/currentIssue.xml"
+      ]
+    },
+    "acsappliedmaterialsinterfaces": {
+      "status": "ok",
+      "code": "aamick",
+      "journal": "ACS applied materials & interfaces",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/aamick/asap.xml",
+        "https://pubs.acs.org/rss/aamick/currentIssue.xml"
+      ]
+    },
+    "journalofmedicinalchemistry": {
+      "status": "ok",
+      "code": "jmcmar",
+      "journal": "Journal of medicinal chemistry",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/jmcmar/asap.xml",
+        "https://pubs.acs.org/rss/jmcmar/currentIssue.xml"
+      ]
+    },
+    "acscombinatorialscience": {
+      "status": "no_current_journal_path",
+      "metadataSource": "https://api.crossref.org/works/10.1021%2Fco200101w",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "retryAfter": "2026-10-30T14:34:16.820285+00:00"
+    },
+    "acsinfectiousdiseases": {
+      "status": "ok",
+      "code": "aidcbc",
+      "journal": "ACS infectious diseases",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/aidcbc/asap.xml",
+        "https://pubs.acs.org/rss/aidcbc/currentIssue.xml"
+      ]
+    },
+    "acsnano": {
+      "status": "ok",
+      "code": "ancac3",
+      "journal": "ACS nano",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/ancac3/asap.xml",
+        "https://pubs.acs.org/rss/ancac3/currentIssue.xml"
+      ]
+    },
+    "journalofnaturalproducts": {
+      "status": "ok",
+      "code": "jnprdf",
+      "journal": "Journal of natural products",
+      "registrySource": "https://pubs.acs.org/pages/rss",
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "feeds": [
+        "https://pubs.acs.org/rss/jnprdf/asap.xml",
+        "https://pubs.acs.org/rss/jnprdf/currentIssue.xml"
+      ]
+    }
+  },
+  "feeds": {
+    "https://pubs.acs.org/rss/acbcct/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 4
+    },
+    "https://pubs.acs.org/rss/acbcct/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 27
+    },
+    "https://pubs.acs.org/rss/acsodf/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 20
+    },
+    "https://pubs.acs.org/rss/acsodf/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 147
+    },
+    "https://pubs.acs.org/rss/inocaj/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 8
+    },
+    "https://pubs.acs.org/rss/inocaj/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 49
+    },
+    "https://pubs.acs.org/rss/jctcce/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 2
+    },
+    "https://pubs.acs.org/rss/jctcce/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 47
+    },
+    "https://pubs.acs.org/rss/jprobs/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 5
+    },
+    "https://pubs.acs.org/rss/jprobs/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 0
+    },
+    "https://pubs.acs.org/rss/aamick/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 42
+    },
+    "https://pubs.acs.org/rss/aamick/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 91
+    },
+    "https://pubs.acs.org/rss/accacs/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 10
+    },
+    "https://pubs.acs.org/rss/accacs/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 87
+    },
+    "https://pubs.acs.org/rss/achre4/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 2
+    },
+    "https://pubs.acs.org/rss/achre4/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 22
+    },
+    "https://pubs.acs.org/rss/acscii/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>",
+      "entries": 0
+    },
+    "https://pubs.acs.org/rss/acscii/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 0
+    },
+    "https://pubs.acs.org/rss/aidcbc/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 2
+    },
+    "https://pubs.acs.org/rss/aidcbc/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 0
+    },
+    "https://pubs.acs.org/rss/amclct/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 2
+    },
+    "https://pubs.acs.org/rss/amclct/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 0
+    },
+    "https://pubs.acs.org/rss/ancac3/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 9
+    },
+    "https://pubs.acs.org/rss/ancac3/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 32
+    },
+    "https://pubs.acs.org/rss/ancham/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 8
+    },
+    "https://pubs.acs.org/rss/ancham/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 25
+    },
+    "https://pubs.acs.org/rss/asbcd6/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 3
+    },
+    "https://pubs.acs.org/rss/asbcd6/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 41
+    },
+    "https://pubs.acs.org/rss/ascefj/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 7
+    },
+    "https://pubs.acs.org/rss/ascefj/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 81
+    },
+    "https://pubs.acs.org/rss/bcches/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 3
+    },
+    "https://pubs.acs.org/rss/bcches/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 20
+    },
+    "https://pubs.acs.org/rss/bichaw/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 4
+    },
+    "https://pubs.acs.org/rss/bichaw/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 15
+    },
+    "https://pubs.acs.org/rss/bomaf6/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 2
+    },
+    "https://pubs.acs.org/rss/bomaf6/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 0
+    },
+    "https://pubs.acs.org/rss/chreay/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 3
+    },
+    "https://pubs.acs.org/rss/chreay/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 6
+    },
+    "https://pubs.acs.org/rss/esthag/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 9
+    },
+    "https://pubs.acs.org/rss/esthag/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 37
+    },
+    "https://pubs.acs.org/rss/jaaucr/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 2
+    },
+    "https://pubs.acs.org/rss/jaaucr/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 41
+    },
+    "https://pubs.acs.org/rss/jacsat/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 13
+    },
+    "https://pubs.acs.org/rss/jacsat/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 116
+    },
+    "https://pubs.acs.org/rss/jafcau/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 12
+    },
+    "https://pubs.acs.org/rss/jafcau/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 55
+    },
+    "https://pubs.acs.org/rss/jcisd8/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 5
+    },
+    "https://pubs.acs.org/rss/jcisd8/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 52
+    },
+    "https://pubs.acs.org/rss/jmcmar/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 5
+    },
+    "https://pubs.acs.org/rss/jmcmar/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 81
+    },
+    "https://pubs.acs.org/rss/jnprdf/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 2
+    },
+    "https://pubs.acs.org/rss/jnprdf/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 30
+    },
+    "https://pubs.acs.org/rss/jpcafh/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 3
+    },
+    "https://pubs.acs.org/rss/jpcafh/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 29
+    },
+    "https://pubs.acs.org/rss/jpcbfk/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 12
+    },
+    "https://pubs.acs.org/rss/jpcbfk/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 22
+    },
+    "https://pubs.acs.org/rss/jpclcd/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 7
+    },
+    "https://pubs.acs.org/rss/jpclcd/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 27
+    },
+    "https://pubs.acs.org/rss/nalefd/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 7
+    },
+    "https://pubs.acs.org/rss/nalefd/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 47
+    },
+    "https://pubs.acs.org/rss/orlef7/asap.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 15
+    },
+    "https://pubs.acs.org/rss/orlef7/currentIssue.xml": {
+      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
+      "status": "ok",
+      "entries": 0
+    }
+  },
+  "summary": {
+    "updated": "2026-10-27T14:42:13.415490+00:00",
+    "cachedFigures": 16,
+    "run": {
+      "rssMatches": 0,
+      "no_repository_media": 12,
+      "no_graphic_detected": 122,
+      "request_failed": 1,
+      "found": 14,
+      "repositoryImages": 14,
+      "abstract_media_unavailable": 1
+    },
+    "addedImages": 2,
+    "upgradedToAbstract": 14,
+    "providers": {
+      "publisher-rss": 2,
+      "pmc-cloud": 14
+    },
+    "policy": "Only exact DOI matches in the fixed-ORCID catalog; no UI or browser sessions"
+  }
+}

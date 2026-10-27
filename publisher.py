@@ -140,17 +140,17 @@ def clean_source(url):
     p=urllib.parse.urlsplit(url)
     return urllib.parse.urlunsplit((p.scheme,p.netloc,p.path,'',''))
 
-def verify_image(fig):
+def verify_image(fig, force_cache=False):
     """Validate the actual GET response; keep expiring public images in assets."""
     request=urllib.request.Request(fig['url'],headers={'User-Agent':AGENT})
     signed=any(key.lower() in ('signature','policy','x-amz-signature','x-goog-signature')
                for key in urllib.parse.parse_qs(urllib.parse.urlsplit(fig['url']).query))
     with urllib.request.urlopen(request,timeout=15) as response:
         mime=response.headers.get('Content-Type','').split(';',1)[0].lower()
-        if not mime.startswith('image/'):
+        if not mime.startswith('image/') and not ((signed or force_cache) and mime in ('application/octet-stream','binary/octet-stream')):
             raise ValueError('Image endpoint did not return an image')
-        payload=response.read(8_388_609 if signed else 32)
-    if not signed:
+        payload=response.read(8_388_609 if signed or force_cache else 32)
+    if not signed and not force_cache:
         return fig
     if len(payload)>8_388_608:
         raise ValueError('Publisher image exceeds cache size limit')

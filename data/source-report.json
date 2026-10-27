@@ -3203,10 +3203,11 @@
   "policy": "Only existing ORCID-qualified papers may be enriched.",
   "summary": {
     "uniquePapers": 1725,
-    "withImages": 490,
+    "withImages": 492,
     "labSources": 25,
     "successfulSources": 22,
-    "abstractGraphics": 101
+    "abstractGraphics": 115,
+    "catalogGraphics": 1
   },
   "publisher": {
     "updated": "2026-10-27T13:28:12.829968+00:00",
@@ -14826,5 +14827,25 @@
       "detail": "Publisher host previously returned access restriction",
       "checkedAt": "2026-10-27T07:51:01.995573+00:00"
     }
-  ]
+  ],
+  "automaticGraphics": {
+    "updated": "2026-10-27T14:42:13.415490+00:00",
+    "cachedFigures": 16,
+    "run": {
+      "rssMatches": 0,
+      "no_repository_media": 12,
+      "no_graphic_detected": 122,
+      "request_failed": 1,
+      "found": 14,
+      "repositoryImages": 14,
+      "abstract_media_unavailable": 1
+    },
+    "addedImages": 2,
+    "upgradedToAbstract": 14,
+    "providers": {
+      "publisher-rss": 2,
+      "pmc-cloud": 14
+    },
+    "policy": "Only exact DOI matches in the fixed-ORCID catalog; no UI or browser sessions"
+  }
 }
