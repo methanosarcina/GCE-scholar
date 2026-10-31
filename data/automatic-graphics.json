@@ -624,13 +624,28 @@
       "publisherAsset": "https://pmc-oa-opendata.s3.amazonaws.com/PMC5590542.1/c4sc01525h-ga.jpg",
       "sha256": "f7d843b47d17bf6cd0413f4b095a93b13e1f7874540e7383f48416f8fa0c5ec1",
       "checkedAt": "2026-10-28T08:36:11.949364+00:00"
+    },
+    "10.1021/jacsau.6c00943": {
+      "url": "assets/publisher/ae6801c734f8ec3fbddb9f33579f939a.png",
+      "kind": "期刊目录图",
+      "provider": "publisher-rss",
+      "source": "https://pubs.acs.org/jaaucr/article/6/10/5679/5276971/Genetically-Incorporable-Tryptophan-Based-Cyan",
+      "feedSource": "https://pubs.acs.org/rss/jaaucr/currentIssue.xml",
+      "doi": "10.1021/jacsau.6c00943",
+      "match": "exact-doi",
+      "evidence": "Publisher-designated RSS article image",
+      "caption": "出版社官方 RSS 为该 DOI 提供的期刊配图。",
+      "storage": "local",
+      "publisherAsset": "https://acs.silverchair-cdn.com/acs/content_public/journal/jaaucr/6/10/10.1021_jacsau.6c00943/1/au6c00943_0008.png",
+      "sha256": "ae6801c734f8ec3fbddb9f33579f939a2f39ba6b9d4f8a0e597589a8b3a354bf",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00"
     }
   },
   "attempts": {
     "10.1002/anie.8361803": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:35:12.198979+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:13.639317+00:00"
     },
     "10.1021/acschembio.5c00621": {
       "status": "no_repository_media",
@@ -703,9 +718,9 @@
       "retryAfter": "2026-11-26T14:42:29.929729+00:00"
     },
     "10.1038/s42003-025-08141-5": {
-      "status": "request_failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1082)>",
-      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
-      "retryAfter": "2026-10-30T14:42:29.929763+00:00"
+      "status": "no_repository_media",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-30T08:34:12.314964+00:00"
     },
     "10.1021/jacs.5c03379": {
       "status": "no_repository_media",
@@ -734,8 +749,8 @@
     },
     "10.1038/s41422-024-01029-9": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:35:38.727309+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:13.639368+00:00"
     },
     "10.1126/science.adm9073": {
       "status": "no_repository_media",
@@ -749,8 +764,8 @@
     },
     "10.1038/s41422-024-00991-8": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:35:43.931561+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:13.639381+00:00"
     },
     "10.1021/jacs.4c07920": {
       "status": "no_repository_media",
@@ -784,8 +799,8 @@
     },
     "10.1038/s41422-024-00968-7": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:35:55.203693+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:13.771045+00:00"
     },
     "10.1038/s41467-024-48084-9": {
       "status": "no_repository_media",
@@ -804,8 +819,8 @@
     },
     "10.1038/s41422-023-00914-z": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:36:00.196688+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:14.074462+00:00"
     },
     "10.1021/acs.bioconjchem.3c00380": {
       "status": "no_repository_media",
@@ -834,8 +849,8 @@
     },
     "10.1038/s41422-023-00836-w": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:36:06.763300+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:14.374061+00:00"
     },
     "10.1002/anie.202304646": {
       "status": "no_repository_media",
@@ -854,13 +869,13 @@
     },
     "10.1016/j.xpro.2023.102190": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:36:13.783749+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:14.662553+00:00"
     },
     "10.1002/pro.4537": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:36:13.783758+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:14.982650+00:00"
     },
     "10.1038/s41592-022-01706-w": {
       "status": "no_repository_media",
@@ -869,8 +884,8 @@
     },
     "10.12703/r-01-0000020": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:36:14.145194+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:15.268670+00:00"
     },
     "10.1038/s42003-022-04336-2": {
       "status": "no_graphic_detected",
@@ -894,8 +909,8 @@
     },
     "10.1021/acsmedchemlett.2c00336": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:36:21.952404+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:15.580080+00:00"
     },
     "10.1038/s41586-022-05157-3": {
       "status": "no_graphic_detected",
@@ -929,8 +944,8 @@
     },
     "10.1128/aem.02430-21": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:36:30.468404+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:15.867796+00:00"
     },
     "10.1021/jacs.1c09281": {
       "status": "no_repository_media",
@@ -959,8 +974,8 @@
     },
     "10.1016/j.ymthe.2021.09.004": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:36:36.445391+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:16.181309+00:00"
     },
     "10.1021/acssynbio.1c00276": {
       "status": "no_repository_media",
@@ -989,8 +1004,8 @@
     },
     "10.1073/pnas.2026318118": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:36:44.927689+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:16.550960+00:00"
     },
     "10.1002/cpz1.117": {
       "status": "no_repository_media",
@@ -1039,8 +1054,8 @@
     },
     "10.1073/pnas.2003991117": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:37:00.579279+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:16.778606+00:00"
     },
     "10.1021/jacs.0c06987": {
       "status": "no_repository_media",
@@ -1054,18 +1069,18 @@
     },
     "10.1038/s41422-020-00419-z": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:37:02.887518+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:17.090223+00:00"
     },
     "10.1002/smll.202004237": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:37:03.244427+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:17.380503+00:00"
     },
     "10.1128/aem.01665-20": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:37:03.785393+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:17.685159+00:00"
     },
     "10.1021/jacs.0c06419": {
       "status": "no_graphic_detected",
@@ -1129,8 +1144,8 @@
     },
     "10.1073/pnas.1912531117": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:37:20.582478+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:17.976545+00:00"
     },
     "10.1002/cbic.201900560": {
       "status": "found",
@@ -1144,8 +1159,8 @@
     },
     "10.1101/cshperspect.a034371": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:37:29.448867+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:18.277875+00:00"
     },
     "10.1126/science.aay0737": {
       "status": "no_repository_media",
@@ -1184,8 +1199,8 @@
     },
     "10.1002/pro.3643": {
       "status": "no_repository_version",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:37:35.885823+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:18.581909+00:00"
     },
     "10.1021/acssynbio.9b00122": {
       "status": "no_repository_media",
@@ -1484,8 +1499,8 @@
     },
     "10.1371/journal.pbio.1001920": {
       "status": "abstract_media_unavailable",
-      "checkedAt": "2026-10-27T14:42:13.415490+00:00",
-      "retryAfter": "2026-10-30T14:44:03.827623+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:34:13.639283+00:00"
     },
     "10.3389/fmicb.2014.00382": {
       "status": "no_graphic_detected",
@@ -4155,7 +4170,7 @@
       "code": "acbcct",
       "journal": "ACS chemical biology",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/acbcct/asap.xml",
         "https://pubs.acs.org/rss/acbcct/currentIssue.xml"
@@ -4166,7 +4181,7 @@
       "code": "orlef7",
       "journal": "Organic letters",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/orlef7/asap.xml",
         "https://pubs.acs.org/rss/orlef7/currentIssue.xml"
@@ -4177,7 +4192,7 @@
       "code": "jacsat",
       "journal": "Journal of the American Chemical Society",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jacsat/asap.xml",
         "https://pubs.acs.org/rss/jacsat/currentIssue.xml"
@@ -4188,7 +4203,7 @@
       "code": "chreay",
       "journal": "Chemical reviews",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/chreay/asap.xml",
         "https://pubs.acs.org/rss/chreay/currentIssue.xml"
@@ -4199,7 +4214,7 @@
       "code": "asbcd6",
       "journal": "ACS synthetic biology",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/asbcd6/asap.xml",
         "https://pubs.acs.org/rss/asbcd6/currentIssue.xml"
@@ -4210,7 +4225,7 @@
       "code": "acscii",
       "journal": "ACS central science",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/acscii/asap.xml",
         "https://pubs.acs.org/rss/acscii/currentIssue.xml"
@@ -4221,7 +4236,7 @@
       "code": "bcches",
       "journal": "Bioconjugate chemistry",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/bcches/asap.xml",
         "https://pubs.acs.org/rss/bcches/currentIssue.xml"
@@ -4232,7 +4247,7 @@
       "code": "bichaw",
       "journal": "Biochemistry",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/bichaw/asap.xml",
         "https://pubs.acs.org/rss/bichaw/currentIssue.xml"
@@ -4243,7 +4258,7 @@
       "code": "achre4",
       "journal": "Accounts of chemical research",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/achre4/asap.xml",
         "https://pubs.acs.org/rss/achre4/currentIssue.xml"
@@ -4254,7 +4269,7 @@
       "code": "amclct",
       "journal": "ACS medicinal chemistry letters",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/amclct/asap.xml",
         "https://pubs.acs.org/rss/amclct/currentIssue.xml"
@@ -4265,7 +4280,7 @@
       "code": "jaaucr",
       "journal": "JACS Au",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jaaucr/asap.xml",
         "https://pubs.acs.org/rss/jaaucr/currentIssue.xml"
@@ -4276,7 +4291,7 @@
       "code": "accacs",
       "journal": "ACS catalysis",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/accacs/asap.xml",
         "https://pubs.acs.org/rss/accacs/currentIssue.xml"
@@ -4287,7 +4302,7 @@
       "code": "inocaj",
       "journal": "Inorganic chemistry",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/inocaj/asap.xml",
         "https://pubs.acs.org/rss/inocaj/currentIssue.xml"
@@ -4298,7 +4313,7 @@
       "code": "jpclcd",
       "journal": "The journal of physical chemistry letters",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jpclcd/asap.xml",
         "https://pubs.acs.org/rss/jpclcd/currentIssue.xml"
@@ -4309,7 +4324,7 @@
       "code": "jctcce",
       "journal": "Journal of chemical theory and computation",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jctcce/asap.xml",
         "https://pubs.acs.org/rss/jctcce/currentIssue.xml"
@@ -4320,7 +4335,7 @@
       "code": "jcisd8",
       "journal": "Journal of chemical information and modeling",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jcisd8/asap.xml",
         "https://pubs.acs.org/rss/jcisd8/currentIssue.xml"
@@ -4331,7 +4346,7 @@
       "code": "jpcbfk",
       "journal": "The journal of physical chemistry. B",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jpcbfk/asap.xml",
         "https://pubs.acs.org/rss/jpcbfk/currentIssue.xml"
@@ -4342,7 +4357,7 @@
       "code": "jpcafh",
       "journal": "The journal of physical chemistry. A",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jpcafh/asap.xml",
         "https://pubs.acs.org/rss/jpcafh/currentIssue.xml"
@@ -4353,7 +4368,7 @@
       "code": "jprobs",
       "journal": "Journal of proteome research",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jprobs/asap.xml",
         "https://pubs.acs.org/rss/jprobs/currentIssue.xml"
@@ -4364,7 +4379,7 @@
       "code": "acsodf",
       "journal": "ACS omega",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/acsodf/asap.xml",
         "https://pubs.acs.org/rss/acsodf/currentIssue.xml"
@@ -4375,7 +4390,7 @@
       "code": "jafcau",
       "journal": "Journal of agricultural and food chemistry",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jafcau/asap.xml",
         "https://pubs.acs.org/rss/jafcau/currentIssue.xml"
@@ -4386,7 +4401,7 @@
       "code": "ancham",
       "journal": "Analytical chemistry",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/ancham/asap.xml",
         "https://pubs.acs.org/rss/ancham/currentIssue.xml"
@@ -4397,7 +4412,7 @@
       "code": "bomaf6",
       "journal": "Biomacromolecules",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/bomaf6/asap.xml",
         "https://pubs.acs.org/rss/bomaf6/currentIssue.xml"
@@ -4408,7 +4423,7 @@
       "code": "esthag",
       "journal": "Environmental science & technology",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/esthag/asap.xml",
         "https://pubs.acs.org/rss/esthag/currentIssue.xml"
@@ -4417,15 +4432,15 @@
     "biotechnologyprogress": {
       "status": "no_current_journal_path",
       "metadataSource": "https://api.crossref.org/works/10.1021%2Fbp070012p",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:34:15.810815+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:33:48.655521+00:00"
     },
     "nanoletters": {
       "status": "ok",
       "code": "nalefd",
       "journal": "Nano letters",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/nalefd/asap.xml",
         "https://pubs.acs.org/rss/nalefd/currentIssue.xml"
@@ -4436,7 +4451,7 @@
       "code": "ascefj",
       "journal": "ACS sensors",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/ascefj/asap.xml",
         "https://pubs.acs.org/rss/ascefj/currentIssue.xml"
@@ -4447,7 +4462,7 @@
       "code": "aamick",
       "journal": "ACS applied materials & interfaces",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/aamick/asap.xml",
         "https://pubs.acs.org/rss/aamick/currentIssue.xml"
@@ -4458,7 +4473,7 @@
       "code": "jmcmar",
       "journal": "Journal of medicinal chemistry",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jmcmar/asap.xml",
         "https://pubs.acs.org/rss/jmcmar/currentIssue.xml"
@@ -4467,15 +4482,15 @@
     "acscombinatorialscience": {
       "status": "no_current_journal_path",
       "metadataSource": "https://api.crossref.org/works/10.1021%2Fco200101w",
-      "checkedAt": "2026-10-27T14:34:14.355514+00:00",
-      "retryAfter": "2026-10-30T14:34:16.820285+00:00"
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
+      "retryAfter": "2026-11-03T08:33:49.784610+00:00"
     },
     "acsinfectiousdiseases": {
       "status": "ok",
       "code": "aidcbc",
       "journal": "ACS infectious diseases",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/aidcbc/asap.xml",
         "https://pubs.acs.org/rss/aidcbc/currentIssue.xml"
@@ -4486,7 +4501,7 @@
       "code": "ancac3",
       "journal": "ACS nano",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/ancac3/asap.xml",
         "https://pubs.acs.org/rss/ancac3/currentIssue.xml"
@@ -4497,7 +4512,7 @@
       "code": "jnprdf",
       "journal": "Journal of natural products",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jnprdf/asap.xml",
         "https://pubs.acs.org/rss/jnprdf/currentIssue.xml"
@@ -4506,328 +4521,332 @@
   },
   "feeds": {
     "https://pubs.acs.org/rss/acbcct/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 3
+      "entries": 4
     },
     "https://pubs.acs.org/rss/acbcct/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 27
     },
     "https://pubs.acs.org/rss/acsodf/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 25
+      "entries": 17
     },
     "https://pubs.acs.org/rss/acsodf/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 127
     },
     "https://pubs.acs.org/rss/inocaj/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 14
+      "entries": 8
     },
     "https://pubs.acs.org/rss/inocaj/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 49
     },
     "https://pubs.acs.org/rss/jctcce/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 4
+      "entries": 5
     },
     "https://pubs.acs.org/rss/jctcce/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 38
     },
     "https://pubs.acs.org/rss/jprobs/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 4
     },
     "https://pubs.acs.org/rss/jprobs/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 0
     },
     "https://pubs.acs.org/rss/aamick/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 24
+      "entries": 23
     },
     "https://pubs.acs.org/rss/aamick/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 137
     },
     "https://pubs.acs.org/rss/accacs/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 12
+      "entries": 15
     },
     "https://pubs.acs.org/rss/accacs/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 87
     },
     "https://pubs.acs.org/rss/achre4/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 2
     },
     "https://pubs.acs.org/rss/achre4/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 22
     },
     "https://pubs.acs.org/rss/acscii/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 3
+      "entries": 2
     },
     "https://pubs.acs.org/rss/acscii/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 15
     },
     "https://pubs.acs.org/rss/aidcbc/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 2
+      "entries": 3
     },
     "https://pubs.acs.org/rss/aidcbc/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 0
     },
     "https://pubs.acs.org/rss/amclct/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 2
     },
     "https://pubs.acs.org/rss/amclct/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 0
     },
     "https://pubs.acs.org/rss/ancac3/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 12
+      "entries": 8
     },
     "https://pubs.acs.org/rss/ancac3/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 52
     },
     "https://pubs.acs.org/rss/ancham/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 12
+      "entries": 15
     },
     "https://pubs.acs.org/rss/ancham/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 16
     },
     "https://pubs.acs.org/rss/asbcd6/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 4
+      "entries": 2
     },
     "https://pubs.acs.org/rss/asbcd6/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 41
     },
     "https://pubs.acs.org/rss/ascefj/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 9
+      "entries": 11
     },
     "https://pubs.acs.org/rss/ascefj/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 81
     },
     "https://pubs.acs.org/rss/bcches/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 4
     },
     "https://pubs.acs.org/rss/bcches/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 20
     },
     "https://pubs.acs.org/rss/bichaw/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 4
+      "entries": 2
     },
     "https://pubs.acs.org/rss/bichaw/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 15
     },
     "https://pubs.acs.org/rss/bomaf6/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 3
     },
     "https://pubs.acs.org/rss/bomaf6/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 0
     },
     "https://pubs.acs.org/rss/chreay/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 3
     },
     "https://pubs.acs.org/rss/chreay/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 9
     },
     "https://pubs.acs.org/rss/esthag/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 7
     },
     "https://pubs.acs.org/rss/esthag/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 50
     },
     "https://pubs.acs.org/rss/jaaucr/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 2
     },
     "https://pubs.acs.org/rss/jaaucr/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 41
     },
     "https://pubs.acs.org/rss/jacsat/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 26
     },
     "https://pubs.acs.org/rss/jacsat/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 103
     },
     "https://pubs.acs.org/rss/jafcau/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 14
+      "entries": 4
     },
     "https://pubs.acs.org/rss/jafcau/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 49
     },
     "https://pubs.acs.org/rss/jcisd8/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 5
+      "entries": 9
     },
     "https://pubs.acs.org/rss/jcisd8/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 52
     },
     "https://pubs.acs.org/rss/jmcmar/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 6
+      "entries": 7
     },
     "https://pubs.acs.org/rss/jmcmar/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 81
     },
     "https://pubs.acs.org/rss/jnprdf/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 3
+      "entries": 5
     },
     "https://pubs.acs.org/rss/jnprdf/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 30
     },
     "https://pubs.acs.org/rss/jpcafh/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 5
+      "entries": 2
     },
     "https://pubs.acs.org/rss/jpcafh/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 14
     },
     "https://pubs.acs.org/rss/jpcbfk/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 5
     },
     "https://pubs.acs.org/rss/jpcbfk/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 25
     },
     "https://pubs.acs.org/rss/jpclcd/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 6
+      "entries": 4
     },
     "https://pubs.acs.org/rss/jpclcd/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 37
     },
     "https://pubs.acs.org/rss/nalefd/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 11
+      "entries": 5
     },
     "https://pubs.acs.org/rss/nalefd/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 35
     },
     "https://pubs.acs.org/rss/orlef7/asap.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
-      "entries": 9
+      "entries": 11
     },
     "https://pubs.acs.org/rss/orlef7/currentIssue.xml": {
-      "checkedAt": "2026-10-30T08:48:05.024983+00:00",
+      "checkedAt": "2026-10-31T08:33:48.131177+00:00",
       "status": "ok",
       "entries": 0
     }
   },
   "summary": {
-    "updated": "2026-10-30T08:48:05.024983+00:00",
-    "cachedFigures": 37,
+    "updated": "2026-10-31T08:33:48.131177+00:00",
+    "cachedFigures": 38,
     "run": {
       "feedsRead": 62,
-      "rssMatches": 2,
-      "cachedImages": 2
+      "rssMatches": 3,
+      "cachedImages": 2,
+      "rssImages": 1,
+      "no_repository_media": 1,
+      "abstract_media_unavailable": 1,
+      "no_repository_version": 20
     },
     "addedImages": 0,
     "upgradedToAbstract": 0,
     "providers": {
-      "publisher-rss": 2,
+      "publisher-rss": 3,
       "pmc-cloud": 35
     },
     "policy": "Only exact DOI matches in the fixed-ORCID catalog; no UI or browser sessions"
