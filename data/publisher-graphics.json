@@ -10666,14 +10666,20 @@
       "source": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9814409",
       "detail": "Publisher host previously returned access restriction",
       "checkedAt": "2026-11-02T09:30:01.408385+00:00"
+    },
+    "10.1021/jacs.6c15079": {
+      "status": "access_restricted",
+      "source": "https://pubs.acs.org/doi/10.1021/jacs.6c15079",
+      "httpStatus": 403,
+      "checkedAt": "2026-11-02T12:12:22.521960+00:00"
     }
   },
   "summary": {
-    "updated": "2026-11-02T09:30:01.408385+00:00",
-    "doiPapers": 1743,
+    "updated": "2026-11-02T12:12:22.521960+00:00",
+    "doiPapers": 1773,
     "publisherGraphics": 55,
     "statuses": {
-      "access_restricted": 51,
+      "access_restricted": 52,
       "host_deferred": 1217,
       "found": 55,
       "no_graphic_detected": 386,

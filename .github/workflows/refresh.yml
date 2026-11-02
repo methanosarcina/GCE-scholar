@@ -2,7 +2,7 @@ name: Refresh catalog
 on:
   push:
     branches: [main]
-    paths: [collect.py]
+    paths: [collect.py, crossref.py, scholars.json]
   schedule:
     # Run once per day; the catalog keeps the exact ORCID matches and the
     # publisher-image cache is refreshed incrementally.
@@ -25,6 +25,7 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python -m unittest discover -s tests
       - run: python collect.py --resolved-all --figures ${{ github.event_name == 'push' && '0' || '4' }}
+      - run: python crossref.py
       - if: github.event_name != 'push'
         run: python enrich.py --all-oa
       - if: github.event_name != 'push'

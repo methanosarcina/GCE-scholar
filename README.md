@@ -27,6 +27,7 @@ python server.py
 ```sh
 python -m pip install -r requirements.txt
 python collect.py --figures 4
+python crossref.py
 python enrich.py --all-oa
 python publisher.py
 python -m unittest discover -s tests
@@ -96,3 +97,11 @@ RSS 通常只含近期文章；历史论文需由开放仓储或可访问的出�
 Xiaozhou Luo 的 ORCID 0000-0001-9808-6890 已由[出版社论文页面](https://academic.oup.com/bib/article/24/1/bbac476/6834141)核对。固定 ORCID 不等于数据库收录了其全部发表记录。
 
 南方科技大学化学系王杰（Jie Wang）的 ORCID [0000-0001-7602-5050](https://orcid.org/0000-0001-7602-5050)，已由[学校主页](https://sustech.edu.cn/en/faculties/wangjie.html)和[出版社论文作者资料](https://pubs.acs.org/doi/10.1021/jacs.3c03701)交叉核实；沿用相同的严格 ORCID 收录和每日自动更新规则。
+
+## 最新论文的补充来源
+
+Europe PMC 尚未收录的新论文，由 `python crossref.py` 按同一个固定 ORCID 从 Crossref 的出版社登记数据补充。每天默认查询近 365 天的期刊论文并遍历分页；只有作者列表含完全一致 ORCID 才收录，不按姓名补入。与已有目录按 DOI 去重，Europe PMC 已有记录保留原元数据。
+
+成功记录保存到 `data/crossref.json`，查询失败时沿用此前已通过 ORCID 核对的缓存。每天先更新 Europe PMC，再补充 Crossref，最后执行官网与出版社配图。详情页标明元数据来源；Crossref 没有提供摘要或图片时不会编造。
+
+王杰 2026 年 10 月 28 日的 JACS 论文 `10.1021/jacs.6c15079` 是这类索引延迟的例子：Crossref 作者块已有其 ORCID，而本次 Europe PMC 的 DOI 查询尚未返回记录。Nature 官方研究文章链接也可从规范的 `/articles/s…` 路径识别 DOI，用于核对课题组配图；不会据此新增未通过 ORCID 检查的论文。

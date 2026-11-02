@@ -34,6 +34,46 @@ class EnrichmentTests(unittest.TestCase):
     def test_doi_normalization(self):
         self.assertEqual(canonical('https://doi.org/10.1021/JACS.7B04159?download=1'),'10.1021/jacs.7b04159')
 
+    def test_official_nature_research_article_url_identifies_doi(self):
+        for url, doi in (
+            ('https://www.nature.com/articles/s41467-024-50005-9','10.1038/s41467-024-50005-9'),
+            ('https://nature.com/articles/s41586-019-1188-1/?ref=group#Abs1','10.1038/s41586-019-1188-1'),
+        ):
+            with self.subTest(url=url):
+                self.assertEqual(canonical(url),doi)
+
+    def test_nature_conversion_requires_official_host_and_exact_article_path(self):
+        invalid=(
+            'http://www.nature.com/articles/s41467-024-50005-9',
+            'https://nature.com.evil.test/articles/s41467-024-50005-9',
+            'https://www.nature.com@evil.test/articles/s41467-024-50005-9',
+            'https://user@www.nature.com/articles/s41467-024-50005-9',
+            'https://www.nature.com:1234/articles/s41467-024-50005-9',
+            'https://www.nature.com/research/articles/s41467-024-50005-9',
+            'https://www.nature.com/articles/s41467-024-50005-9/figures/1',
+            'https://www.nature.com/articles/d41586-019-01394-1',
+            'https://www.nature.com/articles/not-a-research-paper',
+            'https://www.nature.com/articles/s41467-24-50005-9',
+            'https://www.nature.com/articles/',
+            'https://www.nature.com/',
+        )
+        for url in invalid:
+            with self.subTest(url=url):
+                self.assertEqual(canonical(url),'')
+
+    def test_literal_doi_parsing_keeps_precedence_over_nature_conversion(self):
+        self.assertEqual(canonical('https://www.nature.com/articles/10.1038/nchembio.2528'),
+                         '10.1038/nchembio.2528')
+
+    def test_nature_url_citation_matches_following_lab_image_by_doi(self):
+        html='''<div><p>Nature Communications <a href="https://www.nature.com/articles/s41467-024-50005-9">link</a></p>
+          <p><img src="histidine.png"></p>
+          <p><a href="https://doi.org/10.1234/other">Other</a></p></div>'''
+        records={r['doi']:r for r in parse_lab(html,'https://lab.edu/papers')}
+        self.assertEqual(records['10.1038/s41467-024-50005-9']['figure']['url'],
+                         'https://lab.edu/histidine.png')
+        self.assertIsNone(records['10.1234/other']['figure'])
+
     def test_doi_preserves_balanced_parentheses(self):
         self.assertEqual(canonical('https://doi.org/10.1234/paper(2020)'), '10.1234/paper(2020)')
         self.assertEqual(canonical('(10.1234/paper).'), '10.1234/paper')

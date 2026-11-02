@@ -20,6 +20,17 @@ LOCK = threading.Lock()
 def canonical(value):
     match = DOI.search(urllib.parse.unquote(value or ''))
     if not match:
+        # Nature's modern research article URLs omit their 10.1038 DOI prefix.
+        # Restrict this conversion to official HTTPS article landing pages.
+        try:
+            parsed = urllib.parse.urlsplit(value or '')
+            if (parsed.scheme == 'https' and parsed.hostname in ('nature.com', 'www.nature.com')
+                and parsed.port in (None, 443) and parsed.username is None and parsed.password is None):
+                article = re.fullmatch(r'/articles/(s\d{5}-\d{3}-\d{4,5}-[a-z0-9])/?', parsed.path)
+                if article:
+                    return '10.1038/' + article.group(1)
+        except ValueError:
+            pass
         return ''
     result = match.group(0).rstrip('.,;:').lower()
     while result.endswith(')') and result.count(')') > result.count('('):
@@ -214,7 +225,7 @@ def main():
     previous_report=ROOT/'data/source-report.json'
     if previous_report.exists():
         previous=json.loads(previous_report.read_text(encoding='utf8'))
-        for key in ('publisher','publisherAttempts'):
+        for key in ('publisher','publisherAttempts','crossref'):
             if key in previous:report[key]=previous[key]
     save_json(cache_path,cache)
     save_json(ROOT/'data/source-report.json',report)

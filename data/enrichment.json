@@ -2455,7 +2455,7 @@
       "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
       "provider": "lab",
       "match": "exact-doi",
-      "checkedAt": "2026-11-02T09:29:16.645027+00:00"
+      "checkedAt": "2026-11-02T12:12:23.816139+00:00"
     },
     "10.1021/jacs.3c03701": {
       "url": "https://faculty.sustech.edu.cn/wp-content/uploads/2020/06/2024092515362259.png",
@@ -2464,7 +2464,7 @@
       "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
       "provider": "lab",
       "match": "exact-doi",
-      "checkedAt": "2026-11-02T09:29:16.645027+00:00"
+      "checkedAt": "2026-11-02T12:12:23.816139+00:00"
     },
     "10.1021/jacs.4c03974": {
       "url": "https://faculty.sustech.edu.cn/wp-content/uploads/2020/06/2024092500031216.png",
@@ -2473,7 +2473,16 @@
       "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
       "provider": "lab",
       "match": "exact-doi",
-      "checkedAt": "2026-11-02T09:29:16.645027+00:00"
+      "checkedAt": "2026-11-02T12:12:23.816139+00:00"
+    },
+    "10.1038/s41467-024-50005-9": {
+      "url": "https://faculty.sustech.edu.cn/wp-content/uploads/2020/06/2024092423585052-1024x430.png",
+      "kind": "课题组配图",
+      "caption": "课题组发表清单中与该 DOI 对应的配图。",
+      "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
+      "provider": "lab",
+      "match": "exact-doi",
+      "checkedAt": "2026-11-02T12:12:23.816139+00:00"
     }
   },
   "attempts": {

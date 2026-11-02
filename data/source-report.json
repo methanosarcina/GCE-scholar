@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T09:29:16.645027+00:00",
+  "updated": "2026-11-02T12:12:23.816139+00:00",
   "sources": [
     {
       "scholar": "abhishek-chatterjee",
@@ -96,9 +96,9 @@
       "url": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
       "label": "南方科技大学 · 王杰课题组",
       "status": "ok",
-      "doiCount": 6,
-      "matched": 4,
-      "images": 3
+      "doiCount": 9,
+      "matched": 5,
+      "images": 4
     },
     {
       "scholar": "junbiao-dai",
@@ -686,18 +686,6 @@
       "scholar": "gerard-roelfes",
       "doi": "10.1016/s1381-1169(96)00356-1",
       "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
-      "reason": "Not in current ORCID-qualified catalog; not automatically added"
-    },
-    {
-      "scholar": "jie-wang",
-      "doi": "10.1021/jacs.6b08933",
-      "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
-      "reason": "Not in current ORCID-qualified catalog; not automatically added"
-    },
-    {
-      "scholar": "jie-wang",
-      "doi": "10.1002/ange.201409145",
-      "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
       "reason": "Not in current ORCID-qualified catalog; not automatically added"
     },
     {
@@ -3219,11 +3207,35 @@
       "doi": "10.1515/psr-2016-0104",
       "source": "https://www.mpip-mainz.mpg.de/publication-search/1004300?person=%2Fpersons%2Fresource%2Fpersons81154",
       "reason": "Not in current ORCID-qualified catalog; not automatically added"
+    },
+    {
+      "scholar": "jie-wang",
+      "doi": "10.1038/s41586-019-1188-1",
+      "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
+      "reason": "Not in current ORCID-qualified catalog; not automatically added"
+    },
+    {
+      "scholar": "jie-wang",
+      "doi": "10.1038/s41592-019-0482-z",
+      "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
+      "reason": "Not in current ORCID-qualified catalog; not automatically added"
+    },
+    {
+      "scholar": "jie-wang",
+      "doi": "10.1021/jacs.6b08933",
+      "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
+      "reason": "Not in current ORCID-qualified catalog; not automatically added"
+    },
+    {
+      "scholar": "jie-wang",
+      "doi": "10.1002/ange.201409145",
+      "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
+      "reason": "Not in current ORCID-qualified catalog; not automatically added"
     }
   ],
   "policy": "Only existing ORCID-qualified papers may be enriched.",
   "summary": {
-    "uniquePapers": 1746,
+    "uniquePapers": 1776,
     "withImages": 506,
     "labSources": 26,
     "successfulSources": 23,
@@ -3231,11 +3243,11 @@
     "catalogGraphics": 1
   },
   "publisher": {
-    "updated": "2026-11-02T09:30:01.408385+00:00",
-    "doiPapers": 1743,
+    "updated": "2026-11-02T12:12:22.521960+00:00",
+    "doiPapers": 1773,
     "publisherGraphics": 55,
     "statuses": {
-      "access_restricted": 51,
+      "access_restricted": 52,
       "host_deferred": 1217,
       "found": 55,
       "no_graphic_detected": 386,
@@ -14989,16 +15001,22 @@
       "source": "https://onlinelibrary.wiley.com/doi/10.1002/anie.9814409",
       "detail": "Publisher host previously returned access restriction",
       "checkedAt": "2026-11-02T09:30:01.408385+00:00"
+    },
+    {
+      "doi": "10.1021/jacs.6c15079",
+      "status": "access_restricted",
+      "source": "https://pubs.acs.org/doi/10.1021/jacs.6c15079",
+      "httpStatus": 403,
+      "checkedAt": "2026-11-02T12:12:22.521960+00:00"
     }
   ],
   "automaticGraphics": {
-    "updated": "2026-11-02T09:38:14.131354+00:00",
+    "updated": "2026-11-02T12:12:26.564918+00:00",
     "cachedFigures": 38,
     "run": {
-      "feedsRead": 62,
+      "feedsRead": 64,
       "rssMatches": 3,
-      "cachedImages": 3,
-      "no_repository_version": 1
+      "cachedImages": 3
     },
     "addedImages": 0,
     "upgradedToAbstract": 0,
@@ -15007,5 +15025,227 @@
       "pmc-cloud": 35
     },
     "policy": "Only exact DOI matches in the fixed-ORCID catalog; no UI or browser sessions"
+  },
+  "crossref": {
+    "updated": "2026-11-02T12:10:16.539463+00:00",
+    "windowDays": 365,
+    "fromDate": "2025-11-02",
+    "policy": "Journal articles with an exact fixed author ORCID only; existing Europe PMC records preserved.",
+    "scholars": [
+      {
+        "id": "abhishek-chatterjee",
+        "orcid": "0000-0002-6231-5302",
+        "status": "ok",
+        "cached": 10,
+        "added": 2,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "ahmed-badran",
+        "orcid": "0000-0002-8105-1883",
+        "status": "ok",
+        "cached": 2,
+        "added": 1,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "bryan-dickinson",
+        "orcid": "0000-0002-9616-1911",
+        "status": "ok",
+        "cached": 10,
+        "added": 3,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "chang-liu",
+        "orcid": "0000-0002-3290-2880",
+        "status": "ok",
+        "cached": 3,
+        "added": 0,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "gerard-roelfes",
+        "orcid": "0000-0002-0364-9564",
+        "status": "ok",
+        "cached": 2,
+        "added": 0,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "haifeng-ye",
+        "orcid": "0000-0002-5482-8116",
+        "status": "ok",
+        "cached": 6,
+        "added": 1,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "haiyan-liu",
+        "orcid": "0000-0002-5926-820X",
+        "status": "ok",
+        "cached": 2,
+        "added": 0,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "jason-chin",
+        "orcid": "0000-0003-1219-4757",
+        "status": "ok",
+        "cached": 2,
+        "added": 0,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "jay-keasling",
+        "orcid": "0000-0003-4170-6088",
+        "status": "ok",
+        "cached": 23,
+        "added": 4,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "jiangyun-wang",
+        "orcid": "0000-0002-5974-1562",
+        "status": "ok",
+        "cached": 0,
+        "added": 0,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "jie-wang",
+        "orcid": "0000-0001-7602-5050",
+        "status": "ok",
+        "cached": 8,
+        "added": 2,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "junbiao-dai",
+        "orcid": "0000-0002-5299-4700",
+        "status": "ok",
+        "cached": 2,
+        "added": 1,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "kathrin-lang",
+        "orcid": "0000-0002-1318-6567",
+        "status": "ok",
+        "cached": 3,
+        "added": 1,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "nanxi-wang",
+        "orcid": "0000-0003-2807-1487",
+        "status": "ok",
+        "cached": 2,
+        "added": 1,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "nediljko-budisa",
+        "orcid": "0000-0001-8437-7304",
+        "status": "ok",
+        "cached": 3,
+        "added": 0,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "peilong-lu",
+        "orcid": "0000-0001-5894-9268",
+        "status": "ok",
+        "cached": 4,
+        "added": 1,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "peng-chen",
+        "orcid": "0000-0002-0402-7417",
+        "status": "ok",
+        "cached": 11,
+        "added": 1,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "ryan-mehl",
+        "orcid": "0000-0003-2932-4941",
+        "status": "ok",
+        "cached": 2,
+        "added": 1,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "shixian-lin",
+        "orcid": "0000-0001-9718-9986",
+        "status": "ok",
+        "cached": 6,
+        "added": 0,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "tao-liu",
+        "orcid": "0000-0001-5347-5892",
+        "status": "ok",
+        "cached": 9,
+        "added": 3,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "thomas-huber",
+        "orcid": "0000-0002-3680-8699",
+        "status": "ok",
+        "cached": 6,
+        "added": 1,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "william-degrado",
+        "orcid": "0000-0003-4745-263X",
+        "status": "ok",
+        "cached": 7,
+        "added": 0,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "xiao-xie",
+        "orcid": "0009-0006-6342-2771",
+        "status": "ok",
+        "cached": 0,
+        "added": 0,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "xiaozhou-luo",
+        "orcid": "0000-0001-9808-6890",
+        "status": "ok",
+        "cached": 4,
+        "added": 2,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "yun-ge",
+        "orcid": "0000-0001-6769-5458",
+        "status": "ok",
+        "cached": 3,
+        "added": 0,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      },
+      {
+        "id": "yuzhou-wu",
+        "orcid": "0000-0003-3229-4982",
+        "status": "ok",
+        "cached": 11,
+        "added": 6,
+        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+      }
+    ],
+    "summary": {
+      "successfulQueries": 26,
+      "failedQueries": 0,
+      "cachedPapers": 141,
+      "addedPapers": 31
+    }
   }
 }

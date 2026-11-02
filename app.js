@@ -18,6 +18,7 @@ function publisherCoverage(r) {
   return `<section id="publisher-coverage"><h3>出版社摘要图</h3><p>${r.publisher.publisherGraphics} 篇已配图 · 最近检查 ${esc(r.publisher.updated.slice(0,10))}</p><p>访问受限不代表文章没有摘要图；未检测到也可能是页面结构暂不支持。</p><ul>${Object.entries(r.publisher.statuses).map(([s,n])=>`<li>${esc(publisherStatus(s))}：${n}</li>`).join('')}</ul><details><summary>逐篇查看出版社检查结果</summary><ul>${(r.publisherAttempts||[]).map(p=>`<li><a href="${esc(safeURL(p.source))}" target="_blank" rel="noopener">${esc(p.doi)}</a> · ${esc(publisherStatus(p.status))}</li>`).join('')}</ul></details></section>`;
 }
 const matchesOrcid = (paper, orcid) => (paper.authorDetails || []).some(a => a.authorId?.type === "ORCID" && a.authorId.value === orcid);
+const metadataLabel = p => p.metadataSource === 'crossref' ? 'Crossref' : 'Europe PMC';
 const publicationDate = p => p.publicationDate || p.year || '';
 const dateSortKey = p => (publicationDate(p) + '-01-01').slice(0, 10);
 const dateSourceLabel = p => p.dateSource === 'online' ? '在线发表' : '发表日期';
@@ -48,7 +49,7 @@ function select(id) {
   $('lab-link').innerHTML = entry.labSource ? `<a href="${esc(safeURL(entry.labSource.url))}" target="_blank" rel="noopener">${esc(entry.labSource.label)} ↗</a><span>${entry.labSource.status === 'ok' ? (entry.labSource.doiCount ? '已按 DOI 对照官方来源' : '已读取官网 · 未解析到 DOI') : '官方来源本次未能读取'}</span>` : '';
   $('paper-search').value = ''; $('year').value = ''; $('only-images').checked = false;
   $('only-abstracts').checked = false;
-  $('status').textContent = entry.complete ? '已载入快照中全部 ORCID 匹配记录。' : '当前显示已核实 ORCID 的部分记录，后续数据同步将补充。';
+  $('status').textContent = entry.complete ? '已载入快照中的 ORCID 匹配记录。' : '当前显示已核实 ORCID 的部分记录，后续数据同步将补充。';
   nav(); years(); render();
 }
 function years() {
@@ -78,7 +79,7 @@ function render() {
   $('papers').querySelectorAll('img').forEach(img => img.onerror = () => { img.hidden = true; img.parentElement.querySelector('.image-fallback').hidden = false; img.parentElement.classList.add('no-image'); img.parentElement.querySelector('.tag').textContent = '原图暂不可用 · 文献封面'; });
 }
 function detail(p) {
-  $('detail-content').innerHTML = `<p class="eyebrow">${esc(p.journal)}</p><h2>${esc(p.title)}</h2><div class="paper-date">${dateMarkup(p)}</div>${p.onlinePublicationDate && p.printPublicationDate ? `<p class="caption">期刊出版日期：<time datetime="${esc(p.printPublicationDate)}">${esc(p.printPublicationDate)}</time>${p.printPublicationDate.length < 10 ? '（来源未提供具体日）' : ''}</p>` : ''}<p class="caption authors">${esc(p.authors)}</p>${p.figure ? `<img src="${esc(safeImageURL(p.figure.url))}" alt="${esc(p.figure.kind)}"><p class="caption">${esc(p.figure.kind)} · ${esc(p.figure.caption)}<br><a target="_blank" rel="noopener" href="${esc(safeURL(p.figure.source))}">图片来源 ↗</a>${esc(p.license || p.figure.license || "")}</p>` : ''}<h3>摘要</h3><p>${esc(p.abstract || '数据源未提供摘要，请访问原文。')}</p><a target="_blank" rel="noopener" href="${esc(safeURL(p.url))}">Europe PMC ↗</a>${p.doi ? `<a target="_blank" rel="noopener" href="https://doi.org/${encodeURIComponent(p.doi)}">出版社原文 ↗</a>` : ''}<details><summary>作者机构与 ORCID（用于身份核对）</summary><ul>${(p.authorDetails||[]).map(a=>`<li><b>${esc(a.firstName || '')} ${esc(a.lastName || a.fullName)}</b> ${esc(a.authorId?.value || '')}<br>${esc((a.authorAffiliationDetailsList?.authorAffiliation || []).map(x=>x.affiliation).join(' / '))}</li>`).join('')}</ul></details>`;
+  $('detail-content').innerHTML = `<p class="eyebrow">${esc(p.journal)}</p><h2>${esc(p.title)}</h2><div class="paper-date">${dateMarkup(p)}</div>${p.onlinePublicationDate && p.printPublicationDate ? `<p class="caption">期刊出版日期：<time datetime="${esc(p.printPublicationDate)}">${esc(p.printPublicationDate)}</time>${p.printPublicationDate.length < 10 ? '（来源未提供具体日）' : ''}</p>` : ''}<p class="caption authors">${esc(p.authors)}</p>${p.figure ? `<img src="${esc(safeImageURL(p.figure.url))}" alt="${esc(p.figure.kind)}"><p class="caption">${esc(p.figure.kind)} · ${esc(p.figure.caption)}<br><a target="_blank" rel="noopener" href="${esc(safeURL(p.figure.source))}">图片来源 ↗</a>${esc(p.license || p.figure.license || "")}</p>` : ''}<h3>摘要</h3><p>${esc(p.abstract || '数据源未提供摘要，请访问原文。')}</p><a target="_blank" rel="noopener" href="${esc(safeURL(p.metadataURL || p.url))}">${esc(metadataLabel(p))} ↗</a>${p.doi ? `<a target="_blank" rel="noopener" href="https://doi.org/${encodeURIComponent(p.doi)}">出版社原文 ↗</a>` : ''}<details><summary>作者机构与 ORCID（用于身份核对）</summary><ul>${(p.authorDetails||[]).map(a=>`<li><b>${esc(a.firstName || '')} ${esc(a.lastName || a.fullName)}</b> ${esc(a.authorId?.value || '')}<br>${esc((a.authorAffiliationDetailsList?.authorAffiliation || []).map(x=>x.affiliation).join(' / '))}</li>`).join('')}</ul></details>`;
   $('detail').showModal();
   const detailImage = $('detail-content').querySelector('img');
   if (detailImage) detailImage.onerror = () => { detailImage.hidden = true; detailImage.insertAdjacentHTML('afterend', cover(p)); };

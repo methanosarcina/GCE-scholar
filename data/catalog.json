@@ -10227,6 +10227,130 @@
           "onlinePublicationDate": "",
           "printPublicationDate": "2004-09",
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1002/ange.202516157",
+          "doi": "10.1002/ange.202516157",
+          "title": "An Expanded Toolbox for Versatile Chemical Editing of Adeno‐Associated Virus",
+          "journal": "Angewandte Chemie",
+          "abstract": "Abstract Site‐specific incorporation of noncanonical amino acids (ncAAs) into the adeno‐associated virus (AAV) capsid offers powerful opportunities to probe and engineer the properties of this leading vector for human gene therapy. However, this approach currently relies almost exclusively on a single azide‐containing ncAA, incorporated using the pyrrolysyl‐tRNA synthetase/tRNA pair. Here, we substantially broaden the scope of this technology by demonstrating successful incorporation of numerous ncAAs into AAV capsid using four different platforms, and by uncovering design principles that facilitate capsid tolerance to structurally diverse side chains. Using this expanded toolbox, we incorporate several different bioorthogonal conjugation handles into AAV for precise capsid modification. In particular, a tetrazine‐containing ncAA facilitated ultrafast conjugation of an anti‐HER2 nanobody to the capsid, creating conjugates that efficiently and selectively infect HER2+ cells. We further used this platform for optimized capsid PEGylation, which reduced its immunogenicity without compromising infectivity. Finally, we efficiently incorporated two distinct ncAAs into the AAV capsid, and subsequently labeled them orthogonally to attach two different entities. Together, these advances dramatically expand the chemistries that can be introduced into the AAV capsid, offering powerful new tools to both probe and engineer the properties of this promising gene therapy vector.",
+          "authors": "Quan Pham, Jake Glicksman, Boyang Han, David Koo, Conor Loynd, Soumya Jyoti Singha Roy, Abhishek Chatterjee",
+          "authorDetails": [
+            {
+              "firstName": "Quan",
+              "lastName": "Pham",
+              "fullName": "Quan Pham",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0001-9559-7772"
+              }
+            },
+            {
+              "firstName": "Jake",
+              "lastName": "Glicksman",
+              "fullName": "Jake Glicksman"
+            },
+            {
+              "firstName": "Boyang",
+              "lastName": "Han",
+              "fullName": "Boyang Han"
+            },
+            {
+              "firstName": "David",
+              "lastName": "Koo",
+              "fullName": "David Koo"
+            },
+            {
+              "firstName": "Conor",
+              "lastName": "Loynd",
+              "fullName": "Conor Loynd"
+            },
+            {
+              "firstName": "Soumya Jyoti",
+              "lastName": "Singha Roy",
+              "fullName": "Soumya Jyoti Singha Roy",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-7999-4591"
+              }
+            },
+            {
+              "firstName": "Abhishek",
+              "lastName": "Chatterjee",
+              "fullName": "Abhishek Chatterjee",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-6231-5302"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1002/ange.202516157",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1002/ange.202516157",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-01-01",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-01-01",
+          "printPublicationDate": "2026-02-09"
+        },
+        {
+          "id": "DOI:10.1002/ange.1922738",
+          "doi": "10.1002/ange.1922738",
+          "title": "Site‐Specific Protein Bioconjugation Through Cellular Incorporation of Noncanonical Amino Acids",
+          "journal": "Angewandte Chemie",
+          "abstract": "ABSTRACT Traditional methods for protein bioconjugation, such as those targeting canonical amino acid residues, often suffer from a lack of site‐specificity, yielding heterogeneous conjugates. Genetic code expansion (GCE) technology offers an exciting alternative, enabling site‐specific incorporation of noncanonical amino acids (ncAAs) bearing uniquely reactive chemical groups into recombinant proteins expressed in diverse host cells. The resulting proteins can be chemoselectively labeled at the installed ncAA residues under mild conditions to generate homogeneous, site‐specific conjugates. In addition to offering site‐specificity, the small size of the ncAA residues minimizes the risk of structural perturbation, allowing access to many more internal sites in proteins relative to alternative site‐specific protein labeling approaches that require genetically encoded peptide and protein tags. Remarkable progress has been made in recent years, from improving the efficiency of ncAA incorporation at single or multiple sites, to expanding the palette of available chemistries, and applying this technology for both scientific discovery and the development of potential therapeutics and diagnostics. This review examines these advances and provides our perspectives on current challenges and future opportunities.",
+          "authors": "Rahul Sarkar, Manas Joshi, Abhishek Chatterjee",
+          "authorDetails": [
+            {
+              "firstName": "Rahul",
+              "lastName": "Sarkar",
+              "fullName": "Rahul Sarkar",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3700-6580"
+              }
+            },
+            {
+              "firstName": "Manas",
+              "lastName": "Joshi",
+              "fullName": "Manas Joshi",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-5989-776X"
+              }
+            },
+            {
+              "firstName": "Abhishek",
+              "lastName": "Chatterjee",
+              "fullName": "Abhishek Chatterjee",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-6231-5302"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1002/ange.1922738",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1002/ange.1922738",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-09-25",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-09-25",
+          "printPublicationDate": ""
         }
       ],
       "total": 93,
@@ -10244,7 +10368,9 @@
       "orcid": "0000-0002-6231-5302",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 40
+      "imageCount": 40,
+      "crossrefCount": 2,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "ahmed-badran": {
       "papers": [
@@ -11671,6 +11797,45 @@
           "printPublicationDate": "2015-10",
           "figure": null,
           "publisherImageStatus": "no_graphic_detected"
+        },
+        {
+          "id": "DOI:10.1016/j.tibs.2026.08.003",
+          "doi": "10.1016/j.tibs.2026.08.003",
+          "title": "A phylogenomic analysis of ancient transition metal biochemistry",
+          "journal": "Trends in Biochemical Sciences",
+          "abstract": "",
+          "authors": "Kshitiza M. Dhyani, Ahmed H. Badran",
+          "authorDetails": [
+            {
+              "firstName": "Kshitiza M.",
+              "lastName": "Dhyani",
+              "fullName": "Kshitiza M. Dhyani"
+            },
+            {
+              "firstName": "Ahmed H.",
+              "lastName": "Badran",
+              "fullName": "Ahmed H. Badran",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-8105-1883"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1016/j.tibs.2026.08.003",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1016/j.tibs.2026.08.003",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10",
+          "datePrecision": "month",
+          "dateSource": "print",
+          "onlinePublicationDate": "",
+          "printPublicationDate": "2026-10"
         }
       ],
       "total": 10,
@@ -11688,7 +11853,9 @@
       "orcid": "0000-0002-8105-1883",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 5
+      "imageCount": 5,
+      "crossrefCount": 1,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "bryan-dickinson": {
       "papers": [
@@ -20656,6 +20823,201 @@
             "https://dickinsonlab.uchicago.edu/"
           ],
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1016/j.cbpa.2026.102663",
+          "doi": "10.1016/j.cbpa.2026.102663",
+          "title": "Toward universal binder discovery: Advances in display, computational design and in vivo platforms",
+          "journal": "Current Opinion in Chemical Biology",
+          "abstract": "",
+          "authors": "Jingzhou Yang, Eddy Pineda, Bryan C. Dickinson",
+          "authorDetails": [
+            {
+              "firstName": "Jingzhou",
+              "lastName": "Yang",
+              "fullName": "Jingzhou Yang"
+            },
+            {
+              "firstName": "Eddy",
+              "lastName": "Pineda",
+              "fullName": "Eddy Pineda"
+            },
+            {
+              "firstName": "Bryan C.",
+              "lastName": "Dickinson",
+              "fullName": "Bryan C. Dickinson",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9616-1911"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 2,
+          "url": "https://doi.org/10.1016/j.cbpa.2026.102663",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1016/j.cbpa.2026.102663",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-06",
+          "datePrecision": "month",
+          "dateSource": "print",
+          "onlinePublicationDate": "",
+          "printPublicationDate": "2026-06"
+        },
+        {
+          "id": "DOI:10.1016/j.cbpa.2026.102698",
+          "doi": "10.1016/j.cbpa.2026.102698",
+          "title": "Proximity chemistries to study RNA biology at the subcellular scale",
+          "journal": "Current Opinion in Chemical Biology",
+          "abstract": "",
+          "authors": "Rachel Shu Ting Chan, Kanokpol Aphicho, Bryan C. Dickinson",
+          "authorDetails": [
+            {
+              "firstName": "Rachel Shu",
+              "lastName": "Ting Chan",
+              "fullName": "Rachel Shu Ting Chan"
+            },
+            {
+              "firstName": "Kanokpol",
+              "lastName": "Aphicho",
+              "fullName": "Kanokpol Aphicho"
+            },
+            {
+              "firstName": "Bryan C.",
+              "lastName": "Dickinson",
+              "fullName": "Bryan C. Dickinson",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9616-1911"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1016/j.cbpa.2026.102698",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1016/j.cbpa.2026.102698",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-08",
+          "datePrecision": "month",
+          "dateSource": "print",
+          "onlinePublicationDate": "",
+          "printPublicationDate": "2026-08"
+        },
+        {
+          "id": "DOI:10.1021/acscatal.6c04944",
+          "doi": "10.1021/acscatal.6c04944",
+          "title": "Multiplexed Ultrahigh-Throughput Evolution for Esterase Selectivity across a Broad Substrate Scope",
+          "journal": "ACS Catalysis",
+          "abstract": "Abstract Directed evolution of enzymes is generally performed toward a specific substrate, which predictably improves enzyme activity toward the probe substrate. However, it is difficult to predict whether evolved enzymes will be selective or promiscuous toward other substrates. Multiplexed directed evolution can identify enzyme variants with selectivity/promiscuity across multiple substrates, but is typically performed using plate-based screening assays that are limited to testing a few hundred mutants. Combining substrate multiplexing with ultrahigh-throughput evolution technologies is a promising avenue for deeper exploration of the mutational landscape, but it has not been investigated whether enzymes evolved using multiplexed ultrahigh-throughput methods exhibit selectivity/promiscuity toward a broader scope of small-molecule substrates beyond the probes used during evolution. Here, we performed multiplexed ultrahigh-throughput evolution of Bacillus subtilis (BS2) esterase, merging yeast surface display with masked acid chloride probes, to identify a panel of mutants with improved selectivity toward the phenylcyclopropyl (pCP) ester protecting group relative to not only the probe substrate, but also a broad panel of 90 additional esters. Additionally, we applied the platform to identify a promiscuous mutant with improved activity across a broad substrate scope. Finally, we applied the highly pCP-selective BS2 variant, together with a selective variant for the methylcyclopropyl (mCP) ester protecting group, to demonstrate proximity labeling in mammalian cells with two orthogonal enzyme/probe systems, opening new opportunities in multiplexed proximity labeling. Overall, this study presents an efficacious method to identify enzyme variants with desired selectivity profiles that may be extended to multiple applications in chemical biology and synthesis.",
+          "authors": "Eli J. Mertick-Sykes, Shubhashree Pani, Ashley N. Ogorek, Sloan A. August, Georgia A. Apple, Emily M. Hwang, Elexi C. Kourtoglou, Gabriela P. Ruiz, Madeleine A. Wilson, Bryan C. Dickinson, Geoffrey C. Hoops, John J. Esteb, R. Jeremy Johnson, Jeffrey D. Martell",
+          "authorDetails": [
+            {
+              "firstName": "Eli J.",
+              "lastName": "Mertick-Sykes",
+              "fullName": "Eli J. Mertick-Sykes"
+            },
+            {
+              "firstName": "Shubhashree",
+              "lastName": "Pani",
+              "fullName": "Shubhashree Pani"
+            },
+            {
+              "firstName": "Ashley N.",
+              "lastName": "Ogorek",
+              "fullName": "Ashley N. Ogorek"
+            },
+            {
+              "firstName": "Sloan A.",
+              "lastName": "August",
+              "fullName": "Sloan A. August"
+            },
+            {
+              "firstName": "Georgia A.",
+              "lastName": "Apple",
+              "fullName": "Georgia A. Apple"
+            },
+            {
+              "firstName": "Emily M.",
+              "lastName": "Hwang",
+              "fullName": "Emily M. Hwang"
+            },
+            {
+              "firstName": "Elexi C.",
+              "lastName": "Kourtoglou",
+              "fullName": "Elexi C. Kourtoglou"
+            },
+            {
+              "firstName": "Gabriela P.",
+              "lastName": "Ruiz",
+              "fullName": "Gabriela P. Ruiz"
+            },
+            {
+              "firstName": "Madeleine A.",
+              "lastName": "Wilson",
+              "fullName": "Madeleine A. Wilson"
+            },
+            {
+              "firstName": "Bryan C.",
+              "lastName": "Dickinson",
+              "fullName": "Bryan C. Dickinson",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9616-1911"
+              }
+            },
+            {
+              "firstName": "Geoffrey C.",
+              "lastName": "Hoops",
+              "fullName": "Geoffrey C. Hoops"
+            },
+            {
+              "firstName": "John J.",
+              "lastName": "Esteb",
+              "fullName": "John J. Esteb"
+            },
+            {
+              "firstName": "R. Jeremy",
+              "lastName": "Johnson",
+              "fullName": "R. Jeremy Johnson",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2694-3915"
+              }
+            },
+            {
+              "firstName": "Jeffrey D.",
+              "lastName": "Martell",
+              "fullName": "Jeffrey D. Martell",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2084-6401"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1021/acscatal.6c04944",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1021/acscatal.6c04944",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-26",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-26",
+          "printPublicationDate": ""
         }
       ],
       "total": 48,
@@ -20673,7 +21035,9 @@
       "orcid": "0000-0002-9616-1911",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 22
+      "imageCount": 22,
+      "crossrefCount": 3,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "chang-liu": {
       "papers": [
@@ -27194,7 +27558,9 @@
       "orcid": "0000-0002-3290-2880",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 14
+      "imageCount": 14,
+      "crossrefCount": 0,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "gerard-roelfes": {
       "papers": [
@@ -36736,7 +37102,9 @@
       "orcid": "0000-0002-0364-9564",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 61
+      "imageCount": 61,
+      "crossrefCount": 0,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "haifeng-ye": {
       "papers": [
@@ -47097,6 +47465,60 @@
             "https://faculty.ecnu.edu.cn/_s14/yhf/main.psp"
           ],
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1016/j.coche.2026.101281",
+          "doi": "10.1016/j.coche.2026.101281",
+          "title": "Protease-responsive sensing and therapeutic strategies for cancer",
+          "journal": "Current Opinion in Chemical Engineering",
+          "abstract": "",
+          "authors": "Xinyi Wang, Liping Kang, Xinyao Xiang, Shuxian Zhai, Haifeng Ye",
+          "authorDetails": [
+            {
+              "firstName": "Xinyi",
+              "lastName": "Wang",
+              "fullName": "Xinyi Wang"
+            },
+            {
+              "firstName": "Liping",
+              "lastName": "Kang",
+              "fullName": "Liping Kang"
+            },
+            {
+              "firstName": "Xinyao",
+              "lastName": "Xiang",
+              "fullName": "Xinyao Xiang"
+            },
+            {
+              "firstName": "Shuxian",
+              "lastName": "Zhai",
+              "fullName": "Shuxian Zhai"
+            },
+            {
+              "firstName": "Haifeng",
+              "lastName": "Ye",
+              "fullName": "Haifeng Ye",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-5482-8116"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1016/j.coche.2026.101281",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1016/j.coche.2026.101281",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-09",
+          "datePrecision": "month",
+          "dateSource": "print",
+          "onlinePublicationDate": "",
+          "printPublicationDate": "2026-09"
         }
       ],
       "total": 56,
@@ -47114,7 +47536,9 @@
       "orcid": "0000-0002-5482-8116",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 30
+      "imageCount": 30,
+      "crossrefCount": 1,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "haiyan-liu": {
       "papers": [
@@ -52947,7 +53371,9 @@
       "orcid": "0000-0002-5926-820X",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 6
+      "imageCount": 6,
+      "crossrefCount": 0,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "jason-chin": {
       "papers": [
@@ -57334,7 +57760,9 @@
       "orcid": "0000-0003-1219-4757",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 17
+      "imageCount": 17,
+      "crossrefCount": 0,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "jay-keasling": {
       "papers": [
@@ -113490,6 +113918,517 @@
           "onlinePublicationDate": "",
           "printPublicationDate": "1989-12",
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1038/s41929-026-01497-9",
+          "doi": "10.1038/s41929-026-01497-9",
+          "title": "Author Correction: A polyketide-based biosynthetic platform for diols, amino alcohols and hydroxy acids",
+          "journal": "Nature Catalysis",
+          "abstract": "",
+          "authors": "Qingyun Dan, Yan Chiu, Namil Lee, Jose Henrique Pereira, Behzad Rad, Xixi Zhao, Kai Deng, Yiou Rong, Chunjun Zhan, Yan Chen, Seokjung Cheong, Chenyi Li, Jennifer W. Gin, Andria Rodrigues, Trent R. Northen, Tyler W. H. Backman, Edward E. K. Baidoo, Christopher J. Petzold, Paul D. Adams, Jay D. Keasling",
+          "authorDetails": [
+            {
+              "firstName": "Qingyun",
+              "lastName": "Dan",
+              "fullName": "Qingyun Dan",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-3110-9450"
+              }
+            },
+            {
+              "firstName": "Yan",
+              "lastName": "Chiu",
+              "fullName": "Yan Chiu"
+            },
+            {
+              "firstName": "Namil",
+              "lastName": "Lee",
+              "fullName": "Namil Lee",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0000-0382-8741"
+              }
+            },
+            {
+              "firstName": "Jose Henrique",
+              "lastName": "Pereira",
+              "fullName": "Jose Henrique Pereira"
+            },
+            {
+              "firstName": "Behzad",
+              "lastName": "Rad",
+              "fullName": "Behzad Rad",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6531-9168"
+              }
+            },
+            {
+              "firstName": "Xixi",
+              "lastName": "Zhao",
+              "fullName": "Xixi Zhao"
+            },
+            {
+              "firstName": "Kai",
+              "lastName": "Deng",
+              "fullName": "Kai Deng",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2937-8931"
+              }
+            },
+            {
+              "firstName": "Yiou",
+              "lastName": "Rong",
+              "fullName": "Yiou Rong"
+            },
+            {
+              "firstName": "Chunjun",
+              "lastName": "Zhan",
+              "fullName": "Chunjun Zhan"
+            },
+            {
+              "firstName": "Yan",
+              "lastName": "Chen",
+              "fullName": "Yan Chen",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1125-313X"
+              }
+            },
+            {
+              "firstName": "Seokjung",
+              "lastName": "Cheong",
+              "fullName": "Seokjung Cheong"
+            },
+            {
+              "firstName": "Chenyi",
+              "lastName": "Li",
+              "fullName": "Chenyi Li",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-8294-1880"
+              }
+            },
+            {
+              "firstName": "Jennifer W.",
+              "lastName": "Gin",
+              "fullName": "Jennifer W. Gin"
+            },
+            {
+              "firstName": "Andria",
+              "lastName": "Rodrigues",
+              "fullName": "Andria Rodrigues"
+            },
+            {
+              "firstName": "Trent R.",
+              "lastName": "Northen",
+              "fullName": "Trent R. Northen",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-8404-3259"
+              }
+            },
+            {
+              "firstName": "Tyler W. H.",
+              "lastName": "Backman",
+              "fullName": "Tyler W. H. Backman",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-6056-353X"
+              }
+            },
+            {
+              "firstName": "Edward E. K.",
+              "lastName": "Baidoo",
+              "fullName": "Edward E. K. Baidoo"
+            },
+            {
+              "firstName": "Christopher J.",
+              "lastName": "Petzold",
+              "fullName": "Christopher J. Petzold"
+            },
+            {
+              "firstName": "Paul D.",
+              "lastName": "Adams",
+              "fullName": "Paul D. Adams",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9333-8219"
+              }
+            },
+            {
+              "firstName": "Jay D.",
+              "lastName": "Keasling",
+              "fullName": "Jay D. Keasling",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-4170-6088"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1038/s41929-026-01497-9",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1038/s41929-026-01497-9",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-01-29",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-01-29",
+          "printPublicationDate": ""
+        },
+        {
+          "id": "DOI:10.1088/2634-4505/aea641",
+          "doi": "10.1088/2634-4505/aea641",
+          "title": "Cost, emissions, and material flow implications of designing electric vehicle components for recyclability",
+          "journal": "Environmental Research: Infrastructure and Sustainability",
+          "abstract": "Abstract The electric vehicle (EV) industry is growing rapidly; however, compared to conventional automobiles, the increased weight of EVs contributes to their more limited range. To reduce total EV weight, higher-end vehicles use materials such as aluminum, which are more costly and energy-intensive than steel. This presents a challenge to the industry: there is a need to transition toward both lightweighting and material circularity. Improved materials are needed not only to reduce weight and improve efficiency but also to facilitate reclamation of metals and polymers from end-of-life vehicles. This study provides and demonstrates a framework for evaluating lightweight polymer alternatives for conventional EV components from a circularity perspective. The study identifies replacement materials for bumpers, door panels, interior consoles, and battery enclosures by evaluating material properties, environmental impacts, and economic metrics. Next, the study explores the battery enclosure as a deep-dive case study, establishing four scenarios: steel (S1), carbon fiber reinforced epoxy (S2), glass fiber reinforced epoxy (S3), and glass fiber reinforced polydiketoenamine (PDK) resin (S4). The life-cycle assessment and techno-economic analysis include recycling processes for the various scenarios. Results indicate that current materials in bumpers (polypropylene) and interior consoles (ABS) are functionally, economically, and environmentally favorable, while polymer composites such as fiber reinforced PDK can improve upon some economic and environmental metrics for door panels and battery enclosures relative to current materials. Results show that battery enclosure replacement demonstrates the highest potential for weight reduction and improved circularity without compromising durability. Specifically, the S1 and S4 scenarios achieve comparatively lower levelized recycling costs (LRCs). Between S1 and S4, use-phase CO 2 e emissions are lower for S4 due to the lighter-weight PDK composite material. The viability of PDK composites depends on recycling practices (dismantling vs non-dismantling) and the final selling price of recycled PDK resin. Dismantling enables greater overall recovery of battery materials, achieving an LRC of $93 per enclosure, whereas not dismantling increases the LRC to $188. If recycled PDK can sell for prices equivalent to higher-cost virgin PDK, the LRC per enclosure can be -$297 to -$175. This study offers a framework for systematically evaluating EV lightweighting and circularity strategies using polymer composites.",
+          "authors": "Tai-Yuan Huang, Baishakhi Bose, Grace X Gu, Brett A Helms, Jay D Keasling, Corinne D Scown",
+          "authorDetails": [
+            {
+              "firstName": "Tai-Yuan",
+              "lastName": "Huang",
+              "fullName": "Tai-Yuan Huang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-8767-8452"
+              }
+            },
+            {
+              "firstName": "Baishakhi",
+              "lastName": "Bose",
+              "fullName": "Baishakhi Bose",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-6309-0088"
+              }
+            },
+            {
+              "firstName": "Grace X",
+              "lastName": "Gu",
+              "fullName": "Grace X Gu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7118-3228"
+              }
+            },
+            {
+              "firstName": "Brett A",
+              "lastName": "Helms",
+              "fullName": "Brett A Helms",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3925-4174"
+              }
+            },
+            {
+              "firstName": "Jay D",
+              "lastName": "Keasling",
+              "fullName": "Jay D Keasling",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-4170-6088"
+              }
+            },
+            {
+              "firstName": "Corinne D",
+              "lastName": "Scown",
+              "fullName": "Corinne D Scown",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2078-1126"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1088/2634-4505/aea641",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1088/2634-4505/aea641",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-14",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-14",
+          "printPublicationDate": "2026-12-31"
+        },
+        {
+          "id": "DOI:10.1038/s41467-026-78648-w",
+          "doi": "10.1038/s41467-026-78648-w",
+          "title": "An automated operon refactoring workflow for heterologous expression of non-ribosomal peptide biosynthetic gene clusters",
+          "journal": "Nature Communications",
+          "abstract": "",
+          "authors": "Zhibo Li, Lifu Liu, Xingyan Sun, Hui Wu, Shiquan Fu, Jiao Jin, Yangming Zhang, Xiyan Zhang, Zishuo Zeng, Zhiyin Tao, Ningxin Chen, Xinran Wang, Jianming Lv, Pan Luo, Dan Hu, Hao Gao, Jay D. Keasling, Xiaozhou Luo",
+          "authorDetails": [
+            {
+              "firstName": "Zhibo",
+              "lastName": "Li",
+              "fullName": "Zhibo Li"
+            },
+            {
+              "firstName": "Lifu",
+              "lastName": "Liu",
+              "fullName": "Lifu Liu"
+            },
+            {
+              "firstName": "Xingyan",
+              "lastName": "Sun",
+              "fullName": "Xingyan Sun"
+            },
+            {
+              "firstName": "Hui",
+              "lastName": "Wu",
+              "fullName": "Hui Wu"
+            },
+            {
+              "firstName": "Shiquan",
+              "lastName": "Fu",
+              "fullName": "Shiquan Fu"
+            },
+            {
+              "firstName": "Jiao",
+              "lastName": "Jin",
+              "fullName": "Jiao Jin"
+            },
+            {
+              "firstName": "Yangming",
+              "lastName": "Zhang",
+              "fullName": "Yangming Zhang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-0341-7851"
+              }
+            },
+            {
+              "firstName": "Xiyan",
+              "lastName": "Zhang",
+              "fullName": "Xiyan Zhang"
+            },
+            {
+              "firstName": "Zishuo",
+              "lastName": "Zeng",
+              "fullName": "Zishuo Zeng"
+            },
+            {
+              "firstName": "Zhiyin",
+              "lastName": "Tao",
+              "fullName": "Zhiyin Tao"
+            },
+            {
+              "firstName": "Ningxin",
+              "lastName": "Chen",
+              "fullName": "Ningxin Chen"
+            },
+            {
+              "firstName": "Xinran",
+              "lastName": "Wang",
+              "fullName": "Xinran Wang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0002-6834-3344"
+              }
+            },
+            {
+              "firstName": "Jianming",
+              "lastName": "Lv",
+              "fullName": "Jianming Lv"
+            },
+            {
+              "firstName": "Pan",
+              "lastName": "Luo",
+              "fullName": "Pan Luo"
+            },
+            {
+              "firstName": "Dan",
+              "lastName": "Hu",
+              "fullName": "Dan Hu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1104-8646"
+              }
+            },
+            {
+              "firstName": "Hao",
+              "lastName": "Gao",
+              "fullName": "Hao Gao",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-1178-0121"
+              }
+            },
+            {
+              "firstName": "Jay D.",
+              "lastName": "Keasling",
+              "fullName": "Jay D. Keasling",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-4170-6088"
+              }
+            },
+            {
+              "firstName": "Xiaozhou",
+              "lastName": "Luo",
+              "fullName": "Xiaozhou Luo",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9808-6890"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1038/s41467-026-78648-w",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1038/s41467-026-78648-w",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-11",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-11",
+          "printPublicationDate": ""
+        },
+        {
+          "id": "DOI:10.1038/s41467-026-78481-1",
+          "doi": "10.1038/s41467-026-78481-1",
+          "title": "Replacing anaerobic fermentation with reverse β-oxidation enables growth-coupled evolution for enhanced fatty-alcohol production",
+          "journal": "Nature Communications",
+          "abstract": "Abstract Engineering robust fermentation hosts remains a barrier to scalable biomanufacturing. In this work we replace canonical mixed-acid fermentation in Escherichia coli with a redox‑balanced reverse β‑oxidation (rBOX) pathway that produces medium‑chain fatty alcohols and is bioenergetically equivalent to ethanol fermentation. This synthetic fermentation restores anaerobic growth, tightly coupling fitness to product formation and enabling adaptive laboratory evolution that selects for mutations increasing rBOX flux. Evolved strains increase maximum productivity fourfold (110 ± 0.15 mg/L/hr) and titer more than threefold up to 4.0 ± 0.28 g/L compared to the unevolved strain. Proteomic analyses of evolved strains indicate differential expression of enzymes at key metabolic nodes and activation of latent genes with functions overlapping those of rBOX enzymes. These results establish redox-balanced growth coupling as a powerful tool for strain improvement and demonstrate rBOX as a practical synthetic fermentation pathway.",
+          "authors": "Bridgie Cawthon, Aidan E. Cowan, Zen Yoshikawa, Kenneth Low, Justin Baerwald, Nawa Raj Baral, Matthew Incha, Jennifer Gin, Yan Chen, Christopher J. Petzold, Edward E. K. Baidoo, Emine A. Turumtay, Corinne D. Scown, Adam M. Feist, Jay D. Keasling",
+          "authorDetails": [
+            {
+              "firstName": "Bridgie",
+              "lastName": "Cawthon",
+              "fullName": "Bridgie Cawthon"
+            },
+            {
+              "firstName": "Aidan E.",
+              "lastName": "Cowan",
+              "fullName": "Aidan E. Cowan",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2810-9318"
+              }
+            },
+            {
+              "firstName": "Zen",
+              "lastName": "Yoshikawa",
+              "fullName": "Zen Yoshikawa"
+            },
+            {
+              "firstName": "Kenneth",
+              "lastName": "Low",
+              "fullName": "Kenneth Low",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0009-0208-0511"
+              }
+            },
+            {
+              "firstName": "Justin",
+              "lastName": "Baerwald",
+              "fullName": "Justin Baerwald"
+            },
+            {
+              "firstName": "Nawa Raj",
+              "lastName": "Baral",
+              "fullName": "Nawa Raj Baral",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-0942-9183"
+              }
+            },
+            {
+              "firstName": "Matthew",
+              "lastName": "Incha",
+              "fullName": "Matthew Incha"
+            },
+            {
+              "firstName": "Jennifer",
+              "lastName": "Gin",
+              "fullName": "Jennifer Gin"
+            },
+            {
+              "firstName": "Yan",
+              "lastName": "Chen",
+              "fullName": "Yan Chen",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1125-313X"
+              }
+            },
+            {
+              "firstName": "Christopher J.",
+              "lastName": "Petzold",
+              "fullName": "Christopher J. Petzold",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-8270-5228"
+              }
+            },
+            {
+              "firstName": "Edward E. K.",
+              "lastName": "Baidoo",
+              "fullName": "Edward E. K. Baidoo"
+            },
+            {
+              "firstName": "Emine A.",
+              "lastName": "Turumtay",
+              "fullName": "Emine A. Turumtay"
+            },
+            {
+              "firstName": "Corinne D.",
+              "lastName": "Scown",
+              "fullName": "Corinne D. Scown",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2078-1126"
+              }
+            },
+            {
+              "firstName": "Adam M.",
+              "lastName": "Feist",
+              "fullName": "Adam M. Feist"
+            },
+            {
+              "firstName": "Jay D.",
+              "lastName": "Keasling",
+              "fullName": "Jay D. Keasling",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-4170-6088"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1038/s41467-026-78481-1",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1038/s41467-026-78481-1",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-14",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-14",
+          "printPublicationDate": ""
         }
       ],
       "total": 436,
@@ -113507,7 +114446,9 @@
       "orcid": "0000-0003-4170-6088",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 67
+      "imageCount": 67,
+      "crossrefCount": 4,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "jiangyun-wang": {
       "papers": [
@@ -116447,7 +117388,9 @@
       "orcid": "0000-0002-5974-1562",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 7
+      "imageCount": 7,
+      "crossrefCount": 0,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "jie-wang": {
       "papers": [
@@ -118160,12 +119103,18 @@
           "onlinePublicationDate": "2024-07-08",
           "printPublicationDate": "2024-07",
           "figure": {
-            "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/1335/11231154/0b4c2ac5edd6/41467_2024_50005_Fig1_HTML.jpg",
-            "kind": "正文插图",
-            "caption": "Fig. 1 Design of Nδ-vinyl histidine for enzyme evolution. A  A cartoon representation of the His in the catalytic center of esterase- and heme-dependent enzymes was generated using PyMOL (the structures of esterase and myoglobin were generated from the PDB files 6q7o and 5oj9).  B  pKa comparison of imidazole and its derivatives.  C  Comparison of the surface charges of imidazole and its derivatives.  D  pKa ranges of natural amino acid sidechains and imidazole derivatives.  E  Scheme of the evolution of enzymes enabled by Nδ-vinyl histidine. Source data are provided as a Source Data file.",
-            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11231154/"
+            "url": "https://faculty.sustech.edu.cn/wp-content/uploads/2020/06/2024092423585052-1024x430.png",
+            "kind": "课题组配图",
+            "caption": "课题组发表清单中与该 DOI 对应的配图。",
+            "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
+            "provider": "lab",
+            "match": "exact-doi",
+            "checkedAt": "2026-11-02T12:04:18.052187+00:00"
           },
-          "publisherImageStatus": "no_graphic_detected"
+          "publisherImageStatus": "no_graphic_detected",
+          "labSources": [
+            "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en"
+          ]
         },
         {
           "id": "MED:38819260",
@@ -119651,6 +120600,175 @@
           "onlinePublicationDate": "2013-05-03",
           "printPublicationDate": "2013-05",
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1021/cbmi.6c00098",
+          "doi": "10.1021/cbmi.6c00098",
+          "title": "Unlocking Aromatic Amine Oxidation in APEX3 by Engineering the Heme Axial Ligand with Genetically Encoded Nδ Substituted Histidine",
+          "journal": "Chemical & Biomedical Imaging",
+          "abstract": "Abstract The axial ligand of heme is a critical determinant of reactivity in heme-dependent enzymes, yet its systematic engineering remains challenging due to the limited chemical diversity of natural amino acids. Here, we demonstrate that replacing the native histidine axial ligand with a nonnatural analog provides an effective strategy to regulate heme enzyme activity. By site-specifically incorporating δVin-H into APEX2, we reprogrammed the electronic structure of the heme center and unlocked the catalytic activity toward aromatic amine substrates. Directed evolution of the APEX2-VinH enzyme yielded APEX3-VinH, which exhibits a pronounced enhancement in catalytic efficiency and robustness for aromatic amine oxidation. Subsequently, systematic screening of an axial ligand library identified an optimized variant, APEX3-MeH, which maximizes catalytic efficiency and robustness. Furthermore, APEX3-MeH enables highly efficient proximity labeling on tissue sections at low hydrogen peroxide concentrations, significantly enhancing biocompatibility for complex biological environments. Notably, the APEX3 scaffold exhibited enhanced catalytic efficiency toward aromatic amine substrates relative to wild-type APEX2 even without unnatural amino acid incorporation, providing a new variant for chemical biology applications. This work establishes axial ligand engineering via genetic code expansion as a general and powerful strategy to expand the catalytic scope of heme enzymes, with potential implications for biocatalysis and the development of proximity labeling tools.",
+          "authors": "Chang Liu, Haoran Huang, Tao Yan, Zhiyao Tang, Zhigang Wu, Zhe Dong, Ruijun Tian, Jie Wang",
+          "authorDetails": [
+            {
+              "firstName": "Chang",
+              "lastName": "Liu",
+              "fullName": "Chang Liu"
+            },
+            {
+              "firstName": "Haoran",
+              "lastName": "Huang",
+              "fullName": "Haoran Huang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0000-1921-738X"
+              }
+            },
+            {
+              "firstName": "Tao",
+              "lastName": "Yan",
+              "fullName": "Tao Yan"
+            },
+            {
+              "firstName": "Zhiyao",
+              "lastName": "Tang",
+              "fullName": "Zhiyao Tang"
+            },
+            {
+              "firstName": "Zhigang",
+              "lastName": "Wu",
+              "fullName": "Zhigang Wu"
+            },
+            {
+              "firstName": "Zhe",
+              "lastName": "Dong",
+              "fullName": "Zhe Dong",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9714-1069"
+              }
+            },
+            {
+              "firstName": "Ruijun",
+              "lastName": "Tian",
+              "fullName": "Ruijun Tian",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9521-5124"
+              }
+            },
+            {
+              "firstName": "Jie",
+              "lastName": "Wang",
+              "fullName": "Jie Wang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7602-5050"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1021/cbmi.6c00098",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1021/cbmi.6c00098",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-26",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-26",
+          "printPublicationDate": ""
+        },
+        {
+          "id": "DOI:10.1021/jacs.6c15079",
+          "doi": "10.1021/jacs.6c15079",
+          "title": "Coupling Enzyme Activity to Host Survival via Genetic Code Expansion: An In Vivo Evolution System for Biocatalysts",
+          "journal": "Journal of the American Chemical Society",
+          "abstract": "Abstract Survival-based selection facilitates the exploration of enzyme mutational space, but coupling the activity of noncanonical amino acid (ncAA)-producing biocatalysts to host survival remains challenging. Here, we report an in vivo selection platform that links biocatalyst activity to host cell survival via genetic code expansion. In this system, the intracellularly generated ncAA serves as a substrate for an orthogonal aminoacyl-tRNA synthetase (aaRS). Its incorporation triggers the readthrough of an amber (TAG) stop codon to yield a functional chloramphenicol resistance protein, allowing cells harboring active biocatalyst variants to survive under antibiotic selection. The applicability of this approach was validated using three biocatalysts: tyrosine phenol-lyase (TPL), tryptophan synthase β-subunit (TrpB), and a hydrolytic carbamoylase (SmLcar). Using this directed evolution system, we evolved TPL and TrpB to process previously inactive substrates, enabling the gram-scale preparative biosynthesis of target ncAAs with final titers reaching 36.8 g/L. Furthermore, because cell survival requires both in vivo ncAA synthesis and its subsequent orthogonal translation, this dual dependency enables the simultaneous selection of upstream biocatalysts and downstream aaRS variants. Leveraging this mechanism, we performed the selection of TPL and chPylRS libraries simultaneously, yielding enzyme pairs for the generation and recognition of target ncAAs. This platform provides a powerful tool for the directed evolution of ncAA-producing biocatalysts.",
+          "authors": "Jinsong Ye, Huimin Huang, Xingfeng Liu, Lianfan Wu, Xingchu Wang, Jinpeng Zhang, Yuqi Li, Jiqiao Jiang, Yan Zhang, Jie Wang",
+          "authorDetails": [
+            {
+              "firstName": "Jinsong",
+              "lastName": "Ye",
+              "fullName": "Jinsong Ye"
+            },
+            {
+              "firstName": "Huimin",
+              "lastName": "Huang",
+              "fullName": "Huimin Huang"
+            },
+            {
+              "firstName": "Xingfeng",
+              "lastName": "Liu",
+              "fullName": "Xingfeng Liu"
+            },
+            {
+              "firstName": "Lianfan",
+              "lastName": "Wu",
+              "fullName": "Lianfan Wu"
+            },
+            {
+              "firstName": "Xingchu",
+              "lastName": "Wang",
+              "fullName": "Xingchu Wang"
+            },
+            {
+              "firstName": "Jinpeng",
+              "lastName": "Zhang",
+              "fullName": "Jinpeng Zhang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0002-4013-4911"
+              }
+            },
+            {
+              "firstName": "Yuqi",
+              "lastName": "Li",
+              "fullName": "Yuqi Li"
+            },
+            {
+              "firstName": "Jiqiao",
+              "lastName": "Jiang",
+              "fullName": "Jiqiao Jiang"
+            },
+            {
+              "firstName": "Yan",
+              "lastName": "Zhang",
+              "fullName": "Yan Zhang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-8858-8894"
+              }
+            },
+            {
+              "firstName": "Jie",
+              "lastName": "Wang",
+              "fullName": "Jie Wang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7602-5050"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1021/jacs.6c15079",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1021/jacs.6c15079",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-28",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-28",
+          "printPublicationDate": "",
+          "publisherImageStatus": "access_restricted"
         }
       ],
       "total": 27,
@@ -119660,15 +120778,17 @@
         "url": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
         "label": "南方科技大学 · 王杰课题组",
         "status": "ok",
-        "doiCount": 6,
-        "matched": 4,
-        "images": 3
+        "doiCount": 9,
+        "matched": 5,
+        "images": 4
       },
       "query": "AUTHORID:\"0000-0001-7602-5050\"",
       "orcid": "0000-0001-7602-5050",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 8
+      "imageCount": 8,
+      "crossrefCount": 2,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "junbiao-dai": {
       "papers": [
@@ -135037,6 +136157,116 @@
           "onlinePublicationDate": "2003-05-01",
           "printPublicationDate": "2003-05",
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1038/s41467-026-78759-4",
+          "doi": "10.1038/s41467-026-78759-4",
+          "title": "Towards scalable DNA data storage with DNA-SaM codec system",
+          "journal": "Nature Communications",
+          "abstract": "",
+          "authors": "Yu Wang, Jiaxin Xu, Yang Wang, Ziang Nie, Jiaquan Huang, Mingen Li, Yaxin Wu, Yixuan Sun, Shanze Chen, Hui Mei, Zhiwei Qin, Junbiao Dai, Xiaoluo Huang",
+          "authorDetails": [
+            {
+              "firstName": "Yu",
+              "lastName": "Wang",
+              "fullName": "Yu Wang"
+            },
+            {
+              "firstName": "Jiaxin",
+              "lastName": "Xu",
+              "fullName": "Jiaxin Xu"
+            },
+            {
+              "firstName": "Yang",
+              "lastName": "Wang",
+              "fullName": "Yang Wang"
+            },
+            {
+              "firstName": "Ziang",
+              "lastName": "Nie",
+              "fullName": "Ziang Nie"
+            },
+            {
+              "firstName": "Jiaquan",
+              "lastName": "Huang",
+              "fullName": "Jiaquan Huang"
+            },
+            {
+              "firstName": "Mingen",
+              "lastName": "Li",
+              "fullName": "Mingen Li"
+            },
+            {
+              "firstName": "Yaxin",
+              "lastName": "Wu",
+              "fullName": "Yaxin Wu"
+            },
+            {
+              "firstName": "Yixuan",
+              "lastName": "Sun",
+              "fullName": "Yixuan Sun"
+            },
+            {
+              "firstName": "Shanze",
+              "lastName": "Chen",
+              "fullName": "Shanze Chen",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-0986-7228"
+              }
+            },
+            {
+              "firstName": "Hui",
+              "lastName": "Mei",
+              "fullName": "Hui Mei",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7350-0688"
+              }
+            },
+            {
+              "firstName": "Zhiwei",
+              "lastName": "Qin",
+              "fullName": "Zhiwei Qin",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1444-3684"
+              }
+            },
+            {
+              "firstName": "Junbiao",
+              "lastName": "Dai",
+              "fullName": "Junbiao Dai",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-5299-4700"
+              }
+            },
+            {
+              "firstName": "Xiaoluo",
+              "lastName": "Huang",
+              "fullName": "Xiaoluo Huang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0006-1166-6838"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1038/s41467-026-78759-4",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1038/s41467-026-78759-4",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-19",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-19",
+          "printPublicationDate": ""
         }
       ],
       "total": 84,
@@ -135054,7 +136284,9 @@
       "orcid": "0000-0002-5299-4700",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 29
+      "imageCount": 29,
+      "crossrefCount": 1,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "kathrin-lang": {
       "papers": [
@@ -143427,6 +144659,58 @@
             "checkedAt": "2026-09-17T07:37:31.010568+00:00"
           },
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1016/j.chempr.2025.102919",
+          "doi": "10.1016/j.chempr.2025.102919",
+          "title": "A modular genetic code expansion approach to site-specific lysine acylations",
+          "journal": "Chem",
+          "abstract": "",
+          "authors": "Pascal Knecht, Tuan-Anh Nguyen, Kathrin Lang",
+          "authorDetails": [
+            {
+              "firstName": "Pascal",
+              "lastName": "Knecht",
+              "fullName": "Pascal Knecht",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0005-3641-1818"
+              }
+            },
+            {
+              "firstName": "Tuan-Anh",
+              "lastName": "Nguyen",
+              "fullName": "Tuan-Anh Nguyen",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7809-5175"
+              }
+            },
+            {
+              "firstName": "Kathrin",
+              "lastName": "Lang",
+              "fullName": "Kathrin Lang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1318-6567"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 2,
+          "url": "https://doi.org/10.1016/j.chempr.2025.102919",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1016/j.chempr.2025.102919",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-05",
+          "datePrecision": "month",
+          "dateSource": "print",
+          "onlinePublicationDate": "",
+          "printPublicationDate": "2026-05"
         }
       ],
       "total": 65,
@@ -143444,7 +144728,9 @@
       "orcid": "0000-0002-1318-6567",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 25
+      "imageCount": 25,
+      "crossrefCount": 1,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "nanxi-wang": {
       "papers": [
@@ -145810,6 +147096,102 @@
           "onlinePublicationDate": "2014-04-08",
           "printPublicationDate": "2014-05",
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1021/acscatal.5c06208",
+          "doi": "10.1021/acscatal.5c06208",
+          "title": "Multienzyme-Mediated Atypical Mode of Dehydration in Anthracycline Biosynthesis",
+          "journal": "ACS Catalysis",
+          "abstract": "",
+          "authors": "Yi Shuang Wang, Hongwei Chen, Zi Kang Meng, Chen Hao Jia, Jia Qi Han, Yun Xia Jin, Xiuxiu Ma, Nanxi Wang, Jiapeng Zhu, Yong Liang, Ren Xiang Tan",
+          "authorDetails": [
+            {
+              "firstName": "Yi Shuang",
+              "lastName": "Wang",
+              "fullName": "Yi Shuang Wang"
+            },
+            {
+              "firstName": "Hongwei",
+              "lastName": "Chen",
+              "fullName": "Hongwei Chen"
+            },
+            {
+              "firstName": "Zi Kang",
+              "lastName": "Meng",
+              "fullName": "Zi Kang Meng"
+            },
+            {
+              "firstName": "Chen Hao",
+              "lastName": "Jia",
+              "fullName": "Chen Hao Jia"
+            },
+            {
+              "firstName": "Jia Qi",
+              "lastName": "Han",
+              "fullName": "Jia Qi Han"
+            },
+            {
+              "firstName": "Yun Xia",
+              "lastName": "Jin",
+              "fullName": "Yun Xia Jin"
+            },
+            {
+              "firstName": "Xiuxiu",
+              "lastName": "Ma",
+              "fullName": "Xiuxiu Ma"
+            },
+            {
+              "firstName": "Nanxi",
+              "lastName": "Wang",
+              "fullName": "Nanxi Wang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2807-1487"
+              }
+            },
+            {
+              "firstName": "Jiapeng",
+              "lastName": "Zhu",
+              "fullName": "Jiapeng Zhu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-9165-0126"
+              }
+            },
+            {
+              "firstName": "Yong",
+              "lastName": "Liang",
+              "fullName": "Yong Liang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-5026-6710"
+              }
+            },
+            {
+              "firstName": "Ren Xiang",
+              "lastName": "Tan",
+              "fullName": "Ren Xiang Tan",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6532-6261"
+              }
+            }
+          ],
+          "year": "2025",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 2,
+          "url": "https://doi.org/10.1021/acscatal.5c06208",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1021/acscatal.5c06208",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2025-11-05",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2025-11-05",
+          "printPublicationDate": "2025-11-21"
         }
       ],
       "total": 35,
@@ -145826,7 +147208,9 @@
       "orcid": "0000-0003-2807-1487",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 5
+      "imageCount": 5,
+      "crossrefCount": 1,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "nediljko-budisa": {
       "papers": [
@@ -158202,7 +159586,9 @@
       "orcid": "0000-0001-8437-7304",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 33
+      "imageCount": 33,
+      "crossrefCount": 0,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "peilong-lu": {
       "papers": [
@@ -164450,6 +165836,134 @@
           "onlinePublicationDate": "",
           "printPublicationDate": "2009-11",
           "publisherImageStatus": "no_graphic_detected"
+        },
+        {
+          "id": "DOI:10.1016/j.cell.2025.09.023",
+          "doi": "10.1016/j.cell.2025.09.023",
+          "title": "De novo designed voltage-gated anion channels suppress neuron firing",
+          "journal": "Cell",
+          "abstract": "",
+          "authors": "Chen Zhou, Huican Li, Jiaxing Wang, Cheng Qian, Hui Xiong, Zhilin Chu, Qiming Shao, Xuan Li, Shijin Sun, Ke Sun, Aiqin Zhu, Jiawei Wang, Xueqin Jin, Fan Yang, Tamer M. Gamal El-Din, Bo Li, Jing Huang, Kun Wu, Peilong Lu",
+          "authorDetails": [
+            {
+              "firstName": "Chen",
+              "lastName": "Zhou",
+              "fullName": "Chen Zhou"
+            },
+            {
+              "firstName": "Huican",
+              "lastName": "Li",
+              "fullName": "Huican Li"
+            },
+            {
+              "firstName": "Jiaxing",
+              "lastName": "Wang",
+              "fullName": "Jiaxing Wang"
+            },
+            {
+              "firstName": "Cheng",
+              "lastName": "Qian",
+              "fullName": "Cheng Qian"
+            },
+            {
+              "firstName": "Hui",
+              "lastName": "Xiong",
+              "fullName": "Hui Xiong"
+            },
+            {
+              "firstName": "Zhilin",
+              "lastName": "Chu",
+              "fullName": "Zhilin Chu"
+            },
+            {
+              "firstName": "Qiming",
+              "lastName": "Shao",
+              "fullName": "Qiming Shao"
+            },
+            {
+              "firstName": "Xuan",
+              "lastName": "Li",
+              "fullName": "Xuan Li"
+            },
+            {
+              "firstName": "Shijin",
+              "lastName": "Sun",
+              "fullName": "Shijin Sun"
+            },
+            {
+              "firstName": "Ke",
+              "lastName": "Sun",
+              "fullName": "Ke Sun"
+            },
+            {
+              "firstName": "Aiqin",
+              "lastName": "Zhu",
+              "fullName": "Aiqin Zhu"
+            },
+            {
+              "firstName": "Jiawei",
+              "lastName": "Wang",
+              "fullName": "Jiawei Wang"
+            },
+            {
+              "firstName": "Xueqin",
+              "lastName": "Jin",
+              "fullName": "Xueqin Jin"
+            },
+            {
+              "firstName": "Fan",
+              "lastName": "Yang",
+              "fullName": "Fan Yang"
+            },
+            {
+              "firstName": "Tamer M.",
+              "lastName": "Gamal El-Din",
+              "fullName": "Tamer M. Gamal El-Din"
+            },
+            {
+              "firstName": "Bo",
+              "lastName": "Li",
+              "fullName": "Bo Li"
+            },
+            {
+              "firstName": "Jing",
+              "lastName": "Huang",
+              "fullName": "Jing Huang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9639-2907"
+              }
+            },
+            {
+              "firstName": "Kun",
+              "lastName": "Wu",
+              "fullName": "Kun Wu"
+            },
+            {
+              "firstName": "Peilong",
+              "lastName": "Lu",
+              "fullName": "Peilong Lu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-5894-9268"
+              }
+            }
+          ],
+          "year": "2025",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 14,
+          "url": "https://doi.org/10.1016/j.cell.2025.09.023",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1016/j.cell.2025.09.023",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2025-12",
+          "datePrecision": "month",
+          "dateSource": "print",
+          "onlinePublicationDate": "",
+          "printPublicationDate": "2025-12"
         }
       ],
       "total": 33,
@@ -164467,7 +165981,9 @@
       "orcid": "0000-0001-5894-9268",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 14
+      "imageCount": 14,
+      "crossrefCount": 1,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "peng-chen": {
       "papers": [
@@ -173863,6 +175379,92 @@
           "onlinePublicationDate": "2017-05-03",
           "printPublicationDate": "2017-05",
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1002/ange.6330931",
+          "doi": "10.1002/ange.6330931",
+          "title": "Radiation‐Triggered Catalytic Decaging in Living Mice",
+          "journal": "Angewandte Chemie",
+          "abstract": "ABSTRACT Precise spatiotemporal control over chemical reactivity in living systems remains a formidable challenge, especially within deep tissues where light‐based methods suffer from limited penetration. Here, we present a γ‐radiation‐mediated catalytic decaging (γ‐RCD) strategy that harnesses hydrated electrons generated during low‐dose γ‐radiation to activate palladium catalysts, thereby initiating a catalytic cycle for the efficient release of functional molecules. Unlike conventional radiation‐triggered decaging, which relies on primary radiolytic species and suffers from inherently low yields, γ‐RCD achieves catalytic amplification, significantly enhancing radiochemical efficiency with G ‐values up to 25.8‐surpassing existing radiation chemistries by at least 20‐fold. We demonstrate the versatility of γ‐RCD in remotely activating fluorophores, as well as prodrugs with minimal radiation input. The selective activation of caged bioactive compounds in tumor‐bearing mice leads to potent antitumor effects and the translational potential of the γ‐RCD strategy. By integrating catalytic amplification with clinically relevant γ‐radiation, γ‐RCD opens a new avenue for precision medicine, functional biomaterials, and radiation‐responsive therapeutics.",
+          "authors": "Jian Wang, Xianrui Zhang, Yin Liang, Lixia Liu, Ruotong Deng, Hanjie Zhu, Peng R. Chen, Xinyuan Fan, Wei Cao",
+          "authorDetails": [
+            {
+              "firstName": "Jian",
+              "lastName": "Wang",
+              "fullName": "Jian Wang"
+            },
+            {
+              "firstName": "Xianrui",
+              "lastName": "Zhang",
+              "fullName": "Xianrui Zhang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2036-8764"
+              }
+            },
+            {
+              "firstName": "Yin",
+              "lastName": "Liang",
+              "fullName": "Yin Liang"
+            },
+            {
+              "firstName": "Lixia",
+              "lastName": "Liu",
+              "fullName": "Lixia Liu"
+            },
+            {
+              "firstName": "Ruotong",
+              "lastName": "Deng",
+              "fullName": "Ruotong Deng"
+            },
+            {
+              "firstName": "Hanjie",
+              "lastName": "Zhu",
+              "fullName": "Hanjie Zhu"
+            },
+            {
+              "firstName": "Peng R.",
+              "lastName": "Chen",
+              "fullName": "Peng R. Chen",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-0402-7417"
+              }
+            },
+            {
+              "firstName": "Xinyuan",
+              "lastName": "Fan",
+              "fullName": "Xinyuan Fan",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-3099-8495"
+              }
+            },
+            {
+              "firstName": "Wei",
+              "lastName": "Cao",
+              "fullName": "Wei Cao",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-5048-7991"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1002/ange.6330931",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1002/ange.6330931",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-30",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-30",
+          "printPublicationDate": ""
         }
       ],
       "total": 55,
@@ -173878,7 +175480,9 @@
       "orcid": "0000-0002-0402-7417",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 19
+      "imageCount": 19,
+      "crossrefCount": 1,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "ryan-mehl": {
       "papers": [
@@ -178080,6 +179684,63 @@
             "checkedAt": "2026-09-17T07:37:31.010568+00:00"
           },
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1021/acs.oprd.5c00488",
+          "doi": "10.1021/acs.oprd.5c00488",
+          "title": "Scalable Flow Synthesis of Genetically Encodable Tetrazine Amino Acids",
+          "journal": "Organic Process Research & Development",
+          "abstract": "",
+          "authors": "Yogesh M. Gangarde, Erik C. Carlson, Matthew A. Cranswick, Ryan A. Mehl",
+          "authorDetails": [
+            {
+              "firstName": "Yogesh M.",
+              "lastName": "Gangarde",
+              "fullName": "Yogesh M. Gangarde",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9851-1113"
+              }
+            },
+            {
+              "firstName": "Erik C.",
+              "lastName": "Carlson",
+              "fullName": "Erik C. Carlson"
+            },
+            {
+              "firstName": "Matthew A.",
+              "lastName": "Cranswick",
+              "fullName": "Matthew A. Cranswick",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-4889-2274"
+              }
+            },
+            {
+              "firstName": "Ryan A.",
+              "lastName": "Mehl",
+              "fullName": "Ryan A. Mehl",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2932-4941"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1021/acs.oprd.5c00488",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1021/acs.oprd.5c00488",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-04-02",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-04-02",
+          "printPublicationDate": "2026-04-17"
         }
       ],
       "total": 29,
@@ -178097,7 +179758,9 @@
       "orcid": "0000-0003-2932-4941",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 10
+      "imageCount": 10,
+      "crossrefCount": 1,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "shixian-lin": {
       "papers": [
@@ -185687,7 +187350,9 @@
       "orcid": "0000-0001-9718-9986",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 14
+      "imageCount": 14,
+      "crossrefCount": 0,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "tao-liu": {
       "papers": [
@@ -193051,6 +194716,305 @@
           "onlinePublicationDate": "2008-01-13",
           "printPublicationDate": "2009-02",
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1002/ange.8361803",
+          "doi": "10.1002/ange.8361803",
+          "title": "Chemically Masked aPD‐L1‐Sialidase Conjugate for Tumor‐Specific Desialylation and Immunotherapy",
+          "journal": "Angewandte Chemie",
+          "abstract": "ABSTRACT Immune checkpoint inhibitors (ICIs) have revolutionized cancer immunotherapy, yet their clinical efficacy remains limited by low response rates and frequent immune‐related adverse events caused by on‐target off‐tumor toxicity. In this study, we developed a chemically masked anti–PD‐L1 nanobody‐sialidase conjugate (CAPS) to achieve precise control of protein function. The chemical mask is installed via site‐specific PEGylation following the incorporation of a genetically encoded non‐canonical amino acid, and is selectively removed by MMP2 within the tumor microenvironment to restore function locally. This design achieves “one construct, three functions” by enabling simultaneous control over nanobody affinity, desialylation activity, and tumor tissue penetration, thereby enhancing tumor specificity and concurrently disrupting the PD‐1/PD‐L1 and Sialoglycan/Siglec axes. Compared to the unmasked control (anti–PD‐L1 nanobody–sialidase, APS), CAPS exhibited a 144‐fold extension in systemic half‐life and a 9.3‐fold increase in tumor‐site accumulation. Collectively, CAPS demonstrated superior antitumor efficacy, enhanced immune activation, and an improved safety profile in mouse models of ICI‐resistant colorectal cancer. These findings support CAPS as a new class of glyco‐ICIs and offer a promising therapeutic strategy to overcome the limitations of current ICIs by enhancing therapeutic efficacy while minimizing on‐target off‐tumor toxicity.",
+          "authors": "Jie Zeng, Siyi Han, Xin Wang, Linzhi Tan, Xinhui Pan, Baoshan Cao, Zhongtang Li, Zhongjun Li, Tao Liu, Yong Wang",
+          "authorDetails": [
+            {
+              "firstName": "Jie",
+              "lastName": "Zeng",
+              "fullName": "Jie Zeng"
+            },
+            {
+              "firstName": "Siyi",
+              "lastName": "Han",
+              "fullName": "Siyi Han"
+            },
+            {
+              "firstName": "Xin",
+              "lastName": "Wang",
+              "fullName": "Xin Wang"
+            },
+            {
+              "firstName": "Linzhi",
+              "lastName": "Tan",
+              "fullName": "Linzhi Tan"
+            },
+            {
+              "firstName": "Xinhui",
+              "lastName": "Pan",
+              "fullName": "Xinhui Pan",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2205-3966"
+              }
+            },
+            {
+              "firstName": "Baoshan",
+              "lastName": "Cao",
+              "fullName": "Baoshan Cao",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7939-4820"
+              }
+            },
+            {
+              "firstName": "Zhongtang",
+              "lastName": "Li",
+              "fullName": "Zhongtang Li",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7996-9911"
+              }
+            },
+            {
+              "firstName": "Zhongjun",
+              "lastName": "Li",
+              "fullName": "Zhongjun Li",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-1642-7773"
+              }
+            },
+            {
+              "firstName": "Tao",
+              "lastName": "Liu",
+              "fullName": "Tao Liu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-5347-5892"
+              }
+            },
+            {
+              "firstName": "Yong",
+              "lastName": "Wang",
+              "fullName": "Yong Wang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0000-2948-0077"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1002/ange.8361803",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1002/ange.8361803",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-06-04",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-06-04",
+          "printPublicationDate": "2026-08-03"
+        },
+        {
+          "id": "DOI:10.1021/jacs.6c15448",
+          "doi": "10.1021/jacs.6c15448",
+          "title": "Molecular Programming of Steric Tags for Controlled Nanopore Translocation toward Precision Clinical Diagnostic Assistance",
+          "journal": "Journal of the American Chemical Society",
+          "abstract": "Abstract The precise resolution of single-molecule events is often limited by the stochastic thermal motion of analytes, which traverse nanoscale sensing zones too rapidly for conventional detection bandwidths. This remains a fundamental challenge in nanopore chemistry, particularly for small and flexible peptides. Here, we report a chemically intuitive molecular programming strategy─steric blockage-enabled slow translocation (SLOW-Trans)─that overcomes this physical limitation through the rational design of sterically demanding probe molecules. By site-specifically conjugating rigid aromatic steric tags with precisely defined dimensions to peptide substrates, we actively reshape the translocation energy landscape within the ∼1.2 nm constriction of the M2MspA nanopore. Systematic variation of tag size and rigidity enables deterministic control over peptide residence time, transforming transient stochastic events into stable and highly discriminable current signatures. Using this strategy, we achieve a six-order-of-magnitude dynamic range (0.001–1000 ng/mL) for matrix metalloproteinases (MMP-1, -2, and -9). In a cohort of 231 clinical urine samples, the nanopore-derived MMP activity profiles showed excellent agreement with ELISA-derived measurements and, when integrated with a machine-learning classifier, enabled classification of urothelial carcinoma with 96.2% accuracy. As a proof-of-concept extension, the modular probe design was further adapted for PSA/KLK3 activity analysis in clinical serum samples, supporting the feasibility of extending the approach to an additional protease target. This work establishes a general chemical framework for programming molecular behavior in confined nanoscale environments, bridging molecular design principles with functional nanopore sensing.",
+          "authors": "Yiheng Liu, Shijun Lin, Minglun Li, Hao Fang, Zhicheng Zhang, Ruwei Wei, Yan Zhang, Jun Dai, Tao Liu, Fan Xia, Xiaoding Lou",
+          "authorDetails": [
+            {
+              "firstName": "Yiheng",
+              "lastName": "Liu",
+              "fullName": "Yiheng Liu"
+            },
+            {
+              "firstName": "Shijun",
+              "lastName": "Lin",
+              "fullName": "Shijun Lin"
+            },
+            {
+              "firstName": "Minglun",
+              "lastName": "Li",
+              "fullName": "Minglun Li",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1286-6915"
+              }
+            },
+            {
+              "firstName": "Hao",
+              "lastName": "Fang",
+              "fullName": "Hao Fang"
+            },
+            {
+              "firstName": "Zhicheng",
+              "lastName": "Zhang",
+              "fullName": "Zhicheng Zhang"
+            },
+            {
+              "firstName": "Ruwei",
+              "lastName": "Wei",
+              "fullName": "Ruwei Wei"
+            },
+            {
+              "firstName": "Yan",
+              "lastName": "Zhang",
+              "fullName": "Yan Zhang"
+            },
+            {
+              "firstName": "Jun",
+              "lastName": "Dai",
+              "fullName": "Jun Dai",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0003-8751-410X"
+              }
+            },
+            {
+              "firstName": "Tao",
+              "lastName": "Liu",
+              "fullName": "Tao Liu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-5347-5892"
+              }
+            },
+            {
+              "firstName": "Fan",
+              "lastName": "Xia",
+              "fullName": "Fan Xia",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-7705-4638"
+              }
+            },
+            {
+              "firstName": "Xiaoding",
+              "lastName": "Lou",
+              "fullName": "Xiaoding Lou",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-6556-2034"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1021/jacs.6c15448",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1021/jacs.6c15448",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-09-25",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-09-25",
+          "printPublicationDate": ""
+        },
+        {
+          "id": "DOI:10.1002/ange.4107368",
+          "doi": "10.1002/ange.4107368",
+          "title": "Protease‐Responsive Condensation of Engineered Proteins Drives Tumor‐Targeted T‐Cell Activation",
+          "journal": "Angewandte Chemie",
+          "abstract": "ABSTRACT Liquid‐liquid phase separation (LLPS) drives the formation of biomolecular condensates, which are fundamental to cell signaling. Extracellular phase separation is emerging as a potent strategy for cell‐specific signaling modulation; however, its application is limited by the lack of control over on‐demand condensate formation. Here, we engineered a masked extracellular phase‐separation platform (Condenstim) enabling tumor microenvironment‐specific condensate formation. To achieve this, we first developed an LLPS‐based system that clusters CD3 and CD28 receptors to assemble synthetic immunological synapses for potent T‐cell activation. By employing a protease‐cleavable linker for site‐specific PEGylation, we sterically shielded the protein building blocks, rendering the platform biologically dormant during systemic circulation. Within the tumor microenvironment, localized proteases cleave the linker, thereby restoring LLPS in situ. This modular design ensures spatially confined and efficient T‐cell activation, leading to robust tumor regression in murine models, both as a monotherapy and in combination with PD‐1 blockade. Our findings establish a generalizable strategy to control extracellular LLPS for both fundamental studies and therapeutic applications.",
+          "authors": "Qiang Lu, Kerui Zhao, Zifeng Qiao, Handan Yan, Xin Wang, Linzhi Tan, Jianchun Zhou, Liying Chang, Zhe Liu, Yong Wang, Tao Liu",
+          "authorDetails": [
+            {
+              "firstName": "Qiang",
+              "lastName": "Lu",
+              "fullName": "Qiang Lu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2736-482X"
+              }
+            },
+            {
+              "firstName": "Kerui",
+              "lastName": "Zhao",
+              "fullName": "Kerui Zhao"
+            },
+            {
+              "firstName": "Zifeng",
+              "lastName": "Qiao",
+              "fullName": "Zifeng Qiao"
+            },
+            {
+              "firstName": "Handan",
+              "lastName": "Yan",
+              "fullName": "Handan Yan"
+            },
+            {
+              "firstName": "Xin",
+              "lastName": "Wang",
+              "fullName": "Xin Wang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0002-9749-3667"
+              }
+            },
+            {
+              "firstName": "Linzhi",
+              "lastName": "Tan",
+              "fullName": "Linzhi Tan",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0000-9451-6136"
+              }
+            },
+            {
+              "firstName": "Jianchun",
+              "lastName": "Zhou",
+              "fullName": "Jianchun Zhou"
+            },
+            {
+              "firstName": "Liying",
+              "lastName": "Chang",
+              "fullName": "Liying Chang"
+            },
+            {
+              "firstName": "Zhe",
+              "lastName": "Liu",
+              "fullName": "Zhe Liu"
+            },
+            {
+              "firstName": "Yong",
+              "lastName": "Wang",
+              "fullName": "Yong Wang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0000-2948-0077"
+              }
+            },
+            {
+              "firstName": "Tao",
+              "lastName": "Liu",
+              "fullName": "Tao Liu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-5347-5892"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1002/ange.4107368",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1002/ange.4107368",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-28",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-28",
+          "printPublicationDate": ""
         }
       ],
       "total": 58,
@@ -193068,7 +195032,9 @@
       "orcid": "0000-0001-5347-5892",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 17
+      "imageCount": 17,
+      "crossrefCount": 3,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "thomas-huber": {
       "papers": [
@@ -202889,6 +204855,67 @@
           "onlinePublicationDate": "",
           "printPublicationDate": "1994-02",
           "publisherImageStatus": "no_graphic_detected"
+        },
+        {
+          "id": "DOI:10.1002/ange.8993497",
+          "doi": "10.1002/ange.8993497",
+          "title": "Isosteric Engineering of Enzymes: Overcoming Activity–Stability Trade‐Offs by Site‐Selective CH → N Substitutions",
+          "journal": "Angewandte Chemie",
+          "abstract": "ABSTRACT Enzymes used on industrial scale are routinely engineered for best performance. However, exhaustive mutagenesis campaigns using the twenty canonical proteinogenic amino acids rapidly reach an evolutionary ceiling, where gains in activity compromise other critical properties such as thermal endurance. Although non‐canonical amino acids (ncAA) expand the chemical space, most are costly for use on an industrial scale and significantly perturb structure. Here, we demonstrate that the evolutionary ceiling of highly optimized polyethylene terephthalate (PET) hydrolases (PETases) can be broken with azatryptophans that (i) differ minimally from their canonical tryptophan, (ii) are genetically encoded, and (iii) are produced in high yield by enzymatic biosynthesis from inexpensive precursors. The first genetic encoding systems are described for 4‐azatryptophan, 5‐azatryptophan, and 6‐azatryptophan, achieving single, site‐selective isosteric CH → N substitutions that enhancing the catalytic activity while preserving thermal stability. The fluorescence of 6AW provides a uniquely sensitive reporter of side‐chain solvent exposure, which is critical for PETase activity and shown to vary between five different PETases. Furthermore, Azatryptophan‐bearing enzymes are inexpensive to produce. To benchmark PETase activity, a rapid fluorescence‐based kinetic assay, PETra , is introduced, which delivers consistency and reproducibility by using a soluble substrate yet correlates strongly with the hydrolysis of solid PET.",
+          "authors": "Elwy H. Abdelkader, Haocheng Qianzhu, Gottfried Otting, Thomas Huber",
+          "authorDetails": [
+            {
+              "firstName": "Elwy H.",
+              "lastName": "Abdelkader",
+              "fullName": "Elwy H. Abdelkader",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-5388-3949"
+              }
+            },
+            {
+              "firstName": "Haocheng",
+              "lastName": "Qianzhu",
+              "fullName": "Haocheng Qianzhu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-7546-4411"
+              }
+            },
+            {
+              "firstName": "Gottfried",
+              "lastName": "Otting",
+              "fullName": "Gottfried Otting",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-0563-0146"
+              }
+            },
+            {
+              "firstName": "Thomas",
+              "lastName": "Huber",
+              "fullName": "Thomas Huber",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-3680-8699"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1002/ange.8993497",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1002/ange.8993497",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-07-13",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-07-13",
+          "printPublicationDate": "2026-09-14"
         }
       ],
       "total": 95,
@@ -202906,7 +204933,9 @@
       "orcid": "0000-0002-3680-8699",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 10
+      "imageCount": 10,
+      "crossrefCount": 1,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "william-degrado": {
       "papers": [
@@ -213805,7 +215834,9 @@
       "orcid": "0000-0003-4745-263X",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 20
+      "imageCount": 20,
+      "crossrefCount": 0,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "xiao-xie": {
       "papers": [
@@ -214007,7 +216038,9 @@
       "orcid": "0009-0006-6342-2771",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 0
+      "imageCount": 0,
+      "crossrefCount": 0,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "xiaozhou-luo": {
       "papers": [
@@ -223189,6 +225222,199 @@
           "onlinePublicationDate": "",
           "printPublicationDate": "2010-04",
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1038/s41467-026-78648-w",
+          "doi": "10.1038/s41467-026-78648-w",
+          "title": "An automated operon refactoring workflow for heterologous expression of non-ribosomal peptide biosynthetic gene clusters",
+          "journal": "Nature Communications",
+          "abstract": "",
+          "authors": "Zhibo Li, Lifu Liu, Xingyan Sun, Hui Wu, Shiquan Fu, Jiao Jin, Yangming Zhang, Xiyan Zhang, Zishuo Zeng, Zhiyin Tao, Ningxin Chen, Xinran Wang, Jianming Lv, Pan Luo, Dan Hu, Hao Gao, Jay D. Keasling, Xiaozhou Luo",
+          "authorDetails": [
+            {
+              "firstName": "Zhibo",
+              "lastName": "Li",
+              "fullName": "Zhibo Li"
+            },
+            {
+              "firstName": "Lifu",
+              "lastName": "Liu",
+              "fullName": "Lifu Liu"
+            },
+            {
+              "firstName": "Xingyan",
+              "lastName": "Sun",
+              "fullName": "Xingyan Sun"
+            },
+            {
+              "firstName": "Hui",
+              "lastName": "Wu",
+              "fullName": "Hui Wu"
+            },
+            {
+              "firstName": "Shiquan",
+              "lastName": "Fu",
+              "fullName": "Shiquan Fu"
+            },
+            {
+              "firstName": "Jiao",
+              "lastName": "Jin",
+              "fullName": "Jiao Jin"
+            },
+            {
+              "firstName": "Yangming",
+              "lastName": "Zhang",
+              "fullName": "Yangming Zhang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-0341-7851"
+              }
+            },
+            {
+              "firstName": "Xiyan",
+              "lastName": "Zhang",
+              "fullName": "Xiyan Zhang"
+            },
+            {
+              "firstName": "Zishuo",
+              "lastName": "Zeng",
+              "fullName": "Zishuo Zeng"
+            },
+            {
+              "firstName": "Zhiyin",
+              "lastName": "Tao",
+              "fullName": "Zhiyin Tao"
+            },
+            {
+              "firstName": "Ningxin",
+              "lastName": "Chen",
+              "fullName": "Ningxin Chen"
+            },
+            {
+              "firstName": "Xinran",
+              "lastName": "Wang",
+              "fullName": "Xinran Wang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0002-6834-3344"
+              }
+            },
+            {
+              "firstName": "Jianming",
+              "lastName": "Lv",
+              "fullName": "Jianming Lv"
+            },
+            {
+              "firstName": "Pan",
+              "lastName": "Luo",
+              "fullName": "Pan Luo"
+            },
+            {
+              "firstName": "Dan",
+              "lastName": "Hu",
+              "fullName": "Dan Hu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1104-8646"
+              }
+            },
+            {
+              "firstName": "Hao",
+              "lastName": "Gao",
+              "fullName": "Hao Gao",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-1178-0121"
+              }
+            },
+            {
+              "firstName": "Jay D.",
+              "lastName": "Keasling",
+              "fullName": "Jay D. Keasling",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-4170-6088"
+              }
+            },
+            {
+              "firstName": "Xiaozhou",
+              "lastName": "Luo",
+              "fullName": "Xiaozhou Luo",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9808-6890"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1038/s41467-026-78648-w",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1038/s41467-026-78648-w",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-11",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-11",
+          "printPublicationDate": ""
+        },
+        {
+          "id": "DOI:10.1021/acs.jcim.6c01200",
+          "doi": "10.1021/acs.jcim.6c01200",
+          "title": "Benchmarking and Experimental Validation of Machine Learning Strategies for Enzyme Engineering",
+          "journal": "Journal of Chemical Information and Modeling",
+          "abstract": "Abstract Enzyme-directed evolution increasingly relies on computational tools to prioritize mutations, yet their practical value is difficult to assess because kinetic data are often aggregated across heterogeneous assay conditions, inflating apparent generalization. Here we introduce EnzyArena, a curated benchmark in which kinetic parameters (kcat, Km, or kcat/Km) are grouped by experimental campaign and measured under matched conditions, thereby minimizing confounders such as pH, temperature, reaction, and batch. Using EnzyArena, we systematically evaluate 20 models spanning four widely used strategies for guiding enzyme evolution: protein–ligand binding affinity prediction, protein stability prediction, zero-shot fitness prediction and enzyme kinetic parameters prediction. Across subsets derived from public databases and 25 literature-derived mutagenesis data sets, most models exhibit weak, fragile, or inconsistent correlation with measured functional outcomes. Kinetic-parameter predictors perform strongly on database-derived subsets but lose their advantage on literature-derived mutagenesis data sets, whereas zero-shot predictors show more consistent generalization. A simple consensus of multiple zero-shot models further improves the precision of identifying beneficial mutants in retrospective analyses. We prospectively validated these findings in a wet-lab campaign (150 mutants) comparing random mutants, UniKP-prioritized mutants, and ESM-1v-prioritized mutants (representing supervised kinetic parameters prediction and zero-shot fitness prediction, respectively), where ESM-1v achieved the highest utility and UniKP underperformed the random baseline. Together, this study establishes realistic baselines for computational mutant prioritization and indicates that zero-shot strategies provide the most consistent, although still modest, performance among the approaches evaluated.",
+          "authors": "Zishuo Zeng, Jiao Jin, Rufang Xu, Yuzhen Wu, Xiaozhou Luo",
+          "authorDetails": [
+            {
+              "firstName": "Zishuo",
+              "lastName": "Zeng",
+              "fullName": "Zishuo Zeng"
+            },
+            {
+              "firstName": "Jiao",
+              "lastName": "Jin",
+              "fullName": "Jiao Jin"
+            },
+            {
+              "firstName": "Rufang",
+              "lastName": "Xu",
+              "fullName": "Rufang Xu"
+            },
+            {
+              "firstName": "Yuzhen",
+              "lastName": "Wu",
+              "fullName": "Yuzhen Wu"
+            },
+            {
+              "firstName": "Xiaozhou",
+              "lastName": "Luo",
+              "fullName": "Xiaozhou Luo",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-9808-6890"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1021/acs.jcim.6c01200",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1021/acs.jcim.6c01200",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-28",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-28",
+          "printPublicationDate": ""
         }
       ],
       "total": 55,
@@ -223204,7 +225430,9 @@
       "orcid": "0000-0001-9808-6890",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 17
+      "imageCount": 17,
+      "crossrefCount": 2,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "yun-ge": {
       "papers": [
@@ -226532,7 +228760,9 @@
       "orcid": "0000-0001-6769-5458",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 6
+      "imageCount": 6,
+      "crossrefCount": 0,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     },
     "yuzhou-wu": {
       "papers": [
@@ -238198,6 +240428,517 @@
           "onlinePublicationDate": "",
           "printPublicationDate": "2010-04",
           "publisherImageStatus": "host_deferred"
+        },
+        {
+          "id": "DOI:10.1002/sstr.202500681",
+          "doi": "10.1002/sstr.202500681",
+          "title": "Peptide‐Peptide Nucleic Acid Hybrid Hydrogel Based on Sequence Programmable Morphological Change for DNA Data Storage",
+          "journal": "Small Structures",
+          "abstract": "Peptide‐based hydrogels provide biocompatible, stimuli‐responsive platforms, while peptide‐DNA hybrids extend programmability through hybridization‐driven crosslinking. However, nucleobase incorporation can influence peptide self‐assembly pathways. We demonstrate that the introduction of bases can directly alter the transition of peptides between gel and solution, offering an alternative mechanism to hybridization‐dependent approaches. Using peptide nucleic acid–guanine as a molecular bridge, guanine attachment shifts peptide assemblies from gel to solution states. Conversely, introducing complementary cytosine‐rich DNA sequences triggers a solution‐to‐gel transition. This morphological switching is sequence‐specific, enabling precise spatiotemporal control of gelation. Structural and rheological analyses confirm guanine's critical role in altering peptide backbone organization and enabling dynamic reconfiguration. As a demonstration of this programmable material's capabilities, we applied the hydrogel for DNA data storage. The hydrogel protects encapsulated DNA information from enzymatic degradation and facilitates precise digital information retrieval, establishing a robust storage medium for synthetic DNA‐encoded data. This strategy leverages nucleic acid sequence specificity to directly manipulate peptide nanostructure, advancing the design of smart, stimuli‐responsive biomaterials.",
+          "authors": "Huiling Lei, Jinsheng Li, Zixiao Zhang, Zi’an Lin, Guangxu Zhang, Jianjian Huang, Shuhan Dai, Guojiao Wu, Hongmei Liu, Yuzhou Wu",
+          "authorDetails": [
+            {
+              "firstName": "Huiling",
+              "lastName": "Lei",
+              "fullName": "Huiling Lei"
+            },
+            {
+              "firstName": "Jinsheng",
+              "lastName": "Li",
+              "fullName": "Jinsheng Li"
+            },
+            {
+              "firstName": "Zixiao",
+              "lastName": "Zhang",
+              "fullName": "Zixiao Zhang"
+            },
+            {
+              "firstName": "Zi’an",
+              "lastName": "Lin",
+              "fullName": "Zi’an Lin"
+            },
+            {
+              "firstName": "Guangxu",
+              "lastName": "Zhang",
+              "fullName": "Guangxu Zhang"
+            },
+            {
+              "firstName": "Jianjian",
+              "lastName": "Huang",
+              "fullName": "Jianjian Huang"
+            },
+            {
+              "firstName": "Shuhan",
+              "lastName": "Dai",
+              "fullName": "Shuhan Dai"
+            },
+            {
+              "firstName": "Guojiao",
+              "lastName": "Wu",
+              "fullName": "Guojiao Wu"
+            },
+            {
+              "firstName": "Hongmei",
+              "lastName": "Liu",
+              "fullName": "Hongmei Liu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-5118-9793"
+              }
+            },
+            {
+              "firstName": "Yuzhou",
+              "lastName": "Wu",
+              "fullName": "Yuzhou Wu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3229-4982"
+              }
+            }
+          ],
+          "year": "2025",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1002/sstr.202500681",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1002/sstr.202500681",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2025-12-31",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2025-12-31",
+          "printPublicationDate": "2026-01"
+        },
+        {
+          "id": "DOI:10.1038/s41929-025-01475-7",
+          "doi": "10.1038/s41929-025-01475-7",
+          "title": "Light-driven metabolic makeover",
+          "journal": "Nature Catalysis",
+          "abstract": "",
+          "authors": "Tengfei Pang, Yangjinxiu Zhou, Yuzhou Wu",
+          "authorDetails": [
+            {
+              "firstName": "Tengfei",
+              "lastName": "Pang",
+              "fullName": "Tengfei Pang"
+            },
+            {
+              "firstName": "Yangjinxiu",
+              "lastName": "Zhou",
+              "fullName": "Yangjinxiu Zhou"
+            },
+            {
+              "firstName": "Yuzhou",
+              "lastName": "Wu",
+              "fullName": "Yuzhou Wu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3229-4982"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1038/s41929-025-01475-7",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1038/s41929-025-01475-7",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-01-29",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-01-29",
+          "printPublicationDate": ""
+        },
+        {
+          "id": "DOI:10.1002/adfm.78715",
+          "doi": "10.1002/adfm.78715",
+          "title": "A Nano‐Cocoon Platform Attenuates Osteoarthritis Progression via Chem‐Bio Coupled ROS Scavenging and Cartilage Lubrication Restoration",
+          "journal": "Advanced Functional Materials",
+          "abstract": "ABSTRACT Excessive reactive oxygen species (ROS) accumulation, cartilage matrix degeneration, and impaired lubrication are central drivers of osteoarthritis (OA). However, poor matrix retention limits drug delivery to chondrocytes and lubrication restoration. Here, we develop a zwitterion‐based, thioketal‐crosslinked Superoxide Dismutase (SOD)‐polymer complex (SOD‐SADT) via in situ atom transfer radical polymerization, in which polymers grow from the enzyme surface and envelop SOD to form a nanoscale cocoon. The polymer shell exhibits cartilage‐matrix affinity through van der Waals and electrostatic interactions with type II collagen and chondroitin sulfate. Accordingly, its zwitterionic hydration layer enables matrix‐anchored lubrication, substantially reducing the coefficient of friction of OA‐like cartilages. Meanwhile, SOD‐SADT establishes a chem‐bio coupling for ROS elimination that couples enzymatic·O 2 − dismutation with thioketal‐triggered chemical depletion of H 2 O 2 and·OH, achieving up to ∼80% ROS scavenging. Notably, SOD‐SADT achieves high chondrocyte uptake (∼ 91.7 ± 3.4%) and promotes lysosomal escape. This enhances intracellular utilization, thereby attenuating oxidative injury and restoring anabolic/catabolic balance. In a mouse model of OA, intra‐articular SOD‐SADT preserves cartilage structure and improves joint function, thereby markedly slowing OA progression. Overall, this work offers a dual‐action strategy that couples intracellular antioxidant regulation with extracellular lubrication repair to address OA.",
+          "authors": "Junyuan Zhang, Tong Zhou, Jiwei Sun, Baoying Zhao, Huaibin Yu, Chengchen Wu, Haoqi Lei, Yifan Zhang, Yang Liu, Yifan Wang, Zhicai Feng, Yuzhou Wu, Cheng Yang",
+          "authorDetails": [
+            {
+              "firstName": "Junyuan",
+              "lastName": "Zhang",
+              "fullName": "Junyuan Zhang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0001-6045-0957"
+              }
+            },
+            {
+              "firstName": "Tong",
+              "lastName": "Zhou",
+              "fullName": "Tong Zhou"
+            },
+            {
+              "firstName": "Jiwei",
+              "lastName": "Sun",
+              "fullName": "Jiwei Sun"
+            },
+            {
+              "firstName": "Baoying",
+              "lastName": "Zhao",
+              "fullName": "Baoying Zhao"
+            },
+            {
+              "firstName": "Huaibin",
+              "lastName": "Yu",
+              "fullName": "Huaibin Yu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-1570-5092"
+              }
+            },
+            {
+              "firstName": "Chengchen",
+              "lastName": "Wu",
+              "fullName": "Chengchen Wu"
+            },
+            {
+              "firstName": "Haoqi",
+              "lastName": "Lei",
+              "fullName": "Haoqi Lei"
+            },
+            {
+              "firstName": "Yifan",
+              "lastName": "Zhang",
+              "fullName": "Yifan Zhang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0008-2440-7303"
+              }
+            },
+            {
+              "firstName": "Yang",
+              "lastName": "Liu",
+              "fullName": "Yang Liu"
+            },
+            {
+              "firstName": "Yifan",
+              "lastName": "Wang",
+              "fullName": "Yifan Wang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2829-5985"
+              }
+            },
+            {
+              "firstName": "Zhicai",
+              "lastName": "Feng",
+              "fullName": "Zhicai Feng"
+            },
+            {
+              "firstName": "Yuzhou",
+              "lastName": "Wu",
+              "fullName": "Yuzhou Wu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3229-4982"
+              }
+            },
+            {
+              "firstName": "Cheng",
+              "lastName": "Yang",
+              "fullName": "Cheng Yang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3401-8260"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1002/adfm.78715",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1002/adfm.78715",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-09-30",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-09-30",
+          "printPublicationDate": ""
+        },
+        {
+          "id": "DOI:10.1021/acscatal.6c06572",
+          "doi": "10.1021/acscatal.6c06572",
+          "title": "Photoenzymatic Enantioselective [2+2] Cycloaddition of Alkynes Enabled by Whole-Cell Directed Evolution",
+          "journal": "ACS Catalysis",
+          "abstract": "Abstract Enantioselective excited-state photocycloadditions represent an attractive yet challenging strategy for accessing optically active strained molecules. Here, we report a whole-cell directed evolution platform for engineering artificial triplet photoenzymes that catalyze the enantioselective [2 + 2] photocycloaddition of alkynes. By employing calcium chloride-mediated membrane permeabilization, we overcome substrate accessibility limitations in whole-cell systems and enable high-throughput evolution without the need for cell lysates or purified enzymes. Through ten rounds of directed evolution, a primitive ancestor (APC1.0; 46% yield, 6% ee) was transformed into a highly efficient variant (APC10.0; 92% yield, 94% ee under whole-cell conditions; 99% yield, 97% ee as the purified enzyme). The enhanced activity of APC10.0 enabled a total turnover number of 1800. This work establishes a generalizable strategy for the evolution of artificial photoenzymes and expands the scope of biocatalysis toward stereoselective excited-state transformations.",
+          "authors": "Yaming Deng, Yanan Shi, Tengfei Pang, Guojiao Wu, Yuzhou Wu, Fangrui Zhong",
+          "authorDetails": [
+            {
+              "firstName": "Yaming",
+              "lastName": "Deng",
+              "fullName": "Yaming Deng"
+            },
+            {
+              "firstName": "Yanan",
+              "lastName": "Shi",
+              "fullName": "Yanan Shi"
+            },
+            {
+              "firstName": "Tengfei",
+              "lastName": "Pang",
+              "fullName": "Tengfei Pang"
+            },
+            {
+              "firstName": "Guojiao",
+              "lastName": "Wu",
+              "fullName": "Guojiao Wu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-6665-0565"
+              }
+            },
+            {
+              "firstName": "Yuzhou",
+              "lastName": "Wu",
+              "fullName": "Yuzhou Wu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3229-4982"
+              }
+            },
+            {
+              "firstName": "Fangrui",
+              "lastName": "Zhong",
+              "fullName": "Fangrui Zhong",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2150-370X"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1021/acscatal.6c06572",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1021/acscatal.6c06572",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-14",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-14",
+          "printPublicationDate": ""
+        },
+        {
+          "id": "DOI:10.1021/jacs.6c08937",
+          "doi": "10.1021/jacs.6c08937",
+          "title": "Native Mass Spectrometry-Based Proteoform Explicit Metrics System (PrEMS) Informs Structural Improvement of Artificial Photocyclase Enzymes",
+          "journal": "Journal of the American Chemical Society",
+          "abstract": "Abstract Directed evolution is a powerful strategy for enzyme engineering and has successfully enabled unique stereoselective biosynthesis of high-value organic molecules. Enantiomeric excess (ee) remains the gold standard to assess the enzyme performance, but only reflects the final reaction outcome and provides limited mechanistic insights, leaving design efforts effectively a ″black box″, especially for multimeric proteins and heterogeneous systems. Here, we introduce a Proteoform Explicit Metrics System (PrEMS) that links protein point mutations and catalytic enantioselectivity via structural features measured by native mass spectrometry (native MS). Using 11 artificial photocyclase mutants, we demonstrate that single-point mutations can have a profound impact on protein structure, resulting in a highly convoluted effect on protein function not easily explainable by a single variable. We derived a multiple linear regression (MLR) model from the proteoform explicit native MS data based on the enzyme’s oligomeric state, photosensitizer labeling efficiency, susceptibility to oxidation, and photodegradation half-life. PrEMS showed significantly higher correlation (adjusted R2 increases from 0.053 to 0.869) to the enzyme’s enantioselectivity than the conventional physicochemical descriptors of the mutated amino acids. PrEMS serves as a quantitative framework to fill the knowledge gap in structural descriptors between sequence mutation and the enzyme’s function, rationalizing enzyme improvement strategies. For example, our analysis indicated that photodamage can be suppressed by incorporating aromatic residues near the active site. Our study outlines a tangible path with quantifiable metrics for integrating native MS data into enzyme design workflows.",
+          "authors": "Mengmeng Zhang, Long Shi, Yaming Deng, Zhenzhuo Liu, Haoyun Lu, Xinyu Wang, Yayu Qiu, Fangrui Zhong, Zhaoming Liu, Qi Wang, Ruikang Tang, Yuzhou Wu, Mowei Zhou",
+          "authorDetails": [
+            {
+              "firstName": "Mengmeng",
+              "lastName": "Zhang",
+              "fullName": "Mengmeng Zhang"
+            },
+            {
+              "firstName": "Long",
+              "lastName": "Shi",
+              "fullName": "Long Shi"
+            },
+            {
+              "firstName": "Yaming",
+              "lastName": "Deng",
+              "fullName": "Yaming Deng"
+            },
+            {
+              "firstName": "Zhenzhuo",
+              "lastName": "Liu",
+              "fullName": "Zhenzhuo Liu"
+            },
+            {
+              "firstName": "Haoyun",
+              "lastName": "Lu",
+              "fullName": "Haoyun Lu"
+            },
+            {
+              "firstName": "Xinyu",
+              "lastName": "Wang",
+              "fullName": "Xinyu Wang"
+            },
+            {
+              "firstName": "Yayu",
+              "lastName": "Qiu",
+              "fullName": "Yayu Qiu"
+            },
+            {
+              "firstName": "Fangrui",
+              "lastName": "Zhong",
+              "fullName": "Fangrui Zhong",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2150-370X"
+              }
+            },
+            {
+              "firstName": "Zhaoming",
+              "lastName": "Liu",
+              "fullName": "Zhaoming Liu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-7564-6207"
+              }
+            },
+            {
+              "firstName": "Qi",
+              "lastName": "Wang",
+              "fullName": "Qi Wang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-2246-1401"
+              }
+            },
+            {
+              "firstName": "Ruikang",
+              "lastName": "Tang",
+              "fullName": "Ruikang Tang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-5277-7338"
+              }
+            },
+            {
+              "firstName": "Yuzhou",
+              "lastName": "Wu",
+              "fullName": "Yuzhou Wu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3229-4982"
+              }
+            },
+            {
+              "firstName": "Mowei",
+              "lastName": "Zhou",
+              "fullName": "Mowei Zhou",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3575-3224"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1021/jacs.6c08937",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1021/jacs.6c08937",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-19",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-19",
+          "printPublicationDate": ""
+        },
+        {
+          "id": "DOI:10.1002/ange.9814409",
+          "doi": "10.1002/ange.9814409",
+          "title": "Reprogramming Stereocontrol Through Progressive Substrate Reorganization in Artificial Triplet Photoenzymes",
+          "journal": "Angewandte Chemie",
+          "abstract": "ABSTRACT Precise control of stereoselectivity remains a fundamental challenge in artificial enzymatic catalysis, particularly for artificial photoenzymes that lack evolutionary coupling between photosensitizer positioning and substrate recognition. Herein, by integrating crystallography, kinetics, molecular simulations, and protein engineering, we show that the enantioselectivity of an artificial triplet photoenzyme TPe4.0_FBpA for [2+2] cycloaddition originates from a highly organized indole substrate assembly within the photoactive cavity. Guided by these insights, progressive remodeling of substrate organization through minimal active‐site engineering reverses enantiopreference (from 99.5:0.5 e.r. to 2:98 e.r.) while preserving the sequence position of the genetically encoded photosensitizer. Structural and computational analyses further support a switch in the dominant stereocontrol mode from template‐assisted substrate organization to dispersion‐driven conformational confinement. These findings establish substrate organization as a programmable determinant of stereochemical outcome in artificial photoenzymes and provide a mechanistic framework for stereodivergent excited‐state biocatalysis.",
+          "authors": "Ningning Sun, Yinghan Chen, Junyi Qian, Jianjian Huang, Yuzhou Wu, Yong Liang, Xi Chen, Fangrui Zhong",
+          "authorDetails": [
+            {
+              "firstName": "Ningning",
+              "lastName": "Sun",
+              "fullName": "Ningning Sun"
+            },
+            {
+              "firstName": "Yinghan",
+              "lastName": "Chen",
+              "fullName": "Yinghan Chen",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0002-7897-7626"
+              }
+            },
+            {
+              "firstName": "Junyi",
+              "lastName": "Qian",
+              "fullName": "Junyi Qian"
+            },
+            {
+              "firstName": "Jianjian",
+              "lastName": "Huang",
+              "fullName": "Jianjian Huang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0009-0005-7675-2916"
+              }
+            },
+            {
+              "firstName": "Yuzhou",
+              "lastName": "Wu",
+              "fullName": "Yuzhou Wu",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-3229-4982"
+              }
+            },
+            {
+              "firstName": "Yong",
+              "lastName": "Liang",
+              "fullName": "Yong Liang",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-5026-6710"
+              }
+            },
+            {
+              "firstName": "Xi",
+              "lastName": "Chen",
+              "fullName": "Xi Chen",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0001-8295-2854"
+              }
+            },
+            {
+              "firstName": "Fangrui",
+              "lastName": "Zhong",
+              "fullName": "Fangrui Zhong",
+              "authorId": {
+                "type": "ORCID",
+                "value": "0000-0003-2150-370X"
+              }
+            }
+          ],
+          "year": "2026",
+          "oa": false,
+          "pmcid": "",
+          "license": "",
+          "citations": 0,
+          "url": "https://doi.org/10.1002/ange.9814409",
+          "metadataSource": "crossref",
+          "metadataURL": "https://api.crossref.org/works/10.1002/ange.9814409",
+          "source": "Crossref",
+          "type": "journal-article",
+          "publicationDate": "2026-10-31",
+          "datePrecision": "day",
+          "dateSource": "online",
+          "onlinePublicationDate": "2026-10-31",
+          "printPublicationDate": ""
         }
       ],
       "total": 80,
@@ -238215,10 +240956,13 @@
       "orcid": "0000-0003-3229-4982",
       "complete": true,
       "updated": "2026-11-02T09:27:01.444185+00:00",
-      "imageCount": 18
+      "imageCount": 18,
+      "crossrefCount": 6,
+      "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
     }
   },
-  "enrichedAt": "2026-11-02T09:29:16.645027+00:00",
-  "publisherEnrichedAt": "2026-11-02T09:30:01.408385+00:00",
-  "automaticGraphicsAt": "2026-11-02T09:38:14.131354+00:00"
+  "enrichedAt": "2026-11-02T12:12:23.816139+00:00",
+  "publisherEnrichedAt": "2026-11-02T12:12:23.125090+00:00",
+  "automaticGraphicsAt": "2026-11-02T12:12:26.564918+00:00",
+  "crossrefUpdated": "2026-11-02T12:10:16.539463+00:00"
 }
