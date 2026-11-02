@@ -23,14 +23,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - run: node --test tests/test_dates.cjs
+      - run: node --test tests/test_dates.cjs tests/test_loading.cjs
+      - run: python -m unittest discover -s tests -p test_build.py
       - uses: actions/configure-pages@v5
-      - run: |
-          mkdir -p _site/data
-          cp index.html app.js style.css scholars.json _site/
-          cp data/catalog.json _site/data/
-          cp data/source-report.json _site/data/
-          if [ -d assets ]; then cp -R assets _site/assets; fi
+      - run: python build.py --output _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

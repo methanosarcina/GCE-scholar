@@ -1,12 +1,12 @@
 const $ = id => document.getElementById(id);
-const esc = text => String(text ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const esc = text => String(text == null ? '' : text).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeURL = value => { try { const u = new URL(value); return u.protocol === 'https:' ? u.href : '#'; } catch { return '#'; } };
 const scholarName = s => [s.name, s.nativeName].filter(Boolean).join(' · ');
 let scholars = [], catalog, current, entry;
 let sourceReport = null;
 const safeImageURL = value => /^assets\/publisher\/[a-f0-9]{32}\.(png|jpg|gif|webp)$/.test(value || '') ? new URL(value,document.baseURI).href : safeURL(value);
 const imageAccessRestricted = p => ['access_restricted','host_deferred'].includes(p.publisherImageStatus);
-const figureLabel = p => p.figure?.provider === 'publisher' ? '摘要图 · 出版社' : (p.figure?.provider === 'publisher-rss' ? p.figure.kind+' · 出版社' : (p.figure?.provider === 'pmc-cloud' ? '摘要图 · PMC' : (p.figure?.kind || (imageAccessRestricted(p) ? '原图获取受限 · 文献封面' : '文献封面'))));
+const figureLabel = p => (p.figure || {}).provider === 'publisher' ? '摘要图 · 出版社' : ((p.figure || {}).provider === 'publisher-rss' ? p.figure.kind+' · 出版社' : ((p.figure || {}).provider === 'pmc-cloud' ? '摘要图 · PMC' : ((p.figure || {}).kind || (imageAccessRestricted(p) ? '原图获取受限 · 文献封面' : '文献封面'))));
 const publisherStatus = s => ({found:'已配上出版社摘要图',host_deferred:'站点访问受限，未逐篇读取',access_restricted:'访问受限',no_graphic_detected:'本次未检测到摘要图',doi_not_verified:'页面 DOI 未能核对',doi_mismatch:'页面 DOI 不符',image_unavailable:'图片地址暂不可用',request_failed:'网络请求失败',http_error:'页面请求失败'}[s] || s);
 function automaticCoverage(r) {
   const a = r.automaticGraphics;
@@ -17,7 +17,7 @@ function publisherCoverage(r) {
   if (!r.publisher) return '';
   return `<section id="publisher-coverage"><h3>出版社摘要图</h3><p>${r.publisher.publisherGraphics} 篇已配图 · 最近检查 ${esc(r.publisher.updated.slice(0,10))}</p><p>访问受限不代表文章没有摘要图；未检测到也可能是页面结构暂不支持。</p><ul>${Object.entries(r.publisher.statuses).map(([s,n])=>`<li>${esc(publisherStatus(s))}：${n}</li>`).join('')}</ul><details><summary>逐篇查看出版社检查结果</summary><ul>${(r.publisherAttempts||[]).map(p=>`<li><a href="${esc(safeURL(p.source))}" target="_blank" rel="noopener">${esc(p.doi)}</a> · ${esc(publisherStatus(p.status))}</li>`).join('')}</ul></details></section>`;
 }
-const matchesOrcid = (paper, orcid) => (paper.authorDetails || []).some(a => a.authorId?.type === "ORCID" && a.authorId.value === orcid);
+const matchesOrcid = (paper, orcid) => (paper.authorDetails || []).some(a => (a.authorId || {}).type === "ORCID" && a.authorId.value === orcid);
 const metadataLabel = p => p.metadataSource === 'crossref' ? 'Crossref' : 'Europe PMC';
 const publicationDate = p => p.publicationDate || p.year || '';
 const dateSortKey = p => (publicationDate(p) + '-01-01').slice(0, 10);
@@ -36,30 +36,122 @@ function visual(p) {
 }
 function nav() {
   const term = $('scholar-search').value.toLowerCase();
-  $('scholars').innerHTML = scholars.filter(s => scholarName(s).toLowerCase().includes(term)).map(s => `<button class="${s.id === current?.id ? 'active' : ''}" data-id="${esc(s.id)}"><span class="avatar">${s.name.split(' ').map(w=>w[0]).join('')}</span>${esc(scholarName(s))}</button>`).join('');
+  $('scholars').innerHTML = scholars.filter(s => scholarName(s).toLowerCase().includes(term)).map(s => `<button class="${s.id === (current && current.id) ? 'active' : ''}" data-id="${esc(s.id)}"><span class="avatar">${s.name.split(' ').map(w=>w[0]).join('')}</span>${esc(scholarName(s))}</button>`).join('');
   $('scholars').querySelectorAll('button').forEach(b => b.onclick = () => select(b.dataset.id));
 }
-function select(id) {
-  current = scholars.find(s => s.id === id) || scholars[0];
-  history.replaceState(null, '', '#' + current.id);
-  entry = structuredClone(catalog.scholars[current.id] || {papers:[], total:0, cursor:'*'});
-  entry.papers = (entry.papers || []).filter(p => matchesOrcid(p, current.orcid));
+const entryCache = Object.create(null);
+let selectionVersion = 0;
+let bootVersion = 0;
+function setControlsDisabled(disabled) {
+  ['paper-search','year','sort','only-images','only-abstracts','sources','export'].forEach(id => { $(id).disabled = disabled; });
+}
+function clearLoadError() {
+  $('load-error').hidden = true;
+  $('load-error-message').textContent = '';
+}
+function showLoadError(message) {
+  $('load-error-message').textContent = message;
+  $('load-error').hidden = false;
+  $('retry-load').disabled = false;
+  $('result-count').textContent = '论文暂时未能载入';
+  $('status').textContent = message;
+  $('papers').innerHTML = '';
+  setControlsDisabled(true);
+  document.documentElement.setAttribute('data-gallery-state', 'error');
+}
+function requestJSON(url, timeout = 20000) {
+  return new Promise((resolve, reject) => {
+    const controller = typeof AbortController === 'function' ? new AbortController() : null;
+    let settled = false;
+    const finish = (error, value) => {
+      if (settled) return;
+      settled = true;
+      clearTimeout(timer);
+      if (error) reject(error); else resolve(value);
+    };
+    const timer = setTimeout(() => {
+      const error = new Error('Request timed out'); error.code = 'timeout';
+      finish(error);
+      if (controller) controller.abort();
+    }, timeout);
+    try {
+      fetch(url, controller ? {signal:controller.signal} : {}).then(response => {
+        if (!response.ok) throw new Error('HTTP ' + response.status);
+        return response.json();
+      }).then(value => finish(null, value), error => finish(error));
+    } catch (error) { finish(error); }
+  });
+}
+function scholarHeading() {
   $('name').textContent = scholarName(current); $('breadcrumb').textContent = scholarName(current);
   $('description').textContent = [current.institution, 'ORCID '+current.orcid].filter(Boolean).join(' · ');
-  $('lab-link').innerHTML = entry.labSource ? `<a href="${esc(safeURL(entry.labSource.url))}" target="_blank" rel="noopener">${esc(entry.labSource.label)} ↗</a><span>${entry.labSource.status === 'ok' ? (entry.labSource.doiCount ? '已按 DOI 对照官方来源' : '已读取官网 · 未解析到 DOI') : '官方来源本次未能读取'}</span>` : '';
+}
+async function select(id) {
+  const version = ++selectionVersion;
+  current = scholars.find(s => s.id === id) || scholars[0];
+  if (!current) return;
+  const scholar = current;
+  history.replaceState(null, '', '#' + scholar.id);
+  entry = null;
+  scholarHeading(); nav(); clearLoadError(); setControlsDisabled(true);
   $('paper-search').value = ''; $('year').value = ''; $('only-images').checked = false;
   $('only-abstracts').checked = false;
-  $('status').textContent = entry.complete ? '已载入快照中的 ORCID 匹配记录。' : '当前显示已核实 ORCID 的部分记录，后续数据同步将补充。';
-  nav(); years(); render();
+  $('loaded').textContent = '—'; $('total').textContent = '—'; $('figures').textContent = '—';
+  $('lab-link').innerHTML = ''; $('updated').textContent = '';
+  $('papers').innerHTML = '';
+  $('result-count').textContent = '正在读取 ' + scholarName(scholar) + ' 的论文…';
+  $('status').textContent = '';
+  document.documentElement.setAttribute('data-gallery-state', 'loading');
+  if (!catalog) return;
+  try {
+    const item = catalog.scholars[scholar.id];
+    const expected = 'data/scholars/' + scholar.id + '.json';
+    if (!item || item.file !== expected) throw new Error('Missing scholar index');
+    const data = entryCache[scholar.id] || await requestJSON(item.file);
+    if (version !== selectionVersion) return;
+    if (!data || !Array.isArray(data.papers) || data.orcid !== scholar.orcid) throw new Error('Invalid scholar data');
+    entryCache[scholar.id] = data;
+    entry = Object.assign({}, data, {papers:data.papers.filter(p => matchesOrcid(p, scholar.orcid))});
+    $('lab-link').innerHTML = entry.labSource ? `<a href="${esc(safeURL(entry.labSource.url))}" target="_blank" rel="noopener">${esc(entry.labSource.label)} ↗</a><span>${entry.labSource.status === 'ok' ? (entry.labSource.doiCount ? '已按 DOI 对照官方来源' : '已读取官网 · 未解析到 DOI') : '官方来源本次未能读取'}</span>` : '';
+    $('status').textContent = entry.complete ? '已载入快照中的 ORCID 匹配记录。' : '当前显示已核实 ORCID 的部分记录，后续数据同步将补充。';
+    setControlsDisabled(false); years(); render();
+    document.documentElement.setAttribute('data-gallery-state', 'ready');
+  } catch (error) {
+    if (version === selectionVersion) showLoadError(error.code === 'timeout' ? '加载超时，请检查网络后点击“重新加载”。' : '论文数据未能载入，请点击“重新加载”再试一次。');
+  }
 }
+async function boot() {
+  const version = ++bootVersion;
+  ++selectionVersion;
+  entry = null; catalog = null; clearLoadError(); setControlsDisabled(true);
+  $('result-count').textContent = '正在读取学者名单…';
+  document.documentElement.setAttribute('data-gallery-state', 'loading');
+  try {
+    const data = await requestJSON('scholars.json');
+    if (version !== bootVersion) return;
+    if (!Array.isArray(data) || !data.length || data.some(s => !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(s.id) || !s.orcid)) throw new Error('Invalid scholars');
+    scholars = data; $('scholar-count').textContent = scholars.length;
+    current = scholars.find(s => s.id === location.hash.slice(1)) || scholars[0];
+    scholarHeading(); nav();
+    const index = await requestJSON('data/catalog-index.json');
+    if (version !== bootVersion) return;
+    if (!index || !index.scholars || typeof index.scholars !== 'object') throw new Error('Invalid catalog index');
+    catalog = index;
+    await select(current.id);
+  } catch (error) {
+    if (version === bootVersion) showLoadError(error.code === 'timeout' ? '加载超时，请检查网络后点击“重新加载”。' : '加载未完成，请点击“重新加载”。若仍失败，请刷新页面再试。');
+  }
+}
+
 function years() {
   const selected = $('year').value;
   $('year').innerHTML = '<option value="">全部年份</option>' + [...new Set(entry.papers.map(p => p.year))].filter(Boolean).sort().reverse().map(y => `<option>${esc(y)}</option>`).join('');
   $('year').value = selected;
 }
 function filtered() {
+  if (!entry) return [];
   const term = $('paper-search').value.toLowerCase();
-  return entry.papers.filter(p => (!term || `${p.title} ${p.abstract} ${p.journal}`.toLowerCase().includes(term)) && (!$('year').value || p.year === $('year').value) && (!$('only-images').checked || p.figure) && (!$('only-abstracts').checked || ['摘要图','期刊目录图'].includes(p.figure?.kind)))
+  return entry.papers.filter(p => (!term || `${p.title} ${p.abstract} ${p.journal}`.toLowerCase().includes(term)) && (!$('year').value || p.year === $('year').value) && (!$('only-images').checked || p.figure) && (!$('only-abstracts').checked || ['摘要图','期刊目录图'].includes((p.figure || {}).kind)))
     .sort((a,b) => {
       if ($('sort').value === 'cited' && b.citations !== a.citations) return b.citations - a.citations;
       if (!publicationDate(a) || !publicationDate(b)) return Number(!publicationDate(a)) - Number(!publicationDate(b));
@@ -68,9 +160,10 @@ function filtered() {
     });
 }
 function render() {
+  if (!entry) return;
   const papers = filtered();
   $('loaded').textContent = entry.papers.length;
-  $('total').textContent = entry.total ?? '—';
+  $('total').textContent = entry.total == null ? '—' : entry.total;
   $('figures').textContent = entry.papers.filter(p=>p.figure).length;
   $('result-count').textContent = `${papers.length} 篇当前可见 · 筛选仅作用于已载入论文`;
   $('updated').textContent = entry.updated ? '数据快照 ' + entry.updated.slice(0,10) : '实时检索';
@@ -78,28 +171,40 @@ function render() {
   $('papers').querySelectorAll('.card').forEach(b => b.onclick = () => detail(entry.papers.find(p=>p.id===b.dataset.id)));
   $('papers').querySelectorAll('img').forEach(img => img.onerror = () => { img.hidden = true; img.parentElement.querySelector('.image-fallback').hidden = false; img.parentElement.classList.add('no-image'); img.parentElement.querySelector('.tag').textContent = '原图暂不可用 · 文献封面'; });
 }
+function openDetail() {
+  const dialog = $('detail');
+  if (typeof dialog.showModal === 'function') dialog.showModal();
+  else { dialog.setAttribute('open', ''); dialog.classList.add('legacy-modal'); }
+}
+function closeDetail() {
+  const dialog = $('detail');
+  if (typeof dialog.close === 'function') dialog.close();
+  else { dialog.removeAttribute('open'); dialog.classList.remove('legacy-modal'); }
+}
 function detail(p) {
-  $('detail-content').innerHTML = `<p class="eyebrow">${esc(p.journal)}</p><h2>${esc(p.title)}</h2><div class="paper-date">${dateMarkup(p)}</div>${p.onlinePublicationDate && p.printPublicationDate ? `<p class="caption">期刊出版日期：<time datetime="${esc(p.printPublicationDate)}">${esc(p.printPublicationDate)}</time>${p.printPublicationDate.length < 10 ? '（来源未提供具体日）' : ''}</p>` : ''}<p class="caption authors">${esc(p.authors)}</p>${p.figure ? `<img src="${esc(safeImageURL(p.figure.url))}" alt="${esc(p.figure.kind)}"><p class="caption">${esc(p.figure.kind)} · ${esc(p.figure.caption)}<br><a target="_blank" rel="noopener" href="${esc(safeURL(p.figure.source))}">图片来源 ↗</a>${esc(p.license || p.figure.license || "")}</p>` : ''}<h3>摘要</h3><p>${esc(p.abstract || '数据源未提供摘要，请访问原文。')}</p><a target="_blank" rel="noopener" href="${esc(safeURL(p.metadataURL || p.url))}">${esc(metadataLabel(p))} ↗</a>${p.doi ? `<a target="_blank" rel="noopener" href="https://doi.org/${encodeURIComponent(p.doi)}">出版社原文 ↗</a>` : ''}<details><summary>作者机构与 ORCID（用于身份核对）</summary><ul>${(p.authorDetails||[]).map(a=>`<li><b>${esc(a.firstName || '')} ${esc(a.lastName || a.fullName)}</b> ${esc(a.authorId?.value || '')}<br>${esc((a.authorAffiliationDetailsList?.authorAffiliation || []).map(x=>x.affiliation).join(' / '))}</li>`).join('')}</ul></details>`;
-  $('detail').showModal();
+  $('detail-content').innerHTML = `<p class="eyebrow">${esc(p.journal)}</p><h2>${esc(p.title)}</h2><div class="paper-date">${dateMarkup(p)}</div>${p.onlinePublicationDate && p.printPublicationDate ? `<p class="caption">期刊出版日期：<time datetime="${esc(p.printPublicationDate)}">${esc(p.printPublicationDate)}</time>${p.printPublicationDate.length < 10 ? '（来源未提供具体日）' : ''}</p>` : ''}<p class="caption authors">${esc(p.authors)}</p>${p.figure ? `<img src="${esc(safeImageURL(p.figure.url))}" alt="${esc(p.figure.kind)}"><p class="caption">${esc(p.figure.kind)} · ${esc(p.figure.caption)}<br><a target="_blank" rel="noopener" href="${esc(safeURL(p.figure.source))}">图片来源 ↗</a>${esc(p.license || p.figure.license || "")}</p>` : ''}<h3>摘要</h3><p>${esc(p.abstract || '数据源未提供摘要，请访问原文。')}</p><a target="_blank" rel="noopener" href="${esc(safeURL(p.metadataURL || p.url))}">${esc(metadataLabel(p))} ↗</a>${p.doi ? `<a target="_blank" rel="noopener" href="https://doi.org/${encodeURIComponent(p.doi)}">出版社原文 ↗</a>` : ''}<details><summary>作者机构与 ORCID（用于身份核对）</summary><ul>${(p.authorDetails||[]).map(a=>`<li><b>${esc(a.firstName || '')} ${esc(a.lastName || a.fullName)}</b> ${esc((a.authorId || {}).value || '')}<br>${esc(((a.authorAffiliationDetailsList || {}).authorAffiliation || []).map(x=>x.affiliation).join(' / '))}</li>`).join('')}</ul></details>`;
+  openDetail();
   const detailImage = $('detail-content').querySelector('img');
   if (detailImage) detailImage.onerror = () => { detailImage.hidden = true; detailImage.insertAdjacentHTML('afterend', cover(p)); };
   else $('detail-content').querySelector('.authors').insertAdjacentHTML('afterend', cover(p));
-  if (p.labSources?.length) $('detail-content').insertAdjacentHTML('beforeend', '<h3>官方来源核对</h3>'+p.labSources.map(url=>`<p><a href="${esc(safeURL(url))}" target="_blank" rel="noopener">课题组发表清单 · DOI 匹配 ↗</a></p>`).join(''));
+  if ((p.labSources || []).length) $('detail-content').insertAdjacentHTML('beforeend', '<h3>官方来源核对</h3>'+p.labSources.map(url=>`<p><a href="${esc(safeURL(url))}" target="_blank" rel="noopener">课题组发表清单 · DOI 匹配 ↗</a></p>`).join(''));
 }
 $('sources').onclick = async () => {
   try {
-    if (!sourceReport) { const r=await fetch('data/source-report.json'); if(!r.ok)throw Error(); sourceReport=await r.json(); }
-    $('detail-content').innerHTML='<h2>官方来源与图片覆盖</h2><p>沿用固定 ORCID 收录规则。官网按 DOI 核对已有论文；未匹配条目只列为待核实，不自动添加。课题组配图和正文插图不等同于摘要图。</p><div class="source-table">'+sourceReport.sources.map(s=>`<div><a href="${esc(safeURL(s.url))}" target="_blank" rel="noopener">${esc(s.label)} ↗</a><span>${s.status==='ok' ? `${s.matched} 个 DOI 已在目录 · ${s.images} 张官网配图` : '本次未能读取'}</span></div>`).join('')+'</div><p>部分官网只列代表性论文，或使用动态列表；未解析到 DOI 不代表没有论文。</p><details><summary>官网中未在当前目录匹配的 DOI（'+sourceReport.unmatched.length+'）</summary><ul>'+sourceReport.unmatched.map(p=>`<li>${esc(scholars.find(s=>s.id===p.scholar)?.name || p.scholar)} · <a target="_blank" rel="noopener" href="https://doi.org/${encodeURIComponent(p.doi)}">${esc(p.doi)}</a> <a target="_blank" rel="noopener" href="${esc(safeURL(p.source))}">官网来源</a></li>`).join('')+'</ul></details>';
+    if (!sourceReport) sourceReport = await requestJSON('data/source-report.json');
+    $('detail-content').innerHTML='<h2>官方来源与图片覆盖</h2><p>沿用固定 ORCID 收录规则。官网按 DOI 核对已有论文；未匹配条目只列为待核实，不自动添加。课题组配图和正文插图不等同于摘要图。</p><div class="source-table">'+sourceReport.sources.map(s=>`<div><a href="${esc(safeURL(s.url))}" target="_blank" rel="noopener">${esc(s.label)} ↗</a><span>${s.status==='ok' ? `${s.matched} 个 DOI 已在目录 · ${s.images} 张官网配图` : '本次未能读取'}</span></div>`).join('')+'</div><p>部分官网只列代表性论文，或使用动态列表；未解析到 DOI 不代表没有论文。</p><details><summary>官网中未在当前目录匹配的 DOI（'+sourceReport.unmatched.length+'）</summary><ul>'+sourceReport.unmatched.map(p=>`<li>${esc((scholars.find(s=>s.id===p.scholar) || {}).name || p.scholar)} · <a target="_blank" rel="noopener" href="https://doi.org/${encodeURIComponent(p.doi)}">${esc(p.doi)}</a> <a target="_blank" rel="noopener" href="${esc(safeURL(p.source))}">官网来源</a></li>`).join('')+'</ul></details>';
     $('detail-content').querySelector('p').insertAdjacentHTML('afterend', publisherCoverage(sourceReport)+automaticCoverage(sourceReport));
-    $('detail').showModal();
-  } catch { $('status').textContent='来源核对报告尚未生成，请运行 enrich.py 后刷新。'; }
+    openDetail();
+  } catch { $('status').textContent='来源信息暂未载入，请稍后再试。'; }
 };
 $('scholar-search').oninput = nav;
 ['paper-search','year','sort','only-images','only-abstracts'].forEach(id => $(id).addEventListener('input',render));
-$('close').onclick = () => $('detail').close();
-$('detail').onclick = e => { if(e.target === $('detail')) $('detail').close(); };
+$('close').onclick = () => closeDetail();
+$('detail').onclick = e => { if(e.target === $('detail')) closeDetail(); };
 $('export').onclick = () => {
+  if (!entry) return;
   const blob = new Blob([JSON.stringify({scholar:current,query:entry.query,exported:new Date().toISOString(),papers:filtered()},null,2)],{type:'application/json'});
   const url = URL.createObjectURL(blob), a = document.createElement('a'); a.href = url; a.download = current.id+'.json'; a.click(); setTimeout(()=>URL.revokeObjectURL(url),1000);
 };
-Promise.all([fetch('scholars.json').then(r=>r.json()),fetch('data/catalog.json').then(r=>r.json())]).then(([s,c])=>{scholars=s;catalog=c;$('scholar-count').textContent=s.length;select(location.hash.slice(1));}).catch(e=>{$('status').textContent='无法读取数据。请用 python server.py 启动项目，或通过 GitHub Pages 打开。';});
+$('retry-load').onclick = () => catalog && current ? select(current.id) : boot();
+const startup = boot();

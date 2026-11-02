@@ -5,10 +5,10 @@ const vm = require('node:vm');
 const {join} = require('node:path');
 function app() {
   const elements = new Map();
-  const context = vm.createContext({document:{getElementById(id) {
+  const context = vm.createContext({document:{documentElement:{setAttribute(){}},getElementById(id) {
     if (!elements.has(id)) elements.set(id,{value:'',checked:false,addEventListener(){}});
     return elements.get(id);
-  }}, fetch:()=>new Promise(()=>{}), URL, Blob, setTimeout});
+  }}, fetch:()=>new Promise(()=>{}), URL, Blob, setTimeout:()=>0, clearTimeout(){}});
   vm.runInContext(readFileSync(join(__dirname,'../app.js'),'utf8'), context);
   return {run:code=>vm.runInContext(code,context), elements};
 }

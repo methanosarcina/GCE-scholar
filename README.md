@@ -105,3 +105,9 @@ Europe PMC 尚未收录的新论文，由 `python crossref.py` 按同一个固�
 成功记录保存到 `data/crossref.json`，查询失败时沿用此前已通过 ORCID 核对的缓存。每天先更新 Europe PMC，再补充 Crossref，最后执行官网与出版社配图。详情页标明元数据来源；Crossref 没有提供摘要或图片时不会编造。
 
 王杰 2026 年 10 月 28 日的 JACS 论文 `10.1021/jacs.6c15079` 是这类索引延迟的例子：Crossref 作者块已有其 ORCID，而本次 Europe PMC 的 DOI 查询尚未返回记录。Nature 官方研究文章链接也可从规范的 `/articles/s…` 路径识别 DOI，用于核对课题组配图；不会据此新增未通过 ORCID 检查的论文。
+
+## 手机访问与静态构建
+
+本地启动 `python server.py` 会先生成 `_site/`，GitHub Pages 也使用 `python build.py --output _site` 构建。网页只读取学者名单、小索引和当前学者的紧凑数据包，切换学者时再加载对应文件；原始 `data/catalog.json` 仍保留供兼容使用。构建会复核每篇论文的固定 ORCID。
+
+页面使用系统字体，不等待外部字体服务；启动不依赖 `structuredClone`、可选链或空值合并语法。请求超时或失败会在首屏提供“重新加载”，不再一直显示“正在读取文献”。重新发布时网页资源的版本号可让手机读取修复版本。
