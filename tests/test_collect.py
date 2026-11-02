@@ -19,7 +19,9 @@ class CollectorTests(unittest.TestCase):
     def test_catalog_contains_only_fixed_orcid_authors(self):
         scholars = json.loads((collect.ROOT / 'scholars.json').read_text(encoding='utf8'))
         catalog = json.loads((collect.ROOT / 'data/catalog.json').read_text(encoding='utf8'))
-        self.assertEqual(len(scholars), 25)
+        self.assertTrue(scholars)
+        self.assertEqual(len({s['id'] for s in scholars}), len(scholars))
+        self.assertEqual(set(catalog['scholars']), {s['id'] for s in scholars})
         for scholar in scholars:
             entry = catalog['scholars'][scholar['id']]
             self.assertEqual(entry['query'], collect.orcid_query(scholar['orcid']))

@@ -51,6 +51,7 @@ def parse_lab(html, url):
     for node in soup(['script','style','nav','header','footer']):
         node.decompose()
     records = {}
+    image_candidates = {}
     for link in soup.select('a[href]'):
         doi = canonical(link['href'])
         if not doi:
@@ -76,20 +77,41 @@ def parse_lab(html, url):
                 following = section.find_next_sibling('section')
                 if following and not following.get_text(' ',strip=True) and following.find('img'):
                     container = following
+        # WordPress publication lists often use one citation paragraph followed
+        # immediately by one image-only paragraph. Do not search past any block.
+        if container is None:
+            paragraph = link.find_parent('p')
+            if paragraph is not None and identifiers(paragraph) == {doi}:
+                following = paragraph.find_next_sibling()
+                if (following is not None and following.name == 'p'
+                    and not following.get_text(' ', strip=True)
+                    and not identifiers(following)
+                    and len(following.find_all('img')) == 1):
+                    container = following
         if container is None:
             continue
         for tag in container.find_all('img'):
             image = image_url(tag,url)
             if image:
-                records[doi]['figure'] = {'url':image, 'kind':'课题组配图', 'caption':tag.get('alt') or '课题组发表清单中与该 DOI 对应的配图。', 'source':url, 'provider':'lab', 'match':'exact-doi'}
+                image_candidates.setdefault(doi, {})[image] = {'url':image, 'kind':'课题组配图', 'caption':tag.get('alt') or '课题组发表清单中与该 DOI 对应的配图。', 'source':url, 'provider':'lab', 'match':'exact-doi'}
                 break
+    for doi, candidates in image_candidates.items():
+        if len(candidates) == 1:
+            records[doi]['figure'] = next(iter(candidates.values()))
+        else:
+            # A repeated/wrong DOI on the source page cannot identify either image.
+            records[doi]['imageStatus'] = 'conflicting-images'
     return list(records.values())
 
 def check_image(url):
     try:
-        req = urllib.request.Request(url, method='HEAD', headers={'User-Agent':'ScholarGallery/1.1'})
+        # Some public image hosts reject HEAD while serving normal image GETs.
+        req = urllib.request.Request(url, headers={'User-Agent':'ScholarGallery/1.1'})
         with urllib.request.urlopen(req, timeout=12) as r:
-            return r.headers.get('Content-Type','').lower().startswith('image/')
+            content_type = r.headers.get('Content-Type','').lower()
+            payload = r.read(512)
+            return bool(content_type.startswith('image/') and payload
+                        and not re.search(br'<(?:!doctype\s+html|html|head|body)\b', payload, re.I))
     except Exception:
         return False
 

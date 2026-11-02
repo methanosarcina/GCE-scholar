@@ -334,6 +334,21 @@
     "identityStatus": "根据论文作者机构匹配，待用户确认"
   },
   {
+    "verified": true,
+    "name": "Jie Wang",
+    "nativeName": "王杰",
+    "id": "jie-wang",
+    "query": "AUTHORID:\"0000-0001-7602-5050\"",
+    "orcid": "0000-0001-7602-5050",
+    "institution": "Southern University of Science and Technology · 南方科技大学化学系",
+    "identityEvidence": [
+      "https://sustech.edu.cn/en/faculties/wangjie.html",
+      "https://pubs.acs.org/doi/10.1021/jacs.3c03701",
+      "https://pubs.acs.org/doi/abs/10.1021/jacs.5c00199"
+    ],
+    "identityStatus": "已通过学校官方主页和两篇论文的作者 ORCID 核实"
+  },
+  {
     "verified": false,
     "name": "Junbiao Dai",
     "id": "junbiao-dai",

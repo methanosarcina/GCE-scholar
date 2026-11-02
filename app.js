@@ -1,6 +1,7 @@
 const $ = id => document.getElementById(id);
 const esc = text => String(text ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeURL = value => { try { const u = new URL(value); return u.protocol === 'https:' ? u.href : '#'; } catch { return '#'; } };
+const scholarName = s => [s.name, s.nativeName].filter(Boolean).join(' · ');
 let scholars = [], catalog, current, entry;
 let sourceReport = null;
 const safeImageURL = value => /^assets\/publisher\/[a-f0-9]{32}\.(png|jpg|gif|webp)$/.test(value || '') ? new URL(value,document.baseURI).href : safeURL(value);
@@ -34,7 +35,7 @@ function visual(p) {
 }
 function nav() {
   const term = $('scholar-search').value.toLowerCase();
-  $('scholars').innerHTML = scholars.filter(s => s.name.toLowerCase().includes(term)).map(s => `<button class="${s.id === current?.id ? 'active' : ''}" data-id="${esc(s.id)}"><span class="avatar">${s.name.split(' ').map(w=>w[0]).join('')}</span>${esc(s.name)}</button>`).join('');
+  $('scholars').innerHTML = scholars.filter(s => scholarName(s).toLowerCase().includes(term)).map(s => `<button class="${s.id === current?.id ? 'active' : ''}" data-id="${esc(s.id)}"><span class="avatar">${s.name.split(' ').map(w=>w[0]).join('')}</span>${esc(scholarName(s))}</button>`).join('');
   $('scholars').querySelectorAll('button').forEach(b => b.onclick = () => select(b.dataset.id));
 }
 function select(id) {
@@ -42,7 +43,7 @@ function select(id) {
   history.replaceState(null, '', '#' + current.id);
   entry = structuredClone(catalog.scholars[current.id] || {papers:[], total:0, cursor:'*'});
   entry.papers = (entry.papers || []).filter(p => matchesOrcid(p, current.orcid));
-  $('name').textContent = current.name; $('breadcrumb').textContent = current.name;
+  $('name').textContent = scholarName(current); $('breadcrumb').textContent = scholarName(current);
   $('description').textContent = [current.institution, 'ORCID '+current.orcid].filter(Boolean).join(' · ');
   $('lab-link').innerHTML = entry.labSource ? `<a href="${esc(safeURL(entry.labSource.url))}" target="_blank" rel="noopener">${esc(entry.labSource.label)} ↗</a><span>${entry.labSource.status === 'ok' ? (entry.labSource.doiCount ? '已按 DOI 对照官方来源' : '已读取官网 · 未解析到 DOI') : '官方来源本次未能读取'}</span>` : '';
   $('paper-search').value = ''; $('year').value = ''; $('only-images').checked = false;

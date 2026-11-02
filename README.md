@@ -1,6 +1,6 @@
 # Scholar Gallery · 学者论文画廊
 
-25 位学者的固定 ORCID 论文画廊。点击姓名即可浏览配图、摘要和原文。
+26 位学者的固定 ORCID 论文画廊。点击姓名即可浏览配图、摘要和原文。
 
 ## 启动
 
@@ -46,7 +46,7 @@ python -m unittest discover -s tests
 
 ## 官网核对与配图
 
-- lab_sources.json 保存 25 位学者的课题组网页或官方机构资料页。部分网页仅列代表性论文；无法访问、动态内容和没有 DOI 的条目会限制覆盖。
+- lab_sources.json 保存 26 位学者的课题组网页或官方机构资料页。部分网页仅列代表性论文；无法访问、动态内容和没有 DOI 的条目会限制覆盖。
 - enrich.py 只用精确 DOI 对照已有目录，绝不凭官网姓名新增文章。未匹配 DOI 写入 data/source-report.json，网页“官方来源”按钮可查看核对结果。
 - 配图只取与单篇 DOI 对应的网页区块，并检查图片地址；开放获取全文则通过 PMCID 匹配图片。详情页提供来源链接。官网配图、正文插图和摘要图分别标注，不能混称为摘要图。
 - 每篇文章都有视觉封面。无可用原图时显示期刊、年份和标题组成的“文献封面 · 非原文图片”；外部图片加载失败也自动回退，不伪造科学示意图。
@@ -94,3 +94,5 @@ RSS 通常只含近期文章；历史论文需由开放仓储或可访问的出�
 [Europe PMC API](https://europepmc.org/RestfulWebService)；各学者身份匹配依据保存在 scholars.json 的 identityEvidence。
 
 Xiaozhou Luo 的 ORCID 0000-0001-9808-6890 已由[出版社论文页面](https://academic.oup.com/bib/article/24/1/bbac476/6834141)核对。固定 ORCID 不等于数据库收录了其全部发表记录。
+
+南方科技大学化学系王杰（Jie Wang）的 ORCID [0000-0001-7602-5050](https://orcid.org/0000-0001-7602-5050)，已由[学校主页](https://sustech.edu.cn/en/faculties/wangjie.html)和[出版社论文作者资料](https://pubs.acs.org/doi/10.1021/jacs.3c03701)交叉核实；沿用相同的严格 ORCID 收录和每日自动更新规则。

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T09:14:25.968812+00:00",
+  "updated": "2026-11-02T09:13:42.266878+00:00",
   "sources": [
     {
       "scholar": "abhishek-chatterjee",
@@ -8,7 +8,7 @@
       "status": "ok",
       "doiCount": 51,
       "matched": 36,
-      "images": 27
+      "images": 21
     },
     {
       "scholar": "ahmed-badran",
@@ -44,7 +44,7 @@
       "status": "ok",
       "doiCount": 97,
       "matched": 58,
-      "images": 50
+      "images": 21
     },
     {
       "scholar": "haifeng-ye",
@@ -90,6 +90,15 @@
       "status": "ok",
       "doiCount": 0,
       "matched": 0
+    },
+    {
+      "scholar": "jie-wang",
+      "url": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
+      "label": "南方科技大学 · 王杰课题组",
+      "status": "ok",
+      "doiCount": 6,
+      "matched": 4,
+      "images": 3
     },
     {
       "scholar": "junbiao-dai",
@@ -140,7 +149,7 @@
       "url": "https://www.chem.pku.edu.cn/chenpeng/",
       "label": "北京大学 · 陈鹏课题组",
       "status": "unavailable",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
     },
     {
       "scholar": "ryan-mehl",
@@ -3198,26 +3207,38 @@
       "doi": "10.1515/psr-2016-0104",
       "source": "https://www.mpip-mainz.mpg.de/publication-search/1004300?person=%2Fpersons%2Fresource%2Fpersons81154",
       "reason": "Not in current ORCID-qualified catalog; not automatically added"
+    },
+    {
+      "scholar": "jie-wang",
+      "doi": "10.1021/jacs.6b08933",
+      "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
+      "reason": "Not in current ORCID-qualified catalog; not automatically added"
+    },
+    {
+      "scholar": "jie-wang",
+      "doi": "10.1002/ange.201409145",
+      "source": "https://faculty.sustech.edu.cn/?cat=4&go=2&iscss=1&snapid=1&tagid=wangjie&lang=en",
+      "reason": "Not in current ORCID-qualified catalog; not automatically added"
     }
   ],
   "policy": "Only existing ORCID-qualified papers may be enriched.",
   "summary": {
-    "uniquePapers": 1729,
-    "withImages": 499,
-    "labSources": 25,
-    "successfulSources": 22,
-    "abstractGraphics": 137,
+    "uniquePapers": 1744,
+    "withImages": 502,
+    "labSources": 26,
+    "successfulSources": 23,
+    "abstractGraphics": 138,
     "catalogGraphics": 1
   },
   "publisher": {
-    "updated": "2026-11-01T09:15:20.266797+00:00",
-    "doiPapers": 1726,
-    "publisherGraphics": 54,
+    "updated": "2026-11-02T09:09:01.944807+00:00",
+    "doiPapers": 1741,
+    "publisherGraphics": 55,
     "statuses": {
-      "access_restricted": 50,
-      "host_deferred": 1172,
-      "found": 54,
-      "no_graphic_detected": 416,
+      "access_restricted": 55,
+      "host_deferred": 1178,
+      "found": 55,
+      "no_graphic_detected": 419,
       "doi_not_verified": 15,
       "request_failed": 2,
       "http_error": 17
@@ -14821,16 +14842,118 @@
       "source": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6330931",
       "detail": "Publisher host previously returned access restriction",
       "checkedAt": "2026-11-01T09:15:20.266797+00:00"
+    },
+    {
+      "doi": "10.1039/d6cb00168h",
+      "status": "access_restricted",
+      "source": "https://pubs.rsc.org/CB/article-lookup/doi/10.1039/D6CB00168H",
+      "httpStatus": 403,
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1021/jacs.6c06772",
+      "status": "access_restricted",
+      "source": "https://pubs.acs.org/doi/10.1021/jacs.6c06772",
+      "httpStatus": 403,
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1038/s41589-026-02230-0",
+      "status": "found",
+      "source": "https://www.nature.com/articles/s41589-026-02230-0",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1002/cbic.201700255",
+      "status": "access_restricted",
+      "source": "https://onlinelibrary.wiley.com/doi/10.1002/cbic.201700255",
+      "httpStatus": 403,
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1021/jacs.6c03153",
+      "status": "access_restricted",
+      "source": "https://pubs.acs.org/doi/10.1021/jacs.6c03153",
+      "httpStatus": 403,
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1038/s41467-025-57589-w",
+      "status": "no_graphic_detected",
+      "source": "https://www.nature.com/articles/s41467-025-57589-w",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1002/anie.201409145",
+      "status": "access_restricted",
+      "source": "https://onlinelibrary.wiley.com/doi/10.1002/anie.201409145",
+      "httpStatus": 403,
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1021/acs.accounts.6c00037",
+      "status": "host_deferred",
+      "source": "https://pubs.acs.org/doi/10.1021/acs.accounts.6c00037",
+      "detail": "Publisher host previously returned access restriction",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1038/s41467-024-52910-5",
+      "status": "no_graphic_detected",
+      "source": "https://www.nature.com/articles/s41467-024-52910-5",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1021/jasms.5c00287",
+      "status": "host_deferred",
+      "source": "https://pubs.acs.org/doi/10.1021/jasms.5c00287",
+      "detail": "Publisher host previously returned access restriction",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1038/s41467-024-50005-9",
+      "status": "no_graphic_detected",
+      "source": "https://www.nature.com/articles/s41467-024-50005-9",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1021/jacs.5c00199",
+      "status": "host_deferred",
+      "source": "https://pubs.acs.org/doi/10.1021/jacs.5c00199",
+      "detail": "Publisher host previously returned access restriction",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1021/jacs.4c03974",
+      "status": "host_deferred",
+      "source": "https://pubs.acs.org/doi/10.1021/jacs.4c03974",
+      "detail": "Publisher host previously returned access restriction",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1021/jacs.2c04627",
+      "status": "host_deferred",
+      "source": "https://pubs.acs.org/doi/10.1021/jacs.2c04627",
+      "detail": "Publisher host previously returned access restriction",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    {
+      "doi": "10.1021/acschembio.0c00175",
+      "status": "host_deferred",
+      "source": "https://pubs.acs.org/doi/10.1021/acschembio.0c00175",
+      "detail": "Publisher host previously returned access restriction",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
     }
   ],
   "automaticGraphics": {
-    "updated": "2026-11-01T09:23:39.235232+00:00",
+    "updated": "2026-11-02T09:13:43.493979+00:00",
     "cachedFigures": 38,
     "run": {
       "feedsRead": 62,
       "rssMatches": 3,
       "cachedImages": 3,
-      "no_repository_version": 99
+      "no_graphic_detected": 4,
+      "no_repository_media": 1
     },
     "addedImages": 0,
     "upgradedToAbstract": 0,

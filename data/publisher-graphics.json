@@ -650,6 +650,18 @@
       "publisherAsset": "https://acs.silverchair-cdn.com/acs/content_public/journal/acbcct/21/10/10.1021_acschembio.6c00476/1/cb-2026-00476x_0006.png",
       "sha256": "840daf663c17ab2f22d433711b7e5a46a99748958d4d56db57f9b41024e3243a",
       "checkedAt": "2026-10-27T13:28:12.829968+00:00"
+    },
+    "10.1038/s41589-026-02230-0": {
+      "url": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41589-026-02230-0/MediaObjects/41589_2026_2230_Figa_HTML.png",
+      "kind": "摘要图",
+      "caption": "出版社原文摘要配图。",
+      "source": "https://www.nature.com/articles/s41589-026-02230-0",
+      "provider": "publisher",
+      "match": "exact-doi",
+      "doi": "10.1038/s41589-026-02230-0",
+      "evidence": "Image inside publisher abstract section",
+      "publisherLabel": "Image inside publisher abstract section",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
     }
   },
   "attempts": {
@@ -10524,17 +10536,103 @@
       "source": "https://onlinelibrary.wiley.com/doi/10.1002/anie.6330931",
       "detail": "Publisher host previously returned access restriction",
       "checkedAt": "2026-11-01T09:15:20.266797+00:00"
+    },
+    "10.1039/d6cb00168h": {
+      "status": "access_restricted",
+      "source": "https://pubs.rsc.org/CB/article-lookup/doi/10.1039/D6CB00168H",
+      "httpStatus": 403,
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1021/jacs.6c06772": {
+      "status": "access_restricted",
+      "source": "https://pubs.acs.org/doi/10.1021/jacs.6c06772",
+      "httpStatus": 403,
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1038/s41589-026-02230-0": {
+      "status": "found",
+      "source": "https://www.nature.com/articles/s41589-026-02230-0",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1002/cbic.201700255": {
+      "status": "access_restricted",
+      "source": "https://onlinelibrary.wiley.com/doi/10.1002/cbic.201700255",
+      "httpStatus": 403,
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1021/jacs.6c03153": {
+      "status": "access_restricted",
+      "source": "https://pubs.acs.org/doi/10.1021/jacs.6c03153",
+      "httpStatus": 403,
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1038/s41467-025-57589-w": {
+      "status": "no_graphic_detected",
+      "source": "https://www.nature.com/articles/s41467-025-57589-w",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1002/anie.201409145": {
+      "status": "access_restricted",
+      "source": "https://onlinelibrary.wiley.com/doi/10.1002/anie.201409145",
+      "httpStatus": 403,
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1021/acs.accounts.6c00037": {
+      "status": "host_deferred",
+      "source": "https://pubs.acs.org/doi/10.1021/acs.accounts.6c00037",
+      "detail": "Publisher host previously returned access restriction",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1038/s41467-024-52910-5": {
+      "status": "no_graphic_detected",
+      "source": "https://www.nature.com/articles/s41467-024-52910-5",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1021/jasms.5c00287": {
+      "status": "host_deferred",
+      "source": "https://pubs.acs.org/doi/10.1021/jasms.5c00287",
+      "detail": "Publisher host previously returned access restriction",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1038/s41467-024-50005-9": {
+      "status": "no_graphic_detected",
+      "source": "https://www.nature.com/articles/s41467-024-50005-9",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1021/jacs.5c00199": {
+      "status": "host_deferred",
+      "source": "https://pubs.acs.org/doi/10.1021/jacs.5c00199",
+      "detail": "Publisher host previously returned access restriction",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1021/jacs.4c03974": {
+      "status": "host_deferred",
+      "source": "https://pubs.acs.org/doi/10.1021/jacs.4c03974",
+      "detail": "Publisher host previously returned access restriction",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1021/jacs.2c04627": {
+      "status": "host_deferred",
+      "source": "https://pubs.acs.org/doi/10.1021/jacs.2c04627",
+      "detail": "Publisher host previously returned access restriction",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
+    },
+    "10.1021/acschembio.0c00175": {
+      "status": "host_deferred",
+      "source": "https://pubs.acs.org/doi/10.1021/acschembio.0c00175",
+      "detail": "Publisher host previously returned access restriction",
+      "checkedAt": "2026-11-02T09:09:01.944807+00:00"
     }
   },
   "summary": {
-    "updated": "2026-11-01T09:15:20.266797+00:00",
-    "doiPapers": 1726,
-    "publisherGraphics": 54,
+    "updated": "2026-11-02T09:09:01.944807+00:00",
+    "doiPapers": 1741,
+    "publisherGraphics": 55,
     "statuses": {
-      "access_restricted": 50,
-      "host_deferred": 1172,
-      "found": 54,
-      "no_graphic_detected": 416,
+      "access_restricted": 55,
+      "host_deferred": 1178,
+      "found": 55,
+      "no_graphic_detected": 419,
       "doi_not_verified": 15,
       "request_failed": 2,
       "http_error": 17
