@@ -15027,7 +15027,7 @@
     "policy": "Only exact DOI matches in the fixed-ORCID catalog; no UI or browser sessions"
   },
   "crossref": {
-    "updated": "2026-11-02T12:10:16.539463+00:00",
+    "updated": "2026-11-02T12:15:30.173003+00:00",
     "windowDays": 365,
     "fromDate": "2025-11-02",
     "policy": "Journal articles with an exact fixed author ORCID only; existing Europe PMC records preserved.",
@@ -15038,7 +15038,7 @@
         "status": "ok",
         "cached": 10,
         "added": 2,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "ahmed-badran",
@@ -15046,7 +15046,7 @@
         "status": "ok",
         "cached": 2,
         "added": 1,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "bryan-dickinson",
@@ -15054,7 +15054,7 @@
         "status": "ok",
         "cached": 10,
         "added": 3,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "chang-liu",
@@ -15062,7 +15062,7 @@
         "status": "ok",
         "cached": 3,
         "added": 0,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "gerard-roelfes",
@@ -15070,7 +15070,7 @@
         "status": "ok",
         "cached": 2,
         "added": 0,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "haifeng-ye",
@@ -15078,7 +15078,7 @@
         "status": "ok",
         "cached": 6,
         "added": 1,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "haiyan-liu",
@@ -15086,7 +15086,7 @@
         "status": "ok",
         "cached": 2,
         "added": 0,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "jason-chin",
@@ -15094,7 +15094,7 @@
         "status": "ok",
         "cached": 2,
         "added": 0,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "jay-keasling",
@@ -15102,7 +15102,7 @@
         "status": "ok",
         "cached": 23,
         "added": 4,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "jiangyun-wang",
@@ -15110,7 +15110,7 @@
         "status": "ok",
         "cached": 0,
         "added": 0,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "jie-wang",
@@ -15118,7 +15118,7 @@
         "status": "ok",
         "cached": 8,
         "added": 2,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "junbiao-dai",
@@ -15126,7 +15126,7 @@
         "status": "ok",
         "cached": 2,
         "added": 1,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "kathrin-lang",
@@ -15134,7 +15134,7 @@
         "status": "ok",
         "cached": 3,
         "added": 1,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "nanxi-wang",
@@ -15142,7 +15142,7 @@
         "status": "ok",
         "cached": 2,
         "added": 1,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "nediljko-budisa",
@@ -15150,7 +15150,7 @@
         "status": "ok",
         "cached": 3,
         "added": 0,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "peilong-lu",
@@ -15158,7 +15158,7 @@
         "status": "ok",
         "cached": 4,
         "added": 1,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "peng-chen",
@@ -15166,7 +15166,7 @@
         "status": "ok",
         "cached": 11,
         "added": 1,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "ryan-mehl",
@@ -15174,7 +15174,7 @@
         "status": "ok",
         "cached": 2,
         "added": 1,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "shixian-lin",
@@ -15182,7 +15182,7 @@
         "status": "ok",
         "cached": 6,
         "added": 0,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "tao-liu",
@@ -15190,7 +15190,7 @@
         "status": "ok",
         "cached": 9,
         "added": 3,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "thomas-huber",
@@ -15198,7 +15198,7 @@
         "status": "ok",
         "cached": 6,
         "added": 1,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "william-degrado",
@@ -15206,7 +15206,7 @@
         "status": "ok",
         "cached": 7,
         "added": 0,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "xiao-xie",
@@ -15214,7 +15214,7 @@
         "status": "ok",
         "cached": 0,
         "added": 0,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "xiaozhou-luo",
@@ -15222,7 +15222,7 @@
         "status": "ok",
         "cached": 4,
         "added": 2,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "yun-ge",
@@ -15230,7 +15230,7 @@
         "status": "ok",
         "cached": 3,
         "added": 0,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       },
       {
         "id": "yuzhou-wu",
@@ -15238,7 +15238,7 @@
         "status": "ok",
         "cached": 11,
         "added": 6,
-        "lastSuccess": "2026-11-02T12:10:16.539463+00:00"
+        "lastSuccess": "2026-11-02T12:15:30.173003+00:00"
       }
     ],
     "summary": {
