@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-11-02T12:15:30.173003+00:00",
+  "updated": "2026-11-03T09:30:54.416354+00:00",
   "scholars": {
     "abhishek-chatterjee": {
       "orcid": "0000-0002-6231-5302",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -453,7 +453,7 @@
           "oa": false,
           "pmcid": "",
           "license": "",
-          "citations": 3,
+          "citations": 4,
           "url": "https://doi.org/10.1021/jacs.5c18595",
           "metadataSource": "crossref",
           "metadataURL": "https://api.crossref.org/works/10.1021/jacs.5c18595",
@@ -712,7 +712,7 @@
           "oa": false,
           "pmcid": "",
           "license": "",
-          "citations": 0,
+          "citations": 1,
           "url": "https://doi.org/10.1021/acschembio.6c00682",
           "metadataSource": "crossref",
           "metadataURL": "https://api.crossref.org/works/10.1021/acschembio.6c00682",
@@ -871,9 +871,9 @@
     },
     "ahmed-badran": {
       "orcid": "0000-0002-8105-1883",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -986,9 +986,9 @@
     },
     "bryan-dickinson": {
       "orcid": "0000-0002-9616-1911",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -1856,9 +1856,9 @@
     },
     "chang-liu": {
       "orcid": "0000-0002-3290-2880",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -2102,7 +2102,7 @@
           "oa": false,
           "pmcid": "",
           "license": "",
-          "citations": 179,
+          "citations": 182,
           "url": "https://doi.org/10.1038/s41586-025-09721-5",
           "metadataSource": "crossref",
           "metadataURL": "https://api.crossref.org/works/10.1038/s41586-025-09721-5",
@@ -2266,9 +2266,9 @@
     },
     "gerard-roelfes": {
       "orcid": "0000-0002-0364-9564",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -2456,9 +2456,9 @@
     },
     "haifeng-ye": {
       "orcid": "0000-0002-5482-8116",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -2954,9 +2954,9 @@
     },
     "haiyan-liu": {
       "orcid": "0000-0002-5926-820X",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -3343,9 +3343,9 @@
     },
     "jason-chin": {
       "orcid": "0000-0003-1219-4757",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -3502,9 +3502,9 @@
     },
     "jay-keasling": {
       "orcid": "0000-0003-4170-6088",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -6514,17 +6514,17 @@
     },
     "jiangyun-wang": {
       "orcid": "0000-0002-5974-1562",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": []
     },
     "jie-wang": {
       "orcid": "0000-0001-7602-5050",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -6906,7 +6906,7 @@
           "oa": false,
           "pmcid": "",
           "license": "",
-          "citations": 5,
+          "citations": 7,
           "url": "https://doi.org/10.1038/s41589-026-02230-0",
           "metadataSource": "crossref",
           "metadataURL": "https://api.crossref.org/works/10.1038/s41589-026-02230-0",
@@ -7228,9 +7228,9 @@
     },
     "junbiao-dai": {
       "orcid": "0000-0002-5299-4700",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -7494,9 +7494,9 @@
     },
     "kathrin-lang": {
       "orcid": "0000-0002-1318-6567",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -8026,9 +8026,9 @@
     },
     "nanxi-wang": {
       "orcid": "0000-0003-2807-1487",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -8208,9 +8208,9 @@
     },
     "nediljko-budisa": {
       "orcid": "0000-0001-8437-7304",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -8461,9 +8461,9 @@
     },
     "peilong-lu": {
       "orcid": "0000-0001-5894-9268",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -8864,9 +8864,9 @@
     },
     "peng-chen": {
       "orcid": "0000-0002-0402-7417",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -9232,7 +9232,7 @@
           "oa": false,
           "pmcid": "",
           "license": "",
-          "citations": 19,
+          "citations": 20,
           "url": "https://doi.org/10.1038/s41586-025-09903-1",
           "metadataSource": "crossref",
           "metadataURL": "https://api.crossref.org/works/10.1038/s41586-025-09903-1",
@@ -9927,9 +9927,9 @@
     },
     "ryan-mehl": {
       "orcid": "0000-0003-2932-4941",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -10138,9 +10138,9 @@
     },
     "shixian-lin": {
       "orcid": "0000-0001-9718-9986",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -10697,9 +10697,9 @@
     },
     "tao-liu": {
       "orcid": "0000-0001-5347-5892",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -11627,9 +11627,9 @@
     },
     "thomas-huber": {
       "orcid": "0000-0002-3680-8699",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -12182,9 +12182,9 @@
     },
     "william-degrado": {
       "orcid": "0000-0003-4745-263X",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -12902,17 +12902,17 @@
     },
     "xiao-xie": {
       "orcid": "0009-0006-6342-2771",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": []
     },
     "xiaozhou-luo": {
       "orcid": "0000-0001-9808-6890",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -13291,9 +13291,9 @@
     },
     "yun-ge": {
       "orcid": "0000-0001-6769-5458",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
@@ -13538,9 +13538,9 @@
     },
     "yuzhou-wu": {
       "orcid": "0000-0003-3229-4982",
-      "lastAttempt": "2026-11-02T12:15:30.173003+00:00",
-      "fromDate": "2025-11-02",
-      "lastSuccess": "2026-11-02T12:15:30.173003+00:00",
+      "lastAttempt": "2026-11-03T09:30:54.416354+00:00",
+      "fromDate": "2025-11-03",
+      "lastSuccess": "2026-11-03T09:30:54.416354+00:00",
       "status": "ok",
       "papers": [
         {
