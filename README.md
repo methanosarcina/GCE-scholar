@@ -111,3 +111,7 @@ Europe PMC 尚未收录的新论文，由 `python crossref.py` 按同一个固�
 本地启动 `python server.py` 会先生成 `_site/`，GitHub Pages 也使用 `python build.py --output _site` 构建。网页只读取学者名单、小索引和当前学者的紧凑数据包，切换学者时再加载对应文件；原始 `data/catalog.json` 仍保留供兼容使用。构建会复核每篇论文的固定 ORCID。
 
 页面使用系统字体，不等待外部字体服务；启动不依赖 `structuredClone`、可选链或空值合并语法。请求超时或失败会在首屏提供“重新加载”，不再一直显示“正在读取文献”。重新发布时网页资源的版本号可让手机读取修复版本。
+
+## 交给其他 agent 维护
+
+参见 [HANDOFF.md](HANDOFF.md)。仓库内包含 [AGENTS.md](AGENTS.md)、[gce-scholar-maintainer Skill](.agents/skills/gce-scholar-maintainer/SKILL.md) 和只读诊断脚本；支持项目级 Agent Skills 的工具可按自己的发现规则加载。Skill 提供维护方法，项目源码/缓存提供状态，发布时使用新工具自己的 GitHub 授权。

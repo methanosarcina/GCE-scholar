@@ -1,0 +1,4 @@
+interface:
+  display_name: "GCE Scholar Maintenance"
+  short_description: "Maintain the ORCID paper gallery and its daily updates"
+  default_prompt: "Use $gce-scholar-maintainer to maintain GCE-scholar while preserving its ORCID rules and mobile loading."
