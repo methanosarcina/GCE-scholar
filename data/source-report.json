@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T09:28:28.202801+00:00",
+  "updated": "2026-11-12T06:16:01.313627+00:00",
   "sources": [
     {
       "scholar": "abhishek-chatterjee",
@@ -8,7 +8,7 @@
       "status": "ok",
       "doiCount": 57,
       "matched": 42,
-      "images": 31
+      "images": 24
     },
     {
       "scholar": "ahmed-badran",
@@ -44,7 +44,7 @@
       "status": "ok",
       "doiCount": 100,
       "matched": 59,
-      "images": 53
+      "images": 22
     },
     {
       "scholar": "haifeng-ye",
@@ -149,7 +149,7 @@
       "url": "https://www.chem.pku.edu.cn/chenpeng/",
       "label": "北京大学 · 陈鹏课题组",
       "status": "unavailable",
-      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)>"
+      "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)>"
     },
     {
       "scholar": "ryan-mehl",
@@ -3308,11 +3308,11 @@
   "policy": "Only existing ORCID-qualified papers may be enriched.",
   "summary": {
     "uniquePapers": 1778,
-    "withImages": 513,
+    "withImages": 514,
     "labSources": 26,
     "successfulSources": 23,
     "abstractGraphics": 139,
-    "catalogGraphics": 5
+    "catalogGraphics": 6
   },
   "publisher": {
     "updated": "2026-11-11T09:29:18.815127+00:00",
@@ -15257,9 +15257,9 @@
     }
   ],
   "crossref": {
-    "updated": "2026-11-11T09:27:06.379647+00:00",
+    "updated": "2026-11-12T06:13:21.352621+00:00",
     "windowDays": 365,
-    "fromDate": "2025-11-11",
+    "fromDate": "2025-11-12",
     "policy": "Journal articles with an exact fixed author ORCID only; existing Europe PMC records preserved.",
     "scholars": [
       {
@@ -15268,7 +15268,7 @@
         "status": "ok",
         "cached": 10,
         "added": 2,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "ahmed-badran",
@@ -15276,7 +15276,7 @@
         "status": "ok",
         "cached": 2,
         "added": 1,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "bryan-dickinson",
@@ -15284,7 +15284,7 @@
         "status": "ok",
         "cached": 10,
         "added": 3,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "chang-liu",
@@ -15292,7 +15292,7 @@
         "status": "ok",
         "cached": 3,
         "added": 0,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "gerard-roelfes",
@@ -15300,7 +15300,7 @@
         "status": "ok",
         "cached": 2,
         "added": 0,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "haifeng-ye",
@@ -15308,7 +15308,7 @@
         "status": "ok",
         "cached": 6,
         "added": 1,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "haiyan-liu",
@@ -15316,7 +15316,7 @@
         "status": "ok",
         "cached": 2,
         "added": 0,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "jason-chin",
@@ -15324,7 +15324,7 @@
         "status": "ok",
         "cached": 2,
         "added": 0,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "jay-keasling",
@@ -15332,7 +15332,7 @@
         "status": "ok",
         "cached": 24,
         "added": 5,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "jiangyun-wang",
@@ -15340,7 +15340,7 @@
         "status": "ok",
         "cached": 0,
         "added": 0,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "jie-wang",
@@ -15348,7 +15348,7 @@
         "status": "ok",
         "cached": 8,
         "added": 2,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "junbiao-dai",
@@ -15356,7 +15356,7 @@
         "status": "ok",
         "cached": 2,
         "added": 1,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "kathrin-lang",
@@ -15364,7 +15364,7 @@
         "status": "ok",
         "cached": 3,
         "added": 1,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "nanxi-wang",
@@ -15372,7 +15372,7 @@
         "status": "ok",
         "cached": 2,
         "added": 1,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "nediljko-budisa",
@@ -15380,7 +15380,7 @@
         "status": "ok",
         "cached": 3,
         "added": 0,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "peilong-lu",
@@ -15388,7 +15388,7 @@
         "status": "ok",
         "cached": 4,
         "added": 1,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "peng-chen",
@@ -15396,7 +15396,7 @@
         "status": "ok",
         "cached": 11,
         "added": 1,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "ryan-mehl",
@@ -15404,7 +15404,7 @@
         "status": "ok",
         "cached": 2,
         "added": 1,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "shixian-lin",
@@ -15412,7 +15412,7 @@
         "status": "ok",
         "cached": 6,
         "added": 0,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "tao-liu",
@@ -15420,7 +15420,7 @@
         "status": "ok",
         "cached": 9,
         "added": 3,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "thomas-huber",
@@ -15428,7 +15428,7 @@
         "status": "ok",
         "cached": 6,
         "added": 1,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "william-degrado",
@@ -15436,7 +15436,7 @@
         "status": "ok",
         "cached": 8,
         "added": 1,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "xiao-xie",
@@ -15444,7 +15444,7 @@
         "status": "ok",
         "cached": 0,
         "added": 0,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "xiaozhou-luo",
@@ -15452,7 +15452,7 @@
         "status": "ok",
         "cached": 4,
         "added": 2,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "yun-ge",
@@ -15460,7 +15460,7 @@
         "status": "ok",
         "cached": 3,
         "added": 0,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       },
       {
         "id": "yuzhou-wu",
@@ -15468,7 +15468,7 @@
         "status": "ok",
         "cached": 11,
         "added": 6,
-        "lastSuccess": "2026-11-11T09:27:06.379647+00:00"
+        "lastSuccess": "2026-11-12T06:13:21.352621+00:00"
       }
     ],
     "summary": {
@@ -15479,17 +15479,18 @@
     }
   },
   "automaticGraphics": {
-    "updated": "2026-11-11T09:38:20.507862+00:00",
-    "cachedFigures": 43,
+    "updated": "2026-11-12T06:23:08.972324+00:00",
+    "cachedFigures": 44,
     "run": {
       "feedsRead": 64,
-      "rssMatches": 6,
-      "cachedImages": 6
+      "rssMatches": 7,
+      "cachedImages": 6,
+      "rssImages": 1
     },
-    "addedImages": 4,
+    "addedImages": 5,
     "upgradedToAbstract": 0,
     "providers": {
-      "publisher-rss": 7,
+      "publisher-rss": 8,
       "pmc-cloud": 36
     },
     "policy": "Only exact DOI matches in the fixed-ORCID catalog; no UI or browser sessions"
