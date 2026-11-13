@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-11-12T09:49:35.233166+00:00",
+  "updated": "2026-11-13T09:32:00.802677+00:00",
   "scholars": {
     "abhishek-chatterjee": {
       "orcid": "0000-0002-6231-5302",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -186,13 +186,13 @@
           "onlinePublicationDate": "2025-11-14",
           "printPublicationDate": "2025-11-26",
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/APXyLQchLO6-wzxBrIaag_f3E_sfx05DGSOYbZkeV_1ttFxOtjBSBdvm3d6OaP77dDA5Ly4Y_MKSYPDXVJ3tgNarqFYNi9Bbc-5zJIbrwx43tyoYrMK0JNyXIjzn5poujhq1mdqxgA8STdKBA0gPNR1w6giX7DZEZ5Ws-L0yJMB-QArvFgnjRgwWDPUhi0c0D7GKK3tUF55EnUJGlP1Pf_bIXL6giZeFN_14LMkh8Zm-=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/APXyLQfjxcDpt_8tzrKy5Voat_5bosPXPx_p3wLZIQo3kODsJA-Zqp27XMDgihCf-nAyhF2FceweNRJ0byRf2Gg19DRQmxVXqU6o4gY-6DURJLxk1scVSjJtE-XggXTH4WzdhMZgeuf5DxClC38zW_sp7VMHvy4BuLNSGXgvP7ej9flTBOIJGLe-RAV2vjwPJYY22eCMxB37-RwfzCR3As4bl7QUWtGQiNfKaDIaOqgF=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-11-12T06:16:01.313627+00:00"
+            "checkedAt": "2026-11-12T09:50:26.846633+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -465,13 +465,13 @@
           "onlinePublicationDate": "2026-02-27",
           "printPublicationDate": "2026-03-11",
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/APXyLQeq-OyHzmW3iTelZ_ZTdY9WCqZPVeDa4md5Hj92nObrQpG8yPNBEEJU01T1N51tI7iEJTxdCvtkbzBO-4wWknNGfymECSZoIz6rgAWpcZpjOd5UrHEShUghH35ieaQckVF6paG4vUe0p7D5ay1SIWZwYhyo5e_pU3bkGrLkrogWZPgcPdVPSU-_W3eTkdpsGmeWqiNNdMyDgkkaCpH8zWeIk_Huqrjf3hbd1xDtlUI=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/APXyLQdjdPstEJ04F6EL0i62j8cftOSyBK12OECf9KS5EGvH2rk7F5WpPGL5AbRMUqwXNLr6z2SaaYv38exWy7Qz5rqYLdCVWG329ZegPuZfonJVK_U5TONNGtDvugP6eWY6B-dlUaojDxI_w7HWHZ_tJqIwLPGOkww5r1NXjZPDxn-A2IiGVabgvd6NaKpmwGOuL0le3X0GV8HLtxRQ3GQ6COqi6PoT-i0Uec_9f7OVIqY=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-11-12T06:16:01.313627+00:00"
+            "checkedAt": "2026-11-12T09:50:26.846633+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -549,13 +549,13 @@
           "onlinePublicationDate": "2026-04-14",
           "printPublicationDate": "2026-04-24",
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/APXyLQeuEeBJgdWkniVfUVym-r5rdsNYwuFzX1zd92W510du8uszAu4aT-NwtYhPrtPyPEFC4vuetudvwzXOZhW2VHOHbWwGDqgS-5yj30bjYRS-y6n7Rdk60aOtbKEetndEPGLIHZQSI84hvkQUzeKfa3rDqnmrDdSCCk4sMQBm3RkmLz19V7QDMvJDhVCpzZOP-2lyuAU8miZJlcvM_egYn0cPhS9JdgJqU4s8I66u3wg=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/APXyLQfJ_xdbjeJlTMuQOEYqEWZaDmDsONkav866cmsKQcit9Ez2cw-GQUqdXIbBM28fN4HhJ0b9_b3--_TXr0K3zPtb71rfIgETdQpxFhaIQr-T1oknAigyWLMEGKrG0Wd-RX1vG3WWIDtO-i-aCe01mPCqTjlGcZbJhSa7a_JYu-u_gdWsJTgEZAplwQ7WKFmf8sVJE4cv-uOdzD3pwQ9jmtRFu-aPBrlgP7OH093yhTs=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-11-12T06:16:01.313627+00:00"
+            "checkedAt": "2026-11-12T09:50:26.846633+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -739,13 +739,13 @@
             "checkedAt": "2026-10-27T14:31:34.388959+00:00"
           },
           "fallbackFigure": {
-            "url": "https://sites.google.com/sitesv-images-rt/APXyLQc4GJn-P4MIU5oTkr7biNDAqau-CueLXuIYTpqbTzdib96qogUgqltoE1zQA6Z6ZM7Qm0xjd1nOfGwKpZv1dKHGt7Nh2Z0uLFJywroZV1iXBrwtl-FgTwWc7PNWrNUSk8WNSw4A2EIcohk0JJ62qZmAQp5uOahigp0izsgiDM7HmY1UT2Ngf3cxVmYv2kCDFblCKX_mif8E_9faMAVLgywCM7agoLyiA_QT3XnJHaY=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/APXyLQdkOveknvgnBEkikMFjcuc6OJSIdIuwbKbM_dYW_diLlmf4_Oasgujfp5OFFpv2AocF5-L8S42Lgf9aQeM91_DIvGL-91eUWHfS5i3w9v8S9TnSmzvWGr26weJ_B93ZJKAyLQ2lttmTVaigd_P7VP9BmhRlthIhW73deLb7ukFdO15VVEpJ6exA6n74ZgxEFmqivxwo4My03giGKoKsZ31gnZX4sahb4XxJ3rHRXPg=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-11-12T06:16:01.313627+00:00"
+            "checkedAt": "2026-11-12T09:50:26.846633+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -803,13 +803,13 @@
           "onlinePublicationDate": "2026-09-24",
           "printPublicationDate": "",
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/APXyLQcMcvN4kieIcJ71W7NPUVEGUq_uknobrmZbVQmglvL3Q_fblbbtkacuantKV8uQYHhseXOP6001b7ttY2PJD6Bct3G3SgLWZbF06Z5joIFdG-vn6vEyZmxLE5AcpGiN7xqrwgC3rW_SvsTeNXlhDMrmJd2HNB_obw3GRpFL4YOs70AYUA872629AoulaDyn18wnb1DqvbE2AF8PfUvFTpLQfWmtZ-v3sAhWNZ7_LRI=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/APXyLQfc0dQoz9kfQJAqkj1GoVpCk1pCqkpLmzsamkmOBpg_l_iUQD7BglSCHmcsB6Y4TTR4XUBhil9X4nlPHfTl55956diHrum-tqIvXJp2LBSj8C0dj-u-OKvYjg1wCsOqK3-g2W_bsMsaN3k6ccGWzzD79xtCfWVT5I93fbo9Riz_015rx7Jfh9GpuNIfsNnQ3MxYEljqSO9Jjgoabc_9oBBurFBwN7JwT-njDi-1buI=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-11-12T06:16:01.313627+00:00"
+            "checkedAt": "2026-11-12T09:50:26.846633+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -871,9 +871,9 @@
     },
     "ahmed-badran": {
       "orcid": "0000-0002-8105-1883",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -986,9 +986,9 @@
     },
     "bryan-dickinson": {
       "orcid": "0000-0002-9616-1911",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -1859,9 +1859,9 @@
     },
     "chang-liu": {
       "orcid": "0000-0002-3290-2880",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -2269,9 +2269,9 @@
     },
     "gerard-roelfes": {
       "orcid": "0000-0002-0364-9564",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -2443,13 +2443,13 @@
           "onlinePublicationDate": "2026-09-10",
           "printPublicationDate": "2026-09-23",
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/APXyLQeSiCygONhSxPWieM79Qq5rC0qSCxEMgiM_EhfRkgfMYtk71dxzO-GGLr_CJJQ1Dt6R1Oaz6TL_Dun-5D6uhi931X59ZP-Drc-VxG7LtxgMLLLZpkkv9v3o5AMzsVmQjDBb9y5m5mpT2mmbJpQUsens1aT07Tp_THoz22GjqC0KnLtUn-veyYcw-96U-GHDCkBG_YAiOLwjMOVScBLcjME37AT2F3ECqzgVO0mY=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/APXyLQfkTDuEGdumRHiIe_V341BxDJbLZoQC-KuCnLWNb4AaMHna3n4lBj1-7e3xh9pwO3uikw-1nzH9BOL0NBpwFcJrHt0kV_AHBI49MQuk6cph6bQrwXO_of4191OFe-QqzkykCK-IbD6r2LYCVi09eBJ2e8tJhWiqKAc-vLflQZ-bGw9EvrfywDMpKzIclFDm-k2Pf_omj_HXWGbxt41_jjJBpBygU7KPbWIEBWgF=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-11-12T06:16:01.313627+00:00"
+            "checkedAt": "2026-11-12T09:50:26.846633+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -2459,9 +2459,9 @@
     },
     "haifeng-ye": {
       "orcid": "0000-0002-5482-8116",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -2944,7 +2944,7 @@
           "oa": false,
           "pmcid": "",
           "license": "",
-          "citations": 1,
+          "citations": 2,
           "url": "https://doi.org/10.1038/s41586-026-10909-6",
           "metadataSource": "crossref",
           "metadataURL": "https://api.crossref.org/works/10.1038/s41586-026-10909-6",
@@ -2960,9 +2960,9 @@
     },
     "haiyan-liu": {
       "orcid": "0000-0002-5926-820X",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -3349,9 +3349,9 @@
     },
     "jason-chin": {
       "orcid": "0000-0003-1219-4757",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -3508,9 +3508,9 @@
     },
     "jay-keasling": {
       "orcid": "0000-0003-4170-6088",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -5288,7 +5288,7 @@
           "title": "Engineered polyketide synthases enable a microbial chassis for recyclable plastics with tunable properties",
           "journal": "Nature Biotechnology",
           "abstract": "Abstract Plastics derived from fossil feedstocks pose major recycling challenges, particularly crosslinked thermosets used in electronics, construction and composites. Polydiketoenamines (PDKs) are recyclable alternatives; however, monomers such as dimedone are petrochemical-derived and offer limited tunability. We computationally screened 144 β-keto-δ-lactones (BKDLs), identifying solvation free energy as the primary determinant of depolymerization temperature across a 20–60 °C range. We engineered hybrid type I polyketide synthases (PKSs) in Escherichia coli and Streptomyces hosts to biosynthesize BKDLs with diverse substituents and defined stereochemistry, reaching titers of 1.84 g L −1 in bioreactors. Polymerization of chemically synthesized BKDLs identical to PKS products confirmed tunable glass transition temperatures (53–98 °C) and temperature-gated depolymerization. Different BKDLs yielded PDKs with thermal, mechanical, solvent-resistance and optical properties governed by substituent and chirality. Technoeconomic and life-cycle analyses indicate that corn-stover-derived BKDLs can outperform petrochemical dimedone on cost and greenhouse gas emissions. This study demonstrates that engineered PKSs can produce monomers for recyclable plastics with programmable depolymerization behavior.",
-          "authors": "Zilong Wang, Seokjung Cheong, Hai Wang, Jeremy Demarteau, Alexander R. Epstein, Baishakhi Bose, Weixi Hu, Matthias Schmidt, Leah Keiser, Mei Zhao, Beibei Ge, Alberto A. Nava, Ramu Kakumanu, Edward E. K. Baidoo, Yan Chen, Christopher J. Petzold, Yifan Guo, Nawa Raj Baral, Nemi Vora, Sarah L. Nordahl, Yuzhong Liu, Rithwik Ghanta, Pablo Cruz-Morales, Kevin Yin, Robert W. Haushalter, Kristin A. Persson, Corinne D. Scown, Brett A. Helms, Jay D. Keasling",
+          "authors": "Zilong Wang, Seokjung Cheong, Hai Wang, Jeremy Demarteau, Alexander R. Epstein, Baishakhi Bose, Weixi Hu, Matthias Schmidt, Leah Keiser, Mei Zhao, Beibei Ge, Alberto A. Nava, Ramu Kakumanu, Edward E. K. Baidoo, Yan Chen, Christopher J. Petzold, Yifan Guo, Nawa Raj Baral, Nemi Vora, Sarah L. Nordahl, Yuzhong Liu, Rithwik Vani, Pablo Cruz-Morales, Kevin Yin, Robert W. Haushalter, Kristin A. Persson, Corinne D. Scown, Brett A. Helms, Jay D. Keasling",
           "authorDetails": [
             {
               "firstName": "Zilong",
@@ -5445,8 +5445,8 @@
             },
             {
               "firstName": "Rithwik",
-              "lastName": "Ghanta",
-              "fullName": "Rithwik Ghanta"
+              "lastName": "Vani",
+              "fullName": "Rithwik Vani"
             },
             {
               "firstName": "Pablo",
@@ -5741,7 +5741,7 @@
           "title": "Publisher Correction: Engineered polyketide synthases enable a microbial chassis for recyclable plastics with tunable properties",
           "journal": "Nature Biotechnology",
           "abstract": "",
-          "authors": "Zilong Wang, Seokjung Cheong, Hai Wang, Jeremy Demarteau, Alexander R. Epstein, Baishakhi Bose, Weixi Hu, Matthias Schmidt, Leah Keiser, Mei Zhao, Beibei Ge, Alberto A. Nava, Ramu Kakumanu, Edward E. K. Baidoo, Yan Chen, Christopher J. Petzold, Yifan Guo, Nawa Raj Baral, Nemi Vora, Sarah L. Nordahl, Yuzhong Liu, Rithwik Ghanta, Pablo Cruz-Morales, Kevin Yin, Robert W. Haushalter, Kristin A. Persson, Corinne D. Scown, Brett A. Helms, Jay D. Keasling",
+          "authors": "Zilong Wang, Seokjung Cheong, Hai Wang, Jeremy Demarteau, Alexander R. Epstein, Baishakhi Bose, Weixi Hu, Matthias Schmidt, Leah Keiser, Mei Zhao, Beibei Ge, Alberto A. Nava, Ramu Kakumanu, Edward E. K. Baidoo, Yan Chen, Christopher J. Petzold, Yifan Guo, Nawa Raj Baral, Nemi Vora, Sarah L. Nordahl, Yuzhong Liu, Rithwik Vani, Pablo Cruz-Morales, Kevin Yin, Robert W. Haushalter, Kristin A. Persson, Corinne D. Scown, Brett A. Helms, Jay D. Keasling",
           "authorDetails": [
             {
               "firstName": "Zilong",
@@ -5898,8 +5898,8 @@
             },
             {
               "firstName": "Rithwik",
-              "lastName": "Ghanta",
-              "fullName": "Rithwik Ghanta"
+              "lastName": "Vani",
+              "fullName": "Rithwik Vani"
             },
             {
               "firstName": "Pablo",
@@ -6386,7 +6386,13 @@
           "datePrecision": "day",
           "dateSource": "online",
           "onlinePublicationDate": "2026-10-11",
-          "printPublicationDate": ""
+          "printPublicationDate": "",
+          "figure": {
+            "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/817d/13745535/522a57258e6f/41467_2026_78648_Fig1_HTML.webp",
+            "kind": "正文插图",
+            "caption": "Fig. 1 Overview of the OSAR platform. The platform consists of three main modules: design, build, and test. The design module involves BGC analysis and primer design using PARBiG, developed in this study. The build module covers the entire process of constructing final expression strains using an automated liquid handling system. The test module includes fermentation and detection of peptides by LC–MS. Created in BioRender.",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13745535/"
+          }
         },
         {
           "id": "DOI:10.1038/s41467-026-78481-1",
@@ -6568,17 +6574,17 @@
     },
     "jiangyun-wang": {
       "orcid": "0000-0002-5974-1562",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": []
     },
     "jie-wang": {
       "orcid": "0000-0001-7602-5050",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -7305,9 +7311,9 @@
     },
     "junbiao-dai": {
       "orcid": "0000-0002-5299-4700",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -7571,9 +7577,9 @@
     },
     "kathrin-lang": {
       "orcid": "0000-0002-1318-6567",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -8103,9 +8109,9 @@
     },
     "nanxi-wang": {
       "orcid": "0000-0003-2807-1487",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -8285,9 +8291,9 @@
     },
     "nediljko-budisa": {
       "orcid": "0000-0001-8437-7304",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -8538,9 +8544,9 @@
     },
     "peilong-lu": {
       "orcid": "0000-0001-5894-9268",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -8941,9 +8947,9 @@
     },
     "peng-chen": {
       "orcid": "0000-0002-0402-7417",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -9309,7 +9315,7 @@
           "oa": false,
           "pmcid": "",
           "license": "",
-          "citations": 22,
+          "citations": 24,
           "url": "https://doi.org/10.1038/s41586-025-09903-1",
           "metadataSource": "crossref",
           "metadataURL": "https://api.crossref.org/works/10.1038/s41586-025-09903-1",
@@ -10004,9 +10010,9 @@
     },
     "ryan-mehl": {
       "orcid": "0000-0003-2932-4941",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -10215,9 +10221,9 @@
     },
     "shixian-lin": {
       "orcid": "0000-0001-9718-9986",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -10774,9 +10780,9 @@
     },
     "tao-liu": {
       "orcid": "0000-0001-5347-5892",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -11488,7 +11494,7 @@
           "oa": false,
           "pmcid": "",
           "license": "",
-          "citations": 0,
+          "citations": 1,
           "url": "https://doi.org/10.1038/s41563-026-02724-1",
           "metadataSource": "crossref",
           "metadataURL": "https://api.crossref.org/works/10.1038/s41563-026-02724-1",
@@ -11704,9 +11710,9 @@
     },
     "thomas-huber": {
       "orcid": "0000-0002-3680-8699",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -12259,9 +12265,9 @@
     },
     "william-degrado": {
       "orcid": "0000-0003-4745-263X",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -12979,7 +12985,7 @@
           "datePrecision": "day",
           "dateSource": "online",
           "onlinePublicationDate": "2026-09-21",
-          "printPublicationDate": "",
+          "printPublicationDate": "2026-11",
           "labSources": [
             "https://pharm.ucsf.edu/degrado/publications"
           ]
@@ -13064,17 +13070,17 @@
     },
     "xiao-xie": {
       "orcid": "0009-0006-6342-2771",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": []
     },
     "xiaozhou-luo": {
       "orcid": "0000-0001-9808-6890",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -13393,7 +13399,13 @@
           "datePrecision": "day",
           "dateSource": "online",
           "onlinePublicationDate": "2026-10-11",
-          "printPublicationDate": ""
+          "printPublicationDate": "",
+          "figure": {
+            "url": "https://cdn.ncbi.nlm.nih.gov/pmc/blobs/817d/13745535/522a57258e6f/41467_2026_78648_Fig1_HTML.webp",
+            "kind": "正文插图",
+            "caption": "Fig. 1 Overview of the OSAR platform. The platform consists of three main modules: design, build, and test. The design module involves BGC analysis and primer design using PARBiG, developed in this study. The build module covers the entire process of constructing final expression strains using an automated liquid handling system. The test module includes fermentation and detection of peptides by LC–MS. Created in BioRender.",
+            "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13745535/"
+          }
         },
         {
           "id": "DOI:10.1021/acs.jcim.6c01200",
@@ -13447,15 +13459,30 @@
           "datePrecision": "day",
           "dateSource": "online",
           "onlinePublicationDate": "2026-10-28",
-          "printPublicationDate": "2026-11-09"
+          "printPublicationDate": "2026-11-09",
+          "figure": {
+            "url": "assets/publisher/bee61a1213975dd6d721129591c778e1.png",
+            "kind": "期刊目录图",
+            "provider": "publisher-rss",
+            "source": "https://pubs.acs.org/jcisd8/article/66/21/14038/5460312/Benchmarking-and-Experimental-Validation-of",
+            "feedSource": "https://pubs.acs.org/rss/jcisd8/currentIssue.xml",
+            "doi": "10.1021/acs.jcim.6c01200",
+            "match": "exact-doi",
+            "evidence": "Publisher-designated RSS article image",
+            "caption": "出版社官方 RSS 为该 DOI 提供的期刊配图。",
+            "storage": "local",
+            "publisherAsset": "https://acs.silverchair-cdn.com/acs/content_public/journal/jcisd8/66/21/10.1021_acs.jcim.6c01200/1/ci6c01200_0007.png",
+            "sha256": "bee61a1213975dd6d721129591c778e161253950b91231b97943f07fa701815a",
+            "checkedAt": "2026-11-10T10:02:35.838406+00:00"
+          }
         }
       ]
     },
     "yun-ge": {
       "orcid": "0000-0001-6769-5458",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
@@ -13700,9 +13727,9 @@
     },
     "yuzhou-wu": {
       "orcid": "0000-0003-3229-4982",
-      "lastAttempt": "2026-11-12T09:49:35.233166+00:00",
-      "fromDate": "2025-11-12",
-      "lastSuccess": "2026-11-12T09:49:35.233166+00:00",
+      "lastAttempt": "2026-11-13T09:32:00.802677+00:00",
+      "fromDate": "2025-11-13",
+      "lastSuccess": "2026-11-13T09:32:00.802677+00:00",
       "status": "ok",
       "papers": [
         {
