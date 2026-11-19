@@ -731,6 +731,21 @@
       "publisherAsset": "https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/148/44/10.1021_jacs.6c15079/1/ja6c15079_0009.png",
       "sha256": "29bf92b9098fc9f4ab14e5c7112be2a5ae0f43e1718e07d7ad41524804d2cf35",
       "checkedAt": "2026-11-12T06:23:08.972324+00:00"
+    },
+    "10.1021/jacs.6c15448": {
+      "url": "assets/publisher/3ff3dd39af21af2d64f2509add73afdf.png",
+      "kind": "期刊目录图",
+      "provider": "publisher-rss",
+      "source": "https://pubs.acs.org/jacsat/article/148/45/49412/5438295/Molecular-Programming-of-Steric-Tags-for",
+      "feedSource": "https://pubs.acs.org/rss/jacsat/currentIssue.xml",
+      "doi": "10.1021/jacs.6c15448",
+      "match": "exact-doi",
+      "evidence": "Publisher-designated RSS article image",
+      "caption": "出版社官方 RSS 为该 DOI 提供的期刊配图。",
+      "storage": "local",
+      "publisherAsset": "https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/148/45/10.1021_jacs.6c15448/2/ja6c15448_0008.png",
+      "sha256": "3ff3dd39af21af2d64f2509add73afdfe10f4bd71414e66b2a0b1d874354b436",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00"
     }
   },
   "attempts": {
@@ -3386,8 +3401,8 @@
     },
     "10.1534/genetics.117.300450": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:32.745476+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:14.187932+00:00"
     },
     "10.1021/acs.biochem.7b00835": {
       "status": "no_repository_media",
@@ -3426,8 +3441,8 @@
     },
     "10.1073/pnas.1700796114": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:33.001536+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:14.187947+00:00"
     },
     "10.1021/acssensors.7b00223": {
       "status": "no_repository_media",
@@ -3456,8 +3471,8 @@
     },
     "10.1016/j.ymthe.2016.11.008": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:33.331387+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:14.187958+00:00"
     },
     "10.1126/science.aal3316": {
       "status": "no_repository_media",
@@ -3471,8 +3486,8 @@
     },
     "10.1101/cshperspect.a023903": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:33.635388+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:14.365134+00:00"
     },
     "10.1016/j.ymben.2016.10.017": {
       "status": "no_repository_media",
@@ -3481,13 +3496,13 @@
     },
     "10.1073/pnas.1612803113": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:33.927477+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:14.672786+00:00"
     },
     "10.1073/pnas.1606360113": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:34.227249+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:14.969160+00:00"
     },
     "10.1016/j.cels.2016.04.004": {
       "status": "no_repository_media",
@@ -3496,13 +3511,13 @@
     },
     "10.1038/cr.2016.56": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:34.522782+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:15.258205+00:00"
     },
     "10.1073/pnas.1605363113": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:34.833806+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:15.567651+00:00"
     },
     "10.1002/anie.201601902": {
       "status": "no_repository_media",
@@ -3511,13 +3526,13 @@
     },
     "10.1073/pnas.1601653113": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:35.120588+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:15.875878+00:00"
     },
     "10.1073/pnas.1602733113": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:35.420627+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:16.169370+00:00"
     },
     "10.1039/c5ib00232j": {
       "status": "no_repository_media",
@@ -3536,8 +3551,8 @@
     },
     "10.1128/jvi.01239-15": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:35.717694+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:16.478165+00:00"
     },
     "10.1002/anie.201502868": {
       "status": "no_repository_media",
@@ -3551,8 +3566,8 @@
     },
     "10.1128/aem.01102-15": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:36.022259+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:16.784279+00:00"
     },
     "10.1021/cb501055h": {
       "status": "no_repository_media",
@@ -3561,23 +3576,23 @@
     },
     "10.1073/pnas.1504828112": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:36.320011+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:17.054882+00:00"
     },
     "10.1073/pnas.1504022112": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:36.608450+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:17.407907+00:00"
     },
     "10.1534/genetics.115.175919": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:36.921001+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:17.652948+00:00"
     },
     "10.1073/pnas.1500545112": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:37.223348+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:17.981053+00:00"
     },
     "10.1021/jacs.5b00620": {
       "status": "no_repository_media",
@@ -3586,23 +3601,23 @@
     },
     "10.1073/pnas.1423668112": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:37.537852+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:18.265073+00:00"
     },
     "10.1128/aem.02920-14": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:37.852185+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:18.585454+00:00"
     },
     "10.1073/pnas.1414837111": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:38.128849+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:18.880042+00:00"
     },
     "10.1128/aem.02155-14": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:38.435612+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:19.182163+00:00"
     },
     "10.1038/nature13567": {
       "status": "no_repository_media",
@@ -3626,8 +3641,8 @@
     },
     "10.1073/pnas.1323931111": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:38.720823+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:19.472700+00:00"
     },
     "10.1002/anie.201308137": {
       "status": "no_repository_media",
@@ -3636,13 +3651,13 @@
     },
     "10.1128/aem.03194-13": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:39.016601+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:19.773557+00:00"
     },
     "10.1534/genetics.113.152082": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:39.388520+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:20.077979+00:00"
     },
     "10.1021/ja4059553": {
       "status": "no_repository_media",
@@ -3651,13 +3666,13 @@
     },
     "10.1073/pnas.1309584110": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:39.621569+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:20.369186+00:00"
     },
     "10.1128/jb.02210-12": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:39.927057+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:20.679265+00:00"
     },
     "10.1002/jms.3198": {
       "status": "no_repository_media",
@@ -3666,13 +3681,13 @@
     },
     "10.1038/ismej.2013.60": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:40.228786+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:20.968049+00:00"
     },
     "10.1074/jbc.m113.460360": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:40.534301+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:21.265111+00:00"
     },
     "10.1021/bi4000244": {
       "status": "no_repository_media",
@@ -3681,13 +3696,13 @@
     },
     "10.1038/emboj.2012.347": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:40.820210+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:21.580902+00:00"
     },
     "10.1073/pnas.1216801110": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:41.115690+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:21.864912+00:00"
     },
     "10.1021/sb300091d": {
       "status": "no_repository_media",
@@ -3696,28 +3711,28 @@
     },
     "10.1073/pnas.1202079109": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:41.419477+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:22.180811+00:00"
     },
     "10.1107/s0907444912028351": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:41.723919+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:22.527705+00:00"
     },
     "10.1128/aem.01175-12": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:42.059447+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:22.772254+00:00"
     },
     "10.1073/pnas.1212454109": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:42.345461+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:23.081671+00:00"
     },
     "10.1073/pnas.1204073109": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:42.632594+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:23.379580+00:00"
     },
     "10.1002/anie.201203349": {
       "status": "no_repository_media",
@@ -3726,8 +3741,8 @@
     },
     "10.1074/jbc.m112.362640": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:42.923555+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:23.664775+00:00"
     },
     "10.1038/nchem.1250": {
       "status": "no_repository_media",
@@ -3736,8 +3751,8 @@
     },
     "10.1128/aem.06761-11": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:43.219251+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:23.969998+00:00"
     },
     "10.1016/j.jmb.2011.12.056": {
       "status": "no_repository_media",
@@ -3746,13 +3761,13 @@
     },
     "10.1073/pnas.1110740109": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:43.525062+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:24.281545+00:00"
     },
     "10.1073/pnas.1106958108": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:44.040377+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:24.566977+00:00"
     },
     "10.1016/j.ymben.2011.11.005": {
       "status": "no_repository_media",
@@ -3761,13 +3776,13 @@
     },
     "10.1128/aem.06785-11": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:44.118313+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:24.880472+00:00"
     },
     "10.1128/aem.06017-11": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:44.429873+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:25.168323+00:00"
     },
     "10.1038/nature10403": {
       "status": "no_repository_media",
@@ -3776,13 +3791,13 @@
     },
     "10.1128/aem.05495-11": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:44.719722+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:25.473848+00:00"
     },
     "10.1074/mcp.m111.012658": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:45.020243+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:25.782235+00:00"
     },
     "10.1021/co200101w": {
       "status": "no_repository_media",
@@ -3791,13 +3806,13 @@
     },
     "10.1074/jbc.l110.216127": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:45.313913+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:26.068034+00:00"
     },
     "10.1101/gad.2050311": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:45.620015+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:26.369380+00:00"
     },
     "10.1021/ja1110514": {
       "status": "no_repository_media",
@@ -3806,8 +3821,8 @@
     },
     "10.1128/jb.01219-10": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:45.920637+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:26.680105+00:00"
     },
     "10.1002/anie.201003419": {
       "status": "no_repository_media",
@@ -3821,8 +3836,8 @@
     },
     "10.1534/genetics.110.118489": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:46.223223+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:26.979880+00:00"
     },
     "10.1111/j.1742-4658.2010.07767.x": {
       "status": "no_repository_media",
@@ -3831,18 +3846,18 @@
     },
     "10.1128/aem.02323-09": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:46.526679+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:27.289725+00:00"
     },
     "10.1128/aem.02312-09": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:46.830266+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:27.572412+00:00"
     },
     "10.1128/aem.02141-09": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:47.129605+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:27.872977+00:00"
     },
     "10.1021/bi9011429": {
       "status": "no_repository_media",
@@ -3861,13 +3876,13 @@
     },
     "10.1128/jb.00085-09": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:47.423873+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:28.158411+00:00"
     },
     "10.1073/pnas.0902688106": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:47.712088+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:28.481932+00:00"
     },
     "10.1021/ja806752h": {
       "status": "no_repository_media",
@@ -3876,13 +3891,13 @@
     },
     "10.1261/rna.1499309": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:48.031855+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:28.771895+00:00"
     },
     "10.1101/gr.083402.108": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:48.349403+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:29.082619+00:00"
     },
     "10.1021/pr800422e": {
       "status": "no_repository_media",
@@ -3901,13 +3916,13 @@
     },
     "10.1073/pnas.0809543105": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:48.625149+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:29.386037+00:00"
     },
     "10.1073/pnas.0809218105": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:48.925808+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:29.682820+00:00"
     },
     "10.1038/nchembio.121": {
       "status": "no_repository_media",
@@ -3916,8 +3931,8 @@
     },
     "10.1073/pnas.0802804105": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:49.218937+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:29.970180+00:00"
     },
     "10.1016/j.cell.2008.07.019": {
       "status": "no_repository_media",
@@ -3931,58 +3946,58 @@
     },
     "10.1016/j.pep.2008.06.008": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:49.518381+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:30.288770+00:00"
     },
     "10.1016/j.chembiol.2008.05.006": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:49.811058+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:30.581489+00:00"
     },
     "10.1016/j.cbpa.2008.02.006": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:50.104021+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:30.887182+00:00"
     },
     "10.1074/jbc.m708917200": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:50.478795+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:31.165428+00:00"
     },
     "10.1128/aem.02750-07": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:50.722602+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:31.469371+00:00"
     },
     "10.1016/j.bmc.2008.01.015": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:51.013917+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:31.757740+00:00"
     },
     "10.1128/aem.01197-07": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:51.310483+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:32.081767+00:00"
     },
     "10.1128/aem.00861-07": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:51.621281+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:32.365555+00:00"
     },
     "10.1128/aem.00791-07": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:51.924477+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:32.659761+00:00"
     },
     "10.1073/pnas.0700974104": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:52.226698+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:32.954126+00:00"
     },
     "10.1128/jb.00368-07": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:52.532848+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:33.282734+00:00"
     },
     "10.1016/j.ymben.2007.05.005": {
       "status": "no_repository_media",
@@ -3991,153 +4006,153 @@
     },
     "10.1128/aem.02986-06": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:52.815523+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:33.581325+00:00"
     },
     "10.1021/ja067606t": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:53.126752+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:33.864866+00:00"
     },
     "10.1128/jb.00926-06": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:53.422381+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:34.178443+00:00"
     },
     "10.1128/jb.00948-06": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:53.720981+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:34.470467+00:00"
     },
     "10.1128/aem.01532-06": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:54.021415+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:34.780535+00:00"
     },
     "10.1128/aem.00907-06": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:54.313269+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:35.074977+00:00"
     },
     "10.1128/aem.03006-05": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:54.636217+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:35.357548+00:00"
     },
     "10.1021/ja061413o": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:54.931668+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:35.666518+00:00"
     },
     "10.1128/jb.01921-05": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:55.229981+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:35.967975+00:00"
     },
     "10.1128/aem.71.11.6856-6862.2005": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:55.528224+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:36.271732+00:00"
     },
     "10.1128/jb.187.8.2793-2800.2005": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:55.837082+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:36.576488+00:00"
     },
     "10.1128/aem.70.12.7404-7412.2004": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:56.136108+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:36.868381+00:00"
     },
     "10.1021/ol0482893": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:56.428433+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:37.179983+00:00"
     },
     "10.1093/nar/gkh357": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:56.735055+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:37.479978+00:00"
     },
     "10.1016/s0006-3495(03)75090-5": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:57.040284+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:37.780150+00:00"
     },
     "10.1101/gr.954803": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:57.319904+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:38.066723+00:00"
     },
     "10.1101/gr.949803": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:57.631448+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:38.370654+00:00"
     },
     "10.1073/pnas.1036705100": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:57.916600+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:38.684586+00:00"
     },
     "10.1128/aem.69.1.504-508.2003": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:58.219284+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:38.973112+00:00"
     },
     "10.1128/aem.68.10.4971-4978.2002": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:58.518593+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:39.277172+00:00"
     },
     "10.1128/aem.68.8.4095-4101.2002": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:58.838137+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:39.574735+00:00"
     },
     "10.1128/aem.68.8.3848-3854.2002": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:59.128714+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:39.878435+00:00"
     },
     "10.1023/a:1015043324584": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:59.417970+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:40.181976+00:00"
     },
     "10.1110/ps.51601": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:59.728280+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:40.480579+00:00"
     },
     "10.1128/aem.66.12.5399-5405.2000": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:51:00.007635+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:40.752297+00:00"
     },
     "10.1128/jb.182.24.7029-7034.2000": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:51:00.302624+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:41.075185+00:00"
     },
     "10.1128/aem.66.10.4497-4502.2000": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:51:00.608950+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:41.381050+00:00"
     },
     "10.1128/aem.66.9.3939-3944.2000": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:51:00.920672+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:41.668837+00:00"
     },
     "10.1128/aem.66.1.413-418.2000": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:51:01.215693+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:41.977621+00:00"
     },
     "10.1073/pnas.95.2.455": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:51:01.523669+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:42.280238+00:00"
     },
     "10.1021/acschembio.6c00682": {
       "status": "no_repository_media",
@@ -4221,8 +4236,8 @@
     },
     "10.1128/aem.01981-20": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:51:01.842531+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:42.567486+00:00"
     },
     "10.1002/cbic.201800817": {
       "status": "no_repository_media",
@@ -4251,8 +4266,8 @@
     },
     "10.1016/j.molonc.2015.03.003": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:51:02.123005+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:42.878663+00:00"
     },
     "10.1038/s41467-025-57589-w": {
       "status": "no_graphic_detected",
@@ -4281,8 +4296,8 @@
     },
     "10.1631/jzus.b2600331": {
       "status": "no_repository_version",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:32.440031+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:42:14.187913+00:00"
     },
     "10.1038/s41594-026-01881-w": {
       "status": "no_repository_media",
@@ -4303,6 +4318,11 @@
       "status": "no_graphic_detected",
       "checkedAt": "2026-11-13T09:43:10.910113+00:00",
       "retryAfter": "2026-12-13T09:43:33.220892+00:00"
+    },
+    "10.1038/s41467-026-78481-1": {
+      "status": "no_graphic_detected",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-12-19T10:42:14.187873+00:00"
     }
   },
   "rssAttempts": {},
@@ -4312,7 +4332,7 @@
       "code": "acbcct",
       "journal": "ACS chemical biology",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/acbcct/asap.xml",
         "https://pubs.acs.org/rss/acbcct/currentIssue.xml"
@@ -4323,7 +4343,7 @@
       "code": "orlef7",
       "journal": "Organic letters",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/orlef7/asap.xml",
         "https://pubs.acs.org/rss/orlef7/currentIssue.xml"
@@ -4334,7 +4354,7 @@
       "code": "jacsat",
       "journal": "Journal of the American Chemical Society",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jacsat/asap.xml",
         "https://pubs.acs.org/rss/jacsat/currentIssue.xml"
@@ -4345,7 +4365,7 @@
       "code": "chreay",
       "journal": "Chemical reviews",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/chreay/asap.xml",
         "https://pubs.acs.org/rss/chreay/currentIssue.xml"
@@ -4356,7 +4376,7 @@
       "code": "asbcd6",
       "journal": "ACS synthetic biology",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/asbcd6/asap.xml",
         "https://pubs.acs.org/rss/asbcd6/currentIssue.xml"
@@ -4367,7 +4387,7 @@
       "code": "acscii",
       "journal": "ACS central science",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/acscii/asap.xml",
         "https://pubs.acs.org/rss/acscii/currentIssue.xml"
@@ -4378,7 +4398,7 @@
       "code": "bcches",
       "journal": "Bioconjugate chemistry",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/bcches/asap.xml",
         "https://pubs.acs.org/rss/bcches/currentIssue.xml"
@@ -4389,7 +4409,7 @@
       "code": "bichaw",
       "journal": "Biochemistry",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/bichaw/asap.xml",
         "https://pubs.acs.org/rss/bichaw/currentIssue.xml"
@@ -4400,7 +4420,7 @@
       "code": "achre4",
       "journal": "Accounts of chemical research",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/achre4/asap.xml",
         "https://pubs.acs.org/rss/achre4/currentIssue.xml"
@@ -4411,7 +4431,7 @@
       "code": "amclct",
       "journal": "ACS medicinal chemistry letters",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/amclct/asap.xml",
         "https://pubs.acs.org/rss/amclct/currentIssue.xml"
@@ -4422,7 +4442,7 @@
       "code": "jaaucr",
       "journal": "JACS Au",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jaaucr/asap.xml",
         "https://pubs.acs.org/rss/jaaucr/currentIssue.xml"
@@ -4433,7 +4453,7 @@
       "code": "accacs",
       "journal": "ACS catalysis",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/accacs/asap.xml",
         "https://pubs.acs.org/rss/accacs/currentIssue.xml"
@@ -4444,7 +4464,7 @@
       "code": "inocaj",
       "journal": "Inorganic chemistry",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/inocaj/asap.xml",
         "https://pubs.acs.org/rss/inocaj/currentIssue.xml"
@@ -4455,7 +4475,7 @@
       "code": "jpclcd",
       "journal": "The journal of physical chemistry letters",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jpclcd/asap.xml",
         "https://pubs.acs.org/rss/jpclcd/currentIssue.xml"
@@ -4466,7 +4486,7 @@
       "code": "jctcce",
       "journal": "Journal of chemical theory and computation",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jctcce/asap.xml",
         "https://pubs.acs.org/rss/jctcce/currentIssue.xml"
@@ -4477,7 +4497,7 @@
       "code": "jcisd8",
       "journal": "Journal of chemical information and modeling",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jcisd8/asap.xml",
         "https://pubs.acs.org/rss/jcisd8/currentIssue.xml"
@@ -4488,7 +4508,7 @@
       "code": "jpcbfk",
       "journal": "The journal of physical chemistry. B",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jpcbfk/asap.xml",
         "https://pubs.acs.org/rss/jpcbfk/currentIssue.xml"
@@ -4499,7 +4519,7 @@
       "code": "jpcafh",
       "journal": "The journal of physical chemistry. A",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jpcafh/asap.xml",
         "https://pubs.acs.org/rss/jpcafh/currentIssue.xml"
@@ -4510,7 +4530,7 @@
       "code": "jprobs",
       "journal": "Journal of proteome research",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jprobs/asap.xml",
         "https://pubs.acs.org/rss/jprobs/currentIssue.xml"
@@ -4521,7 +4541,7 @@
       "code": "acsodf",
       "journal": "ACS omega",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/acsodf/asap.xml",
         "https://pubs.acs.org/rss/acsodf/currentIssue.xml"
@@ -4532,7 +4552,7 @@
       "code": "jafcau",
       "journal": "Journal of agricultural and food chemistry",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jafcau/asap.xml",
         "https://pubs.acs.org/rss/jafcau/currentIssue.xml"
@@ -4543,7 +4563,7 @@
       "code": "ancham",
       "journal": "Analytical chemistry",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/ancham/asap.xml",
         "https://pubs.acs.org/rss/ancham/currentIssue.xml"
@@ -4554,7 +4574,7 @@
       "code": "bomaf6",
       "journal": "Biomacromolecules",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/bomaf6/asap.xml",
         "https://pubs.acs.org/rss/bomaf6/currentIssue.xml"
@@ -4565,7 +4585,7 @@
       "code": "esthag",
       "journal": "Environmental science & technology",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/esthag/asap.xml",
         "https://pubs.acs.org/rss/esthag/currentIssue.xml"
@@ -4582,7 +4602,7 @@
       "code": "nalefd",
       "journal": "Nano letters",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/nalefd/asap.xml",
         "https://pubs.acs.org/rss/nalefd/currentIssue.xml"
@@ -4593,7 +4613,7 @@
       "code": "ascefj",
       "journal": "ACS sensors",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/ascefj/asap.xml",
         "https://pubs.acs.org/rss/ascefj/currentIssue.xml"
@@ -4604,7 +4624,7 @@
       "code": "aamick",
       "journal": "ACS applied materials & interfaces",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/aamick/asap.xml",
         "https://pubs.acs.org/rss/aamick/currentIssue.xml"
@@ -4615,7 +4635,7 @@
       "code": "jmcmar",
       "journal": "Journal of medicinal chemistry",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jmcmar/asap.xml",
         "https://pubs.acs.org/rss/jmcmar/currentIssue.xml"
@@ -4632,7 +4652,7 @@
       "code": "aidcbc",
       "journal": "ACS infectious diseases",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/aidcbc/asap.xml",
         "https://pubs.acs.org/rss/aidcbc/currentIssue.xml"
@@ -4643,7 +4663,7 @@
       "code": "ancac3",
       "journal": "ACS nano",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/ancac3/asap.xml",
         "https://pubs.acs.org/rss/ancac3/currentIssue.xml"
@@ -4654,7 +4674,7 @@
       "code": "jnprdf",
       "journal": "Journal of natural products",
       "registrySource": "https://pubs.acs.org/pages/rss",
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "feeds": [
         "https://pubs.acs.org/rss/jnprdf/asap.xml",
         "https://pubs.acs.org/rss/jnprdf/currentIssue.xml"
@@ -4663,8 +4683,8 @@
     "journaloftheamericansocietyformassspectrometry": {
       "status": "no_current_journal_path",
       "metadataSource": "https://api.crossref.org/works/10.1021%2Fjasms.5c00287",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:11.641635+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:41:51.764741+00:00"
     },
     "chemicalbiomedicalimaging": {
       "status": "ok",
@@ -4682,344 +4702,347 @@
     "organicprocessresearchdevelopment": {
       "status": "no_current_journal_path",
       "metadataSource": "https://api.crossref.org/works/10.1021%2Facs.oprd.5c00488",
-      "checkedAt": "2026-11-16T09:50:11.322979+00:00",
-      "retryAfter": "2026-11-19T09:50:12.720906+00:00"
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "retryAfter": "2026-11-22T10:41:52.966009+00:00"
     }
   },
   "feeds": {
     "https://pubs.acs.org/rss/acbcct/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 3
     },
     "https://pubs.acs.org/rss/acbcct/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 27
     },
     "https://pubs.acs.org/rss/acsodf/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 28
+      "entries": 34
     },
     "https://pubs.acs.org/rss/acsodf/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 106
     },
     "https://pubs.acs.org/rss/inocaj/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 6
+      "entries": 14
     },
     "https://pubs.acs.org/rss/inocaj/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 50
     },
     "https://pubs.acs.org/rss/jctcce/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 4
+      "entries": 5
     },
     "https://pubs.acs.org/rss/jctcce/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 47
     },
     "https://pubs.acs.org/rss/jprobs/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 2
+      "entries": 7
     },
     "https://pubs.acs.org/rss/jprobs/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 68
     },
     "https://pubs.acs.org/rss/aamick/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 20
+      "entries": 31
     },
     "https://pubs.acs.org/rss/aamick/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 36
+      "entries": 91
     },
     "https://pubs.acs.org/rss/accacs/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 14
+      "entries": 15
     },
     "https://pubs.acs.org/rss/accacs/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 123
     },
     "https://pubs.acs.org/rss/achre4/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 2
+      "entries": 3
     },
     "https://pubs.acs.org/rss/achre4/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 15
     },
     "https://pubs.acs.org/rss/acscii/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 3
+      "entries": 2
     },
     "https://pubs.acs.org/rss/acscii/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 15
     },
     "https://pubs.acs.org/rss/aidcbc/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 2
     },
     "https://pubs.acs.org/rss/aidcbc/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 23
     },
     "https://pubs.acs.org/rss/amclct/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 2
     },
     "https://pubs.acs.org/rss/amclct/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 35
     },
     "https://pubs.acs.org/rss/ancac3/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 7
+      "entries": 9
     },
     "https://pubs.acs.org/rss/ancac3/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 50
     },
     "https://pubs.acs.org/rss/ancham/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 13
+      "entries": 8
     },
     "https://pubs.acs.org/rss/ancham/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 135
     },
     "https://pubs.acs.org/rss/asbcd6/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 3
+      "entries": 4
     },
     "https://pubs.acs.org/rss/asbcd6/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 41
     },
     "https://pubs.acs.org/rss/ascefj/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 4
+      "entries": 6
     },
     "https://pubs.acs.org/rss/ascefj/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 81
     },
     "https://pubs.acs.org/rss/bcches/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 3
+      "entries": 2
     },
     "https://pubs.acs.org/rss/bcches/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 20
     },
     "https://pubs.acs.org/rss/bichaw/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 2
+      "entries": 3
     },
     "https://pubs.acs.org/rss/bichaw/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 12
     },
     "https://pubs.acs.org/rss/bomaf6/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 2
+      "entries": 6
     },
     "https://pubs.acs.org/rss/bomaf6/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 61
     },
     "https://pubs.acs.org/rss/chreay/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 2
+      "entries": 3
     },
     "https://pubs.acs.org/rss/chreay/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 10
     },
     "https://pubs.acs.org/rss/esthag/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 8
+      "entries": 17
     },
     "https://pubs.acs.org/rss/esthag/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 53
     },
     "https://pubs.acs.org/rss/jaaucr/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 4
+      "entries": 3
     },
     "https://pubs.acs.org/rss/jaaucr/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 41
     },
     "https://pubs.acs.org/rss/jacsat/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 17
+      "entries": 20
     },
     "https://pubs.acs.org/rss/jacsat/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 93
+      "entries": 116
     },
     "https://pubs.acs.org/rss/jafcau/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 6
+      "entries": 11
     },
     "https://pubs.acs.org/rss/jafcau/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 43
+      "entries": 55
     },
     "https://pubs.acs.org/rss/jcisd8/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 5
+      "entries": 8
     },
     "https://pubs.acs.org/rss/jcisd8/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 37
     },
     "https://pubs.acs.org/rss/jmcmar/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 3
+      "entries": 5
     },
     "https://pubs.acs.org/rss/jmcmar/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 89
     },
     "https://pubs.acs.org/rss/jnprdf/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 2
+      "entries": 1
     },
     "https://pubs.acs.org/rss/jnprdf/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 30
     },
     "https://pubs.acs.org/rss/jpcafh/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 5
     },
     "https://pubs.acs.org/rss/jpcafh/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 18
     },
     "https://pubs.acs.org/rss/jpcbfk/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 3
+      "entries": 8
     },
     "https://pubs.acs.org/rss/jpcbfk/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 24
     },
     "https://pubs.acs.org/rss/jpclcd/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
-      "entries": 7
+      "entries": 4
     },
     "https://pubs.acs.org/rss/jpclcd/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 36
     },
     "https://pubs.acs.org/rss/nalefd/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
-      "status": "ok",
-      "entries": 8
-    },
-    "https://pubs.acs.org/rss/nalefd/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
-      "status": "ok",
-      "entries": 35
-    },
-    "https://pubs.acs.org/rss/orlef7/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 7
     },
+    "https://pubs.acs.org/rss/nalefd/currentIssue.xml": {
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "status": "ok",
+      "entries": 52
+    },
+    "https://pubs.acs.org/rss/orlef7/asap.xml": {
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
+      "status": "ok",
+      "entries": 9
+    },
     "https://pubs.acs.org/rss/orlef7/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 0
     },
     "https://pubs.acs.org/rss/cbihbp/asap.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 1
     },
     "https://pubs.acs.org/rss/cbihbp/currentIssue.xml": {
-      "checkedAt": "2026-11-18T10:18:28.350699+00:00",
+      "checkedAt": "2026-11-19T10:41:51.553526+00:00",
       "status": "ok",
       "entries": 20
     }
   },
   "summary": {
-    "updated": "2026-11-18T10:18:28.350699+00:00",
-    "cachedFigures": 44,
+    "updated": "2026-11-19T10:41:51.553526+00:00",
+    "cachedFigures": 45,
     "run": {
       "feedsRead": 64,
-      "rssMatches": 7,
-      "cachedImages": 7
+      "rssMatches": 8,
+      "cachedImages": 7,
+      "rssImages": 1,
+      "no_graphic_detected": 1,
+      "no_repository_version": 100
     },
     "addedImages": 3,
     "upgradedToAbstract": 0,
     "providers": {
-      "publisher-rss": 8,
+      "publisher-rss": 9,
       "pmc-cloud": 36
     },
     "policy": "Only exact DOI matches in the fixed-ORCID catalog; no UI or browser sessions"
