@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "updated": "2026-11-27T10:59:25.846451+00:00",
+  "updated": "2026-11-28T10:28:46.089910+00:00",
   "scholars": {
     "abhishek-chatterjee": {
       "orcid": "0000-0002-6231-5302",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -186,13 +186,13 @@
           "onlinePublicationDate": "2025-11-14",
           "printPublicationDate": "2025-11-26",
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/APXyLQfEyEgXoPzaTpkWyJYZRPe4EGn4LGtuG9_9BSfKs_oLk7sPqTkDxcXl6qmR-j9VQNs8S_R7pcHsayzZIYUrmaUMFIUVFWnJLeoWi-Fbq3juZcqZqls-nzj6DD2F0HhNI30Vh_pKcG6rjL4eAvDo8v2gaNxqQ7Zj3A49LgV-jMNGuLZv48N-3gBKSDS13yGat29gZvtBnx8ruQDE_U0Ol_e3nU_-fw6niKt4Aokp=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/APXyLQcCcXBqbWq9MVFSasjlI7RoKPYIe_u_n1J7IEjMySb7mYa7pHW5FX1VeocNC2tJlTJw6ovZDaNJwGOr-S2i9BJMNPIPUNhFBXAsC2lJKHC2P0S3suqZm4cnXAA4Q6n6YyvaIdSvqJAeEXw5_nl_PqiJqfPQ-wrOFug6Yk5JAblSRKYIbhy08qfHvGm8OVctgpnk0dTxto2-oAxWdt5oNE0iRbvMidjlFtmWcngM=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-11-26T11:01:27.923422+00:00"
+            "checkedAt": "2026-11-27T11:00:05.651158+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -465,13 +465,13 @@
           "onlinePublicationDate": "2026-02-27",
           "printPublicationDate": "2026-03-11",
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/APXyLQfs9k5JsqebjkHvVQFuXAxcKNZUTlsWAZ5hQBkEwWSL70e3LWJp6Mn9x97i2Muec17jcA84gGr1rjeVH-zz1bx0gup66JBgbiKkqTVh1Y6mzFKcFs0UOBk8gpXKvWLQ1dpz2fuQ5xS_HpXNU0is9nuBgEbZn5wRcYK9X6V7W1lcZ6uSME9SnloYl1h9si1uV8RWmwi80pGd_N2CMJpE0kPNf-1TeyP_405rcKStfJY=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/APXyLQf7tDxPbOp77PGAUwnrni4AIryRawSoufT83MvFTajjvCg391v2XZquIGX5VMB_Q0vk-SXk5HwZW-kXTXq23IObk3GELPNC0_icfvgRL31FOYJsn9Vabt8ss3CTcSWWggMbBXFB85Tsc0ThK4cjacUU_z6hfBDOPMn4RURPkIjahsI9Ix5QyMjS1h31CS-5dTDC7xxBST3twltvO5X5N8IIWvRn2ywrvtMEFQjKxT0=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-11-26T11:01:27.923422+00:00"
+            "checkedAt": "2026-11-27T11:00:05.651158+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -549,13 +549,13 @@
           "onlinePublicationDate": "2026-04-14",
           "printPublicationDate": "2026-04-24",
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/APXyLQfd-iS9AYyQLhcZpyyZgsk49OdyUh2YRNWePFw975q2lN4SzlH6irnpYLjQHCmBBt6S3l4OiKCERpfZFrEEWnB4HtLrr5MJf_lUFMegIvx9p5fEn9h_XDCv-vQVll_NIzC3AjLCHqB28E86OJjrzua1TR5zMb3g9SkURpe8Cf5S8b1kqkEYwTrGHxA-JMmI1qwP9b51ebHRqy9f956lhfPygAl8iyGN7WcmpoZJ6dA=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/APXyLQeDFXdTY10UWLIjwsUg-3U9T4pEKJ4AEfgGk1HzvxxVf2cUnlXeTfteZ7l1_6FAP_80KU4m7YdyrZyO-Iqax5RtAWAcI5XP1jgwJap27R79d1RnxiLPL3xZPNVCOue19r_GlcfQN0Wb1KAsEZ8BbeuJkCEFVMMT0O-L-fsZFyZSFKSClO1VYkiHRm8ma5DhQB5yDeboMA88_XV7lkA5eCIkfQ2L7VaLcy04YyHn8YM=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-11-26T11:01:27.923422+00:00"
+            "checkedAt": "2026-11-27T11:00:05.651158+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -739,13 +739,13 @@
             "checkedAt": "2026-10-27T14:31:34.388959+00:00"
           },
           "fallbackFigure": {
-            "url": "https://sites.google.com/sitesv-images-rt/APXyLQcfl57O5H9Rfo8WwI-PTyv4MG0IX9nkeG3_6bjC7iEmNPo1mJ8Sxbhuz1-uW0qrU2NoFpojintAemgMORJ6w6woPfRxLTGXr3aymocCRP-sQcxyTtnDsJ2lH83Z7Hlx4p8YaKA7feRRrYhQ0U8LkBLj9OZZm39tZBvYlmlYzWxcnSflHqWIy0JJPfjVUPqpp9RW3GOOeEl9mEVBTn0dwdqUS-mrVBV-HIf_0YOCN7o=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/APXyLQek3ZMdoMbP1Wi-TtdqRFuxkwfZ4W36agb6aerW4c2j6WexVzl_tV8y9cVEonfDEWcAtH-5rP5qvd4FrWVDTyYgxkJx-LlHnNbkcsQdKnJqysWpIjlBWJOix1JunzZ-1a5_n-DYVBPVbxYp4KEmvSqZYEyuARF8urS1uG7RYS7v1up4jckVqLMzks0hiT4K00ccgwsZ_x3IzwaHvd9xPtqVw6r5Ov_fj7zlJwSzTVM=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-11-26T11:01:27.923422+00:00"
+            "checkedAt": "2026-11-27T11:00:05.651158+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -803,13 +803,13 @@
           "onlinePublicationDate": "2026-09-24",
           "printPublicationDate": "",
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/APXyLQfqo76EmH36ZGnsNMmm7PsRN-p-nZulQjt4DBI9q0NFXAYJ891aqq8cbjMwtgOtwv9jhgd5HxP8wkN9n210hmAoHNSewv81cvJLPIZT89eZGgxPX2AqUx5LC-fF7_dnjqqY0mcRD1tLNrJUMh5jYEYE5hykgFqLWDODA566_4nQkDjkE7k_fM1SllIJwu8qZmZOAb54JApWtWwYjCdG4fR_hUHQC1M-r7_omJwOtQo=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/APXyLQeP4toUE0BRM00wJbDcghWZ6AdrVPn9qcoPMpVphu9rAM4EBXX6vpF5_3ie__81OCLUmAdxzWYWCpjs-l_7moPg1EF9ioUUqTO0c_lPQ-B4pWOvm6jDWF6h2OOb10L3mUOjAJ1mxoapgMeobqFvv_6l46wNd180tx1kwmygoQHixd8-wInELIO09viumUc103JXj7OaPxYt2LZgNnYJ0OG7n_aNmXc11N9pRGuaB9o=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/a/bc.edu/thechatterjeelab/papers",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-11-26T11:01:27.923422+00:00"
+            "checkedAt": "2026-11-27T11:00:05.651158+00:00"
           },
           "labSources": [
             "https://sites.google.com/a/bc.edu/thechatterjeelab/papers"
@@ -871,9 +871,9 @@
     },
     "ahmed-badran": {
       "orcid": "0000-0002-8105-1883",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -986,9 +986,9 @@
     },
     "bryan-dickinson": {
       "orcid": "0000-0002-9616-1911",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -1877,9 +1877,9 @@
     },
     "chang-liu": {
       "orcid": "0000-0002-3290-2880",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -2287,9 +2287,9 @@
     },
     "gerard-roelfes": {
       "orcid": "0000-0002-0364-9564",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -2461,13 +2461,13 @@
           "onlinePublicationDate": "2026-09-10",
           "printPublicationDate": "2026-09-23",
           "figure": {
-            "url": "https://sites.google.com/sitesv-images-rt/APXyLQdmbZdg1vDAtg2VomBv8Cw9zcflObiJsh_qMU1LQ_9dtLGC7n1Ae57NqMWeBAFjjLwKdd1fV5d708hc1zrvhuaMfA5saFJdPU6M4H0vCR2kLID18L5SLEVpis7dkS7qX602k-9hN_Bvx4CH6BnMCmM_YXNbeTeo6xFxoNhZAFvT7f3vhf8H_gkIJdGli8KgO1JL-DnmiVNLm0p-MiZ7jFHbLQP_CCGIRY9EeRJu=w1280",
+            "url": "https://sites.google.com/sitesv-images-rt/APXyLQfvvyc1gbulCmPhzNSi0G7g9JTY9AkzhexmKrU0JrUincsIgrlBwhluOlJMNKSNBPBHsSIQYXudQIXXr7jeJyJaYMQ62uq-zso0E5ugN4H6hcJJNqEP_8jLcFx8uxRvE6NFNOd1RAwH71XcCogH2WfDpnLMMz3dujXGoiLWZBLgYzfPguNw4vK17fvbvJIr4os7mOURu-CCZu_clrP_uBFi_PBNjS2Ie6x3V1Mq=w1280",
             "kind": "课题组配图",
             "caption": "课题组发表清单中与该 DOI 对应的配图。",
             "source": "https://sites.google.com/rug.nl/roelfesgroup/publications",
             "provider": "lab",
             "match": "exact-doi",
-            "checkedAt": "2026-11-26T11:01:27.923422+00:00"
+            "checkedAt": "2026-11-27T11:00:05.651158+00:00"
           },
           "labSources": [
             "https://sites.google.com/rug.nl/roelfesgroup/publications"
@@ -2477,9 +2477,9 @@
     },
     "haifeng-ye": {
       "orcid": "0000-0002-5482-8116",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -3054,9 +3054,9 @@
     },
     "haiyan-liu": {
       "orcid": "0000-0002-5926-820X",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -3443,9 +3443,9 @@
     },
     "jason-chin": {
       "orcid": "0000-0003-1219-4757",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -3586,7 +3586,7 @@
           "oa": false,
           "pmcid": "",
           "license": "",
-          "citations": 7,
+          "citations": 8,
           "url": "https://doi.org/10.1038/s41587-025-02944-x",
           "metadataSource": "crossref",
           "metadataURL": "https://api.crossref.org/works/10.1038/s41587-025-02944-x",
@@ -3602,9 +3602,9 @@
     },
     "jay-keasling": {
       "orcid": "0000-0003-4170-6088",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -6149,7 +6149,7 @@
           "oa": false,
           "pmcid": "",
           "license": "",
-          "citations": 1,
+          "citations": 2,
           "url": "https://doi.org/10.1038/s41557-026-02224-4",
           "metadataSource": "crossref",
           "metadataURL": "https://api.crossref.org/works/10.1038/s41557-026-02224-4",
@@ -6674,17 +6674,17 @@
     },
     "jiangyun-wang": {
       "orcid": "0000-0002-5974-1562",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": []
     },
     "jie-wang": {
       "orcid": "0000-0001-7602-5050",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -7426,9 +7426,9 @@
     },
     "junbiao-dai": {
       "orcid": "0000-0002-5299-4700",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -7698,9 +7698,9 @@
     },
     "kathrin-lang": {
       "orcid": "0000-0002-1318-6567",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -8233,9 +8233,9 @@
     },
     "nanxi-wang": {
       "orcid": "0000-0003-2807-1487",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -8415,9 +8415,9 @@
     },
     "nediljko-budisa": {
       "orcid": "0000-0001-8437-7304",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -8668,9 +8668,9 @@
     },
     "peilong-lu": {
       "orcid": "0000-0001-5894-9268",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -9071,9 +9071,9 @@
     },
     "peng-chen": {
       "orcid": "0000-0002-0402-7417",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -9308,7 +9308,7 @@
           "oa": false,
           "pmcid": "",
           "license": "",
-          "citations": 4,
+          "citations": 5,
           "url": "https://doi.org/10.1038/s41589-025-02098-6",
           "metadataSource": "crossref",
           "metadataURL": "https://api.crossref.org/works/10.1038/s41589-025-02098-6",
@@ -10202,9 +10202,9 @@
     },
     "ryan-mehl": {
       "orcid": "0000-0003-2932-4941",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -10413,9 +10413,9 @@
     },
     "shixian-lin": {
       "orcid": "0000-0001-9718-9986",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -10972,9 +10972,9 @@
     },
     "tao-liu": {
       "orcid": "0000-0001-5347-5892",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -11917,9 +11917,9 @@
     },
     "thomas-huber": {
       "orcid": "0000-0002-3680-8699",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -12472,9 +12472,9 @@
     },
     "william-degrado": {
       "orcid": "0000-0003-4745-263X",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -13309,17 +13309,17 @@
     },
     "xiao-xie": {
       "orcid": "0009-0006-6342-2771",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": []
     },
     "xiaozhou-luo": {
       "orcid": "0000-0001-9808-6890",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -13719,9 +13719,9 @@
     },
     "yun-ge": {
       "orcid": "0000-0001-6769-5458",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -13972,9 +13972,9 @@
     },
     "yuzhou-wu": {
       "orcid": "0000-0003-3229-4982",
-      "lastAttempt": "2026-11-27T10:59:25.846451+00:00",
-      "fromDate": "2025-11-27",
-      "lastSuccess": "2026-11-27T10:59:25.846451+00:00",
+      "lastAttempt": "2026-11-28T10:28:46.089910+00:00",
+      "fromDate": "2025-11-28",
+      "lastSuccess": "2026-11-28T10:28:46.089910+00:00",
       "status": "ok",
       "papers": [
         {
@@ -14791,7 +14791,22 @@
           "datePrecision": "day",
           "dateSource": "online",
           "onlinePublicationDate": "2026-10-19",
-          "printPublicationDate": "2026-11-25"
+          "printPublicationDate": "2026-11-25",
+          "figure": {
+            "url": "assets/publisher/3cb85e1f8975ed8d5b9335b9cc558d46.png",
+            "kind": "期刊目录图",
+            "provider": "publisher-rss",
+            "source": "https://pubs.acs.org/jacsat/article/148/46/50040/5453811/Native-Mass-Spectrometry-Based-Proteoform-Explicit",
+            "feedSource": "https://pubs.acs.org/rss/jacsat/currentIssue.xml",
+            "doi": "10.1021/jacs.6c08937",
+            "match": "exact-doi",
+            "evidence": "Publisher-designated RSS article image",
+            "caption": "出版社官方 RSS 为该 DOI 提供的期刊配图。",
+            "storage": "local",
+            "publisherAsset": "https://acs.silverchair-cdn.com/acs/content_public/journal/jacsat/148/46/10.1021_jacs.6c08937/1/ja6c08937_0006.png",
+            "sha256": "3cb85e1f8975ed8d5b9335b9cc558d46668adee7a02670d725e8f30b4e4af268",
+            "checkedAt": "2026-11-26T11:10:57.320990+00:00"
+          }
         },
         {
           "id": "DOI:10.1002/anie.9814409",
